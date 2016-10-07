@@ -1,2 +1,3 @@
 # errtagging
-error tagging corpus
+the error tagging corpus for German with stats files
+

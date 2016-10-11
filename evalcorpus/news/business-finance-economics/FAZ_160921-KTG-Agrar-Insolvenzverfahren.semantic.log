@@ -1,0 +1,214 @@
+﻿[GN=NOU:"Katz-"."Katzspiel".$2300;=CON:"und"."und".#-1;=NOU:"Maus-Spiel".$2300;]
+[CL]
+[CR]
+[GN=COM:"KTG Agrar"."Agrarkonzern KTG Agrar".$104830453;]
+[PV=VER:"spielt"."spielen".#158429;]
+[GP=ADJ:"weiter"."weit".#43176;=NOU:"Verstecken".#100171957;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=NOU:"Pleite-Geschichte".$562390;]
+[GP=PRE:"um"."um".#-1;=ART:"den"."der";=COM:"Agrarkonzern KTG Agrar".$104830453;]
+[PV=VER:"wird"."werden".#167036;]
+[GN=ADV:"immer".#57736;=ADJ:"undurchsichtiger"."undurchsichtig".#29198;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=PRO:"Es"."es";=VER:"geht"."gehen".#14248;]
+[GV=ADV:"nun".#173366;=ADV:"nicht".#74226;=ADV:"nur".#66818;]
+[GP=PRE:"um"."um".#-1;=NOU:"Firmensitzverlegungen"."Firmensitzverlegung".$103806;]
+[GP=ART:"einer"."eine";=ADJ:"wichtigen"."wichtig".#109123;=NPR:"Tochergesellschaft".$222;]
+[GP=PRE:"während"."während".#-1;=ART:"der"."die";=NOU:"Ermittlungen"."Ermittlung".#14288;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";=ADJ:"insolvente"."insolvent".#25781;=COM:"Agrarkonzern KTG Agrar SE".$104830453;]
+[PV=VER:"spielt"."spielen".#158429;]
+[GN=ADV:"offenbar".#75277;=ADJ:"weiter"."weit".#30148;=NOU:"Katz".#100000146;]
+[CN=CON:"und"."und".#-1;]
+[GP=GEO:"Maus"."Mau".#11256473;]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."die";=NOU:"Justiz".#59846;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Inmitten"."inmitten";=ART:"dem"."der";=ADJ:"laufenden"."laufend".#173712;=NOU:"Insolvenzverfahren".#498121;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"auch".#23235;]
+[GP=PRE:"von"."von".#-1;=NOU:"Ermittlungen"."Ermittlung".#14288;]
+[GP=ART:"der"."die";=NOU:"Staatsanwaltschaft".#92564;]
+[GP=PRE:"gegen"."gegen".#-1;=ART:"den"."der";=NOU:"Gründer".#117244;]
+[CN=CON:"und"."und".#-1;]
+[GP=ADJ:"langjährigen"."langjährig".#20464;=NOU:"Vorstandsvorsitzenden"."Vorstandsvorsitzende".#106561;=NPH:"Siegfried Hofreiter".$100215627;]
+[PV=VER:"verlegte"."verlegen".#164473;]
+[GN=ART:"der"."der".#-1;=NOU:"Konzern".#104830453;]
+[GA=ADV:"nun".#173366;=ADJ:"klammheimlich".#47122;]
+[GN=ART:"den"."der";=NOU:"Firmensitz".#43009;]
+[GP=ART:"einer"."eine";=ADJ:"wichtigen"."wichtig".#109123;=NOU:"Tochtergesellschaft".#97168;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=PRO:"Es"."es";=VER:"handelt"."handeln".#15327;=PRO:"sich"."er";]
+[GP=PRE:"um"."um".#-1;=ART:"das"."das".#-1;=NPR:"KTK Getreidelager"."KTK Getreidelager".#-1;]
+[??=PNT:"-"."-".#-1;]
+[GV=ADV:"mutmaßlich".#155359;]
+[GN=ART:"die"."die".#-1;=ADJ:"entscheidende"."entscheidend".#24830;=NOU:"Finanzdrehscheibe".$101128390;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"an"."an".#-1;=ART:"die"."die".#-1;=COM:"KTG"."Agrarkonzern KTG Agrar".$104830453;]
+[GV=ADV:"etwa".#100886;]
+[GN=NOU:"Getreide".#4096;]
+[GP=PRE:"zu"."zu".#-1;=NOU:"hohen Preisen"."hoher Preis".#14506;]
+[PV=VER:"verkaufte"."verkaufen".#15283;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=ADJ:"berichtete"."berichtet".#596819;]
+[GN=PRO:"eine"."ein";]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."die";=NOU:"Angelegenheit".#562390;]
+[PV=VER:"vertraute"."vertrauen".#14602;]
+[GN=NOU:"Person".#100215627;]
+[GP=ADJ:"dieser"."dies";=NOU:"Zeitung".#100011032;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Ein"."ein";=NOU:"Handelsregisterauszug".$127107;]
+[PV=VER:"bestätigt"."bestätigen".#14450;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GP=PRE:"am"."an";=DAT:"1. September"."Sep-1".$100205892;]
+[GN=ART:"der"."der".#-1;=NOU:"Firmensitz".#43009;]
+[GN=ART:"der"."der".#-1;=COM:"KTK"."KTK Getreidehandels AG".$104830453;]
+[GP=PRE:"von"."von".#-1;=GEO:"Hamburg".#12897342;]
+[GP=PNT:""".""".#-1;=PRE:"nach".#562278;=NOU:"Stendal"."Stendal".#-1;]
+[PV=VER:"verlegt"."verlegen".#164473;=PNT:""".""".#-1;]
+[PV=VER:"wurde"."werden".#14301;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GA=ADJ:"Erst"."tag_numero";]
+[GP=PRE:"vor".#596945;=ADJ:"wenigen"."wenig".#118578;=NOU:"Tagen"."Tag".#105019497;]
+[PV=VER:"hatte"."haben";]
+[GN=ART:"der"."der".#-1;=NOU:"Verkauf".#103380760;]
+[GP=ART:"des"."der";=COM:"Agrar"."Agrarkonzern KTG Agrar".$104830453;=PNT:"-"."-".#-1;=NOU:"Standorts"."Standort".#46065;=GEA:"Quesitz".$482;]
+[GP=ART:"der"."die";=COM:"KTG Agrar"."Agrarkonzern KTG Agrar".$104830453;]
+[GP=PRE:"an"."an".#-1;=ART:"eine"."ein";=PNT:""".""".#-1;=ADJ:"aptus"."aptus".#-1;=ADJ:"1113"."1113".#-1;=NOU:"GmbH"."gmbh".#49540;=PNT:""".""".#-1;=NOU:"Aufsehen".#100080948;]
+[PV=VER:"erregt"."erregen".#134573;]
+[??=PNT:":".":".#-1;]
+[GN=ADJ:"diese"."dies";=NOU:"Firma".#104830453;]
+[PN=VER:"war"."sein".#12562;]
+[GN=ADJ:"erst"."tag_numero";=NOU:"Ende".#16627;=NOU:"Juli".#100000121;]
+[CN=CON:"und"."und".#-1;]
+[CN=CON:"damit"."damit".#-1;]
+[GN=MEA:"drei Wochen"."3 Woche".$980;]
+[GP=PRE:"nach".#562278;=ART:"dem"."der";=NOU:"Insolvenzantrag".#568551;]
+[GN=ART:"der"."der".#-1;=COM:"KTG"."Agrarkonzern KTG Agrar".$104830453;]
+[PN=ADJ:"gegründet".#596833;]
+[PV=VER:"worden"."werden".#140981;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Geschäftsführer".#5129;]
+[GP=ADJ:"dieser"."dies";=ADJ:"neuen"."neu".#149884;=NOU:"Gesellschaft".#100008425;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Gesellschaft".#100008425;]
+[GN=ADV:"offenbar".#75277;=ADV:"noch".#74484;=ADJ:"keine"."kein";=NPR:"Geschäftstätgikeiten"."Geschäftstätgikeiten".#-1;]
+[PV=VER:"hatte"."haben".#12561;]
+[??=PNT:",".",".#-1;]
+[PN=VER:"war"."sein".#12562;]
+[GP=PRE:"zunächst"."zunächst".#-1;=NPH:"Felix Ernst Neukamp".$100215627;]
+[??=PNT:"-"."-".#-1;]
+[GP=PRE:"von"."von".#-1;=NOU:"Ende".#12332;=DAT:"2011".$100205892;=PRE:"bis"."bis".#-1;=NOU:"Ende".#12332;=DAT:"August 2016"."Aug-2016".$100205892;]
+[GN=NOU:"Vorstandsmitglied".#106557;]
+[GV=ADV:"eben".#106298;]
+[GN=ART:"der"."der".#-1;=COM:"KTK Getreidehandels GmbH".$104830453;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=COM:"KTK"."KTK Getreidehandels AG".$104830453;]
+[PN=VER:"ist"."sein".#12562;]
+[GP=PRE:"bei"."bei".#-1;=ART:"der"."die";=NOU:"Muttergesellschaft".#8214;=COM:"KTG Agrar"."Agrarkonzern KTG Agrar".$104830453;]
+[GP=PRE:"mit"."mit".#-1;=ADV:"rund".#100886;=MON:"83 Millionen Euro"."83.000.000 Euro".$100004916;]
+[PN=ADJ:"verschuldet".#88125;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=ADJ:"letzten"."letzte".#106302;=NOU:"Jahresabschluss".#118355318;]
+[GN=ART:"der"."der".#-1;=COM:"KTG"."Agrarkonzern KTG Agrar".$104830453;]
+[PN=VER:"war"."sein".#12562;=ADJ:"allein".#20202;]
+[GN=ART:"eine"."ein";=NOU:"Forderung".#28977;]
+[GP=PRE:"an"."an".#-1;=ADJ:"diese"."dies";=NOU:"Gesellschaft".#100008425;]
+[GV=ADV:"über".#98894;]
+[GV=ADV:"rund".#100886;]
+[GN=MON:"52 Millionen Euro"."52.000.000 Euro".$100004916;]
+[PN=ADJ:"gelistet".#597030;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"eine"."ein";=ADJ:"weitere"."weit".#30148;]
+[GP=PRE:"über".#98894;=MON:"13 Millionen Euro"."13.000.000 Euro".$100004916;]
+[GP=PRE:"an"."an".#-1;=ART:"eine"."ein";=ADJ:"täuschend".#96110;=ADJ:"ähnlich".#19819;=ADJ:"benannte"."benannt".#588765;=PNT:""".""".#-1;=COM:"KTK Getreidehandels AG".$104830453;=PNT:""".""".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"An"."an";=ART:"die"."die".#-1;=COM:"KTK"."KTK Getreidehandels AG".$104830453;]
+[PV=VER:"sei"."sein";]
+[GN=PNT:""".""".#-1;=ART:"die"."die".#-1;=NOU:"Ernte".#4953;]
+[GP=PRE:"zu"."zu".#-1;=NOU:"überteuerten"."überteuerten".#-1;=NOU:"Preisen"."Preis".#100160151;]
+[PV=VER:"verkauft"."verkaufen".#15283;=PNT:""".""".#-1;]
+[PV=VER:"worden"."werden".#14301;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"hatte"."haben";]
+[GN=ART:"ein"."ein".#-1;=NOU:"Insider".#36498;]
+[GP=ADJ:"dieser"."dies";=NOU:"Zeitung".#100011032;]
+[PV=VER:"berichtet"."berichten".#13686;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=ADJ:"letzte".#106302;=NOU:"Jahresabschluss".#118355318;]
+[GR=PRO:"des"."der";]
+[PN=ADJ:"insolventen"."insolvent".#25781;=COM:"Agrarkonzerns KTG Agrar SE".$104830453;]
+[GP=PRE:"für"."für".#-1;=DAT:"2015".$100205892;]
+[PN=VER:"war"."sein".#12562;]
+[GN=ADJ:"voller"."voll".#120598;=NOU:"Fehler".#2013;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"In"."in";=ART:"der"."die";=ADJ:"vergangenen"."vergangen".#106302;=NOU:"Woche".#980;]
+[PV=VER:"hatten"."haben";]
+[GN=ART:"die"."die".#-1;=ADJ:"verantwortlichen"."verantwortlich".#102629;=NOU:"Wirtschaftsprüfer".#109722;]
+[GN=ADV:"nachträglich".#596440;=ADJ:"ihr"."ihr".#-1;=NOU:"Testat".#116861606;]
+[GP=PRE:"für"."für".#-1;=ART:"den"."der";=ADJ:"letzten"."letzte".#106302;=NOU:"Jahresabschluss".#118355318;]
+[PV=VER:"zurückgezogen"."zurückziehen".#168821;]
+[??=PNT:".".".".#-1;]
+
+SBJ=2:3;SBJ=6:8;CPL=9:8;SBJ=18:19;OBJ=20:19;SBJ=18:33;OBJ=36:33;SBJ=43:49;OBJ=47:49;TRM=48:49;SBJ=51:54;SBJ=52:54;OBJ=32:54;SBJ=59:60;SBJ=36:68;OBJ=65:68;SBJ=74:78;SBJ=74:81;CPL=82:81;SBJ=76:88;SBJ=74:89;APH=94:92;SBJ=92:96;OBJ=95:96;SBJ=102:98;CPL=104:98;SBJ=107:111;CPL=116:115;SBJ=114:120;SBJ=129:131;SBJ=135:137;SBJ=139:141;CPL=140:143;SBJ=149:151;OBJ=148:151;APH=34:18;APH=55:32;APH=64:36;APH=80:76;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Disambiguation	0	10	10	NOU		Maus-Spiel	2300	True	0				 	
+Wrong Recognition	1	38	6	ADJ	weit	weiter	43176	False	0		weiter		 	
+Wrong Disambiguation	0	108	4	VER	werden	wird	167036	False	0				 	14301
+Wrong Disambiguation	1	113	5	ADV		immer	57736	False	0				 	142692
+Wrong Disambiguation	1	140	4	VER	gehen	geht	14248	False	0				 	
+Missing Concept	1	162	21	NOU	Firmensitzverlegung	Firmensitzverlegungen	103806	True	0				 	
+Wrong Disambiguation	1	200	18	NPR	Tochergesellschaft	Tochergesellschaft	-1	False	0				 	
+Missing Concept	1	286	6	VER	spielen	spielt	158429	False	0		Katz und Maus spielen		 	117347
+Wrong Recognition	1	302	6	ADJ	weit	weiter	30148	False	0		weiter	ADV	 	
+Wrong Recognition	2	318	4	GEO	Mau	Maus	11256473	False	0				 	
+Wrong Disambiguation	1	352	9	ADJ	laufend	laufenden	173712	False	0				 	66449
+Wrong Entity Type	0	621	17	NPR	KTK Getreidelager	KTK Getreidelager	-1	False	0				 	
+Wrong Disambiguation	1	670	17	NOU		Finanzdrehscheibe	101128390	True	0				 	498895
+Wrong Grammar	1	692	3	ART	die	die	-1	False	0				 	
+Wrong Disambiguation	0	700	4	ADV		etwa	100886	False	0				 	26861
+Wrong Recognition	1	717	13	NOU	hoher Preis	hohen Preisen	14506	False	0				 	
+Wrong Grammar	1	757	4	PRO	ein	eine		False	0				 	
+Missing Concept	1	784	9	VER	vertrauen	vertraute	14602	False	0				 	
+Wrong Grammar	0	843	9	VER	bestätigen	bestätigt	14450	False	106				 	16540
+Wrong Disambiguation	1	933	5	VER	werden	wurde	14301	False	122				 	
+Wrong Disambiguation	1	985	5	COM	Agrarkonzern KTG Agrar	Agrar	104830453	True	132				 	
+Wrong Disambiguation	1	991	9	NOU	Standort	Standorts	46065	False	134				 	118682
+Wrong Entity Type	0	1001	7	GEA		Quesitz	482	True	135				 	
+Wrong Entity Form	1	1032	5	ADJ	aptus	aptus	-1	False	141				 	
+Wrong Disambiguation	1	1078	3	VER	sein	war	12562	False	150				 	
+Wrong Grammar	0	1101	5	CON	damit	damit	-1	False	155			ADV	 	130383
+Wrong Disambiguation	1	1119	4	PRE		nach	562278	False	157				 	
+Wrong Grammar	0	1152	9	ADJ		gegründet	596833	False	162				 	
+Wrong Disambiguation	0	1162	6	VER	werden	worden	140981	False	163				 	
+Wrong Disambiguation	1	1199	12	NOU		Gesellschaft	100008425	False	168				 	
+Missing Concept	1	1237	20	NPR	Geschäftstätgikeiten	Geschäftstätgikeiten	-1	False	174				 	
+Wrong Grammar	1	1269	8	PRE	zunächst	zunächst	-1	False	178				 	
+Wrong Disambiguation	1	1353	4	ADV		eben	106298	False	188				 	
+Wrong Grammar	1	1512	6	ADJ		allein	20202	False	209			ADV	 	123059
+Wrong Disambiguation	1	1524	9	NOU		Forderung	28977	False	211				 	
+Wrong Disambiguation	1	1543	12	NOU		Gesellschaft	100008425	False	214				 	
+Missing Concept	0	1556	4	ADV		über	98894	False	215				 	
+Wrong Recognition	1	1599	7	ADJ	weit	weitere	30148	False	221		weiter		 	
+Missing Concept	0	1607	4	PRE		über	98894	False	222				 	
+Wrong Grammar	0	1648	7	ADJ		ähnlich	19819	False	227				 	
+Wrong Grammar	1	1720	12	NOU	überteuerten	überteuerten	-1	False	241				 	
+Wrong Disambiguation	1	1751	6	VER	werden	worden	14301	False	245				 	
+Wrong Disambiguation	1	2028	13	VER	zurückziehen	zurückgezogen	168821	False	281				 	

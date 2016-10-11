@@ -1,0 +1,502 @@
+﻿[GN=ADJ:"Europäische"."europäisch".#40321;=NOU:"Forscher".#11013;]
+[PV=VER:"haben"."haben".#-1;]
+[GN=NOU:"Antikörper".#100079460;]
+[PV=VER:"entdeckt"."entdecken".#13095;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."der";]
+[GN=ART:"das"."das".#-1;=NOU:"Zika-Virus"."Zika-Virus".#-1;]
+[PV=VER:"attackieren".#15787;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Sie"."sie";]
+[PV=VER:"hoffen".#14599;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=PRO:"dies"."dies".#-1;]
+[PN=ART:"ein"."ein".#-1;=ADJ:"großer"."groß".#50386;=NOU:"Schritt".#117316;]
+[GP=PRE:"bei"."bei".#-1;=ART:"der"."die";=NOU:"Entwicklung".#15813;]
+[GP=ART:"eines"."ein";=NOU:"Impfstoffes"."Impfstoff".#100134808;]
+[PN=VER:"ist"."sein".#12562;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=NOU:"Antikörper".#100079460;]
+[PV=VER:"würden"."werden";]
+[GN=NPR:"Zika"."Zika-Virus".$100034770;]
+[GP=PRE:"in"."in".#-1;=ADJ:"menschlichen"."menschlich".#142414;=NOU:"Zellen"."Zelle".#2449;]
+[GP=PRE:"unter"."unter".#-1;=NOU:"Laborbedingungen".#572586;]
+[PV=VER:"neutralisieren".#149943;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"zudem".#98967;]
+[GP=PRE:"gegen"."gegen".#-1;=ART:"das"."das".#-1;=NPR:"Dengue".$744;=PNT:"-"."-".#-1;=NOU:"Fieber".#1803;]
+[PV=VER:"helfen".#14056;]
+[??=PNT:",".",".#-1;]
+[GR=NPR:"das"."Zika-Virus".$100034770;]
+[GP=PRE:"mit"."mit".#-1;=NPR:"Zika"."Zika-Virus".$100034770;]
+[PN=ADJ:"verwandt".#562712;=VER:"ist"."sein".#12562;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"schreiben".#156709;]
+[GN=ART:"die"."die".#-1;=NOU:"Wissenschaftler".#100000901;]
+[GP=PRE:"im"."in";=ADJ:"britischen"."britisch".#30306;=NOU:"Fachmagazin".#100049850;]
+[GN=PNT:""".""".#-1;=MMD:"Nature"."Nature Immunology".$100049850;=PNT:""".""".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Dies"."dies";]
+[PV=VER:"könnte"."können";]
+[GP=PRE:"zur"."zu";=PNT:""".""".#-1;=NOU:"Entwicklung".#15813;]
+[GP=ART:"eines"."ein";=ADJ:"universellen"."universell".#20328;=NOU:"Impfstoffs"."Impfstoff".#100134808;=PNT:""".""".#-1;]
+[GP=PRE:"gegen"."gegen".#-1;=ADJ:"beide".#169688;=NOU:"Viren"."Virus".#100000808;]
+[PV=VER:"führen".#136980;]
+[??=PNT:"-"."-".#-1;]
+[PV=ADV:"dahin".#32042;=VER:"sei"."sein".#13111;]
+[GN=PRO:"es"."es".#-1;]
+[GV=ADV:"aber".#575123;=ADV:"noch".#74484;]
+[GV=ART:"ein"."ein".#-1;=ADV:"weiter Weg"."weit weg".#108395;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=PRO:"Das"."das";]
+[GP=PRE:"von"."von".#-1;=PRO:"der"."die";]
+[GN=NOU:"Stechmücke".#13883;=NPR:"Aedes".#100310911;]
+[GN=ADJ:"aegypti"."aegypti".#-1;=NOU:"übertragene"."übertragene".#-1;=NOU:"Zika-Virus"."Zika-Virus".#-1;]
+[PV=VER:"kann"."können";]
+[GP=PRE:"bei"."bei".#-1;=ART:"einer"."eine";=NOU:"Infektion".#142886;]
+[GP=PRE:"von"."von".#-1;=NOU:"Schwangeren"."Schwangere".#88533;]
+[GP=PRE:"zu"."zu".#-1;=NOU:"Schädelfehlbildungen"."Schädelfehlbildung".$41770;]
+[GP=PRE:"beim"."bei";=ADJ:"ungeborenen"."ungeboren".#100870;=NOU:"Kind".#4273;]
+[PV=VER:"führen".#136980;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Laut"."laut";=ART:"dem"."der";=WRK:"WHO-Zika-Report".$110870555;]
+[GP=PRE:"vom"."von";=DAT:"16. Juni 2016"."Jun-16-2016".$100205892;]
+[PV=VER:"ist"."sein".#172056;]
+[GN=ART:"der"."der".#-1;=NOU:"Krankheitserreger".#118432;]
+[GP=PRE:"in"."in".#-1;=ADJ:"60"."60".#-1;=NOU:"Ländern"."Land".#1570;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Hoheitsgebieten"."Hoheitsgebiet".#1570;]
+[GV=ADV:"aktiv".#590434;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"die"."die".#-1;=ADJ:"meisten"."viel".#173024;]
+[GP=PRE:"von"."von".#-1;=PRO:"ihnen"."sie";]
+[PV=VER:"liegen".#16335;]
+[GP=PRE:"auf"."auf".#-1;=ART:"dem"."der";=ADJ:"amerikanischen"."amerikanisch".#20700;=NOU:"Doppel-Kontinent"."Doppelkontinent".#34249;]
+[??=PNT:",".",".#-1;]
+[GN=GEO:"Brasilien".#13453253;]
+[PN=VER:"ist"."sein".#12562;=PRE:"am"."an";=ADJ:"stärksten"."stark".#53015;=ADJ:"betroffen".#562329;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Mittlerweile"."mittlerweile".#37164;=VER:"sind"."sein";]
+[GP=ADV:"dort".#34368;=ADV:"mehr".#70026;=PRE:"als"."als".#-1;=ADJ:"tausend".#172298;=NPR:"Zika"."Zika-Virus".$100034770;=PNT:"-"."-".#-1;=NOU:"Kinder"."Kind".#4273;]
+[GP=PRE:"mit"."mit".#-1;=ADV:"zu".#168349;=ADJ:"kleinen"."klein".#100425;=NOU:"Köpfen"."Kopf".#17778;]
+[GP=PRE:"zur"."zu";=NOU:"Welt".#1630;]
+[PV=VER:"gekommen"."kommen".#54777;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Studie".#174040;]
+[GN=ADJ:"untersuchten"."untersucht".#597038;=NOU:"Antikörper".#100079460;]
+[PV=VER:"stammen".#41314;]
+[GP=PRE:"von"."von".#-1;=NOU:"Menschen"."Mensch".#100215627;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"deren"."die";=NOU:"Immunsystem".#100001059;]
+[GP=PRE:"nach".#562278;=ART:"einer"."eine";=NOU:"Dengue-Infektion"."Dengue-Infektion".#-1;]
+[GN=NOU:"Proteine"."Protein".#100008054;]
+[GP=PRE:"gegen"."gegen".#-1;=ART:"das"."das".#-1;=NOU:"Virus".#100000808;]
+[PV=VER:"entwickelt"."entwickeln".#14737;=VER:"hatte"."haben";]
+[??=PNT:".".".".#-1;]
+[CL]
+[??=PNT:""".""".#-1;]
+[GN=PRO:"Wir"."wir";]
+[PV=VER:"hätten"."haben";]
+[PV=ADV:"nie".#74288;=VER:"gedacht"."denken".#13006;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=ART:"das"."das".#-1;=NOU:"Dengue-Virus"."Dengue-Virus".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=ART:"das"."das".#-1;=NOU:"Zika-Virus"."Zika-Virus".#-1;]
+[PV=PRO:"sich"."er";=ADV:"so sehr".#33069;=VER:"ähneln".#12959;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GP=PRE:"gegen"."gegen".#-1;=ART:"das"."das".#-1;=NOU:"Dengue-Virus"."Dengue-Virus".#-1;]
+[GN=ADJ:"gebildete"."gebildet".#562357;=NOU:"Antikörper".#100079460;]
+[GV=ADV:"auch".#23235;]
+[GN=ART:"das"."das".#-1;=NOU:"Zika-Virus"."Zika-Virus".#-1;]
+[GA=ADV:"so".#90954;=ADJ:"wirksam".#35834;]
+[PV=VER:"neutralisieren".#149943;=VER:"können"."können".#-1;]
+[??=PNT:""".""".#-1;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"erklärte"."erklären".#13475;]
+[GN=NOU:"Studien-Coautor".$100036180;=NPH:"Felix Rey".$100215627;]
+[GP=PRE:"vom"."von";=ADJ:"französischen"."französisch".#44371;=ORG:"Pasteur-Institut".$2431;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Nun"."nun";]
+[PV=VER:"muss"."müssen";]
+[GV=ADV:"jedoch".#20252;]
+[GV=PRE:"zunächst"."zunächst".#-1;]
+[PV=VER:"geklärt"."klären".#18062;=VER:"werden"."werden".#-1;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"ob"."ob".#-1;]
+[GN=PRO:"das"."das".#-1;]
+[GP=PRE:"im"."in";=NOU:"Menschen"."Mensch".#100215627;]
+[PV=ADV:"auch".#23235;=ADV:"so".#90954;=ADV:"zuverlässig".#596281;=VER:"funktioniert"."funktionieren".#16946;]
+[GV=ADV:"wie".#167244;]
+[GP=PRE:"in"."in".#-1;=ART:"den"."die";=NOU:"Zellkulturen"."Zellkultur".#111067;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Dengue-Infektion"."Dengue-Infektion".#-1;]
+[PV=VER:"macht"."machen".#14422;]
+[GV=ADV:"anfälliger"."anfällig".#163010;]
+[GP=PRE:"für"."für".#-1;=NPR:"Zika"."Zika-Virus".$100034770;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=NOU:"Forscher".#11013;]
+[PV=VER:"machten"."machen".#14422;]
+[GV=ADV:"zudem".#98967;]
+[GN=ART:"eine"."ein";=ADJ:"andere".#20987;=PNT:",".",".#-1;=ADJ:"beunruhigende"."beunruhigend".#28140;=NOU:"Entdeckung".#100753297;]
+[??=PNT:":".":".#-1;]
+[CN=CON:"Während"."während";]
+[GN=ART:"der"."der".#-1;=NOU:"Mensch".#100215627;]
+[GP=PRE:"nach".#562278;=ART:"einer"."eine";=NOU:"Dengue-Infektion"."Dengue-Infektion".#-1;]
+[GA=ADJ:"zwei".#173625;]
+[GV=ADV:"auch".#23235;]
+[GP=PRE:"gegen"."gegen".#-1;=NPR:"Zika"."Zika-Virus".$100034770;]
+[GN=ADJ:"wirksame"."wirksam".#35834;=NOU:"Antikörper-Arten"."Antikörper-Art".$1555;]
+[PV=VER:"entwickelt"."entwickeln".#14739;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"scheinen".#117664;]
+[GN=ART:"die"."die".#-1;=ADJ:"meisten"."viel".#91376;=ADJ:"anderen"."andere".#20987;=ADJ:"gebildeten"."gebildet".#562357;=NOU:"Proteine"."Protein".#100008054;]
+[GN=ART:"eine"."ein";=NOU:"Vermehrung".#164548;]
+[GP=ART:"der"."die";=NPR:"Zika"."Zika-Virus".$100034770;=PNT:"-"."-".#-1;=NOU:"Viren"."Virus".#100000808;]
+[PV=CON:"zu".#565251;=VER:"fördern".#127798;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Eine"."ein";=ADJ:"frühere"."früh".#45047;=NPR:"Dengue".$744;=PNT:"-"."-".#-1;=NOU:"Erkrankung".#330;]
+[PV=VER:"könne"."können";]
+[GV=ADV:"also".#43901;=ADV:"womöglich".#110083;]
+[GN=ART:"das"."das".#-1;=NOU:"Risiko".#9620;]
+[GP=ART:"einer"."eine";=NPR:"Zika"."Zika-Virus".$100034770;=PNT:"-"."-".#-1;=NOU:"Infektion".#142886;]
+[PV=VER:"erhöhen".#16373;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"erklärte"."erklären".#13475;]
+[GN=NPH:"Gavin Screaton".$100215627;]
+[GP=PRE:"vom"."von";=BLD:"Imperial College London".$70;]
+[??=PNT:".".".".#-1;]
+[CL]
+[??=PNT:""".""".#-1;]
+[GN=PRO:"Das"."das";]
+[PV=VER:"könnte"."können";=VER:"erklären".#13475;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"warum"."warum".#-1;]
+[GN=ART:"der"."der".#-1;=ADJ:"derzeitige"."derzeitig".#110944;=NPR:"Zika"."Zika-Virus".$100034770;=PNT:"-"."-".#-1;=NOU:"Ausbruch".#125939;]
+[PN=ADV:"so".#90954;=ADJ:"heftig".#53015;=VER:"ist"."sein".#12562;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"und"."und".#-1;]
+[CN=CON:"warum"."warum".#-1;]
+[GN=PRO:"er"."er".#-1;]
+[GV=ADV:"vor allem".#58485;]
+[GN=NOU:"Regionen"."Region".#4066;]
+[PV=VER:"betrifft"."betreffen".#500612;]
+[??=PNT:",".",".#-1;]
+[GR=PRE:"in"."in".#-1;=PRO:"denen"."die";=PRO:"es"."es".#-1;]
+[GV=ADV:"auch".#23235;]
+[GN=NPR:"Dengue".$744;]
+[PV=VER:"gibt"."geben".#13134;]
+[??=PNT:".".".".#-1;]
+[??=PNT:""".""".#-1;]
+[CL]
+[GN=ADJ:"Diese"."dies";=NOU:"Erkenntnisse"."Erkenntnis".#39499;]
+[PV=VER:"wurden"."werden";]
+[GP=PRE:"in"."in".#-1;=ART:"einer"."eine";=NOU:"Studie".#174040;]
+[GP=PRE:"im"."in";=NOU:"Fachmagazin".#100049850;]
+[GN=PNT:""".""".#-1;=MMD:"Nature Immunology".$100049850;=PNT:""".""".#-1;]
+[PV=VER:"veröffentlicht"."veröffentlichen".#13452;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Abtreibungswünsche".$17016;]
+[PV=VER:"nahmen"."zunehmen".#118726;]
+[GV=ADV:"sprunghaft"."sprunghaft".#-1;]
+[GV=ADV:"zu"."zunehmen";]
+[CL]
+[CR]
+[GN=PRO:"Eine"."ein";]
+[GP=PRE:"vom"."von";=PNT:""".""".#-1;=MMD:"New England Journal of Medicine".$100011033;=PNT:""".""".#-1;]
+[GN=ADJ:"veröffentlichte"."veröffentlicht".#588502;=NOU:"Studie".#117991;]
+[PV=VER:"zeigt"."zeigen".#501332;]
+[GV=ADV:"zudem".#98967;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Zahl".#14331;]
+[GP=ART:"der"."die";=NOU:"Abtreibungswünsche"."Abtreibungswunsch".$17016;]
+[GP=PRE:"in"."in".#-1;=GEO:"Brasilien".#13453253;]
+[PN=ADV:"sprunghaft".#12562;=VER:"gestiegen"."steigen";=VER:"ist"."sein".#12562;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"seit"."seit".#-1;=PRO:"sich"."er";]
+[GN=ART:"die"."die".#-1;=NOU:"Fälle"."Fall".#114944328;]
+[GP=PRE:"von"."von".#-1;=NOU:"Schädelfehlbildungen"."Schädelfehlbildung".$41770;]
+[GP=PRE:"bei"."bei".#-1;=NOU:"Neugeborenen"."Neugeborene".#8037;]
+[PV=VER:"häufen".#93039;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Wissenschaftler".#100000901;]
+[PV=VER:"werteten"."auswerten".#25152;]
+[GN=NOU:"Daten".#100042848;]
+[GP=ART:"der"."die";=NOU:"Organisation".#100043229;]
+[GN=PNT:""".""".#-1;=ORG:"Women".$100043229;]
+[GV=ADV:"on".#75614;]
+[GN=GEX:"Web".#100000466;=PNT:""".""".#-1;]
+[GV=ADV:"aus"."auswerten";]
+[??=PNT:",".",".#-1;]
+[GR=GEX:"die"."Web".#100000466;]
+[GP=PRE:"in"."in".#-1;=NOU:"Ländern"."Land".#1570;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"restriktiven"."restriktiv".#83381;=NOU:"Abtreibungsregeln"."Abtreibungsregel".$117331;]
+[GN=ART:"einen"."ein";=NOU:"Zugang".#119616;]
+[GP=PRE:"zu"."zu".#-1;=ART:"einem"."ein";=NOU:"Abbruch".#117216;]
+[PV=VER:"anbieten".#15285;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"In"."in";=GEO:"Brasilien".#13453253;]
+[PV=VER:"sind"."sein";]
+[GN=NOU:"Schwangerschaftsabbrüche"."Schwangerschaftsabbruch".#100008452;]
+[PV=VER:"verboten"."verbieten".#13778;]
+[??=PNT:"-"."-".#-1;]
+[GN=PRO:"es"."es".#-1;]
+[PV=VER:"sei"."sein".#13111;]
+[CN=CON:"denn"."denn".#-1;]
+[GN=PRO:"es"."es".#-1;]
+[PV=VER:"handelt"."handeln".#15281;]
+[GN=PRO:"sich"."er";]
+[GP=PRE:"um"."um".#-1;=ART:"eine"."ein";=NOU:"Vergewaltigung".#103226;]
+[CN=CON:"oder"."oder".#-1;]
+[PV=PRO:"es"."es".#-1;=VER:"gibt"."geben".#15206;]
+[GN=NOU:"Hinweise"."Hinweis".#10468;]
+[GP=PRE:"auf"."auf".#-1;=ADJ:"akute"."akut".#20023;=NOU:"Gefährdungen"."Gefährdung".#26415;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Gesundheit".#100012147;]
+[GP=ART:"der"."die";=NOU:"Mutter".#8162;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Auf"."auf";=NOU:"Basis".#14984;]
+[GP=ART:"der"."die";=NOU:"Abtreibungsanfragen"."Abtreibungsanfrage".$21149;]
+[GP=PRE:"seit"."seit".#-1;=DAT:"2010".$100205892;]
+[PV=VER:"ermittelten"."ermitteln".#119239;]
+[GN=ART:"die"."die".#-1;=NOU:"Forscher".#11013;]
+[GN=ART:"einen"."ein";=NOU:"Durchschnitt".#120193;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"den"."Durchschnitt".#120193;]
+[GN=PRO:"sie"."sie".#-1;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Daten"."Datum".#100205892;]
+[GP=PRE:"seit"."seit".#-1;=PRO:"dem"."der";=DAT:"17. November 2015"."Nov-17-2015".$100205892;]
+[PV=VER:"verglichen"."vergleichen".#16146;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"als"."als".#-1;]
+[GN=ART:"die"."die".#-1;=ORG:"Panamerikanische Gesundheitsorganisation".$100043229;]
+[GN=ART:"die"."die".#-1;=ADJ:"erste".#20255;=NPR:"Zika"."Zika-Virus".$100034770;=PNT:"-"."-".#-1;=NOU:"Warnung".#3429;]
+[PV=VER:"aussprach"."aussprechen".#12967;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Demnach"."demnach".#130810;]
+[PV=VER:"stieg"."steigen".#118726;]
+[GN=ART:"die"."die".#-1;=NOU:"Zahl".#309;]
+[GP=ART:"der"."die";=NOU:"Anfragen"."Anfrage".#21149;]
+[GP=PRE:"in"."in".#-1;=GEO:"Brasilien".#13453253;]
+[GP=PRE:"um"."um".#-1;=PCT:"108 Prozent"."108%".$100011229;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"in"."in".#-1;=GEO:"Venezuela".#13609555;]
+[GP=PRE:"um"."um".#-1;=PCT:"93 Prozent"."93%".$100011229;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Von"."von";=ADJ:"19"."19".#-1;=ADJ:"untersuchten"."untersucht".#597038;=NOU:"Ländern"."Land".#1570;]
+[PV=VER:"lag"."liegen".#16342;]
+[GN=ART:"die"."die".#-1;=NOU:"Zunahme".#119772;]
+[GP=PRE:"in"."in".#-1;=NOU:"Staaten"."Staat".#103624078;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"restriktiven"."restriktiv".#83381;=NOU:"Abtreibungsregeln"."Abtreibungsregel".$117331;]
+[GP=PRE:"bei"."bei".#-1;=ADV:"mindestens".#70912;=PCT:"36 Prozent"."36%".$100011229;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Ein"."ein";=NOU:"Treiber".#101033951;]
+[PN=VER:"seien"."sein";]
+[GV=ADV:"dabei".#130291;=ADV:"wohl".#20252;]
+[PN=NOU:"Hinweise"."Hinweis".#10468;]
+[GP=PRE:"von"."von".#-1;=NOU:"Regierungen"."Regierung".#3842;]
+[PN=VER:"gewesen"."sein".#172056;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"auf"."auf".#-1;=ART:"eine"."ein";=NOU:"Schwangerschaft".#48527;]
+[GP=PRE:"wegen"."wegen".#-1;=NPR:"Zika"."Zika-Virus".$100034770;]
+[GV=ADV:"vorerst".#106209;]
+[PV=CON:"zu".#565251;=VER:"verzichten".#13780;]
+[??=PNT:"-"."-".#-1;]
+[GR=NPR:"dies"."Zika-Virus".$100034770;]
+[PV=VER:"könnte"."können";]
+[GP=PRE:"bei"."bei".#-1;=ADV:"bereits".#87685;=ADJ:"schwangeren"."schwanger".#88532;=NOU:"Frauen"."Frau".#8123;]
+[GN=ADJ:"zusätzliche"."zusätzlich".#19517;=NOU:"Verunsicherung".#104794;]
+[PV=VER:"geschürt"."schüren".#156856;=VER:"haben"."haben".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Dabei"."dabei".#130291;]
+[PV=VER:"löst"."auslösen".#14422;]
+[GV=ADV:"nur".#20252;]
+[GN=ART:"ein"."ein".#-1;=NOU:"Bruchteil".#96256;]
+[GP=ART:"der"."die";=NOU:"Infektionen"."Infektion".#6849;]
+[GN=ADJ:"tatsächlich".#96019;=NOU:"Mikrozephalie".#100431643;]
+[GV=ADV:"aus"."auslösen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=GEO:"USA"."Vereinigte Staaten".#16223392;=CON:"und"."und".#-1;=GEO:"Brasilien".#13453253;]
+[PV=VER:"starten".#159119;]
+[GV=ADV:"nun".#37164;]
+[GP=PRE:"ab"."ab".#-1;=NOU:"Juli".#100000121;]
+[GN=ART:"eine"."ein";=ADJ:"große"."groß".#139015;=NOU:"Studie".#174040;]
+[??=PNT:":".":".#-1;]
+[GN=ADJ:"10.000"."10.000".#-1;=ADJ:"schwangere"."schwanger".#88532;=NOU:"Frauen"."Frau".#100000467;]
+[GP=PRE:"in"."in".#-1;=NOU:"Ländern"."Land".#1570;]
+[GP=PRE:"mit"."mit".#-1;=ART:"einer"."eine";=ADJ:"starken"."stark".#53015;=NPR:"Zika"."Zika-Virus".$100034770;=PNT:"-"."-".#-1;=NOU:"Verbreitung".#120358;]
+[PV=VER:"werden"."werden".#-1;=VER:"begleitet"."begleiten".#15364;]
+[??=PNT:",".",".#-1;]
+[GA=ADV:"davon".#130559;=ADJ:"4000"."4000".#-1;]
+[GP=PRE:"in"."in".#-1;=GEO:"Brasilien".#13453253;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Ab"."ab";=NOU:"November".#100000125;]
+[PV=VER:"soll"."sollen".#148995;]
+[GV=ADV:"zudem".#98967;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Impfstoff-Tests"."Impfstoff-Test".$14276;]
+[GP=PRE:"an"."an".#-1;=NOU:"Affen"."Affe".#100001367;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Mäusen"."Maus".#706;]
+[PV=VER:"begonnen"."beginnen".#13843;=VER:"werden"."werden".#-1;]
+[??=PNT:"-"."-".#-1;]
+[GN=ART:"der"."der".#-1;=NPR:"Zika"."Zika-Virus".$100034770;=PNT:"-"."-".#-1;=NOU:"Impfstoff".#100134808;]
+[PV=VER:"soll"."sollen";]
+[GP=PRE:"als"."als".#-1;=ADJ:"einmalige"."einmalig".#36748;=NOU:"Dosis".#131535;]
+[PV=VER:"verabreicht"."verabreichen".#102586;=VER:"werden"."werden".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"spätestens".#91678;]
+[GP=PRE:"bis"."bis".#-1;=DAT:"2018".$100205892;]
+[GP=PRE:"zur"."zu";=NOU:"Verfügung".#119551;]
+[PV=VER:"stehen".#32369;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Unabhängig"."unabhängig".#596227;]
+[GV=ADV:"davon".#130559;]
+[PV=PRO:"es"."es".#-1;=VER:"gibt"."geben".#15206;]
+[GN=ADV:"auch".#23235;=ADJ:"gute"."gut".#29675;=NOU:"Nachrichten"."Nachricht".#100628523;]
+[??=PNT:":".":".#-1;]
+[PV=ADV:"Offenbar"."offenbar".#75277;=VER:"verliert"."verlieren".#164496;]
+[GN=ART:"das"."das".#-1;=NOU:"Virus".#100000808;]
+[GP=PRE:"im"."in";=ADJ:"letzten"."letzte".#67409;=NOU:"Drittel".#118824;]
+[GP=ART:"der"."die";=NOU:"Schwangerschaft".#48527;]
+[GP=PRE:"an"."an".#-1;=NOU:"Gefahr".#46715;]
+[??=PNT:".".".".#-1;]
+
+SBJ=0:3;OBJ=2:3;SBJ=5:7;OBJ=6:7;SBJ=9:10;SBJ=13:14;APH=31:22;SBJ=22:25;OBJ=20:25;SBJ=22:29;SBJ=22:33;SBJ=38:35;OBJ=36:35;SBJ=40:45;SBJ=48:47;SBJ=53:62;OBJ=55:62;SBJ=67:66;SBJ=78:79;SBJ=94:98;OBJ=96:98;SBJ=-52:103;SBJ=-52:109;SBJ=113:117;OBJ=115:117;CPL=116:117;SBJ=121:120;SBJ=131:133;SBJ=138:139;SBJ=146:144;OBJ=143:144;SBJ=121:155;OBJ=154:155;SBJ=159:161;OBJ=158:161;SBJ=164:169;OBJ=167:169;SBJ=172:171;SBJ=176:177;SBJ=176:181;SBJ=185:188;OBJ=187:188;SBJ=190:193;OBJ=192:193;OBJ=196:201;SBJ=204:205;SBJ=209:212;CPL=211:212;SBJ=209:219;SBJ=222:225;SBJ=231:228;OBJ=233:228;APH=236:233;SBJ=233:241;OBJ=239:241;TRM=240:241;OBJ=246:247;SBJ=249:250;SBJ=252:253;OBJ=254:253;SBJ=258:257;OBJ=268:267;APH=271:269;SBJ=272:275;OBJ=269:275;SBJ=278:280;OBJ=279:280;SBJ=285:283;SBJ=295:294;APH=312:308;SBJ=308:316;OBJ=315:316;SBJ=321:319;OBJ=323:319;SBJ=327:328;OBJ=331:328;OBJ=333:336;SBJ=364:363;SBJ=367:366;APH=149:121;APH=230:173;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Missing Entity	0	56	10	NOU	Zika-Virus	Zika-Virus	-1	False	9				 	
+Wrong Disambiguation	0	106	6	ADJ	groß	großer	50386	False	18				 	38017
+Wrong Disambiguation	0	113	7	NOU		Schritt	117316	False	19				 	172991
+Wrong Disambiguation	1	237	14	VER		neutralisieren	149943	False	36				 	149942
+Wrong Disambiguation	0	186	4	NPR	Zika-Virus	Zika	100034770	True	30				 	
+Wrong Disambiguation	0	272	6	NPR		Dengue	744	True	41				 	
+Wrong Disambiguation	1	286	6	VER		helfen	14056	False	44				 	117454
+Wrong Disambiguation	0	302	4	NPR	Zika-Virus	Zika	100034770	True	48				 	
+Wrong Disambiguation	1	307	8	ADJ		verwandt	562712	False	49				 	
+Wrong Disambiguation	1	321	9	VER		schreiben	156709	False	52				 	
+Wrong Disambiguation	1	465	6	VER		führen	136980	False	74				 	
+Wrong Disambiguation	0	474	5	ADV		dahin	32042	False	76				 	32043
+Wrong Recognition	0	480	3	VER	sein	sei	13111	False	77				 	
+Wrong Recognition	0	501	10	ADV	weit weg	weiter Weg	108395	False	82				 	
+Wrong Entity Form	0	542	7	ADJ	aegypti	aegypti	-1	False	89				 	
+Wrong Grammar	1	550	11	NOU	übertragene	übertragene	-1	False	90				 	
+Missing Entity	0	562	10	NOU	Zika-Virus	Zika-Virus	-1	False	91				 	
+Wrong Disambiguation	0	655	4	NOU		Kind	4273	False	102				 	118761
+Wrong Disambiguation	1	660	6	VER		führen	136980	False	103				 	
+Wrong Disambiguation	0	771	5	ADV		aktiv	590434	False	118				 	
+Wrong Recognition	0	778	3	ART	die	die	-1	False	120				 	
+Wrong Disambiguation	0	926	4	NPR	Zika-Virus	Zika	100034770	True	142				 	
+Wrong Disambiguation	0	931	6	NOU	Kind	Kinder	4273	False	144				 	118761
+Wrong Disambiguation	1	953	6	NOU	Kopf	Köpfen	17778	False	148				 	2614
+Wrong Recognition	1	964	4	NOU		Welt	1630	False	150				 	
+Wrong Disambiguation	1	990	6	NOU		Studie	174040	False	156				 	117991
+Wrong Disambiguation	1	1021	7	VER		stammen	41314	False	159				 	
+Wrong Disambiguation	1	1061	4	PRE		nach	562278	False	165				 	
+Missing Concept	0	1072	16	NOU	Dengue-Infektion	Dengue-Infektion	-1	False	167				 	
+Wrong Disambiguation	0	1114	10	VER	entwickeln	entwickelt	14737	False	172				 	
+Missing Entity	0	1166	12	NOU	Dengue-Virus	Dengue-Virus	-1	False	183				 	
+Missing Entity	0	1187	10	NOU	Zika-Virus	Zika-Virus	-1	False	186				 	
+Missing Entity	0	1234	12	NOU	Dengue-Virus	Dengue-Virus	-1	False	194				 	
+Missing Entity	0	1277	10	NOU	Zika-Virus	Zika-Virus	-1	False	199				 	
+Wrong Disambiguation	1	1299	14	VER		neutralisieren	149943	False	202				 	
+Wrong Disambiguation	0	1323	8	VER	erklären	erklärte	13475	False	206				 	
+Wrong Grammar	0	1394	3	CON	nun	Nun		True	213				 	
+Wrong Grammar	0	1410	8	PRE	zunächst	zunächst	-1	False	216				 	
+Wrong Disambiguation	0	1459	2	ADV		so	90954	False	225				 	
+Missing Concept	0	1512	16	NOU	Dengue-Infektion	Dengue-Infektion	-1	False	233				 	
+Missing Entity	0	1550	4	NPR	Zika-Virus	Zika	100034770	True	237				 	
+Wrong Disambiguation	1	1568	7	VER	machen	machten	14422	False	240				 	
+Missing Concept	0	1651	16	NOU	Dengue-Infektion	Dengue-Infektion	-1	False	253				 	
+Missing Entity	0	1684	4	NPR	Zika-Virus	Zika	100034770	True	257				 	
+Wrong Disambiguation	0	1689	8	ADJ	wirksam	wirksame	35834	False	258				 	596418
+Missing Concept	1	1698	16	NOU	Antikörper-Art	Antikörper-Arten	1555	True	259				 	
+Wrong Disambiguation	0	1715	10	VER	entwickeln	entwickelt	14739	False	260				 	14735
+Wrong Disambiguation	1	1727	8	VER		scheinen	117664	False	262				 	
+Wrong Recognition	1	1740	7	ADJ	viel	meisten	91376	False	264				 	
+Missing Entity	0	1796	4	NPR	Zika-Virus	Zika	100034770	True	271				 	
+Wrong Recognition	1	1824	7	ADJ	früh	frühere	45047	False	0				 	
+Missing Entity	0	1832	6	NPR		Dengue	744	True	0				 	
+Missing Entity	0	1888	4	NPR	Zika-Virus	Zika	100034770	True	0				 	
+Wrong Disambiguation	0	1912	8	VER	erklären	erklärte	13475	False	0				 	
+Wrong Entity Type	1	1940	23	BLD		Imperial College London	70	True	0				 	
+Missing Entity	0	2008	4	NPR	Zika-Virus	Zika	100034770	True	0				 	
+Wrong Disambiguation	0	2013	8	NOU		Ausbruch	125939	False	0				 	14926
+Wrong Disambiguation	0	2069	8	VER	betreffen	betrifft	500612	False	0				 	14926
+Wrong Disambiguation	0	2096	6	NPR		Dengue	744	True	0				 	
+Wrong Disambiguation	1	2103	4	VER	geben	gibt	13134	False	0				 	
+Wrong Disambiguation	1	2145	6	NOU		Studie	174040	False	0				 	
+Wrong Disambiguation	1	2203	18	NOU		Abtreibungswünsche	17016	True	0				 	
+Missing Concept	0	2229	10	ADV	sprunghaft	sprunghaft	-1	False	0				 	
+Wrong Grammar	0	2243	4	PRO	ein	Eine		False	0				 	
+Wrong Disambiguation	0	2331	4	NOU		Zahl	14331	False	0				 	7
+Wrong Disambiguation	1	2340	18	NOU	Abtreibungswunsch	Abtreibungswünsche	17016	True	0				 	
+Missing Concept	0	2372	10	ADV		sprunghaft	12562	False	0				 	
+Missing Concept	0	2383	9	VER	steigen	gestiegen		False	0				 	
+Wrong Disambiguation	1	2412	5	NOU	Fall	Fälle	114944328	False	0				 	16326
+Wrong Disambiguation	1	2460	6	VER		häufen	93039	False	0				 	
+Wrong Entity Form	1	2521	5	ORG		Women	100043229	True	0				 	
+Wrong Disambiguation	0	2540	3	GEX	Web	die	100000466	False	0				 	
+Wrong Disambiguation	1	2596	6	NOU		Zugang	119616	False	0				 	119618
+Wrong Disambiguation	1	2612	7	NOU		Abbruch	117216	False	0				 	
+Wrong Disambiguation	1	2620	8	VER		anbieten	15285	False	0				 	
+Wrong Disambiguation	1	2687	3	VER	sein	sei	13111	False	0				 	
+Wrong Disambiguation	1	2699	7	VER	handeln	handelt	15281	False	0				 	15327
+Wrong Disambiguation	1	2855	11	VER	ermitteln	ermittelten	119239	False	0				 	
+Wrong Disambiguation	1	2912	5	NOU	Datum	Daten	100205892	False	0				 	
+Wrong Disambiguation	0	3016	4	NPR	Zika-Virus	Zika	100034770	True	0				 	
+Wrong Disambiguation	1	3021	7	NOU		Warnung	3429	False	0				 	
+Wrong Disambiguation	1	3058	4	NOU		Zahl	309	False	0				 	
+Wrong Disambiguation	1	3164	3	VER	liegen	lag	16342	False	0				 	
+Wrong Disambiguation	1	3257	7	NOU		Treiber	101033951	False	0				 	596201
+Wrong Disambiguation	0	3282	8	NOU	Hinweis	Hinweise	10468	False	0				 	
+Wrong Disambiguation	1	3307	7	VER	sein	gewesen	172056	False	0				 	
+Wrong Disambiguation	0	3347	4	NPR	Zika-Virus	Zika	100034770	True	0				 	
+Wrong Disambiguation	1	3376	4	NPR	Zika-Virus	dies	100034770	True	0				 	
+Wrong Disambiguation	0	3412	6	NOU	Frau	Frauen	8123	False	0				 	
+Wrong Disambiguation	0	3473	3	ADV		nur	20252	False	0				 	
+Wrong Disambiguation	0	3585	5	ADJ	groß	große	139015	False	0				 	
+Wrong Disambiguation	1	3591	6	NOU		Studie	174040	False	0				 	
+Wrong Disambiguation	0	3653	4	NPR	Zika-Virus	Zika	100034770	True	0				 	
+Wrong Disambiguation	0	3677	9	VER	begleiten	begleitet	15364	False	0				 	
+Wrong Disambiguation	1	3725	4	VER	sollen	soll	148995	False	0				 	
+Wrong Disambiguation	0	3798	4	NPR	Zika-Virus	Zika	100034770	True	0				 	
+Wrong Disambiguation	1	3832	5	NOU		Dosis	131535	False	0				 	
+Wrong Disambiguation	1	3895	6	VER		stehen	32369	False	0				 	
+Wrong Disambiguation	0	3923	4	VER	geben	gibt	15206	False	0				 	
+Wrong Disambiguation	0	3933	4	ADJ	gut	gute	29675	False	0				 	
+Wrong Disambiguation	1	3960	8	VER	verlieren	verliert	164496	False	0				 	

@@ -1,0 +1,583 @@
+﻿[GA=ADV:"Ziemlich"."ziemlich".#111521;=ADJ:"kompromissfähig"."Kompromiss";]
+[??=PNT:":".":".#-1;]
+[GN=ADJ:"Pure"."pur".#120106;=NOU:"Bros"."Bros".#-1;=NPR:"Cycles"."Cycle".$101190554;=NPR:"Allroader"."Allroader".#-1;]
+[GP=PRE:"im"."in";=NOU:"Test".#14276;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Bei"."bei";=NPR:"Allroadern"."Allroadern".#-1;]
+[PV=VER:"werde"."schwachwerden".#116228;]
+[GN=PRO:"ich"."ich".#-1;]
+[GV=ADV:"einfach".#565253;]
+[GV=ADV:"schwach"."schwachwerden";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Kein"."kein";=NOU:"Wunder".#3310;]
+[GV=ADV:"also".#43901;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=PRO:"ich"."ich".#-1;]
+[GP=ART:"der"."die";=NOU:"Anfrage".#21149;]
+[GP=PRE:"von"."von".#-1;=NOU:"Pure"."Pure".#-1;]
+[GN=NOU:"Bros"."Bro";=NPR:"Cycles"."Cycle".$101190554;]
+[GP=PRE:"nach".#565265;=ART:"einer"."eine";=NOU:"Testfahrt".#41118;]
+[GP=ART:"des"."das";=ADJ:"neuen"."neu".#149884;=NOU:"Universalmodells"."Universalmodell".$114915751;]
+[PV=ADV:"nicht".#74226;=VER:"widerstehen".#14684;=VER:"konnte"."können";]
+[??=PNT:".".".".#-1;]
+[CL]
+[PN=NOU:"Praktischerweise".$1704;=VER:"war"."sein".#12562;]
+[GN=PRO:"ich"."ich".#-1;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=ADJ:"letzten"."letzte".#106302;=NOU:"Woche".#980;]
+[GV=ADV:"ohnehin".#91413;]
+[GP=PRE:"im"."in";=ADJ:"schönen"."schön".#74002;=GEO:"Münsterland".#72351;]
+[GP=PRE:"zum"."zu";=VER:"Radeln"."radeln".#81431;]
+[GV=ADV:"unterwegs".#101916;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"So"."so".#130436;]
+[PV=VER:"ergab"."ergeben".#12972;=PRO:"sich"."er";]
+[GN=ART:"die"."die".#-1;=NOU:"Gelegenheit".#3150;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"das"."das".#-1;=NOU:"Bike".#100034493;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Herz".#2234;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Nieren"."Niere".#100009377;]
+[PV=CON:"zu".#565251;=VER:"testen".#117334;]
+[CN=CON:"und"."und".#-1;]
+[GN=ART:"die"."die".#-1;=ADV:"evtl.".#40384;=ADJ:"vorhandenen"."vorhanden".#18832;=ADJ:"feinen"."fein".#120540;=NOU:"Unterschiede"."Unterschied".#16020;]
+[GV=ADV:"z.B.".#26861;]
+[GP=PRE:"zu"."zu".#-1;=ADJ:"meinem"."mein";=NOU:"Vogel".#100005113;=ANM:"Randonneur".$100005113;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"dem"."der";]
+[GP=PRE:"im"."in";=ADJ:"letzten"."letzte".#106302;=NOU:"Jahr".#100000577;]
+[GP=ADJ:"getesteten"."getestet";=NOU:"Pelago"."Pelago".#-1;=NOU:"Sibbo"."Sibbo".#-1;]
+[PV=CON:"zu".#565251;=VER:"erfahren".#13972;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Anmerkung".#101141067;]
+[??=PNT:":".":".#-1;]
+[CN=CON:"Da"."da";]
+[PV=PRO:"es"."es".#-1;]
+[GP=PRE:"im"."in";=GEO:"Münsterland".#72351;]
+[GA=ADV:"ziemlich".#111521;=ADJ:"flach".#65605;]
+[PV=VER:"zugeht"."zugehen".#16864;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"habe"."haben";]
+[GN=PRO:"ich"."ich".#-1;]
+[GN=ART:"den"."der";=NOU:"Test".#100257491;]
+[GP=PRE:"nach".#565265;=ART:"der"."die";=NOU:"Rückkehr".#117242;]
+[GP=PRE:"durch"."durch".#-1;=ART:"eine"."ein";=NOU:"Fahrt".#1524;]
+[GP=PRE:"im"."in";=ADJ:"bergigen"."bergig".#27336;=NOU:"Gelände".#5943;]
+[PV=VER:"ergänzt"."ergänzen".#15667;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"So"."so".#130436;]
+[PV=VER:"ergibt"."ergeben".#15422;=PRO:"sich"."er";]
+[GN=ART:"ein"."ein".#-1;=ADJ:"ganzheitliches"."ganzheitlich".#45977;=NOU:"Bild".#128855;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Noch"."noch".#74484;]
+[GN=ART:"eine"."ein";=NOU:"Anmerkung".#101141067;]
+[??=PNT:":".":".#-1;]
+[GN=NOU:"Pardon".#76728;]
+[GP=PRE:"für"."für".#-1;=PRO:"das"."das".#-1;]
+[GN=PRO:"etwas"."etwas".#-1;]
+[GN=ADJ:"angestaubte"."angestaubt".#99137;=NOU:"Bike".#100034493;]
+[GP=PRE:"auf"."auf".#-1;=ART:"den"."die";=NOU:"Fotos"."Foto".#100125191;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Ich"."ich";]
+[PV=VER:"habe"."haben";]
+[GN=PRO:"diese"."dies";]
+[GP=PRE:"nach".#565265;=ART:"dem"."der";=NOU:"Urlaub".#100116213;]
+[GP=PRE:"ohne"."ohne".#-1;=ADJ:"größere"."groß".#50386;=NOU:"Putzoffensive".$7522;]
+[PV=VER:"geschossen"."schießen".#16295;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Ausstattung".#17;]
+[??=PNT:":".":".#-1;]
+[GN=ART:"Das"."das";=NOU:"Testrad".$100000446;]
+[PV=VER:"entsprach"."entsprechen".#145773;]
+[GV=ADV:"weitestgehend".#108502;]
+[GP=ART:"dem"."der";=NOU:"Pure"."Pure".#-1;]
+[GP=NOU:"Bros"."Bro";=DOC:"Gravelroad".$103150005;=NOU:"Modell".#16275;]
+[GP=PRE:"mit"."mit".#-1;=ORG:"SRAM Rival".$550;]
+[GN=ADJ:"1"."1".#-1;=NOU:"1×11"."1×11".#-1;=NOU:"Gruppe".#8214;]
+[??=PNT:",".",".#-1;]
+[GN=ADJ:"mechanischen"."mechanisch".#148140;=VCL:"Avid BB7".$100011442;=VCL:"Road".$100011442;=NOU:"Scheibenbremsen"."Scheibenbremse".#100755174;]
+[CN=CON:"und"."und".#-1;]
+[GN=ORG:"Mavic Aksium".$116334295;=NOU:"Disc".#100007982;]
+[GP=NOU:"Laufrädern"."Laufrad".#100595658;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Anstelle"."anstelle";=ART:"der"."die";=NPR:"Challenge Strada"."Challenge Strada".#-1;]
+[GN=NPH:"Bianca Reifen".$100215627;]
+[PN=VER:"war"."sein".#12562;]
+[GN=ART:"das"."das".#-1;=NOU:"Bike".#100034493;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Conti"."Conte".#103519259;]
+[GN=NOU:"Grand Prix".#49975;=NOU:"4Season"."4Season".#-1;=NPH:"Reifen"."Bianca Reifen".$100215627;]
+[GP=PRE:"mit"."mit".#-1;=MEA:"32mm"."32 Millimeter".$100174789;]
+[GN=NOU:"Breite".#17585;]
+[PN=ADJ:"ausgestattet".#577307;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Die"."die";]
+[GV=ADV:"extra".#121039;]
+[GP=PRE:"für"."für".#-1;=ART:"das"."das".#-1;=NOU:"Testrad".$100000446;]
+[GP=PRE:"in"."in".#-1;=NOU:"Schwarz".#100023445;]
+[GN=ADJ:"lackierten"."lackiert";=NPR:"Curana"."Curana".#-1;]
+[GN=MEA:"40mm"."40 Millimeter".$100174789;]
+[GN=NOU:"Schutzbleche"."Schutzblech".#88401;]
+[PV=VER:"habe"."haben";]
+[GN=PRO:"ich"."ich".#-1;]
+[PV=PNT:""".""".#-1;=ADV:"leider".#28057;=PNT:""".""".#-1;=ADV:"dann".#130436;=ADV:"doch".#173057;=ADV:"nicht".#74226;=VER:"gebraucht"."brauchen".#12747;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Allerdings"."allerdings".#107105;]
+[PV=VER:"sehen"."aussehen".#17348;]
+[GN=PRO:"sie"."sie".#-1;]
+[GA=ADJ:"recht".#83676;=ADJ:"schick".#71678;]
+[GV=ADV:"aus"."aussehen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Wie"."wie";]
+[PV=ADV:"immer".#57736;=VER:"kamen"."kommen".#117806;]
+[GN=ADJ:"mein"."mein".#-1;=GEA:"Selle"."Celle".#13013869;=DEV:"An-Atomica Ledersattel".$151203;]
+[CN=CON:"und"."und".#-1;]
+[GN=ADJ:"meine"."mein";=ORG:"SPD"."Sozialdemokratische Partei Deutschlands".#7462;=PNT:"-"."-".#-1;=NOU:"Pedale"."Pedal".#151203;]
+[GP=PRE:"zum"."zu";=NOU:"Einsatz".#24700;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Rahmen".#101324888;=PNT:",".",".#-1;=NOU:"Qualitätseindruck".$875;=CON:"und"."und".#-1;=NOU:"Ausstattung".#17;]
+[??=PNT:":".":".#-1;]
+[CN=CON:"Wie"."wie";]
+[GV=ADV:"bereits".#87685;]
+[GP=PRE:"im"."in";=NOU:"Bericht".#4540;]
+[GN=NOU:"Anfang".#3871;]
+[GP=ART:"des"."das";=NOU:"Jahres"."Jahr".#100000577;]
+[PV=VER:"erwähnt"."erwähnen".#15704;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"setzt"."setzen".#173504;]
+[GN=NOU:"Pure"."Pure".#-1;]
+[GN=NOU:"Bros"."Bro";=NPR:"Cycles"."Cycle".$101190554;]
+[GP=PRE:"für"."für".#-1;=ADJ:"alle"."all";=NOU:"Modelle"."Modell".#16275;]
+[GP=PRE:"auf"."auf".#-1;=ART:"einen"."ein";=ADJ:"einheitlichen"."einheitlich".#36547;=ADJ:"geschweißten"."geschweißt";=NOU:"Stahlrahmen".$101324888;]
+[GP=PRE:"aus"."aus".#-1;=ADJ:"mehrfach".#70038;=ADJ:"konifiziertem"."konifiziertem".#-1;=NPR:"CrMo"."CrMo".#-1;]
+[GA=ADJ:"4130"."4130".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Auf"."auf";=MEA:"44mm"."44 Millimeter".$100174789;]
+[GN=NOU:"Steuerrohre"."Steuerrohr".#606204;=CON:"und"."und".#-1;=NPR:"PressFit Tretlagergehäuse"."PressFit Tretlagergehäuse".#-1;]
+[PV=VER:"wird"."werden";=VER:"verzichtet"."verzichten".#13780;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"was"."was".#-1;]
+[GP=ART:"dem"."der";=NOU:"Look".#68181;]
+[GV=ADV:"gut".#596240;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"dem"."das";=NOU:"Fahrverhalten".#41131;]
+[GN=ADJ:"keinen"."kein";=NOU:"Abbruch".#121472;]
+[PV=VER:"tut"."tun".#134573;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Unicrown-Stahlgabel"."Unicrown-Stahlgabel".#-1;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GN=ART:"der"."der".#-1;=NOU:"Hinterbau".$15792;]
+[PV=VER:"bieten".#13273;]
+[GN=NOU:"Befestigungsmöglichkeiten".$120017;]
+[GP=PRE:"für"."für".#-1;=NOU:"Schutzbleche"."Schutzblech".#156934;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Gepäckträger".#101392553;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"wie"."wie".#-1;]
+[GN=PRO:"sie"."sie".#-1;]
+[GP=PRE:"beim"."bei";=NOU:"Expedition-Modell".$114915751;]
+[PV=ADV:"serienmäßig".#596607;=VER:"mitgeliefert"."mitliefern".#71223;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Ausfallenden"."Ausfallenden".#-1;]
+[GP=PRE:"für"."für".#-1;=NOU:"Standard-Schnellspannerachsen"."Standard-schnellspannerachse".$122705;]
+[PN=VER:"sind"."sein".#12562;=ADV:"eher".#67615;=ADJ:"wuchtig".#33457;]
+[GP=PRE:"als"."als".#-1;=ADJ:"grazil".#111531;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"passen".#117728;]
+[GA=ADV:"aber".#575123;=ADJ:"gut".#29675;]
+[GP=PRE:"zum"."zu";=NOU:"Gesamtlook".$68181;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=NOU:"Schaltauge".$1313;]
+[PN=VER:"ist"."sein";=ADJ:"praktischerweise".$108327;=ADJ:"austauschbar".#25055;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"An"."an";=ART:"der"."die";=NOU:"Verarbeitung".#102642;]
+[GP=ART:"des"."der";=NOU:"Stahlrahmens"."Stahlrahmen".$101324888;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"der"."die";=NOU:"Stahlgabel".$9610;]
+[PV=VER:"gibt"."geben".#13446;]
+[GN=PRO:"es"."es".#-1;]
+[GN=PRO:"nichts"."nichts".#-1;]
+[PV=VER:"auszusetzen"."aussetzen".#15661;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Wie"."wie";]
+[GV=ADV:"immer".#57736;]
+[GP=PRE:"bei"."bei".#-1;=NOU:"Pure"."Pure".#-1;]
+[GP=NOU:"Bros"."Bro";]
+[PV=VER:"setzt"."setzen".#173504;]
+[GN=PRO:"man"."man".#-1;]
+[GP=PRE:"auf"."auf".#-1;=ART:"einen"."ein";=ADJ:"reduzierten"."reduziert".#578112;]
+[??=PNT:",".",".#-1;]
+[GN=PNT:""".""".#-1;=ADJ:"puren"."pur".#120106;=PNT:""".""".#-1;=NOU:"Look".#68181;]
+[GP=PRE:"ohne"."ohne".#-1;=NOU:"Headbadge".$100799000;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"mit"."mit".#-1;=NPR:"Minimal-Decals"."Minimal-Decal";]
+[GP=PRE:"auf"."auf".#-1;=ART:"dem"."das";=NOU:"Sitzrohr".$533;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Dort"."dort".#34368;=VER:"wird"."werden";]
+[GN=PRO:"man"."man".#-1;]
+[GV=ADV:"übrigens".#99623;=ADV:"auch".#23235;]
+[GP=PRE:"über".#98894;=ART:"die"."die".#-1;=NOU:"Modellnummer".$14340;]
+[PV=VER:"informiert"."informieren".#13688;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Eine"."ein";=NPR:"KTL"."KTL".#-1;=PNT:"-"."-".#-1;=NOU:"Beschichtung".#123936;]
+[??=PNT:"("."(".#-1;]
+[GN=ADJ:"Kathodische"."kathodisch".#61002;=NOU:"Tauch"."Abtauchen".#590533;=PNT:"-"."-".#-1;=NOU:"Lackierung".#111236878;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"vor".#596943;=ART:"der"."die";=NOU:"Pulverbeschichtung".#588059;]
+[PV=VER:"schützt"."schützen".#119756;]
+[GN=ART:"den"."der";=NOU:"Rahmen".#101324888;]
+[GV=ADV:"innen".#118849;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"außen".#24891;]
+[GP=PRE:"vor".#596943;=NOU:"Korrosion".#23233;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";]
+[GP=PRE:"im"."in";=NOU:"Preis".#100160151;]
+[GN=ADJ:"enthaltene"."enthalten";=FDD:"RAL".$100001364;=PNT:"-"."-".#-1;=NOU:"Wunschfarbe".$100001075;]
+[PV=VER:"lässt"."offenlassen".#150447;]
+[GN=ADJ:"alle"."all";=NOU:"Gestaltungswünsche".$17016;]
+[GV=ADV:"offen"."offenlassen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"In"."in";=NOU:"Kombination".#14127;]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."die";=ORG:"SRAM Rival".$550;]
+[GN=ADJ:"1"."1".#-1;=NOU:"Gruppe".#8214;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"den"."der";=ORG:"Mavic Aksium".$116334295;=NOU:"Laufrädern"."Laufrad".#100595658;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"den"."die";=ADJ:"schwarzen"."schwarz".#157042;=NOU:"Ritchey-Komponenten"."Ritchey-Komponente".$3918;]
+[PV=VER:"macht"."machen".#16219;]
+[GN=ART:"das"."das".#-1;=NOU:"Bike".#100034493;]
+[GR=PRE:"trotz"."trotz".#-1;=PRO:"des"."der";]
+[GN=ADJ:"schlanken"."schlank".#41904;=NOU:"Rahmens"."Rahmen".#102448108;]
+[GN=ART:"einen"."ein";=ADJ:"modernen"."modern".#71555;=NOU:"Eindruck".#875;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Testfahrt".#41118;]
+[??=PNT:":".":".#-1;]
+[GN=ART:"Die"."die";=NOU:"Rahmengröße".$139028;=NOU:"L"."l".#117090;]
+[PV=VER:"war"."sein".#12562;]
+[GP=PRE:"für"."für".#-1;=ADJ:"meine"."mein";=MEA:"1,80m"."1,8 Meter".$11710;]
+[??=PNT:"("."(".#-1;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"langen"."lang".#66152;=NOU:"Beinen"."Bein".#2597;]
+[??=PNT:")".")".#-1;]
+[GA=ADV:"genau".#47735;=ADJ:"richtig".#83676;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Ein"."ein";=ADJ:"kleines"."klein".#62098;=NOU:"Spacertürmchen".$8964;]
+[CN=CON:"und"."und".#-1;]
+[GN=PRO:"ein"."ein".#-1;]
+[GN=NOU:"11er"."11er".#-1;=NOU:"Vorbau".#781;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Serie".#994;]
+[PV=VER:"sind"."sein".#12562;]
+[GN=MEA:"10cm"."10 Zentimeter".$100174728;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"passten"."passen".#117728;]
+[GN=ART:"das"."das".#-1;=NOU:"Ganze".#14253;]
+[GP=PRE:"an"."an".#-1;=ADJ:"meine"."mein";=ADJ:"gewohnte"."gewohnt".#48864;=NOU:"Sitzposition".#90706;]
+[GV=ADV:"an".#100886;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Generell"."generell".#596350;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"die"."die".#-1;=NOU:"Geometrie".#100008087;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"73,5"."73,5".#-1;=PNT:"°"."°".#-1;]
+[PN=NOU:"Sitzrohr".$533;]
+[??=PNT:",".",".#-1;]
+[GA=ADJ:"72"."72".#-1;=PNT:"°"."°".#-1;]
+[GN=NOU:"Steuerrohr".#606204;]
+[CN=CON:"und"."und".#-1;]
+[GN=MEA:"425mm"."425 Millimeter".$100174789;]
+[GN=NOU:"Kettenstreben"."Ketten";]
+[GN=PRO:"etwas"."etwas".#-1;]
+[GV=ADV:"entspannter"."entspannt";]
+[CN=CON:"als"."als".#-1;]
+[GP=PRE:"beim"."bei";=NOU:"Pelago"."Pelago".#-1;=NOU:"Sibbo"."Sibbo".#-1;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"was"."Sibbo";]
+[PV=PRO:"sich"."er";]
+[GV=ADV:"auch".#23235;]
+[GP=PRE:"beim"."bei";=NOU:"Fahren".#565502;]
+[PV=VER:"bemerkbar macht"."bemerkbar machen".#117303;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Wo"."wo";]
+[GN=ART:"das"."das".#-1;=NOU:"Sibbo"."Sibbo".#-1;]
+[GN=PRO:"etwas"."etwas".#-1;]
+[GV=ADV:"spritziger"."spritzig";]
+[PV=VER:"wirkt"."wirken".#113596;]
+[??=PNT:",".",".#-1;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"das"."das".#-1;=NOU:"Pure"."Pure".#-1;]
+[GP=NOU:"Bros"."Bro";]
+[GN=PRO:"etwas"."etwas".#-1;]
+[PN=ADJ:"gelassener"."gelassen".#31811;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"ohne"."ohne".#-1;]
+[GV=ADV:"träge".#605054;]
+[PV=CON:"zu".#565251;=VER:"sein".#12562;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"wozu".#167672;=ADV:"sicher".#56201;=ADV:"auch".#23235;]
+[GN=ART:"die"."die".#-1;=ADJ:"breiteren"."breit".#129504;=NPH:"Reifen"."Bianca Reifen".$100215627;]
+[PV=VER:"beigetragen"."beitragen".#26879;=VER:"haben"."haben".#-1;]
+[??=PNT:"("."(".#-1;]
+[GP=PRE:"beim"."bei";=NOU:"Sibbo"."Sibbo".#-1;]
+[PV=VER:"waren"."sein";]
+[GN=NOU:"28er"."28er".#-1;=NOU:"Schwalbe".#9132;=ANM:"Durano".$9132;]
+[PV=VER:"aufgezogen"."aufziehen".#125057;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Dieses"."dies";=NOU:"Stabilitätsplus".$78722;]
+[PV=VER:"macht"."machen".#16211;=PRO:"sich"."er";]
+[GV=ADV:"übrigens".#99623;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Schotterpassagen"."Schotterpassage".$3027;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=ADJ:"schlechtem"."schlecht".#155900;=NOU:"Asphalt".#3608;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Schlaglöchern"."Schlagloch".#101485806;]
+[GA=ADV:"positiv".#596332;=ADJ:"bemerkbar".#70390;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PN=ADV:"Insgesamt"."insgesamt".#48140;=VER:"war"."sein".#12562;]
+[GN=ART:"der"."der".#-1;=NOU:"Fahreindruck".#567466;]
+[PN=ADV:"äußerst".#24963;=ADJ:"positiv".#152095;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=NOU:"Pure"."Pure".#-1;]
+[GP=NOU:"Bros"."Bro";]
+[PV=VER:"tut"."tun".#13039;]
+[GV=ADV:"genau".#47735;]
+[GN=PRO:"das"."das".#-1;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"was"."was".#-1;]
+[GN=PRO:"es"."es".#-1;]
+[PV=VER:"soll"."sollen".#148995;]
+[??=PNT:":".":".#-1;]
+[GN=PRO:"Es"."es";]
+[PN=VER:"kann"."können";=ADJ:"sportlich".#92253;=VER:"sein".#12562;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"wenn"."wenn".#-1;]
+[GN=PRO:"man"."man".#-1;]
+[GN=PRO:"etwas"."etwas".#-1;]
+[PV=VER:"schneller fahren"."schnell fahren".#174026;=VER:"möchte"."mögen";]
+[??=PNT:",".",".#-1;]
+[GN=PRO:"es"."es".#-1;]
+[PV=VER:"erträgt"."ertragen".#13995;]
+[GN=ADV:"auch".#23235;=ADJ:"rumpelige"."rumpelig".#56480;=NOU:"Schotterpisten"."Schotterpiste".#100700143;]
+[GP=PRE:"mit"."mit".#-1;=ART:"dem"."der";=ADJ:"gewünschten"."gewünscht".#576865;=NOU:"Stahlkomfort".$63027;]
+[??=PNT:",".",".#-1;]
+[GN=PRO:"es"."es".#-1;]
+[PV=VER:"klettert"."klettern".#62238;]
+[GV=ADV:"gut".#596240;]
+[CN=CON:"und"."und".#-1;]
+[GN=PRO:"es"."es".#-1;]
+[PN=VER:"ist"."sein".#12562;=ADJ:"stabil".#26672;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Abfahrten"."Abfahrt".#15571;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"schlechtem"."schlecht".#155900;=NOU:"Asphalt".#3608;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=NOU:"Sibbo"."Sibbo".#-1;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=PRO:"etwas"."etwas".#-1;]
+[PN=ADJ:"sportlicher"."sportlich".#92253;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"genau".#47735;=ADV:"deshalb".#33073;]
+[GP=PRE:"aus"."aus".#-1;=ADJ:"meiner"."mein";=NOU:"Sicht".#16569;]
+[CN=CON:"aber"."aber".#-1;]
+[GA=ADV:"weniger"."wenig".#108777;=ADJ:"tourentauglich"."Tour";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Wobei"."wobei".#109826;]
+[GN=PRO:"ich"."ich".#-1;]
+[GN=ADJ:"keine"."kein";=NOU:"Fahrten"."Fahrt".#100999646;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"vollen"."voll".#105749;=NOU:"Gepäcktaschen"."Gepäcktasche".#600443;]
+[PV=VER:"unternehmen".#119478;=VER:"konnte"."können";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Kurz gesagt"."kurz gesagt".#590034;]
+[??=PNT:":".":".#-1;]
+[GN=ART:"das"."das".#-1;=NOU:"Pure"."Pure".#-1;]
+[GP=NOU:"Bros"."Bro";]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"ein"."ein".#-1;=ADJ:"ziemlich".#21884;=ADJ:"guter"."gut".#29675;=NOU:"Kompromiss".#63245;]
+[GP=PRE:"für"."für".#-1;=NOU:"Menschen"."Mensch".#100215627;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Mensch".#100215627;]
+[GV=ADV:"am liebsten".#67615;]
+[GN=ART:"ein"."ein".#-1;=NOU:"Bike".#100034493;]
+[GP=PRE:"für"."für".#-1;=PRO:"alles"."all";]
+[PV=VER:"haben".#12561;=VER:"möchten"."mögen";]
+[??=PNT:"-"."-".#-1;]
+[GN=ART:"ein"."ein".#-1;=NPR:"Allroader"."Allroader".#-1;]
+[GV=ADV:"eben".#106298;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"große"."groß".#50386;=NOU:"Reifenfreiheit".$100002979;]
+[GP=PRE:"von"."von".#-1;=MEA:"35mm"."35 Millimeter".$100174789;]
+[GV=PRE:"mit"."mit".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=MEA:"40mm"."40 Millimeter".$100174789;]
+[GP=PRE:"ohne"."ohne".#-1;=NOU:"Schutzbleche"."Schutzblech".#88401;]
+[PV=VER:"bietet"."bieten".#13273;]
+[GV=ADV:"jede Menge".#173469;]
+[GN=NOU:"Möglichkeiten"."Möglichkeit".#4320;]
+[GP=PRE:"für"."für".#-1;=NOU:"Sport".#4155;]
+[??=PNT:",".",".#-1;]
+[GP=NOU:"Alltag".#20393;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Reisen"."Reise".#1524;]
+[??=PNT:".".".".#-1;]
+
+SBJ=-49:7;SBJ=-49:22;OBJ=19:22;SBJ=-49:24;SBJ=34:33;OBJ=36:33;SBJ=34:40;SBJ=34:49;SBJ=-49:66;OBJ=62:66;SBJ=70:69;SBJ=-49:87;OBJ=84:87;SBJ=100:93;CPL=108:107;SBJ=106:113;SBJ=-49:124;OBJ=123:124;SBJ=128:127;SBJ=134:133;CPL=134:133;SBJ=146:147;SBJ=150:149;OBJ=151:149;APH=161:157;SBJ=157:167;OBJ=166:167;SBJ=171:172;OBJ=173:172;SBJ=171:181;SBJ=183:185;SBJ=192:193;SBJ=201:203;OBJ=202:203;SBJ=210:209;OBJ=213:209;OBJ=220:223;OBJ=231:230;SBJ=237:240;SBJ=239:240;OBJ=241:240;SBJ=254:251;OBJ=255:251;SBJ=260:261;SBJ=270:274;SBJ=270:277;OBJ=278:277;CPL=290:284;SBJ=285:287;APH=299:297;SBJ=297:303;SBJ=306:309;CPL=307:309;SBJ=314:315;SBJ=331:332;SBJ=342:343;SBJ=349:347;OBJ=345:347;APH=351:349;SBJ=349:353;SBJ=355:356;SBJ=359:361;SBJ=363:364;OBJ=365:364;SBJ=368:369;SBJ=372:373;SBJ=379:380;SBJ=-49:391;OBJ=389:391;SBJ=395:397;CPL=398:397;APH=401:399;SBJ=399:405;OBJ=403:405;SBJ=410:416;SBJ=414:416;OBJ=414:416;OBJ=418:416;APH=136:134;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Missing Concept	0	9	15	ADJ	Kompromiss	kompromissfähig		False	0				 	
+Missing Entity	0	26	4	ADJ	pur	Pure	120106	False	0				 	
+Wrong Disambiguation	0	77	5	VER	schwachwerden	werde	116228	False	0				 	
+Missing Entity	0	147	4	NOU	Pure	Pure	-1	False	0				 	
+Wrong Disambiguation	1	195	16	NOU	Universalmodell	Universalmodells	114915751	True	0				 	
+Wrong Grammar	1	238	16	NOU		Praktischerweise	1704	True	0				 	
+Wrong Grammar	1	319	6	VER	radeln	Radeln	81431	False	0				 	
+Wrong Disambiguation	1	340	5	VER	ergeben	ergab	12972	False	0				 	
+Wrong Disambiguation	0	372	4	NOU		Bike	100034493	False	0				 	100011442
+Wrong Recognition	0	381	4	NOU		Herz	2234	False	0		auf Herz und Nieren	ADV	 	
+Wrong Disambiguation	1	433	6	ADJ	fein	feinen	120540	False	0				 	135526
+Missing Entity	0	468	5	NOU		Vogel	100005113	False	0				 	
+Missing Entity	0	520	6	NOU	Pelago	Pelago	-1	False	0				 	
+Missing Entity	0	527	5	NOU	Sibbo	Sibbo	-1	False	0				 	
+Wrong Disambiguation	1	536	8	VER		erfahren	13972	False	0				 	12932
+Wrong Disambiguation	1	587	5	ADJ		flach	65605	False	0				 	43160
+Wrong Disambiguation	1	593	6	VER	zugehen	zugeht	16864	False	0				 	168475
+Wrong Grammar	1	755	3	PRO	das	das	-1	False	0				 	
+Wrong Grammar	1	759	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Disambiguation	1	765	11	ADJ	angestaubt	angestaubte	99137	False	0				 	21239
+Wrong Disambiguation	0	777	4	NOU		Bike	100034493	False	0				 	
+Wrong Disambiguation	1	855	10	VER	schießen	geschossen	16295	False	0				 	18461
+Wrong Disambiguation	1	867	11	NOU		Ausstattung	17	False	0				 	23588
+Wrong Disambiguation	1	884	7	NOU		Testrad	100000446	True	0				 	
+Missing Entity	0	920	4	NOU	Pure	Pure	-1	False	0				 	
+Wrong Entity Type	1	930	10	DOC		Gravelroad	103150005	True	0				 	
+Wrong Disambiguation	1	941	6	NOU		Modell	16275	False	0				 	16288
+Wrong Entity Type	1	952	10	ORG		SRAM Rival	550	True	0				 	
+Wrong Disambiguation	1	970	6	NOU		Gruppe	8214	False	0				 	
+Wrong Entity Form	0	991	8	VCL		Avid BB7	100011442	True	0				 	
+Wrong Entity Form	0	1025	12	ORG		Mavic Aksium	116334295	True	0				 	
+Wrong Disambiguation	1	1043	10	NOU	Laufrad	Laufrädern	100595658	False	0				 	
+Wrong Entity Form	1	1068	16	NPR	Challenge Strada	Challenge Strada	-1	False	0				 	
+Wrong Entity Form	1	1085	13	NPH		Bianca Reifen	100215627	True	0				 	
+Wrong Disambiguation	0	1107	4	NOU		Bike	100034493	False	0				 	
+Wrong Entity Type	1	1116	5	NOU	Conte	Conti	103519259	False	0				 	
+Wrong Entity Type	1	1122	10	NOU		Grand Prix	49975	False	0				 	
+Wrong Entity Type	1	1133	7	NOU	4Season	4Season	-1	False	0				 	
+Wrong Disambiguation	1	1141	6	NPH	Bianca Reifen	Reifen	100215627	True	0				 	
+Wrong Disambiguation	1	1196	7	NOU		Testrad	100000446	True	0				 	
+Wrong Grammar	0	1317	5	ADJ		recht	83676	False	0				 	
+Wrong Disambiguation	1	1345	5	VER	kommen	kamen	117806	False	0				 	
+Wrong Entity Form	1	1356	5	GEA	Celle	Selle	13013869	False	0				 	
+Wrong Disambiguation	1	1362	22	DEV		An-Atomica Ledersattel	151203	True	0				 	
+Missing Concept	1	1395	3	ORG	Sozialdemokratische Partei Deutschlands	SPD	7462	False	0				 	
+Wrong Disambiguation	1	1419	6	NOU		Rahmen	101324888	False	0				 	102448108
+Wrong Disambiguation	1	1449	11	NOU		Ausstattung	17	False	0				 	
+Wrong Disambiguation	1	1512	5	VER	setzen	setzt	173504	False	0				 	
+Missing Entity	0	1518	4	NOU	Pure	Pure	-1	False	0				 	
+Wrong Disambiguation	1	1544	7	NOU	Modell	Modelle	16275	False	0				 	
+Missing Concept	0	1576	12	ADJ	geschweißt	geschweißten		False	0				 	
+Wrong Disambiguation	1	1589	11	NOU		Stahlrahmen	101324888	True	0				 	
+Missing Concept	0	1614	13	ADJ	konifiziertem	konifiziertem	-1	False	0				 	
+Wrong Entity Form	0	1628	4	NPR	CrMo	CrMo	-1	False	0				 	
+Wrong Entity Form	0	1664	25	NPR	PressFit Tretlagergehäuse	PressFit Tretlagergehäuse	-1	False	0				 	
+Wrong Disambiguation	1	1720	3	ADV		gut	596240	False	0				 	
+Wrong Disambiguation	1	1753	7	NOU		Abbruch	121472	False	0				 	498734
+Missing Concept	0	1770	19	NOU	Unicrown-Stahlgabel	Unicrown-Stahlgabel	-1	False	0				 	
+Wrong Disambiguation	1	1891	17	NOU		Expedition-Modell	114915751	True	0				 	
+Wrong Recognition	1	1946	12	NOU	Ausfallenden	Ausfallenden	-1	False	0				 	
+Wrong Disambiguation	1	2023	6	VER		passen	117728	False	0				 	16222
+Missing Concept	1	2059	10	NOU		Schaltauge	1313	True	0				 	
+Wrong Recognition	1	2074	16	ADJ		praktischerweise	108327	True	0				 	
+Wrong Disambiguation	1	2112	12	NOU		Verarbeitung	102642	False	0				 	163693
+Wrong Disambiguation	1	2129	12	NOU	Stahlrahmen	Stahlrahmens	101324888	True	0				 	
+Wrong Disambiguation	1	2150	10	NOU		Stahlgabel	9610	True	0				 	
+Wrong Disambiguation	1	2161	4	VER	geben	gibt	13446	False	0				 	
+Wrong Disambiguation	1	2176	11	VER	aussetzen	auszusetzen	15661	False	0				 	126876
+Missing Entity	0	2203	4	NOU	Pure	Pure	-1	False	0				 	
+Wrong Disambiguation	1	2233	11	ADJ	reduziert	reduzierten	578112	False	0				 	
+Wrong Disambiguation	1	2343	4	PRE		über	98894	False	0				 	
+Wrong Disambiguation	1	2352	12	NOU		Modellnummer	14340	True	0				 	
+Wrong Disambiguation	1	2412	5	NOU	Abtauchen	Tauch	590533	False	0				 	
+Wrong Disambiguation	1	2469	6	NOU		Rahmen	101324888	False	0				 	
+Wrong Disambiguation	1	2492	3	PRE		vor	596943	False	0				 	
+Wrong Entity Type	1	2531	3	FDD		RAL	100001364	True	0				 	
+Wrong Recognition	1	2558	18	NOU		Gestaltungswünsche	17016	True	0				 	
+Wrong Entity Type	1	2607	10	ORG		SRAM Rival	550	True	0				 	
+Wrong Disambiguation	1	2620	6	NOU		Gruppe	8214	False	0				 	
+Wrong Entity Form	1	2632	12	ORG		Mavic Aksium	116334295	True	0				 	
+Wrong Disambiguation	1	2645	10	NOU	Laufrad	Laufrädern	100595658	False	0				 	
+Wrong Disambiguation	1	2694	5	VER	machen	macht	16219	False	0				 	
+Wrong Disambiguation	0	2704	4	NOU		Bike	100034493	False	0				 	
+Wrong Grammar	1	2715	3	PRO	der	des		False	0				 	
+Wrong Disambiguation	1	2777	11	NOU		Rahmengröße	139028	True	0				 	
+Missing Concept	0	2886	6	NOU		Vorbau	781	False	0				 	
+Wrong Recognition	1	2911	7	VER	passen	passten	117728	False	0		anpassen		 	14860
+Missing Concept	1	2981	9	NOU		Geometrie	100008087	False	0				 	
+Missing Concept	0	3036	13	NOU	Ketten	Kettenstreben		False	0				 	
+Wrong Grammar	1	3050	5	PRO	etwas	etwas	-1	False	0				 	
+Missing Entity	0	3077	6	NOU	Pelago	Pelago	-1	False	0				 	
+Missing Entity	0	3084	5	NOU	Sibbo	Sibbo	-1	False	0				 	
+Wrong Disambiguation	1	3117	15	VER	bemerkbar machen	bemerkbar macht	117303	False	0				 	117304
+Wrong Grammar	1	3147	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Grammar	0	3153	10	ADV	spritzig	spritziger		False	0				 	
+Wrong Entity Form	0	3179	4	NOU	Pure	Pure	-1	False	0				 	
+Wrong Grammar	1	3189	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Disambiguation	0	3212	5	ADV		träge	605054	False	0				 	
+Wrong Disambiguation	1	3248	9	ADJ	breit	breiteren	129504	False	0				 	30148
+Wrong Disambiguation	1	3258	6	NPH	Bianca Reifen	Reifen	100215627	True	0				 	
+Missing Entity	0	3289	5	NOU	Sibbo	Sibbo	-1	False	0				 	
+Missing Entity	0	3306	8	NOU		Schwalbe	9132	False	0				 	
+Wrong Entity Type	0	3315	6	ANM		Durano	9132	True	0				 	
+Wrong Disambiguation	1	3322	10	VER	aufziehen	aufgezogen	125057	False	0				 	
+Wrong Recognition	1	3358	5	VER	machen	macht	16211	False	0		bemerkbar machen		 	117304
+Wrong Disambiguation	0	3404	10	ADJ	schlecht	schlechtem	155900	False	0				 	58160
+Wrong Entity Form	0	3512	4	NOU	Pure	Pure	-1	False	0				 	
+Wrong Grammar	1	3583	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Disambiguation	0	3701	3	ADV		gut	596240	False	0				 	
+Wrong Disambiguation	1	3716	6	ADJ		stabil	26672	False	0				 	
+Missing Entity	0	3765	5	NOU	Sibbo	Sibbo	-1	False	0				 	
+Wrong Grammar	1	3775	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Disambiguation	0	3781	11	ADJ	sportlich	sportlicher	92253	False	0				 	
+Wrong Disambiguation	0	3558	9	ADJ		sportlich	92253	False	0				 	
+Wrong Disambiguation	1	3819	5	NOU		Sicht	16569	False	0				 	
+Missing Concept	0	3838	14	ADJ	Tour	tourentauglich		False	0				 	
+Wrong Disambiguation	0	3903	11	VER		unternehmen	119478	False	0				 	
+Wrong Entity Form	0	3940	4	NOU	Pure	Pure	-1	False	0				 	
+Wrong Disambiguation	0	4018	4	NOU		Bike	100034493	False	0				 	
+Wrong Disambiguation	0	4063	4	ADV		eben	106298	False	0				 	

@@ -1,0 +1,1000 @@
+﻿[GN=NOU:"Supermarktkette".#498234;]
+[GP=PRE:"vor".#596945;=ART:"dem"."das";=NOU:"Aus".#118198;]
+[CL]
+[CR]
+[GN=ADJ:"Diese"."dies";=NOU:"Männer"."Mann".#100008441;]
+[PV=VER:"entscheiden".#12719;]
+[GP=PRE:"über".#596956;=ORG:"Kaiser's Tengelmanns"."Kaiser's Tengelmann".$116334295;=NOU:"Schicksal".#86370;]
+[CL]
+[CR]
+[GN=ORG:"Kaiser's Tengelmann".$116334295;]
+[PV=VER:"droht"."drohen".#16516;]
+[GN=ART:"die"."die".#-1;=NOU:"Zerschlagung".#111335;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Hoffnung".#2898;]
+[PV=VER:"ruht"."ruhen".#84597;]
+[GP=PRE:"auf"."auf".#-1;=ART:"einem"."ein";=ADJ:"möglichen"."möglich".#40256;=NOU:"Spitzentreffen".#101072326;]
+[GP=ART:"der"."die";=ADJ:"entscheidenden"."entscheidend".#24830;=NOU:"Akteure"."Akteur".#118803;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GR=PRO:"Wer"."wer";]
+[PV=VER:"hat"."haben".#12561;]
+[GN=ART:"die"."die".#-1;=NOU:"Zukunft".#2593;]
+[GN=PRO:"der"."der".#-1;]
+[GN=NOU:"Supermarktkette".#498234;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Hand".#100033767;]
+[??=PNT:"?"."?".#-1;]
+[CL]
+[GN=ART:"Ein"."ein";=NOU:"Überblick".#118964;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PV=VER:"Entscheidet"."entscheiden".#13034;=PRO:"sich"."er";]
+[GP=PRE:"in"."in".#-1;=ADJ:"dieser"."dies";=NOU:"Woche".#980;]
+[GN=ART:"das"."das".#-1;=NOU:"Schicksal".#86370;]
+[GP=PRE:"von"."von".#-1;=ORG:"Kaiser's Tengelmann".$116334295;]
+[??=PNT:"?"."?".#-1;]
+[CL]
+[GP=PRE:"Am"."an";=NOU:"Freitag".#100000130;]
+[PV=VER:"tagt"."tagen".#95602;]
+[GN=ART:"der"."der".#-1;=NOU:"Aufsichtsrat".#23771;]
+[GP=ART:"der"."die";=ADJ:"maroden"."marod".#29350;=NOU:"Supermarktkette".#498234;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Insidern"."Insider".#36498;]
+[GV=PRE:"zufolge"."zufolge".#-1;]
+[PV=VER:"will"."wollen".#14680;]
+[GN=NOU:"Tengelmann-Eigentümer"."Tengelmann-Eigentümer".#-1;=NPH:"Karl-Erivan Haub".$100215627;]
+[CN=CON:"nun"."nun".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Zerschlagung".#111335;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"rentablen"."rentabel".#83160;=NPH:"Märkte"."Rewe Märkte".$100215627;]
+[PV=VER:"könnten"."können".#14354;]
+[PV=ADV:"dann".#32207;=VER:"verkauft"."verkaufen".#15283;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"der"."der".#-1;=NOU:"Rest".#4214;]
+[GP=PRE:"mitsamt"."mitsamt".#-1;=NOU:"Verwaltung".#102920921;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Zulieferbetrieben"."Zulieferbetrieb".#112265;]
+[GP=PRE:"in"."in".#-1;=ART:"die"."die".#-1;=NOU:"Insolvenz".#100757382;]
+[PV=VER:"geschickt"."schicken".#15250;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GA=ADJ:"8000"."8000".#-1;]
+[GP=ART:"der"."die";=ADJ:"rund".#34477;=ADJ:"15.000"."15.000".#-1;=NOU:"Mitarbeiter".#1613;]
+[PV=VER:"könnten"."können";]
+[GP=PRE:"laut"."laut".#-1;=NOU:"Schätzungen"."Schätzung".#16452;]
+[GN=ADJ:"ihren"."ihr";=NOU:"Job".#3643;]
+[PV=VER:"verlieren".#16504;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PV=ADV:"Eigentlich"."eigentlich".#36198;=VER:"wollte"."wollen";]
+[GN=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[GR=PRO:"die"."die".#-1;]
+[GP=ADV:"mehr".#70026;=PRE:"als"."als".#-1;=ADJ:"400"."400".#-1;=NPH:"Märkte"."Rewe Märkte".$100215627;]
+[GV=ADV:"komplett".#588989;]
+[GP=PRE:"an"."an".#-1;=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[PV=VER:"verkaufen".#15283;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Doch"."doch";]
+[GN=ART:"die"."die".#-1;=NOU:"Übernahme".#99259;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"eigentlich".#36198;]
+[GP=PRE:"im"."in";=DAT:"Oktober 2014"."Oct-2014".$100205892;]
+[PV=VER:"besiegelt"."besiegeln".#128470;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"steckt"."feststecken".#117085;]
+[GV=ADV:"fest"."feststecken";]
+[??=PNT:":".":".#-1;]
+[PV=ADV:"Erst"."erst".#39773;=VER:"untersagte"."untersagen".#13776;]
+[GN=ART:"das"."das".#-1;=ORG:"Bundeskartellamt".#497556;]
+[GP=PRE:"im"."in";=DAT:"April 2015"."Apr-2015".$100205892;]
+[GN=ART:"die"."die".#-1;=NOU:"Übernahme".#99259;]
+[??=PNT:",".",".#-1;]
+[PV=ADV:"dann".#32207;=VER:"erteilte"."erteilen".#39873;]
+[GN=NOU:"Bundeswirtschaftsminister".#497258;=NPH:"Sigmar Gabriel".#100160902;]
+[??=PNT:"("."(".#-1;]
+[GN=ORG:"SPD"."Sozialdemokratische Partei Deutschlands".#7462;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"im"."in";=NOU:"März".#100000110;=ADJ:"dieses"."dies";=NOU:"Jahres"."Jahr".#100000577;]
+[GN=ART:"eine"."ein";=NOU:"Ministererlaubnis".#567181;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Postwendend"."postwendend".#79310;=VER:"legten"."legen".#146956;]
+[GN=ART:"die"."die".#-1;=NOU:"Wettbewerber".#109021;=NPH:"Rewe"."Rewe Märkte".$100215627;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"Markant"."Markant".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=NPH:"Norma Beschwerde".$100215627;]
+[GP=PRE:"beim"."bei";=NOU:"Oberlandesgericht".#75050;=GEO:"Düsseldorf".#12920263;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"OLG".#75050;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"ein"."einen".#14874;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=NOU:"Gericht".#1581;]
+[PV=VER:"stoppte"."stoppen".#29149;]
+[GP=PRE:"im"."in";=NOU:"Juli".#100000121;]
+[GV=ADV:"vorerst".#106209;]
+[GN=ART:"die"."die".#-1;=NOU:"Ministererlaubnis".#567181;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Noch"."noch".#74484;]
+[GP=PRE:"vor".#596943;=ART:"der"."die";=NOU:"Aufsichtsratssitzung".#497746;]
+[GP=PRE:"am"."an";=NOU:"Freitag".#100000130;]
+[PV=VER:"könnte"."können".#14354;]
+[GN=ART:"ein"."ein".#-1;=NOU:"Spitzentreffen".#101072326;]
+[GP=ART:"der"."die";=NOU:"Verantwortlichen"."Verantwortliche".#561665;]
+[GP=PRE:"von"."von".#-1;=ORG:"Tengelmann".$116334295;]
+[??=PNT:",".",".#-1;]
+[GN=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=NPH:"Rewe"."Rewe Märkte".$100215627;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"der"."die";=NOU:"Gewerkschaft".#100178790;=ORG:"Ver.di"."Vereinte Dienstleistungsgewerkschaft".#5222;]
+[GN=ART:"eine"."ein";=ADJ:"andere".#20987;=NOU:"Lösung".#121241;]
+[PV=VER:"bringen".#14085;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=ADJ:"Übereinstimmenden"."übereinstimmend".#581966;=NOU:"Berichten"."Bericht".#4540;]
+[GV=PRE:"zufolge"."zufolge".#-1;]
+[PV=VER:"soll"."sollen";]
+[GN=PRO:"es"."es".#-1;]
+[GP=PRE:"am"."an";=NOU:"Donnerstagabend".#114039;]
+[PV=VER:"stattfinden".#13128;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"wo"."wo".#-1;]
+[??=PNT:",".",".#-1;]
+[PN=VER:"ist"."sein".#12562;=ADV:"noch".#74484;=ADJ:"geheim".#47122;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"In jedem Fall"."in jedem Fall".#117526;]
+[PV=VER:"steht"."bevorstehen".#17756;]
+[GN=ART:"die"."die".#-1;=NOU:"Entscheidung".#2863;]
+[GP=PRE:"über".#596956;=ORG:"Kaiser's Tengelmann".$116334295;]
+[GV=ADV:"kurz".#65656;]
+[GV=ADV:"bevor"."bevorstehen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Diese"."dies";=NOU:"Personen"."Person".#100215627;]
+[PV=VER:"haben".#12561;]
+[GN=ART:"die"."die".#-1;=NOU:"Zukunft".#2593;]
+[GN=PRO:"der"."der".#-1;]
+[GN=NOU:"Supermarktkette".#498234;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Hand".#100033767;]
+[??=PNT:":".":".#-1;]
+[CL]
+[CR]
+[GN=NPH:"Karl-Erivan Haub".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=ORG:"Kaiser's"."Kaiser's Tengelmann".$116334295;=PNT:"-"."-".#-1;=ORG:"Tengelmann".$116334295;=PNT:"-"."-".#-1;=NOU:"Inhaber".#117252;]
+[CL]
+[CR]
+[GP=PRE:"Für"."für";=ART:"den"."der";=NOU:"Milliardär".#101062083;]
+[PV=VER:"geht"."gehen".#14248;=PRO:"es"."es".#-1;]
+[CN=CON:"um"."um".#-1;]
+[GV=ADV:"viel".#46001;]
+[??=PNT:":".":".#-1;]
+[GN=ADJ:"sein"."sein".#-1;=NOU:"Image".#173075;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"das"."das".#-1;=NOU:"Familienunternehmen".#101395324;]
+[??=PNT:"-"."-".#-1;]
+[GV=ADV:"vor allem".#58485;]
+[GV=ADV:"aber".#575123;]
+[GP=PRE:"um"."um".#-1;=ADV:"sehr".#46001;=ADJ:"viel".#173024;=NOU:"Geld".#100001368;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Und"."und";]
+[GN=ART:"der"."der".#-1;=ADJ:"56-jährige"."jährig".#496974;=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[PV=VER:"geht"."gehen".#15626;]
+[GP=PRE:"ohne"."ohne".#-1;=ART:"einen"."ein";=ADJ:"einzigen"."einzig".#20221;=NOU:"Trumpf".#161642;]
+[GP=PRE:"in"."in".#-1;=ART:"das"."das".#-1;=NOU:"Endspiel".#5797;]
+[GP=PRE:"um"."um".#-1;=ORG:"Kaiser's Tengelmann".$116334295;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Seit"."seit";=MEA:"15 Jahren"."15 Jahr".$100000577;]
+[PV=VER:"schreibt"."schreiben".#156695;]
+[GN=ART:"die"."die".#-1;=NOU:"Supermarktkette".#498234;]
+[GV=ADV:"bereits".#87685;]
+[GN=NOU:"Verluste"."Verlust".#16431;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"nun"."nun".#-1;]
+[PV=VER:"geht"."gehen".#14248;=PRO:"es"."es".#-1;]
+[GP=PRE:"um"."um".#-1;=ART:"die"."die".#-1;=NOU:"Existenz".#2484;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Seit"."seit";=MEA:"zwei Jahren"."2 Jahr".$100000577;]
+[PV=VER:"hängt"."hängen".#124024;]
+[GN=ART:"die"."die".#-1;=NOU:"Übernahme".#99259;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Luft".#107391292;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PV=ADV:"Mittlerweile"."mittlerweile".#37164;=VER:"ist"."sein".#12562;]
+[GN=ART:"das"."das".#-1;=ADJ:"normale"."normal".#119054;=NOU:"Geschäft".#2967;]
+[PV=ADV:"deshalb".#33073;=ADV:"kaum".#61100;=ADV:"noch".#74484;=VER:"fortzuführen"."fortführen".#166939;]
+[??=PNT:":".":".#-1;]
+[GN=NOU:"Mietverträge"."Mietvertrag".#70698;]
+[PV=VER:"laufen"."auslaufen".#134495;]
+[GV=ADV:"aus"."auslaufen";]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"daher".#33073;]
+[PV=VER:"schließen".#156022;]
+[GN=ADV:"nach und nach".#173195;=NPH:"Märkte"."Rewe Märkte".$100215627;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Bei"."bei";=ART:"den"."die";=NOU:"Lieferanten"."Lieferant".#67689;]
+[PV=VER:"zahlt"."zahlen".#119473;]
+[GN=ORG:"Kaiser's Tengelmann".$116334295;]
+[GP=PRE:"laut"."laut".#-1;=NOU:"Insidern"."Insider".#36498;]
+[GV=ADV:"rund".#100886;]
+[GN=PCT:"zehn Prozent"."10%".$100011229;]
+[GP=ADV:"mehr".#70026;=PRE:"als"."als".#-1;=ART:"die"."die".#-1;=NOU:"Konkurrenz".#14465;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Mitarbeiter".#1613;]
+[PV=VER:"laufen"."überlaufen".#132740;]
+[GV=ADV:"scharenweise".#85971;]
+[GP=PRE:"zur"."zu";=NOU:"Konkurrenz".#14465;]
+[GV=ADV:"über"."überlaufen";]
+[??=PNT:",".",".#-1;]
+[PV=VER:"heißt"."heißen".#13738;]
+[GN=PRO:"es"."es".#-1;]
+[GP=PRE:"in"."in".#-1;=ART:"einem"."ein";=NOU:"Brief".#3511;]
+[GP=ART:"des"."der";=NOU:"Geschäftsführers"."Geschäftsführer".#5129;]
+[GP=PRE:"an"."an".#-1;=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[GP=PRE:"von"."von".#-1;=NOU:"Anfang".#162047;=NOU:"September".#100000123;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"IT".#100011661;]
+[??=PNT:"-"."-".#-1;]
+[GP=PRE:"für"."für".#-1;=ART:"eine"."ein";=NOU:"Supermarktkette".#498234;]
+[GA=ADV:"enorm".#24963;=ADJ:"wichtig".#109123;]
+[??=PNT:"-"."-".#-1;]
+[PV=VER:"drohe"."drohen".#16517;]
+[PV=VER:"zusammenzubrechen"."zusammenbrechen".#140597;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Für"."für";=ART:"das"."das".#-1;=NOU:"Geschäftsjahr".#46427;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"das"."Geschäftsjahr".#46427;]
+[GP=PRE:"im"."in";=NOU:"Oktober".#100000124;]
+[PV=VER:"zu Ende geht"."zu Ende gehen".#14485;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"rechnet"."rechnen".#14576;]
+[GN=ART:"das"."das".#-1;=NOU:"Management".#68994;]
+[GP=PRE:"mit"."mit".#-1;=ART:"einem"."ein";=NOU:"Verlust".#16431;]
+[GP=PRE:"von"."von".#-1;=ADJ:"rund".#64689;]
+[GN=MON:"90 Millionen Euro"."90.000.000 Euro".$100004916;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Tendenz".#1563;]
+[GV=ADV:"steigend"."steigend".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Damit"."damit".#32147;]
+[PV=VER:"hat"."haben".#13088;]
+[GN=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[GN=ART:"ein"."ein".#-1;=ADJ:"großes"."groß".#52544;=NOU:"Problem".#12402;]
+[??=PNT:":".":".#-1;]
+[GN=PRO:"Er"."er";]
+[PV=VER:"steht"."stehen".#32369;]
+[GP=PRE:"unter"."unter".#-1;=ADJ:"enormen"."enorm".#38373;=NOU:"Zeitdruck".#110886;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Er"."er";]
+[PV=VER:"kann"."können";]
+[GV=ADV:"de facto".#107105;]
+[PV=ADV:"nicht".#74226;=VER:"abwarten".#19212;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"bis auf".#588603;=ART:"dem"."der";=NOU:"Rechtsweg".#82367;]
+[GP=PRE:"über".#596956;=ART:"die"."die".#-1;=NOU:"Komplett-Übernahme"."Komplettübernahme".#101747;]
+[GP=PRE:"durch"."durch".#-1;=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[PN=ADJ:"entschieden".#562505;=VER:"ist"."sein";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Das"."das";]
+[PV=VER:"würde"."werden";]
+[GN=ADJ:"voraussichtlich".#106018;=ADV:"noch".#74484;=NOU:"Jahre"."Jahr".#100000577;]
+[PV=VER:"dauern".#108418;]
+[??=PNT:",".",".#-1;]
+[PV=ADV:"bis dahin".#120165;=VER:"wäre"."sein".#172056;]
+[GN=ORG:"Kaiser's Tengelmann".$116334295;]
+[PV=ADV:"vermutlich".#155359;=ADV:"endgültig".#597262;=VER:"zusammengebrochen"."zusammenbrechen".#140597;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"hätte"."haben";]
+[GN=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[GN=ADJ:"weitere"."weit".#40690;=ADJ:"riesige"."riesig".#83735;=NOU:"Verluste"."Verlust".#164536;]
+[PV=VER:"beschert"."bescheren".#13846;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PV=ADV:"Offenbar"."offenbar".#75277;=VER:"ist"."sein".#172056;]
+[GN=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[GV=ADV:"daher".#33073;=ADV:"nun".#37164;]
+[CN=CON:"doch"."doch".#-1;]
+[GP=PRE:"zur"."zu";=NOU:"Zerschlagung".#111335;]
+[GA=ADJ:"bereit".#27288;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Zerschlagung".#111335;]
+[GN=PRO:"er"."er".#-1;]
+[GP=PRE:"vor".#596945;=MEA:"zwei Jahren"."2 Jahr".$100000577;]
+[PV=ADV:"noch".#74484;=VER:"ablehnte"."ablehnen".#15064;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"falls"."falls".#-1;]
+[GN=ADJ:"mögliche"."möglich".#40256;=NOU:"Verhandlungen"."Verhandlung".#100202875;]
+[GP=PRE:"mit"."mit".#-1;=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[??=PNT:",".",".#-1;]
+[GP=NPH:"Rewe"."Rewe Märkte".$100215627;]
+[CN=CON:"und"."und".#-1;]
+[GP=ORG:"Ver.di"."Vereinte Dienstleistungsgewerkschaft".#5222;]
+[PV=VER:"scheitern".#14963;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Selbst".#103236990;]
+[PN=ADV:"dann".#32207;=VER:"wäre"."sein".#12562;]
+[GN=PRO:"er"."er".#-1;]
+[PN=ART:"die"."die".#-1;=NOU:"Probleme"."Problem".#12402;]
+[GV=ADV:"nicht".#74226;]
+[GV=ADV:"mit einem Schlag".#173513;]
+[GA=ADJ:"los".#68197;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"unrentablen"."unrentabel".#101396;=NPH:"Märkte"."Rewe Märkte".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Logistik".#100177777;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Verwaltung".#97652;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Tochtergesellschaften"."Tochtergesellschaft".#97168;]
+[GP=PRE:"wie"."wie".#-1;=NOU:"Lieferdienste"."Lieferdienst".#497398;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Fleischhöfe"."Fleischhof".$1428;]
+[??=PNT:"-"."-".#-1;]
+[GN=ART:"das"."das".#-1;=PRO:"alles"."all";]
+[PV=VER:"müsste"."müssen";=VER:"abgewickelt"."abwickeln".#14203;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Und"."und";]
+[GV=ADV:"auch".#173912;]
+[GN=ART:"die"."die".#-1;=ADJ:"rentablen"."rentabel".#83160;=NPH:"Märkte"."Rewe Märkte".$100215627;]
+[PV=VER:"lassen"."lassen".#-1;=PRO:"sich"."er";]
+[GV=ADV:"nicht".#74226;]
+[GV=ADV:"ohne Weiteres"."ohne weiteres".#173622;]
+[PV=VER:"verkaufen".#120448;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=NOU:"Kartellamt".#60737;]
+[PV=VER:"müsste"."müssen";]
+[GV=ADV:"jeweils".#142693;]
+[GN=ART:"die"."die".#-1;=NOU:"Genehmigung".#117470;]
+[PV=VER:"erteilen".#39873;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=NOU:"Haubs"."Haubs".#-1;]
+[GN=ADJ:"größte"."groß".#40624;=NOU:"Hoffnung".#100190507;]
+[PV=VER:"beruht"."beruhen".#13121;]
+[GV=ADV:"daher".#33073;=ADV:"darauf".#32207;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=NPH:"Rewe"."Rewe Märkte".$100215627;]
+[GN=ART:"die"."die".#-1;=NOU:"Klagen"."Klage".#119111;]
+[GP=PRE:"gegen"."gegen".#-1;=ART:"die"."die".#-1;=NOU:"Übernahme".#99259;]
+[GP=PRE:"durch"."durch".#-1;=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[PV=VER:"zurückzieht"."zurückziehen".#167207;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"so".#130436;]
+[GN=ART:"den"."der";=NOU:"Deal".#16499;]
+[PV=ADV:"doch".#173057;=ADV:"noch".#74484;=VER:"ermöglicht"."ermöglichen".#39598;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NPH:"Markus Mosa".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Edeka-Chef"."Edeka-Chef".#-1;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";=NOU:"Edeka-Chef"."Edeka-Chef".#-1;]
+[PV=VER:"kann"."können".#14354;]
+[GP=ART:"dem"."das";=NOU:"Endspiel".#5797;]
+[GP=PRE:"um"."um".#-1;=ORG:"Kaiser's Tengelmann".$116334295;]
+[PV=VER:"entspannt"."entspannen";=VER:"entgegensehen".#52235;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"denn"."denn".#-1;]
+[GN=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[PV=VER:"kann"."können";]
+[GV=ADV:"eigentlich".#36198;=ADV:"nur".#20252;]
+[PV=VER:"gewinnen".#138391;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PN=ADV:"Schließlich"."schließlich".#118835;=VER:"sind"."sein".#12562;]
+[GN=ART:"die"."die".#-1;=NOU:"Verträge"."Vertrag".#119844;]
+[GP=PRE:"mit"."mit".#-1;=ORG:"Kaiser's Tengelmann".$116334295;]
+[PN=ADV:"bereits".#87685;=ADJ:"unterschrieben"."unterschrieben".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PV=VER:"Sollten"."sollen";]
+[GN=ART:"die"."die".#-1;=NOU:"Gespräche"."Gespräch".#118628;]
+[PV=ADV:"also".#43901;=VER:"scheitern".#14963;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"muss"."müssen";]
+[GN=NOU:"Tengelmann-Eigentümer"."Tengelmann-Eigentümer".#-1;=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[GN=PRO:"sich"."er";]
+[PV=VER:"entscheiden".#12719;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"ob"."ob".#-1;]
+[GN=PRO:"er"."er".#-1;]
+[GN=ART:"den"."der";=NOU:"Deal".#16499;]
+[GP=PRE:"vor".#596943;=NOU:"Gericht".#1581;]
+[GA=ADV:"voraussichtlich".#155359;=ADJ:"jahrelang".#59271;]
+[PV=VER:"durchfechten".#35219;=VER:"will"."wollen";]
+[CN=CON:"oder"."oder".#-1;]
+[GV=ADV:"nicht".#74226;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"immensen"."immens".#57733;=NOU:"Kosten".#562396;]
+[PV=VER:"müsste"."müssen";]
+[GV=ADV:"allerdings".#20252;]
+[GN=PRO:"er"."er".#-1;]
+[PV=VER:"tragen".#15372;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"um"."um".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Supermarktkette".#498234;]
+[GV=ADV:"bis dahin".#120165;]
+[GP=PRE:"am"."an";=NOU:"Leben".#2484;]
+[PV=CON:"zu".#565251;=VER:"erhalten".#18053;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Freilich"."freilich".#44552;=VER:"würden"."werden";]
+[GN=ADJ:"unrentable"."unrentabel".#101396;=NPH:"Märkte"."Rewe Märkte".$100215627;]
+[PV=ADV:"zwangsläufig".#596617;=VER:"geschlossen"."schließen".#133228;]
+[??=PNT:",".",".#-1;]
+[GN=PRO:"was"."was".#-1;]
+[GN=NPH:"Mosa"."Markus Mosa".$100215627;]
+[GA=ADV:"nur".#20252;=ADJ:"recht".#84908;]
+[PV=VER:"sein".#12562;=VER:"kann"."können";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Er"."er";]
+[PV=VER:"hatte"."haben";=PRO:"sich"."er";]
+[PV=VER:"verpflichtet"."verpflichten".#12972;]
+[??=PNT:",".",".#-1;]
+[GN=ADV:"fast".#26795;=ADJ:"alle"."all";=ORG:"Tengelmann".$116334295;=PNT:"-"."-".#-1;=NOU:"Arbeitsplätze"."Arbeitsplatz".#104164871;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Jahre"."Jahr".#100000577;]
+[GV=ADV:"hinaus".#55084;]
+[PV=CON:"zu".#565251;=VER:"erhalten".#18053;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"zudem".#98967;=ADV:"teilweise".#96299;=ADV:"besser".#27763;]
+[PV=CON:"zu".#565251;=VER:"entlohnen".#119475;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=PRE:"Am Ende"."am Ende".#597325;]
+[PV=VER:"könnte"."können".#14354;]
+[GN=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[GV=ADV:"so".#130436;]
+[GN=PRO:"alle"."all";]
+[GV=ADV:"verbliebenen"."verblieben";]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GA=ADV:"zumeist".#70140;=ADJ:"rentablen"."rentabel".#83160;]
+[??=PNT:"-"."-".#-1;]
+[GN=NOU:"Standorte"."Standort".#482;]
+[PV=VER:"bekommen".#13972;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=PRO:"das"."das".#-1;]
+[GN=ADV:"zu".#168349;=ADJ:"geringeren"."gering".#48046;=NOU:"Kosten".#562396;]
+[CN=CON:"als"."als".#-1;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Ministererlaubnis".#567181;]
+[PV=VER:"vorgesehen"."vorsehen".#17401;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PV=VER:"Wird"."werden";]
+[GN=ORG:"Tengelmann".$116334295;]
+[PV=ADV:"aber".#74486;=VER:"zerschlagen".#168093;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"könnte"."können";]
+[GN=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[PV=ADV:"sogar".#173912;=ADV:"noch".#74484;=ADV:"mehr".#70026;=VER:"profitieren".#172952;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Schließlich"."schließlich".#86961;=VER:"hatte"."haben".#12561;]
+[GN=ART:"das"."das".#-1;=NOU:"Kartellamt".#60737;]
+[GN=ART:"die"."die".#-1;=NOU:"Übernahme".#99259;]
+[GP=PRE:"von"."von".#-1;=ADJ:"120"."120".#-1;=ORG:"Kaiser's Tengelmann".$116334295;=PNT:"-"."-".#-1;=NOU:"Filialen"."Filiale".#100507619;]
+[GP=PRE:"als"."als".#-1;=ADV:"unbedenklich".#138329;=ADJ:"eingestuft"."eingestuft".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Um"."um";=ADJ:"diese"."dies";=NPH:"Märkte"."Rewe Märkte".$100215627;]
+[PV=VER:"würde"."werden";=PRO:"es"."es".#-1;]
+[GA=ADV:"dann".#32207;=ADV:"wohl".#20252;=ADJ:"vorrangig".#99088;]
+[PV=VER:"gehen".#14248;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Als"."als";=NOU:"Faustpfand".#100819049;]
+[PV=VER:"dienen".#131098;]
+[GN=NPH:"Mosa"."Markus Mosa".$100215627;]
+[GN=ART:"die"."die".#-1;=NOU:"Verträge"."Vertrag".#119844;]
+[GP=PRE:"mit"."mit".#-1;=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"für"."für".#-1;=PRO:"deren"."die";=NOU:"Auflösung".#121241;]
+[GN=PRO:"er"."er".#-1;]
+[GN=NOU:"Gegenleistungen"."Gegenleistung".#46978;]
+[PV=VER:"verlangen".#12745;=VER:"kann"."können";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Außerdem"."außerdem".#98967;]
+[PV=VER:"kennt"."kennen".#12728;]
+[GN=NPH:"Edeka Tengelmann".$100215627;]
+[GP=PRE:"durch"."durch".#-1;=ART:"die"."die".#-1;=NOU:"Kaufverhandlungen"."Kaufverhandlung".$108016240;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"ins"."in";=NOU:"Detail".#659;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"weiß"."wissen".#12920;]
+[??=PNT:",".",".#-1;]
+[GN=ADJ:"welche"."welch";=NOU:"Standorte"."Standort".#482;]
+[GV=ADV:"rentabel"."rentabel".#-1;]
+[PV=VER:"sind"."sein".#172056;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NPH:"Mosa"."Markus Mosa".$100215627;]
+[PV=VER:"muss"."müssen";=PRO:"sich"."er";]
+[GV=ADV:"dann".#32207;=ADV:"auch".#173912;=ADV:"nicht".#74226;=ADV:"mehr".#70026;]
+[GP=PRE:"an"."an".#-1;=ART:"die"."die".#-1;=NOU:"Tarifverträge"."Tarifvertrag".#48117;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Beschäftigungsgarantien"."Beschäftigungsgarantie".#22561;]
+[PV=VER:"halten".#14189;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"die"."die".#-1;=NPH:"Sigmar Gabriel".#100160902;]
+[GP=PRE:"als"."als".#-1;=NOU:"Bedingung".#119219;]
+[GP=PRE:"für"."für".#-1;=ADJ:"seine"."sein";=NOU:"Ministererlaubnis".#567181;]
+[PV=VER:"gestellt"."stellen".#16022;=VER:"hatte"."haben";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Für"."für";=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[PN=VER:"wäre"."sein".#12562;]
+[GN=PRO:"das"."das".#-1;]
+[PN=ADV:"sogar".#173912;=ADJ:"attraktiver"."attraktiv".#21851;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=NOU:"Vergleich".#121059;]
+[GP=PRE:"zur"."zu";=NOU:"Komplett-Übernahme"."Komplettübernahme".#101747;]
+[PV=VER:"läge"."liegen".#16338;]
+[GN=ART:"der"."der".#-1;=ADJ:"wirtschaftliche"."wirtschaftlich".#119537;=NOU:"Vorteil".#106591;]
+[GP=ART:"der"."die";=PNT:""".""".#-1;=NOU:"Lebensmittelzeitung".$100011032;=PNT:""".""".#-1;]
+[GV=PRE:"zufolge"."zufolge".#-1;]
+[GP=PRE:"bei"."bei".#-1;=MON:"200 Millionen Euro"."200.000.000 Euro".$100004916;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPH:"Mosa"."Markus Mosa".$100215627;]
+[PV=VER:"müsste"."müssen";]
+[GV=ADV:"allerdings".#20252;]
+[PV=VER:"akzeptieren".#12937;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GV=ADV:"auch".#173912;]
+[GN=NOU:"Konkurrent".#14465;=NPH:"Rewe Märkte".$100215627;]
+[PV=VER:"übernimmt"."übernehmen".#13343;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"darauf".#32207;]
+[PV=VER:"setzen".#157656;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=ART:"das"."das".#-1;=NOU:"Kartellamt".#60737;]
+[GN=ART:"die"."die".#-1;=NOU:"Einigung".#164992;]
+[PV=VER:"absegnet"."absegnen".#13447;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=NOU:"Voraussetzungen"."Voraussetzung".#5936;]
+[PN=VER:"sind"."sein".#12562;=ADV:"insgesamt".#48140;=ADJ:"gut".#29675;]
+[??=PNT:",".",".#-1;]
+[GR=PRE:"mit"."mit".#-1;=PRO:"denen"."die";=NPH:"Mosa"."Markus Mosa".$100215627;]
+[GP=PRE:"in"."in".#-1;=ART:"die"."die".#-1;=NOU:"Gespräche"."Gespräch".#118628;]
+[PV=VER:"gehen".#14248;=VER:"kann"."können";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"48-Jährige"."Jährige".#496975;]
+[PV=VER:"gilt"."gelten".#137905;]
+[GV=ADV:"überdies".#98967;]
+[GP=PRE:"als"."als".#-1;=ADJ:"geschickter"."geschickt".#562311;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"ruhiger"."ruhig".#138329;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"vor allem".#58485;]
+[GN=ADJ:"durchsetzungsstarker".$93060;=NOU:"Verhandler".#103346;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Eine"."ein";=NOU:"Fähigkeit".#117769;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"ohne"."ohne".#-1;=PRO:"die"."die".#-1;]
+[GN=PRO:"niemand"."niemand".#-1;]
+[GV=ADV:"dauerhaft".#596249;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"geräuschlos".#138077;]
+[GN=ART:"die"."die".#-1;=ORG:"Edeka-Gruppe".$67204;]
+[PV=VER:"führen".#136980;=VER:"kann"."können";]
+[??=PNT:",".",".#-1;]
+[GR=ORG:"die"."Edeka-Gruppe".$67204;]
+[GV=ADV:"eigentlich".#36198;]
+[PN=ART:"eine"."ein";=NOU:"Genossenschaft".#47848;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"4000"."4000".#-1;=ADJ:"selbstständigen"."selbstständig".#54060;=NOU:"Kaufleuten"."Kaufmann".#100043845;]
+[PN=VER:"ist"."sein".#12562;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPH:"Mosa"."Markus Mosa".$100215627;]
+[PV=VER:"ist"."sein".#172056;]
+[GV=ADV:"bereits".#87685;]
+[GP=PRE:"seit"."seit".#-1;=DAT:"2008".$100205892;]
+[GP=PRE:"an"."an".#-1;=ART:"der"."die";=NOU:"Spitze".#45222;]
+[GP=ART:"des"."der";=NOU:"Marktführers"."Marktführer".#69354;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NPH:"Alain Caparros".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Rewe-Chef"."Rewe-Chef".#-1;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";=ADJ:"60-jährige"."jährig".#496974;=NOU:"Deutsch-Franzose".$4559;]
+[PN=VER:"ist"."sein".#12562;=ADJ:"ähnlich".#19819;=ADJ:"unangefochten".#100347;]
+[GP=PRE:"wie"."wie".#-1;=NOU:"Kontrahent".#14452;=NPH:"Mosa"."Markus Mosa".$100215627;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"aber"."aber".#-1;]
+[GP=PRE:"ungleich"."ungleich".#-1;=ADJ:"extrovertierter"."extrovertiert".#40733;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Rewe-Chef"."Rewe-Chef".#-1;]
+[PN=VER:"kann"."können";=ADV:"sogar".#173912;=ADV:"noch".#74484;=ADJ:"entspannter"."entspannt".#91573;]
+[GP=PRE:"als"."als".#-1;=ART:"der"."der".#-1;=NOU:"Edeka-Chef"."Edeka-Chef".#-1;]
+[PN=VER:"sein".#172056;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"denn"."denn".#-1;]
+[GN=ADJ:"seine"."sein";=NOU:"Ziele"."Ziel".#4116;]
+[PV=VER:"hat"."haben";]
+[GN=PRO:"er"."er".#-1;]
+[PV=ADV:"bereits".#156570;=ADV:"jetzt".#37164;=VER:"erreicht"."erreichen".#13810;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Die"."die";]
+[PV=VER:"nannte"."nennen".#13705;]
+[GN=PRO:"er"."er".#-1;]
+[GP=PRE:"vor".#596945;=MEA:"zwei Wochen"."2 Woche".$980;]
+[GV=ADV:"unverblümt".#611046;]
+[GP=PRE:"im"."in";=NOU:"SPIEGEL-Interview".$100178651;]
+[??=PNT:":".":".#-1;]
+[??=PNT:""".""".#-1;]
+[GN=PRO:"Ich"."ich";]
+[PV=VER:"habe"."haben";]
+[GP=PRO:"alles"."all";]
+[PV=VER:"getan"."tun".#161713;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"damit"."damit".#-1;]
+[GN=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[GN=ART:"die"."die".#-1;=NOU:"Filialen"."Filiale".#100507619;]
+[PV=ADV:"nicht".#74226;=VER:"bekommt"."bekommen".#18053;]
+[??=PNT:".".".".#-1;]
+[??=PNT:""".""".#-1;]
+[CL]
+[GN=ART:"Das"."das";=NOU:"Ziel".#4116;]
+[PV=VER:"hat"."haben";]
+[GN=PRO:"er"."er".#-1;]
+[PV=VER:"erreicht"."erreichen".#13810;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"indem"."indem".#-1;]
+[GN=PRO:"er"."er".#-1;]
+[GV=ADV:"gemeinsam".#563490;]
+[GP=PRE:"mit"."mit".#-1;=ART:"den"."die";=NOU:"Handelsketten"."Handelskette".#139574;]
+[GV=ADV:"Markant"."Markant".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=NPH:"Norma"."Norma Beschwerde".$100215627;]
+[GV=ADV:"gerichtlich".#596527;]
+[GP=PRE:"gegen"."gegen".#-1;=ART:"die"."die".#-1;=NOU:"Ministererlaubnis".#567181;]
+[PV=VER:"vorging"."vorgehen".#14265;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GA=ADV:"Noch"."noch".#74484;=ADJ:"schwieriger"."schwierig".#33657;]
+[PV=VER:"macht"."machen".#14553;]
+[GN=NPH:"Caparros"."Alain Caparros".$100215627;]
+[GN=PRO:"es"."es".#-1;]
+[GP=PRE:"für"."für".#-1;=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[CN=CON:"und"."und".#-1;]
+[GP=NPH:"Mosa"."Markus Mosa".$100215627;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"weil"."weil".#-1;]
+[GN=PRO:"er"."er".#-1;]
+[GV=ADV:"demonstrativ".#80468;]
+[GV=ADV:"darauf".#32207;]
+[PV=VER:"verzichtet"."verzichten".#13780;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"selbst"."selbst".#-1;]
+[GN=NOU:"Ansprüche"."Anspruch".#561899;]
+[GP=PRE:"auf"."auf".#-1;=ART:"die"."die".#-1;=NOU:"Übernahme".#99259;]
+[GP=PRE:"von"."von".#-1;=NOU:"Filialen"."Filiale".#100507619;]
+[PV=CON:"zu".#565251;=VER:"stellen".#159360;]
+[??=PNT:":".":".#-1;]
+[??=PNT:""".""".#-1;]
+[PN=ART:"Die"."die";=ADJ:"beste"."gut".#29675;=NOU:"Lösung".#121241;=VER:"wäre"."sein".#12562;]
+[GN=PRO:"es"."es".#-1;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"wenn"."wenn".#-1;]
+[GN=ART:"ein"."ein".#-1;=ADJ:"Dritter"."dritte".#117164;]
+[GN=ART:"die"."die".#-1;=NPH:"Märkte"."Rewe Märkte".$100215627;]
+[GP=PRE:"von"."von".#-1;=ORG:"Kaiser's"."Kaiser's Tengelmann".$116334295;]
+[CN=CON:"und"."und".#-1;]
+[GP=ORG:"Tengelmann".$116334295;]
+[PV=VER:"bekommt"."bekommen".#18053;]
+[??=PNT:".".".".#-1;]
+[??=PNT:""".""".#-1;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Lesen"."Lese".#100213753;]
+[GN=PRO:"Sie"."Sie".#-1;]
+[GV=ADV:"hier".#54831;]
+[GN=ART:"das"."das".#-1;=ADJ:"gesamte"."gesamt".#48115;=NOU:"Gespräch".#118628;]
+[GP=PRE:"im"."in";=NOU:"SPIEGEL"."Spiegel".#561945;]
+[??=PNT:".".".".#-1;]
+[??=PNT:")".")".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Mit"."mit";=ADJ:"anderen"."andere".#20987;=NOU:"Worten"."Wort".#881;]
+[??=PNT:":".":".#-1;]
+[GN=NPH:"Caparros"."Alain Caparros".$100215627;]
+[PV=VER:"könnte"."können";]
+[GN=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[GV=ADV:"auf einen Schlag".#173512;]
+[GP=ADJ:"aller"."all";=NOU:"Sorgen"."Sorge".#101436482;]
+[PV=VER:"entledigen".#15866;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"wenn"."wenn".#-1;]
+[GN=PRO:"er"."er".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Klagen"."Klage".#119111;]
+[PV=VER:"zurückzieht"."zurückziehen".#167207;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Aber"."aber";]
+[GV=ADV:"warum".#107573;]
+[PV=VER:"sollte"."sollen";]
+[GN=PRO:"er"."er".#-1;]
+[GN=PRO:"das"."das".#-1;]
+[PV=VER:"tun".#13039;]
+[??=PNT:"?"."?".#-1;]
+[CL]
+[GN=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"auch".#173912;]
+[GN=NPH:"Edeka"."Edeka Tengelmann".$100215627;]
+[PV=VER:"müssten"."müssen";]
+[GN=NPH:"Rewe"."Rewe Märkte".$100215627;]
+[GN=ADV:"schon".#156570;=ADJ:"enorme"."enorm".#38373;=NOU:"Gegenleistungen"."Gegenleistung".#46978;]
+[PV=VER:"anbieten".#13273;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"wie"."wie".#-1;]
+[GN=PRO:"diese"."dies";]
+[PV=VER:"aussehen".#17348;=VER:"könnten"."können";]
+[??=PNT:",".",".#-1;]
+[PV=VER:"scheint"."scheinen".#14275;]
+[GA=ADV:"noch".#74484;=ADV:"völlig".#588989;=ADJ:"offen".#75274;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Immerhin"."immerhin".#118837;]
+[??=PNT:":".":".#-1;]
+[GP=PRE:"In"."in";=ART:"einem"."ein";=NOU:"Brief".#3511;]
+[GP=PRE:"an"."an".#-1;=ORG:"Tengelmann".$116334295;=PNT:"-"."-".#-1;=NOU:"Chef".#118998;=NPH:"Haub"."Karl-Erivan Haub".$100215627;]
+[PV=VER:"hat"."haben";]
+[GP=NPH:"Caparros"."Alain Caparros".$100215627;]
+[GN=ADJ:"demonstrativ".#32883;=NOU:"Gesprächsbereitschaft".#48495;]
+[PV=VER:"zugesichert"."zusichern".#120850;]
+[??=PNT:".".".".#-1;]
+
+SBJ=3:4;SBJ=7:8;OBJ=9:8;SBJ=11:12;SBJ=16:17;OBJ=18:17;SBJ=28:26;SBJ=33:32;SBJ=40:39;OBJ=42:39;SBJ=44:45;OBJ=59:60;SBJ=65:69;OBJ=64:69;SBJ=72:76;SBJ=72:78;SBJ=82:81;OBJ=84:81;SBJ=89:86;OBJ=92:86;OBJ=95:94;SBJ=99:104;OBJ=102:104;SBJ=106:107;OBJ=110:107;SBJ=117:116;SBJ=121:127;SBJ=123:127;OBJ=123:127;SBJ=132:134;SBJ=132:138;SBJ=143:142;SBJ=151:149;OBJ=152:149;APH=158:156;SBJ=174:175;SBJ=182:181;OBJ=184:181;SBJ=192:191;OBJ=197:198;SBJ=200:201;SBJ=206:205;SBJ=210:209;OBJ=213:209;SBJ=223:222;SBJ=229:234;SBJ=229:235;APH=239:237;SBJ=237:241;SBJ=247:243;OBJ=249:243;SBJ=255:254;OBJ=256:254;SBJ=258:259;SBJ=262:265;SBJ=262:270;SBJ=272:275;SBJ=272:277;SBJ=282:284;OBJ=283:284;SBJ=288:287;APH=294:291;SBJ=291:297;OBJ=295:297;SBJ=300:306;SBJ=310:311;OBJ=327:328;SBJ=332:336;SBJ=338:342;OBJ=341:342;SBJ=346:347;SBJ=351:355;OBJ=352:355;SBJ=351:359;OBJ=358:359;SBJ=366:367;SBJ=373:376;SBJ=379:381;SBJ=385:386;SBJ=389:391;OBJ=390:391;SBJ=394:398;OBJ=395:398;SBJ=405:406;OBJ=402:406;SBJ=405:412;OBJ=415:416;SBJ=418:421;CPL=419:421;SBJ=423:425;SBJ=423:430;OBJ=427:430;SBJ=423:433;SBJ=439:436;OBJ=437:436;SBJ=445:446;OBJ=449:446;SBJ=457:458;SBJ=461:462;SBJ=465:464;OBJ=466:464;SBJ=478:476;SBJ=482:484;OBJ=483:484;SBJ=488:487;SBJ=488:493;SBJ=495:497;SBJ=500:506;SBJ=508:511;SBJ=515:516;SBJ=521:520;SBJ=526:529;SBJ=533:534;SBJ=533:538;SBJ=541:543;OBJ=542:543;SBJ=546:547;SBJ=561:554;OBJ=553:554;APH=573:570;SBJ=566:571;SBJ=570:571;OBJ=563:571;SBJ=570:575;SBJ=579:580;SBJ=591:592;SBJ=598:599;SBJ=606:607;OBJ=604:607;SBJ=609:610;OBJ=611:610;SBJ=-49:620;SBJ=623:625;OBJ=624:625;SBJ=630:631;OBJ=628:631;SBJ=634:642;SBJ=639:642;SBJ=648:646;OBJ=647:646;SBJ=654:657;SBJ=659:663;OBJ=660:663;SBJ=667:666;SBJ=667:675;SBJ=689:694;SBJ=697:699;OBJ=698:699;SBJ=704:706;OBJ=705:706;SBJ=713:715;OBJ=714:715;SBJ=713:719;SBJ=730:731;APH=148:121;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Entity Type	0	58	20	ORG	Kaiser's Tengelmann	Kaiser's Tengelmanns	116334295	True	0			COM	 	
+Wrong Disambiguation	0	79	9	NOU		Schicksal	86370	False	0				 	86371
+Wrong Entity Type	0	89	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
+Wrong Disambiguation	0	109	5	VER	drohen	droht	16516	False	0				 	16512
+Wrong Disambiguation	0	137	8	NOU		Hoffnung	2898	False	0				 	101362683
+Wrong Disambiguation	1	146	4	VER	ruhen	ruht	84597	False	0				 	101362683
+Wrong Disambiguation	1	226	7	NOU		Zukunft	2593	False	0				 	119197
+Wrong Grammar	1	234	3	PRO	der	der	-1	False	0				 	
+Wrong Disambiguation	1	271	9	NOU		Überblick	118964	False	0				 	3751
+Wrong Disambiguation	0	319	9	NOU		Schicksal	86370	False	0				 	
+Wrong Entity Type	0	333	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
+Missing Concept	0	442	21	NOU	Tengelmann-Eigentümer	Tengelmann-Eigentümer	-1	False	0				 	
+Wrong Recognition	2	517	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
+Wrong Disambiguation	1	524	7	VER	können	könnten	14354	False	0				 	
+Wrong Disambiguation	0	551	4	NOU		Rest	4214	False	0				 	4217
+Wrong Disambiguation	0	564	10	NOU		Verwaltung	102920921	False	0				 	117436
+Wrong Disambiguation	1	614	9	VER	schicken	geschickt	15250	False	0				 	
+Wrong Grammar	1	641	4	ADJ		rund	34477	False	0				 	
+Wrong Disambiguation	1	711	10	ADV	eigentlich	Eigentlich	36198	False	0				 	
+Wrong Grammar	1	734	3	PRO	die	die	-1	False	0				 	
+Wrong Recognition	1	738	4	ADV		mehr	70026	False	0				 	
+Wrong Recognition	2	751	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
+Wrong Entity Type	1	770	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Disambiguation	1	845	6	VER	feststecken	steckt	117085	False	0				 	
+Wrong Recognition	1	1043	6	VER	legen	legten	146956	False	0		Beschwerde einlegen		 	589909
+Wrong Entity Type	1	1067	4	NPH	Rewe Märkte	Rewe	100215627	True	0			COM	 	
+Missing Entity	1	1073	7	ADV	Markant	Markant	-1	False	0			COM	 	
+Wrong Entity Form	1	1085	16	NPH		Norma Beschwerde	100215627	True	0				 	
+Wrong Disambiguation	1	1159	7	VER	stoppen	stoppte	29149	False	0				 	
+Wrong Disambiguation	1	1206	4	ADV	noch	Noch	74484	False	0				 	
+Wrong Disambiguation	1	1211	3	PRE		vor	596943	False	0				 	
+Wrong Disambiguation	1	1251	6	VER	können	könnte	14354	False	0				 	
+Wrong Disambiguation	1	1281	16	NOU	Verantwortliche	Verantwortlichen	561665	False	0				 	
+Wrong Entity Type	1	1302	10	ORG		Tengelmann	116334295	True	0			COM	 	
+Wrong Entity Type	1	1314	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Entity Type	1	1321	4	NPH	Rewe Märkte	Rewe	100215627	True	0			COM	 	
+Wrong Disambiguation	1	1373	7	VER		bringen	14085	False	0				 	
+Wrong Grammar	1	1459	2	CON	wo	wo	-1	False	0				 	
+Wrong Disambiguation	1	1504	12	NOU		Entscheidung	2863	False	0				 	
+Wrong Entity Type	0	1522	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
+Wrong Disambiguation	1	1542	4	ADV		kurz	65656	False	0				 	
+Wrong Recognition	1	218	3	VER	haben	hat	12561	False	0		in der Hand haben		 	16083
+Wrong Recognition	1	218	3	VER	haben	hat	12561	False	0				 	
+Wrong Recognition	1	1569	5	VER		haben	12561	False	0		in der Hand haben		 	16083
+Wrong Disambiguation	1	1579	7	NOU		Zukunft	2593	False	0				 	
+Wrong Grammar	1	1587	3	PRO	der	der	-1	False	0				 	
+Wrong Entity Form	1	1638	8	ORG	Kaiser's Tengelmann	Kaiser's	116334295	True	0				 	
+Wrong Disambiguation	1	1685	4	VER	gehen	geht	14248	False	0				 	117745
+Wrong Disambiguation	1	1798	4	VER	gehen	geht	15626	False	0				 	
+Missing Concept	0	1837	8	NOU		Endspiel	5797	False	0				 	
+Wrong Entity Type	0	1849	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
+Missing Concept	1	1885	8	VER	schreiben	schreibt	156695	False	0				 	156708
+Wrong Disambiguation	1	1922	8	NOU	Verlust	Verluste	16431	False	0				 	164536
+Wrong Disambiguation	1	1936	4	VER	gehen	geht	14248	False	0				 	117745
+Wrong Disambiguation	1	1978	5	VER	hängen	hängt	124024	False	0				 	
+Wrong Disambiguation	1	2005	4	NOU		Luft	107391292	False	0				 	
+Wrong Disambiguation	1	2040	8	NOU		Geschäft	2967	False	0				 	
+Wrong Recognition	2	2136	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
+Wrong Entity Type	0	2170	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
+Wrong Grammar	1	2222	4	ADV		mehr	70026	False	0				 	
+Wrong Disambiguation	1	2259	6	VER	überlaufen	laufen	132740	False	0				 	162061
+Wrong Disambiguation	1	2300	5	VER	heißen	heißt	13738	False	0				 	
+Wrong Disambiguation	1	2425	5	VER	drohen	drohe	16517	False	0				 	16512
+Wrong Disambiguation	1	2431	17	VER	zusammenbrechen	zusammenzubrechen	140597	False	0				 	15918
+Wrong Disambiguation	1	2502	7	VER	rechnen	rechnet	14576	False	0				 	153429
+Wrong Disambiguation	1	2535	7	NOU		Verlust	16431	False	0				 	164536
+Wrong Grammar	1	2547	4	ADJ		rund	64689	False	0				 	
+Missing Concept	0	2579	8	ADV	steigend	steigend	-1	False	0				 	
+Wrong Grammar	1	2589	5	ADV	damit	Damit	32147	False	0				 	
+Wrong Disambiguation	1	2627	5	VER	stehen	steht	32369	False	0				 	
+Wrong Recognition	1	2691	7	PRE		bis auf	588603	False	0				 	
+Wrong Entity Type	1	2747	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Disambiguation	0	2807	6	VER		dauern	108418	False	0				 	14218
+Wrong Disambiguation	1	2825	4	VER	sein	wäre	172056	False	0				 	
+Wrong Entity Type	0	2830	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
+Wrong Disambiguation	1	2871	17	VER	zusammenbrechen	zusammengebrochen	140597	False	0				 	
+Wrong Recognition	1	2904	7	ADJ	weit	weitere	40690	False	0		weiter		 	
+Missing Concept	0	2929	8	VER	bescheren	beschert	13846	False	0				 	
+Wrong Disambiguation	1	2948	3	VER	sein	ist	172056	False	0				 	
+Wrong Grammar	0	2967	4	CON	doch	doch	-1	False	0				 	
+Wrong Disambiguation	1	2989	6	ADJ		bereit	27288	False	0				 	
+Wrong Entity Type	1	3069	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Entity Type	1	3076	4	NPH	Rewe Märkte	Rewe	100215627	True	0			COM	 	
+Wrong Grammar	1	3103	6	NOU		Selbst	103236990	False	0				 	
+Missing Concept	1	3159	3	ADJ		los	68197	False	0				 	
+Wrong Recognition	2	3180	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
+Wrong Disambiguation	1	3288	11	VER	abwickeln	abgewickelt	14203	False	0				 	147367
+Wrong Recognition	2	3331	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
+Wrong Disambiguation	1	3370	9	VER		verkaufen	120448	False	0				 	
+Missing Entity	1	3437	5	NOU	Haubs	Haubs	-1	False	0				 	
+Wrong Disambiguation	1	3472	6	ADV		darauf	32207	False	0				 	
+Wrong Entity Type	1	3485	4	NPH	Rewe Märkte	Rewe	100215627	True	0			COM	 	
+Wrong Disambiguation	1	3494	6	NOU	Klage	Klagen	119111	False	0				 	
+Wrong Entity Type	1	3527	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Disambiguation	0	3566	4	ADV		noch	74484	False	0				 	
+Missing Concept	0	3596	10	NOU	Edeka-Chef	Edeka-Chef	-1	False	0				 	
+Missing Concept	0	3611	10	NOU	Edeka-Chef	Edeka-Chef	-1	False	0				 	
+Missing Concept	1	3631	8	NOU		Endspiel	5797	False	0				 	
+Wrong Entity Type	0	3643	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
+Wrong Grammar	1	3663	9	VER	entspannen	entspannt		False	0				 	
+Wrong Entity Type	1	3694	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Disambiguation	1	3716	3	ADV		nur	20252	False	0				 	
+Wrong Disambiguation	1	3730	11	ADV	schließlich	Schließlich	118835	False	0				 	118837
+Wrong Entity Type	0	3764	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
+Wrong Disambiguation	1	3784	7	ADV		bereits	87685	False	0				 	156570
+Missing Concept	0	3792	14	ADJ	unterschrieben	unterschrieben	-1	False	0				 	
+Missing Concept	0	3820	9	NOU	Gespräch	Gespräche	118628	False	0				 	100202875
+Missing Concept	0	3851	21	NOU	Tengelmann-Eigentümer	Tengelmann-Eigentümer	-1	False	0				 	
+Wrong Disambiguation	1	3883	11	VER		entscheiden	12719	False	0				 	13018
+Wrong Disambiguation	1	3911	3	PRE		vor	596943	False	0				 	
+Wrong Disambiguation	1	4020	6	VER		tragen	15372	False	0				 	
+Wrong Disambiguation	1	4073	8	VER		erhalten	18053	False	0				 	14136
+Wrong Recognition	2	4110	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
+Wrong Disambiguation	1	4130	11	VER	schließen	geschlossen	133228	False	0				 	
+Wrong Disambiguation	1	4152	3	ADV		nur	20252	False	0				 	150275
+Wrong Disambiguation	1	4187	12	VER	verpflichten	verpflichtet	12972	False	0				 	120468
+Wrong Entity Type	0	4211	10	ORG		Tengelmann	116334295	True	0			COM	 	
+Missing Concept	1	4246	6	ADV		hinaus	55084	False	0		auf Jahre hinaus		 	
+Wrong Recognition	1	4285	6	ADV		besser	27763	False	0		gut		 	
+Wrong Disambiguation	0	4314	6	VER	können	könnte	14354	False	0				 	
+Wrong Entity Type	1	4321	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Grammar	1	4330	4	PRO	all	alle		False	0				 	
+Wrong Disambiguation	0	4374	9	NOU	Standort	Standorte	482	False	0				 	118682
+Wrong Disambiguation	1	4384	8	VER		bekommen	13972	False	0				 	18053
+Wrong Grammar	1	4402	2	ADV		zu	168349	False	0				 	
+Wrong Disambiguation	1	4452	10	VER	vorsehen	vorgesehen	17401	False	0				 	166063
+Wrong Entity Type	0	4469	10	ORG		Tengelmann	116334295	True	0			COM	 	
+Wrong Disambiguation	1	4480	4	ADV		aber	74486	False	0				 	
+Wrong Disambiguation	1	4485	11	VER		zerschlagen	168093	False	0				 	
+Wrong Entity Type	1	4505	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Disambiguation	0	4517	4	ADV		noch	74484	False	0				 	
+Wrong Disambiguation	1	4540	11	ADV	schließlich	Schließlich	86961	False	0				 	118837
+Wrong Disambiguation	1	4552	5	VER	haben	hatte	12561	False	0				 	
+Wrong Entity Type	0	4595	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
+Missing Concept	0	4641	10	ADJ	eingestuft	eingestuft	-1	False	0				 	
+Wrong Recognition	2	4662	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
+Wrong Disambiguation	0	4683	4	ADV		wohl	20252	False	0				 	
+Wrong Disambiguation	1	4698	5	VER		gehen	14248	False	0				 	
+Wrong Disambiguation	1	4720	6	VER		dienen	131098	False	0				 	131099
+Wrong Disambiguation	1	4765	9	NOU		Auflösung	121241	False	0				 	
+Wrong Disambiguation	1	4794	9	VER		verlangen	12745	False	0				 	
+Wrong Recognition	1	4825	16	NPH		Edeka Tengelmann	100215627	True	0			COM	 	
+Wrong Grammar	2	4870	3	ADV		bis	28941	False	0				 	
+Wrong Disambiguation	0	4902	9	NOU	Standort	Standorte	482	False	0				 	
+Missing Concept	0	4912	8	ADV	rentabel	rentabel	-1	False	0				 	
+Wrong Disambiguation	1	4921	4	VER	sein	sind	172056	False	0				 	
+Wrong Disambiguation	1	4958	4	ADV		mehr	70026	False	0				 	121258
+Wrong Disambiguation	1	5012	6	VER		halten	14189	False	0				 	
+Wrong Disambiguation	1	5081	8	VER	stellen	gestellt	16022	False	0				 	
+Wrong Entity Type	1	5101	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Disambiguation	1	5122	11	ADJ	attraktiv	attraktiver	21851	False	0				 	23216
+Wrong Disambiguation	1	5171	4	VER	liegen	läge	16338	False	0				 	
+Wrong Disambiguation	1	5303	4	ADV		auch	173912	False	0				 	
+Wrong Recognition	2	5319	11	NPH		Rewe Märkte	100215627	True	0				 	
+Wrong Disambiguation	0	5331	9	VER	übernehmen	übernimmt	13343	False	0				 	
+Wrong Disambiguation	1	5347	6	ADV		darauf	32207	False	0				 	
+Wrong Disambiguation	1	5354	6	VER		setzen	157656	False	0				 	
+Missing Concept	0	5467	9	NOU	Gespräch	Gespräche	118628	False	0				 	100202875
+Wrong Disambiguation	1	5477	5	VER		gehen	14248	False	0				 	
+Missing Concept	1	5504	4	VER	gelten	gilt	137905	False	0				 	
+Wrong Disambiguation	1	5522	11	ADJ	geschickt	geschickter	562311	False	0				 	
+Wrong Disambiguation	1	5535	7	ADV	ruhig	ruhiger	138329	False	0				 	
+Wrong Disambiguation	1	5595	9	NOU		Fähigkeit	117769	False	0				 	499800
+Wrong Entity Type	0	5653	12	ORG		Edeka-Gruppe	67204	True	0			COM	 	
+Wrong Disambiguation	1	5666	6	VER		führen	136980	False	0				 	
+Wrong Disambiguation	1	5764	7	ADV		bereits	87685	False	0				 	156570
+Missing Concept	0	5830	9	NOU	Rewe-Chef	Rewe-Chef	-1	False	0				 	
+Wrong Grammar	0	5876	7	ADJ		ähnlich	19819	False	0				 	
+Wrong Grammar	0	5924	8	PRE	ungleich	ungleich	-1	False	0				 	
+Missing Concept	0	5954	9	NOU	Rewe-Chef	Rewe-Chef	-1	False	0				 	
+Wrong Disambiguation	1	5975	4	ADV		noch	74484	False	0				 	
+Missing Concept	0	6000	10	NOU	Edeka-Chef	Edeka-Chef	-1	False	0				 	
+Wrong Disambiguation	1	6011	4	VER		sein	172056	False	0				 	
+Wrong Disambiguation	1	6069	6	VER	nennen	nannte	13705	False	0				 	13715
+Wrong Disambiguation	1	6144	5	VER	tun	getan	161713	False	0				 	
+Missing Entity	1	6259	7	ADV	Markant	Markant	-1	False	0				 	
+Wrong Entity Type	1	6271	5	NPH	Norma Beschwerde	Norma	100215627	True	0			COM	 	
+Wrong Disambiguation	1	6317	7	VER	vorgehen	vorging	14265	False	0				 	16937
+Wrong Disambiguation	1	6326	4	ADV	noch	Noch	74484	False	0				 	
+Wrong Disambiguation	1	6343	5	VER	machen	macht	14553	False	0				 	14422
+Wrong Disambiguation	1	6401	6	ADV		darauf	32207	False	0				 	
+Wrong Disambiguation	1	6471	7	VER		stellen	159360	False	0				 	
+Wrong Grammar	1	6516	7	ADJ	dritte	Dritter	117164	False	0				 	
+Wrong Recognition	1	6528	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
+Wrong Entity Type	0	6539	8	ORG	Kaiser's Tengelmann	Kaiser's	116334295	True	0			COM	 	
+Wrong Entity Type	0	6552	10	ORG		Tengelmann	116334295	True	0			COM	 	
+Wrong Grammar	1	6574	5	NOU	Lese	Lesen	100213753	False	0				 	
+Missing Entity	1	6613	7	NOU	Spiegel	SPIEGEL	561945	False	0				 	
+Wrong Disambiguation	0	6635	6	NOU	Wort	Worten	881	False	0				 	
+Missing Concept	0	6694	10	VER		entledigen	15866	False	0				 	
+Wrong Disambiguation	1	6718	6	NOU	Klage	Klagen	119111	False	0				 	
+Missing Concept	0	6763	3	VER		tun	13039	False	0				 	16208
+Wrong Disambiguation	1	6777	4	ADV		auch	173912	False	0				 	
+Wrong Entity Type	1	6782	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
+Wrong Entity Type	1	6796	4	NPH	Rewe Märkte	Rewe	100215627	True	0			COM	 	
+Missing Concept	0	6801	5	ADV		schon	156570	False	0				 	
+Wrong Entity Type	0	6924	10	ORG		Tengelmann	116334295	True	0			COM	 	
+Wrong Disambiguation	1	6993	11	VER	zusichern	zugesichert	120850	False	0				 	13496

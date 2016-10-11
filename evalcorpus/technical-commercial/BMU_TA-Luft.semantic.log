@@ -1,0 +1,1040 @@
+﻿[GN=NOU:"Anwendungsbereich".#22153;]
+[CL]
+[CR]
+[GN=ADJ:"Diese"."dies";=ADJ:"Technische"."technisch".#52034;=NOU:"Anleitung".#3244;]
+[PV=VER:"dient"."dienen".#131099;]
+[GP=ART:"dem"."der";=NOU:"Schutz".#3163;]
+[GP=ART:"der"."die";=NOU:"Allgemeinheit".#20331;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"der"."die";=NOU:"Nachbarschaft".#72744;]
+[GP=PRE:"vor".#596945;=ADJ:"schädlichen"."schädlich".#85747;=NOU:"Umwelteinwirkungen"."Umwelteinwirkung".#100251;]
+[GP=PRE:"durch"."durch".#-1;=NOU:"Luftverunreinigungen"."Luftverunreinigung".#68461;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"der"."die";=NOU:"Vorsorge".#79583;]
+[GP=PRE:"gegen"."gegen".#-1;=ADJ:"schädliche"."schädlich".#85747;=NOU:"Umwelteinwirkungen"."Umwelteinwirkung".#100251;]
+[GP=PRE:"durch"."durch".#-1;=NOU:"Luftverunreinigungen"."Luftverunreinigung".#68461;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"um"."um".#-1;]
+[GP=PRE:"in"."in".#-1;=ADJ:"hohes"."hoch".#141975;=NOU:"Schutzniveau".#594332;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Umwelt".#15711;]
+[GV=ADV:"insgesamt".#48140;]
+[PV=CON:"zu".#565251;=VER:"erreichen".#14005;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=NOU:"Vorschriften"."Vorschrift".#117331;]
+[GP=ADJ:"dieser"."dies";=ADJ:"Technischen"."technisch".#52034;=NOU:"Anleitung".#123729;]
+[PV=VER:"sind"."sein".#13140;]
+[PV=CON:"zu".#565251;=VER:"beachten".#14227;]
+[GP=PRE:"bei"."bei".#-1;=PRO:"der"."die";]
+[CL]
+[CR]
+[GN=ADV:"a)"."a)".#-1;=NOU:"Prüfung".#117851;]
+[GP=ART:"der"."die";=NOU:"Anträge"."Antrag".#22083;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Erteilung".#39874;]
+[GP=ART:"einer"."eine";=NOU:"Genehmigung".#3453;]
+[GP=PRE:"zur"."zu";=NOU:"Errichtung".#124861;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"zum"."zu";=NOU:"Betrieb".#104830453;]
+[GP=ART:"einer"."eine";=ADJ:"neuen"."neu".#30000;=NOU:"Anlage".#31102;]
+[??=PNT:"("."(".#-1;]
+[GN=ADJ:"6"."6".#-1;=NOU:"Abs.".#122344;]
+[GN=ADJ:"1"."1".#-1;=COM:"BImSchG".$104830453;]
+[??=PNT:")".")".#-1;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GP=PRE:"zur"."zu";=NOU:"Änderung".#2785;]
+[GP=ART:"der"."die";=NOU:"Lage".#146550;]
+[??=PNT:",".",".#-1;]
+[GP=ART:"der"."die";=NOU:"Beschaffenheit".#13975;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=ART:"des"."der";=NOU:"Betriebs"."Betrieb".#104830453;]
+[GP=ART:"einer"."eine";=ADJ:"bestehenden"."bestehend".#40494;=NOU:"Anlage".#31102;]
+[??=PNT:"("."(".#-1;]
+[GN=ADJ:"16"."16".#-1;=NOU:"Abs.".#122344;]
+[GA=ADJ:"1"."1".#-1;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"auch".#23235;]
+[GP=PRE:"in Verbindung mit".#173582;=NOU:"Abs.".#122344;]
+[GN=ADJ:"4"."4".#-1;=COM:"BImSchG".$104830453;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[CL]
+[CR]
+[GN=ADV:"b)"."b)".#-1;=NOU:"Prüfung".#117851;]
+[GP=ART:"der"."die";=NOU:"Anträge"."Antrag".#22083;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Erteilung".#39874;]
+[GP=ART:"einer"."eine";=NOU:"Teilgenehmigung".#587206;]
+[??=PNT:",".",".#-1;]
+[GP=ART:"eines"."ein";=NOU:"Vorbescheids"."Vorbescheid".#106100;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=ART:"der"."die";=NOU:"Zulassung".#117597;]
+[GR=PRO:"des"."der";]
+[GN=ADJ:"vorzeitigen"."vorzeitig".#45160;=NOU:"Beginns"."Beginn".#498316;]
+[??=PNT:"("."(".#-1;]
+[GA=ADJ:"8"."8".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"8a"."8a".#-1;=CON:"und"."und".#-1;=ADJ:"9"."9".#-1;=COM:"BImSchG".$104830453;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[CL]
+[CR]
+[GN=ADV:"c)"."c)".#-1;=NOU:"Prüfung".#117851;]
+[GP=ART:"der"."die";=NOU:"Genehmigungsbedürftigkeit".$22793;]
+[GP=ART:"einer"."eine";=NOU:"Änderung".#2785;]
+[??=PNT:"("."(".#-1;]
+[GN=ADJ:"15"."15".#-1;=NOU:"Abs.".#122344;]
+[GN=ADJ:"2"."2".#-1;=COM:"BImSchG".$104830453;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[CL]
+[CR]
+[GN=ADV:"d)"."d)".#-1;=NOU:"Entscheidung".#2863;]
+[GP=PRE:"über".#98894;=ADJ:"nachträgliche"."nachträglich".#41627;=NOU:"Anordnungen"."Anordnung".#118012;]
+[??=PNT:"("."(".#-1;]
+[GN=ADJ:"17"."17".#-1;=COM:"BImSchG".$104830453;]
+[??=PNT:")".")".#-1;]
+[CN=CON:"und"."und".#-1;]
+[CL]
+[CR]
+[GN=ADV:"e)"."e)".#-1;=NOU:"Entscheidung".#2863;]
+[GP=PRE:"zu"."zu".#-1;=NOU:"Anordnungen"."Anordnung".#118012;]
+[GP=PRE:"über".#98894;=ART:"die"."die".#-1;=NOU:"Ermittlung".#33195;]
+[GP=PRE:"von"."von".#-1;=NOU:"Art".#120732;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Ausmaß".#119105;]
+[GP=ART:"der"."die";]
+[GP=PRE:"von"."von".#-1;=ART:"einer"."eine";=NOU:"Anlage".#31102;]
+[GP=ADJ:"ausgehenden"."ausgehend".#24345;=NOU:"Emissionen"."Emission".#133774;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GP=ART:"der"."die";=NOU:"Immissionen"."Immission".#57749;]
+[GP=PRE:"im"."in";=NOU:"Einwirkungsbereich".#25797;]
+[GP=ART:"der"."die";=NOU:"Anlage".#31102;]
+[??=PNT:"("."(".#-1;]
+[GA=ADJ:"26"."26".#-1;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"auch".#23235;]
+[GP=PRE:"in Verbindung mit".#173582;=ADJ:"28"."28".#-1;=COM:"BImSchG".$104830453;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";=NOU:"Schutz".#3163;]
+[GP=PRE:"vor".#596945;=ADJ:"schädlichen"."schädlich".#85747;=NOU:"Umwelteinwirkungen"."Umwelteinwirkung".#100251;]
+[GP=PRE:"durch"."durch".#-1;=NOU:"Geruchsimmissionen"."Geruchsimmission".$57749;]
+[PV=VER:"wird"."werden";]
+[GP=PRE:"in"."in".#-1;=ADJ:"dieser"."dies";=NOU:"Verwaltungsvorschrift".#104859;]
+[PV=ADV:"nicht".#74226;=VER:"geregelt"."regeln".#16023;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GV=ADV:"dagegen".#130327;]
+[PV=VER:"wird"."werden";]
+[GN=ART:"die"."die".#-1;=NOU:"Vorsorge".#79583;]
+[GP=PRE:"gegen"."gegen".#-1;=ADJ:"schädliche"."schädlich".#85747;=NOU:"Umwelteinwirkungen"."Umwelteinwirkung".#100251;]
+[GP=PRE:"durch"."durch".#-1;=NOU:"Geruchsemissionen"."Geruchsemission".$133774;]
+[GP=PRE:"in"."in".#-1;=ADJ:"dieser"."dies";=NOU:"Verwaltungsvorschrift".#104859;]
+[PV=VER:"geregelt"."regeln".#16023;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=NOU:"Anforderungen"."Anforderung".#105380723;]
+[GP=ART:"der"."die";=NOU:"Nummern"."Nummer".#17055;]
+[GV=ADV:"5.1"."5.1".#-1;]
+[GP=PRE:"bis"."bis".#-1;=ADJ:"5.4"."5.4".#-1;]
+[PV=VER:"gelten".#137902;]
+[GV=ADV:"nicht".#74226;]
+[GP=PRE:"für"."für".#-1;=ADJ:"genehmigungsbedürftige".$26423;=NOU:"Anlagen"."Anlage".#31102;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"soweit"."soweit".#-1;]
+[GP=PRE:"in"."in".#-1;=NOU:"Rechtsverordnungen"."Rechtsverordnung".#102703920;]
+[GP=ART:"der"."die";=NOU:"Bundesregierung".#30788;]
+[GN=NOU:"Anforderungen"."Anforderung".#100774228;]
+[GP=PRE:"zur"."zu";=NOU:"Vorsorge".#79583;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"zur"."zu";=NOU:"Ermittlung".#33195;]
+[GP=PRE:"von"."von".#-1;=NOU:"Emissionen"."Emission".#133774;]
+[GP=PRE:"an"."an".#-1;=ADJ:"luftverunreinigenden"."luftverunreinigenden".#-1;=NOU:"Stoffen"."Stoff".#100035758;]
+[PV=VER:"getroffen"."treffen".#161333;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[CN=CON:"Soweit"."soweit";]
+[GP=PRE:"im Hinblick auf".#113414;=ART:"die"."die".#-1;=NOU:"Pflichten"."Pflicht".#355;]
+[GN=ART:"der"."der".#-1;=NOU:"Betreiber".#118226;]
+[GP=PRE:"von"."von".#-1;=ADV:"nicht".#74226;=ADJ:"genehmigungsbedürftigen".$26423;=NOU:"Anlagen"."Anlage".#31102;]
+[GP=PRE:"nach".#562279;=ADJ:"22"."22".#-1;=NOU:"Abs.".#122344;]
+[PN=ADJ:"1"."1".#-1;=NOU:"Nrn.".#14339;]
+[GN=ADJ:"1"."1".#-1;=CON:"und"."und".#-1;=ADJ:"2"."2".#-1;=COM:"BImSchG".$104830453;]
+[PV=CON:"zu".#565251;=VER:"beurteilen".#172935;]
+[PN=VER:"ist"."sein".#13140;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"ob"."ob".#-1;]
+[GN=ADJ:"schädliche"."schädlich".#85747;=NOU:"Umwelteinwirkungen"."Umwelteinwirkung".#100251;]
+[GP=PRE:"durch"."durch".#-1;=NOU:"Luftverunreinigungen"."Luftverunreinigung".#68461;]
+[PV=VER:"vorliegen".#165973;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"sollen"."sollen".#-1;]
+[GN=PRO:"die"."der";]
+[GP=PRE:"in"."in".#-1;=NOU:"Nummer".#4176;]
+[GN=ADJ:"4"."4".#-1;=ADJ:"festgelegten"."festgelegt".#562624;=NOU:"Grundsätze"."Grundsatz".#4659;]
+[GP=PRE:"zur"."zu";=NOU:"Ermittlung".#33195;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Maßstäbe"."Maßstab".#17079;]
+[GP=PRE:"zur"."zu";=NOU:"Beurteilung".#2133;]
+[GP=PRE:"von"."von".#-1;=ADJ:"schädlichen"."schädlich".#85747;=NOU:"Umwelteinwirkungen"."Umwelteinwirkung".#100251;]
+[PV=VER:"herangezogen"."heranziehen".#14234;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Ermittlung".#33195;]
+[GP=PRE:"von"."von".#-1;=NOU:"Immissionskenngrößen"."Immissionskenngröße".$2491;]
+[GP=PRE:"nach".#562279;=NOU:"Nummer".#14339;]
+[GV=ADV:"4.6"."4.6".#-1;]
+[PV=VER:"unterbleibt"."unterbleiben".#101553;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"soweit"."soweit".#-1;]
+[GN=ART:"eine"."ein";=NOU:"Prüfung".#117851;]
+[GP=PRE:"im"."in";=NOU:"Einzelfall".#37310;]
+[PV=VER:"ergibt"."ergeben".#134284;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[CN=ART:"der"."der".#-1;=CON:"damit"."damit".#-1;]
+[GN=ADJ:"verbundene"."verbunden".#588494;=NOU:"Aufwand".#113516686;]
+[PN=ADJ:"unverhältnismäßig".#99333;=VER:"wäre"."sein".#12562;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Tragen"."Trage".#161140;]
+[GN=ADV:"nicht".#74226;=ADJ:"genehmigungsbedürftige".$26423;=NOU:"Anlagen"."Anlage".#31102;]
+[GP=PRE:"zum"."zu";=NOU:"Entstehen".#1027;]
+[GP=ADJ:"schädlicher"."schädlich".#85747;=NOU:"Umwelteinwirkungen"."Umwelteinwirkung".#100251;]
+[GP=PRE:"in"."in".#-1;=ADJ:"relevanter"."relevant".#26378;=NOU:"Weise".#1704;]
+[GV=ADV:"bei"."bei".#-1;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"ist"."sein".#12562;]
+[PV=CON:"zu".#565251;=VER:"prüfen".#13159;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"ob"."ob".#-1;]
+[GN=PRO:"die"."die".#-1;]
+[GP=PRE:"nach".#562279;=ART:"dem"."der";=NOU:"Stand".#17380;]
+[GP=ART:"der"."die";=NOU:"Technik".#3325;]
+[GN=ADJ:"gegebenen"."gegeben".#170481;=NOU:"Möglichkeiten"."Möglichkeit".#119815;]
+[GP=PRE:"zu"."zu".#-1;=ADJ:"ihrer"."ihr";=NOU:"Vermeidung".#103908;]
+[PN=ADJ:"ausgeschöpft".#588934;=VER:"sind"."sein".#12562;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Nach"."nach".#562279;=ART:"dem"."der";=NOU:"Stand".#17380;]
+[GP=ART:"der"."die";=NOU:"Technik".#3325;]
+[GN=ADJ:"unvermeidbare"."unvermeidbar".#100336;=ADJ:"schädliche"."schädlich".#85747;=NOU:"Umwelteinwirkungen"."Umwelteinwirkung".#100251;]
+[PV=VER:"sind"."sein".#13082;]
+[GP=PRE:"auf"."auf".#-1;=ART:"ein"."ein".#-1;=NOU:"Mindestmaß".#70918;]
+[PV=CON:"zu".#565251;=VER:"beschränken".#14932;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Soweit"."soweit";]
+[GP=PRE:"zur"."zu";=NOU:"Erfüllung".#119355;]
+[GP=ART:"der"."die";=NOU:"Pflichten"."Pflicht".#355;]
+[GP=PRE:"nach".#562279;=ADJ:"22"."22".#-1;=NOU:"Abs.".#122344;]
+[GN=ADJ:"1"."1".#-1;=NOU:"Nrn.".#14339;]
+[GN=ADJ:"1"."1".#-1;=CON:"und"."und".#-1;=ADJ:"2"."2".#-1;=COM:"BImSchG".$104830453;=NOU:"Anforderungen"."Anforderung".#100774228;]
+[GP=PRE:"für"."für".#-1;=ADV:"nicht".#74226;=ADJ:"genehmigungsbedürftige".$26423;=NOU:"Anlagen"."Anlage".#31102;]
+[PV=VER:"festgelegt"."festlegen".#135715;=VER:"werden"."werden".#-1;=VER:"können"."können".#-1;]
+[??=PNT:",".",".#-1;]
+[CL]
+[CR]
+[PV=VER:"können"."können".#-1;]
+[GV=ADV:"auch".#23235;]
+[GN=PRO:"die"."der";]
+[GP=PRE:"in"."in".#-1;=NOU:"Nummer".#309;]
+[GA=ADJ:"5"."5".#-1;]
+[GP=PRE:"für"."für".#-1;=ADJ:"genehmigungsbedürftige".$26423;]
+[GN=NOU:"Anlagen"."Anlage".#31102;]
+[GP=ADJ:"festgelegten"."festgelegt".#588612;=NOU:"Vorsorgeanforderungen"."Vorsorgeanforderung".$100774228;]
+[GP=PRE:"als"."als".#-1;=NOU:"Erkenntnisquelle".$480;]
+[PV=VER:"herangezogen"."heranziehen".#14234;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Luftreinhaltepläne"."Luftreinhalteplan".#579886;]
+[PV=VER:"sind"."sein".#13082;]
+[GP=PRE:"bei"."bei".#-1;=NOU:"Anordnungen"."Anordnung".#118012;]
+[GP=PRE:"nach".#562279;=ADJ:"24"."24".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GP=ADJ:"25"."25".#-1;=COM:"BImSchG".$104830453;]
+[PV=CON:"zu".#565251;=VER:"beachten".#14227;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"2"."2".#-1;=NOU:"Begriffsbestimmungen"."Begriffsbestimmung".#130697;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Einheiten"."Einheit".#118557;]
+[GP=PRE:"im"."in";=NOU:"Messwesen".$142784;]
+[CL]
+[CR]
+[GN=ADJ:"2.1"."2.1".#-1;=NOU:"Immissionen"."Immission".#57749;]
+[CL]
+[CR]
+[GN=NOU:"Immissionen"."Immission".#57749;]
+[GP=PRE:"im"."in";=NOU:"Sinne"."Sinn".#2495;]
+[GP=ADJ:"dieser"."dies";=NOU:"Verwaltungsvorschrift".#104859;]
+[PN=VER:"sind"."sein".#12562;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Menschen"."Mensch".#70284;]
+[??=PNT:",".",".#-1;]
+[GP=NOU:"Tiere"."Tier".#118160;]
+[??=PNT:",".",".#-1;]
+[GP=NOU:"Pflanzen"."Pflanze".#100000756;]
+[??=PNT:",".",".#-1;]
+[GP=ART:"den"."der";=NOU:"Boden".#129238;]
+[??=PNT:",".",".#-1;]
+[GP=ART:"das"."das".#-1;=NOU:"Wasser".#100000283;]
+[??=PNT:",".",".#-1;]
+[GP=ART:"die"."die".#-1;=NOU:"Atmosphäre".#1639;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=NOU:"Kultur-"."Kulturgut".#4065;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Sachgüter".$762;]
+[GN=ADJ:"einwirkende"."einwirkend";=NOU:"Luftverunreinigungen"."Luftverunreinigung".#68461;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Immissionen"."Immission".#57749;]
+[PV=VER:"werden"."werden".#-1;]
+[PV=ADV:"wie folgt".#589024;=VER:"angegeben"."angeben".#13715;]
+[??=PNT:":".":".#-1;]
+[CL]
+[CR]
+[GV=ADV:"a)"."a)".#-1;]
+[GN=NOU:"Massenkonzentration".$119771;]
+[GP=PRE:"als"."als".#-1;=NOU:"Masse".#738;]
+[GP=ART:"der"."die";=ADJ:"luftverunreinigenden"."luftverunreinigenden".#-1;=NOU:"Stoffe"."Stoff".#100035758;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[GP=PRE:"auf"."auf".#-1;=ART:"das"."das".#-1;=NOU:"Volumen".#1954;]
+[GP=ART:"der"."die";=ADJ:"verunreinigten"."verunreinigt".#588598;=NOU:"Luft".#107391292;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"gasförmigen"."gasförmig".#46181;=NOU:"Stoffen"."Stoff".#100035758;]
+[PV=VER:"ist"."sein".#13136;]
+[GN=ART:"die"."die".#-1;=NOU:"Massenkonzentration".$119771;]
+[GP=PRE:"auf"."auf".#-1;=MEA:"293,15 K"."293,15 Kelvin".$100011579;]
+[CN=CON:"und"."und".#-1;]
+[GN=ADJ:"101,3"."101,3".#-1;=NOU:"kPa".#565298;]
+[PV=CON:"zu".#565251;=VER:"beziehen".#13247;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADV:"b)"."b)".#-1;=NOU:"Deposition".#130882;]
+[GP=PRE:"als"."als".#-1;=ADJ:"zeitbezogene"."zeitbezogen".#110879;=NOU:"Flächenbedeckung".$425;]
+[GP=PRE:"durch"."durch".#-1;=ART:"die"."die".#-1;=NOU:"Masse".#738;]
+[GP=ART:"der"."die";=ADJ:"luftverunreinigenden"."luftverunreinigenden".#-1;=NOU:"Stoffe"."Stoff".#100035758;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"2.2"."2.2".#-1;=NOU:"Immissionskenngrößen"."Immissionskenngröße".$2491;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Beurteilungspunkte"."Beurteilungspunkt".$1328;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Aufpunkte"."Punkt".#1328;]
+[CL]
+[CR]
+[GN=NOU:"Immissionskenngrößen"."Immissionskenngröße".$2491;]
+[PV=VER:"kennzeichnen".#130014;]
+[GN=ART:"die"."die".#-1;=NOU:"Höhe".#117362;]
+[GP=ART:"der"."die";=NOU:"Vorbelastung".#165774;]
+[??=PNT:",".",".#-1;]
+[GP=ART:"der"."die";=NOU:"Zusatzbelastung".#574344;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=ART:"der"."die";=NOU:"Gesamtbelastung".#573370;]
+[GP=PRE:"für"."für".#-1;=ART:"den"."der";=ADJ:"jeweiligen"."jeweilig".#83339;=ADJ:"luftverunreinigenden"."luftverunreinigenden".#-1;=NOU:"Stoff".#100035758;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Kenngröße".#61282;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Vorbelastung".#165774;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"die"."die".#-1;=ADJ:"vorhandene"."vorhanden".#18832;=NOU:"Belastung".#1355;]
+[GP=PRE:"durch"."durch".#-1;=ART:"einen"."ein";=NOU:"Schadstoff".#119829510;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Kenngröße".#61282;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Zusatzbelastung".#574344;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"der"."der".#-1;=NOU:"Immissionsbeitrag".$120068;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"der"."Immissionsbeitrag".$120068;]
+[GP=PRE:"durch"."durch".#-1;=ART:"das"."das".#-1;=ADJ:"beantragte"."beantragt".#597016;=NOU:"Vorhaben".#17367;]
+[GV=ADV:"voraussichtlich".#155359;]
+[??=PNT:"("."(".#-1;]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"geplanten"."geplant".#106468;=NOU:"Anlagen"."Anlage".#31102;]
+[??=PNT:")".")".#-1;]
+[CN=CON:"oder"."oder".#-1;]
+[GV=ADV:"tatsächlich".#107105;]
+[??=PNT:"("."(".#-1;]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"bestehenden"."bestehend".#40494;=NOU:"Anlagen"."Anlage".#31102;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"hervorgerufen"."hervorrufen".#14422;=VER:"wird"."werden";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Kenngröße".#61282;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Gesamtbelastung".#573370;]
+[PV=VER:"ist"."sein".#13082;]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"geplanten"."geplant".#106468;=NOU:"Anlagen"."Anlage".#31102;]
+[GP=PRE:"aus"."aus".#-1;=ART:"den"."die";=NOU:"Kenngrößen"."Kenngröße".#61282;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Vorbelastung".#165774;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"die"."die".#-1;=NOU:"Zusatzbelastung".#574344;]
+[PV=CON:"zu".#565251;=VER:"bilden".#14987;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"bestehenden"."bestehend".#40494;=NOU:"Anlagen"."Anlage".#31102;]
+[PV=VER:"entspricht"."entsprechen".#120469;]
+[GN=PRO:"sie"."sie".#-1;]
+[GP=ART:"der"."die";=ADJ:"vorhandenen"."vorhanden".#18832;=NOU:"Belastung".#28338;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Beurteilungspunkte"."Beurteilungspunkt".$1328;]
+[PN=VER:"sind"."sein".#12562;=ADJ:"diejenigen"."derjenige";=NOU:"Punkte"."Punkt".#1328;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Umgebung".#2951;]
+[GP=ART:"der"."die";=NOU:"Anlage".#575;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"für"."für".#-1;=PRO:"die"."die".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Immissionskenngrößen"."Immissionskenngröße".$2491;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Gesamtbelastung".#573370;]
+[PV=VER:"ermittelt"."ermitteln".#96508;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Aufpunkte"."Punkt".#1328;]
+[PN=VER:"sind"."sein".#12562;=ADJ:"diejenigen"."derjenige";=NOU:"Punkte"."Punkt".#1328;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Umgebung".#2951;]
+[GP=ART:"der"."die";=NOU:"Anlage".#575;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"für"."für".#-1;=PRO:"die"."die".#-1;]
+[GN=ART:"eine"."ein";=ADJ:"rechnerische"."rechnerisch".#153437;=NOU:"Ermittlung".#33195;]
+[GP=ART:"der"."die";=NOU:"Zusatzbelastung".#574344;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Immissionsprognose".$2116;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"vorgenommen"."vornehmen".#13039;=VER:"wird"."werden";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"2.3"."2.3".#-1;=NOU:"Immissionswerte"."Immissionswert".#57750;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";=NOU:"Immissions-Jahreswert"."Immissions-Jahreswert".#-1;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"der"."der".#-1;=NOU:"Konzentrations-"."Konzentrationswert".$2493;]
+[CN=CON:"oder"."oder".#-1;]
+[GN=NOU:"Depositionswert".$2493;]
+[GP=ART:"eines"."ein";=NOU:"Stoffes"."Stoff".#100035758;]
+[PN=ADJ:"gemittelt"."gemittelt".#-1;]
+[GP=PRE:"über".#98894;=ART:"ein"."ein".#-1;=NOU:"Jahr".#100000577;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";=NOU:"Immissions"."Mission".#16161;=PNT:"-"."-".#-1;=NOU:"Tageswert".#100180107;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"der"."der".#-1;=NOU:"Konzentrationswert".$2493;]
+[GP=ART:"eines"."ein";=NOU:"Stoffes"."Stoff".#100035758;]
+[PN=ADJ:"gemittelt"."gemittelt".#-1;]
+[GP=PRE:"über".#98894;=ART:"einen"."ein";=NOU:"Kalendertag".#105019497;]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."der".#-1;=ADJ:"zugehörigen"."zugehörig".#112128;=ADJ:"zulässigen"."zulässig".#93141;=NOU:"Überschreitungshäufigkeit".$100011652;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Anzahl".#173098;]
+[GP=ART:"der"."die";=NOU:"Tage"."Tag".#100052643;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"während"."während".#-1;=ART:"eines"."ein";=NOU:"Jahres"."Jahr".#100000577;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";=NOU:"Immissions-Stundenwert"."Immissions-Stundenwert".#-1;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"der"."der".#-1;=NOU:"Konzentrationswert".$2493;]
+[GP=ART:"eines"."ein";=NOU:"Stoffes"."Stoff".#100035758;]
+[PN=ADJ:"gemittelt"."gemittelt".#-1;]
+[GP=PRE:"über".#98894;=ART:"eine"."ein";=ADJ:"volle"."voll".#120598;=NOU:"Stunde".#100025235;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"z."."z.".#-1;]
+[CL]
+[GN=NOU:"B.".#100163727;]
+[CL]
+[GN=HOU:"8.00"."8:00".$100025235;]
+[GP=PRE:"bis"."bis".#-1;=HOU:"9.00 Uhr"."9:00".$100025235;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."der".#-1;=ADJ:"zugehörigen"."zugehörig".#112128;=ADJ:"zulässigen"."zulässig".#93141;=NOU:"Überschreitungshäufigkeit".$100011652;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Anzahl".#173098;]
+[GP=ART:"der"."die";=NOU:"Stunden"."Stunde".#912;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"während"."während".#-1;=ART:"eines"."ein";=NOU:"Jahres"."Jahr".#100000577;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"2.4"."2.4".#-1;=NOU:"Abgasvolumen".$1954;=CON:"und"."und".#-1;=NOU:"Abgasvolumenstrom".$101134348;]
+[CL]
+[CR]
+[GN=NOU:"Abgase"."Abgas".#18486;]
+[GP=PRE:"im"."in";=NOU:"Sinne"."Sinn".#2495;]
+[GP=ADJ:"dieser"."dies";=NOU:"Verwaltungsvorschrift".#104859;]
+[PN=VER:"sind"."sein".#12562;]
+[GN=ART:"die"."die".#-1;=NOU:"Trägergase"."Trägergas".$100011432;]
+[PN=PRE:"mit"."mit".#-1;=ART:"den"."der";=ADJ:"festen"."fest".#91066;]
+[??=PNT:",".",".#-1;]
+[GN=ADJ:"flüssigen"."flüssig".#27276;=CON:"oder"."oder".#-1;=ADJ:"gasförmigen"."gasförmig".#46181;=NOU:"Emissionen"."Emission".#133774;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Angaben"."Angabe".#1723;]
+[GP=ART:"des"."das";=NOU:"Abgasvolumens"."Abgasvolumen".$1954;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"des"."der";=NOU:"Abgasvolumenstroms"."Abgasvolumenstrom".$101134348;]
+[PV=VER:"sind"."sein".#13082;]
+[GP=PRE:"in"."in".#-1;=ADJ:"dieser"."dies";=NOU:"Verwaltungsvorschrift".#104859;]
+[GP=PRE:"auf"."auf".#-1;=ART:"den"."der";=NOU:"Normzustand".$8;]
+[??=PNT:"("."(".#-1;]
+[GN=MEA:"273,15 K"."273,15 Kelvin".$100011579;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GN=ADJ:"101,3"."101,3".#-1;=NOU:"kPa".#565298;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"nach".#562278;=NOU:"Abzug".#18812;]
+[GP=ART:"des"."der";=NOU:"Feuchtegehaltes"."Feuchtegehalt".$119306;]
+[GP=PRE:"an"."an".#-1;=NOU:"Wasserdampf".#100255722;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"soweit"."soweit".#-1;]
+[GA=ADV:"nicht".#74226;=ADJ:"ausdrücklich".#99708;]
+[GN=PRO:"etwas"."etwas".#-1;]
+[GV=ADV:"anderes"."andere";]
+[PV=VER:"angegeben"."angeben".#13715;=VER:"wird"."werden";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"2.5"."2.5".#-1;=NOU:"Emissionen"."Emission".#133774;]
+[CL]
+[CR]
+[GN=NOU:"Emissionen"."Emission".#133774;]
+[GP=PRE:"im"."in";=NOU:"Sinne"."Sinn".#2495;]
+[GP=ADJ:"dieser"."dies";=NOU:"Verwaltungsvorschrift".#104859;]
+[PN=VER:"sind"."sein".#12562;]
+[GN=ART:"die"."die".#-1;]
+[GP=PRE:"von"."von".#-1;=ART:"einer"."eine";=NOU:"Anlage".#31102;]
+[GN=ADJ:"ausgehenden"."ausgehend".#24345;=NOU:"Luftverunreinigungen"."Luftverunreinigung".#68461;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Emissionen"."Emission".#133774;]
+[PV=VER:"werden"."werden".#-1;]
+[PV=ADV:"wie folgt".#589024;=VER:"angegeben"."angeben".#13715;]
+[??=PNT:":".":".#-1;]
+[CL]
+[CR]
+[GN=ADV:"a)"."a)".#-1;=NOU:"Masse".#738;]
+[GP=ART:"der"."die";=ADJ:"emittierten"."emittiert";=NOU:"Stoffe"."Stoff".#100035758;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=NOU:"Stoffgruppen"."Stoffgruppe".$118844919;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[GP=PRE:"auf"."auf".#-1;=ART:"das"."das".#-1;=NOU:"Volumen".#1954;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Massenkonzentration".$119771;]
+[??=PNT:")".")".#-1;]
+[CL]
+[CR]
+[GV=ADV:"aa"."aa".#-1;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"von"."von".#-1;=NOU:"Abgas".#18486;]
+[GP=PRE:"im"."in";=NOU:"Normzustand".$8;]
+[??=PNT:"("."(".#-1;]
+[GN=MEA:"273,15 K"."273,15 Kelvin".$100011579;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GN=ADJ:"101,3"."101,3".#-1;=NOU:"kPa".#565298;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"nach".#562278;=NOU:"Abzug".#18812;]
+[GP=ART:"des"."der";=NOU:"Feuchtegehaltes"."Feuchtegehalt".$119306;]
+[GP=PRE:"an"."an".#-1;=NOU:"Wasserdampf".#100255722;]
+[??=PNT:",".",".#-1;]
+[CL]
+[CR]
+[GV=ADV:"bb"."bb".#-1;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"von"."von".#-1;=NOU:"Abgas".#18486;=PNT:"("."(".#-1;=NOU:"f".#100009765;=PNT:")".")".#-1;]
+[GP=PRE:"im"."in";=NOU:"Normzustand".$8;]
+[??=PNT:"("."(".#-1;]
+[GN=MEA:"273,15 K"."273,15 Kelvin".$100011579;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GN=ADJ:"101,3"."101,3".#-1;=NOU:"kPa".#565298;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"vor".#596945;=NOU:"Abzug".#18812;]
+[GP=ART:"des"."der";=NOU:"Feuchtegehaltes"."Feuchtegehalt".$119306;]
+[GP=PRE:"an"."an".#-1;=NOU:"Wasserdampf".#100255722;]
+[??=PNT:";".";".#-1;]
+[CL]
+[CR]
+[GN=ADV:"b)"."b)".#-1;=NOU:"Masse".#738;]
+[GP=ART:"der"."die";=ADJ:"emittierten"."emittiert";=NOU:"Stoffe"."Stoff".#100035758;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=NOU:"Stoffgruppen"."Stoffgruppe".$118844919;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[GP=PRE:"auf"."auf".#-1;=ART:"die"."die".#-1;=NOU:"Zeit".#9;]
+[GP=PRE:"als"."als".#-1;=NOU:"Massenstrom".#103295893;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Emissionsmassenstrom".$103295893;]
+[??=PNT:")".")".#-1;]
+[??=PNT:";".";".#-1;]
+[CL]
+[CR]
+[GN=ART:"der"."der".#-1;=NOU:"Massenstrom".#103295893;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=PRO:"die"."die".#-1;]
+[GP=PRE:"während"."während".#-1;=ART:"einer"."eine";=NOU:"Betriebsstunde".#590141;]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"bestimmungsgemäßem"."bestimmungsgemäß".#27834;=NOU:"Betrieb".#104830453;]
+[GP=ART:"einer"."eine";=NOU:"Anlage".#31102;]
+[GP=PRE:"unter"."unter".#-1;=PRO:"den"."der";]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Luftreinhaltung".#68440;]
+[PN=ADJ:"ungünstigsten"."ungünstig".#101114;=NOU:"Betriebsbedingungen".$119224;]
+[GN=ADJ:"auftretende"."auftretend".#596656;=NOU:"Emission".#133774;]
+[GP=ART:"der"."die";=ADJ:"gesamten"."gesamt".#48115;=NOU:"Anlage".#31102;]
+[??=PNT:";".";".#-1;]
+[CL]
+[CR]
+[GN=ADV:"c)"."c)".#-1;=NOU:"Anzahl".#173098;]
+[GP=ART:"der"."die";=ADJ:"emittierten"."emittiert";=NOU:"Fasern"."Faser".#3283;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[GP=PRE:"auf"."auf".#-1;=ART:"das"."das".#-1;=NOU:"Volumen".#1954;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Faserstaubkonzentration".$119771;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"von"."von".#-1;=NOU:"Abgas".#18486;]
+[GP=PRE:"im"."in";=NOU:"Normzustand".$8;]
+[??=PNT:"("."(".#-1;]
+[GN=MEA:"273,15 K"."273,15 Kelvin".$100011579;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GN=ADJ:"101,3"."101,3".#-1;=NOU:"kPa".#565298;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"nach".#562278;=NOU:"Abzug".#18812;]
+[GP=ART:"des"."der";=NOU:"Feuchtegehaltes"."Feuchtegehalt".$119306;]
+[GP=PRE:"an"."an".#-1;=NOU:"Wasserdampf".#100255722;]
+[??=PNT:";".";".#-1;]
+[CL]
+[CR]
+[GN=ADV:"d)"."d)".#-1;=NOU:"Verhältnis".#13953;]
+[GP=ART:"der"."die";=NOU:"Masse".#738;]
+[GP=ART:"der"."die";=ADJ:"emittierten"."emittiert";=NOU:"Stoffe"."Stoff".#100035758;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=NOU:"Stoffgruppen"."Stoffgruppe".$118844919;]
+[GP=PRE:"zu"."zu".#-1;=ART:"der"."die";=NOU:"Masse".#4973;]
+[GP=ART:"der"."die";=ADJ:"erzeugten"."erzeugt".#596994;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=ADJ:"verarbeiteten"."verarbeitet".#562574;=NOU:"Produkte"."Produkt".#102424752;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=PRE:"zur"."zu";=NOU:"Tierplatzzahl".$14331;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Emissionsfaktor".$3148;]
+[??=PNT:")".")".#-1;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GP=PRE:"in"."in".#-1;=ART:"das"."das".#-1;=NOU:"Massenverhältnis".$100223642;]
+[PV=VER:"geht"."eingehen".#120980;]
+[GN=PRO:"die"."die".#-1;]
+[GP=PRE:"während"."während".#-1;=ART:"eines"."ein";=NOU:"Tages"."Tag".#105019497;]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"bestimmungsgemäßem"."bestimmungsgemäß".#27834;=NOU:"Betrieb".#104830453;]
+[GP=ART:"einer"."eine";=NOU:"Anlage".#31102;]
+[GP=PRE:"unter"."unter".#-1;=PRO:"den"."der";]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Luftreinhaltung".#68440;]
+[GN=ADJ:"ungünstigsten"."ungünstig".#101114;=NOU:"Betriebsbedingungen".$119224;]
+[GN=ADJ:"auftretende"."auftretend".#596656;=NOU:"Emission".#133774;]
+[GP=ART:"der"."die";=ADJ:"gesamten"."gesamt".#48115;=NOU:"Anlage".#31102;]
+[GV=ADV:"ein"."eingehen";]
+[??=PNT:";".";".#-1;]
+[CL]
+[CR]
+[GN=ADV:"e)"."e)".#-1;=NOU:"Anzahl".#173098;]
+[GP=ART:"der"."die";=NOU:"Geruchseinheiten"."Geruchseinheit".$118557;]
+[GP=ART:"der"."die";=ADJ:"emittierten"."emittiert";=NOU:"Geruchsstoffe"."Geruchsstoff".#48098;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[GP=PRE:"auf"."auf".#-1;=ART:"das"."das".#-1;=NOU:"Volumen".#1954;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Geruchsstoffkonzentration".$103686031;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"von"."von".#-1;=NOU:"Abgas".#18486;]
+[GP=PRE:"bei"."bei".#-1;=MEA:"293,15 K"."293,15 Kelvin".$100011579;]
+[CN=CON:"und"."und".#-1;]
+[GP=ADJ:"101,3"."101,3".#-1;=NOU:"kPa".#565298;]
+[GP=PRE:"vor".#596945;=NOU:"Abzug".#18812;]
+[GP=ART:"des"."der";=NOU:"Feuchtegehaltes"."Feuchtegehalt".$119306;]
+[GP=PRE:"an"."an".#-1;=NOU:"Wasserdampf".#100255722;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GN=ART:"die"."die".#-1;=NOU:"Geruchsstoffkonzentration".$103686031;]
+[PN=VER:"ist"."sein".#12562;=ART:"das"."das".#-1;=ADJ:"olfaktometrisch"."olfaktometrisch".#-1;=ADJ:"gemessene"."gemessen".#19897;=NOU:"Verhältnis".#13953;]
+[GP=ART:"der"."die";=NOU:"Volumenströme"."Volumenstrom".#101134348;]
+[GP=PRE:"bei"."bei".#-1;=NOU:"Verdünnung".#103028008;]
+[GP=ART:"einer"."eine";=NOU:"Abgasprobe".$14276;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Neutralluft".$107391292;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"zur"."zu";=NOU:"Geruchschwelle".$100774145;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"angegeben"."angeben".#135715;]
+[GP=PRE:"als"."als".#-1;=NOU:"Vielfaches".#101055293;]
+[GP=ART:"der"."die";=NOU:"Geruchsschwelle".$100774145;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"2.6"."2.6".#-1;=NOU:"Emissionsgrad".$17414;=CON:"und"."und".#-1;=NOU:"Emissionsminderungsgrad".$17414;]
+[CL]
+[CR]
+[GN=NOU:"Emissionsgrad".$17414;]
+[PN=VER:"ist"."sein".#12562;=ART:"das"."das".#-1;=NOU:"Verhältnis".#13953;]
+[GP=ART:"der"."die";]
+[GP=PRE:"im"."in";=NOU:"Abgas".#18486;]
+[GP=ADJ:"emittierten"."emittiert";=NOU:"Masse".#738;]
+[GP=ART:"eines"."ein";=ADJ:"luftverunreinigenden"."luftverunreinigenden".#-1;=NOU:"Stoffes"."Stoff".#100035758;]
+[GP=PRE:"zu"."zu".#-1;=PRO:"der"."die";]
+[GP=PRE:"mit"."mit".#-1;=ART:"den"."die";=NOU:"Brenn-"."Brennstoff".#53332;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=NOU:"Einsatzstoffen"."Einsatzstoff".$100028823;]
+[GP=ADJ:"zugeführten"."zugeführt";=NOU:"Masse".#4973;]
+[??=PNT:";".";".#-1;]
+[CL]
+[GN=PRO:"er"."er".#-1;]
+[PV=VER:"wird"."werden";=VER:"angegeben"."angeben".#135715;]
+[GP=PRE:"als"."als".#-1;=NOU:"Vomhundertsatz".#100011229;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Emissionsminderungsgrad".$17414;]
+[PN=VER:"ist"."sein".#12562;=ART:"das"."das".#-1;=NOU:"Verhältnis".#13953;]
+[GP=ART:"der"."die";]
+[GP=PRE:"im"."in";=NOU:"Abgas".#18486;]
+[GP=ADJ:"emittierten"."emittiert";=NOU:"Masse".#738;]
+[GP=ART:"eines"."ein";=ADJ:"luftverunreinigenden"."luftverunreinigenden".#-1;=NOU:"Stoffes"."Stoff".#100035758;]
+[GP=PRE:"zu"."zu".#-1;=ADJ:"seiner"."sein";=ADJ:"zugeführten"."zugeführt";=NOU:"Masse".#4973;]
+[GP=PRE:"im"."in";=NPR:"Rohgas"."Rohga";]
+[??=PNT:";".";".#-1;]
+[CL]
+[GN=PRO:"er"."er".#-1;]
+[PV=VER:"wird"."werden";=VER:"angegeben"."angeben".#135715;]
+[GP=PRE:"als"."als".#-1;=NOU:"Vomhundertsatz".#100011229;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Geruchsminderungsgrad".$17414;]
+[PN=VER:"ist"."sein".#12562;=ART:"ein"."ein".#-1;=NOU:"Emissionsminderungsgrad".$17414;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"2.7"."2.7".#-1;=NOU:"Emissionswerte"."Emissionswert".#38031;=CON:"und"."und".#-1;=NOU:"Emissionsbegrenzungen"."Emissionsbegrenzung".$101308999;]
+[CL]
+[CR]
+[GN=NOU:"Emissionswerte"."Emissionswert".#38031;]
+[PN=VER:"sind"."sein".#12562;]
+[GN=NOU:"Grundlagen"."Grundlage".#14984;]
+[GP=PRE:"für"."für".#-1;=NOU:"Emissionsbegrenzungen"."Emissionsbegrenzung".$101308999;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PN=NOU:"Emissionsbegrenzungen"."Emissionsbegrenzung".$101308999;=VER:"sind"."sein".#12562;]
+[GN=PRO:"die"."die".#-1;]
+[GP=PRE:"im"."in";=NOU:"Genehmigungsbescheid".$27568;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=PRE:"in"."in".#-1;=ART:"einer"."eine";=ADJ:"nachträglichen"."nachträglich".#41627;=NOU:"Anordnung".#101284645;]
+[GV=ADV:"festzulegenden"."festzulegenden".#-1;]
+[CL]
+[CR]
+[GV=ADV:"a)"."a)".#-1;]
+[GN=ADJ:"zulässigen"."zulässig".#93141;=NOU:"Faserstaub".$100165632;=PNT:"-"."-".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Geruchsstoff-"."Geruchsstoffkonzentration".$103686031;]
+[CN=CON:"oder"."oder".#-1;]
+[GN=NOU:"Massenkonzentrationen"."Massenkonzentration".$119771;]
+[GP=PRE:"von"."von".#-1;=NOU:"Luftverunreinigungen"."Luftverunreinigung".#68461;]
+[GP=PRE:"im"."in";=NOU:"Abgas".#18486;]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."die";=NOU:"Maßgabe".#69605;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[CL]
+[CR]
+[GV=ADV:"aa"."aa".#-1;]
+[??=PNT:")".")".#-1;]
+[GN=ADJ:"sämtliche";=NOU:"Tagesmittelwerte"."Tagesmittelwert".$71360;]
+[GN=ART:"die"."die".#-1;=ADJ:"festgelegte"."festgelegt".#588612;=NOU:"Konzentration".#119771;]
+[CN=CON:"und"."und".#-1;]
+[CL]
+[CR]
+[GV=ADV:"bb"."bb".#-1;]
+[??=PNT:")".")".#-1;]
+[GN=ADJ:"sämtliche";=NOU:"Halbstundenmittelwerte"."Halbstundenmittelwert".$13523;]
+[GN=PRO:"das"."das".#-1;]
+[GN=NOU:"2fache".#112958;]
+[GP=ART:"der"."die";=ADJ:"festgelegten"."festgelegt".#588612;=NOU:"Konzentration".#119771;]
+[PV=ADV:"nicht".#74226;=VER:"überschreiten".#118239;]
+[??=PNT:",".",".#-1;]
+[CL]
+[CR]
+[GV=ADV:"b)"."b)".#-1;]
+[GN=ADJ:"zulässigen"."zulässig".#93141;=NOU:"Massenströme"."Massenstrom".#103295893;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[GP=PRE:"auf"."auf".#-1;=ART:"eine"."ein";=NOU:"Betriebsstunde".#590141;]
+[??=PNT:",".",".#-1;]
+[CL]
+[CR]
+[GV=ADV:"c)"."c)".#-1;]
+[GN=ADJ:"zulässigen"."zulässig".#93141;=NOU:"Massenverhältnisse"."Massenverhältnis".$100223642;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[GP=PRE:"auf"."auf".#-1;=ART:"einen"."ein";=NOU:"Tag".#105019497;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Tagesmittelwerte"."Tagesmittelwert".$71360;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[CL]
+[CR]
+[GV=ADV:"d)"."d)".#-1;]
+[GN=ADJ:"zulässigen"."zulässig".#93141;=NOU:"Emissionsgrade"."Emissionsgrad".$17414;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[GP=PRE:"auf"."auf".#-1;=ART:"einen"."ein";=NOU:"Tag".#105019497;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Tagesmittelwerte"."Tagesmittelwert".$71360;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[CL]
+[CR]
+[GV=ADV:"e)"."e)".#-1;]
+[GN=ADJ:"zulässigen"."zulässig".#93141;=NOU:"Emissionsminderungsgrade"."Emissionsminderungsgrad".$17414;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"bezogen"."beziehen".#119588;]
+[GP=PRE:"auf"."auf".#-1;=ART:"einen"."ein";=NOU:"Tag".#105019497;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Tagesmittelwerte"."Tagesmittelwert".$71360;]
+[??=PNT:")".")".#-1;]
+[CN=CON:"oder"."oder".#-1;]
+[CL]
+[CR]
+[GV=ADV:"f)"."f)".#-1;]
+[GN=ADJ:"sonstigen"."sonstig".#91329;=NOU:"Anforderungen"."Anforderung".#100774228;]
+[GP=PRE:"zur"."zu";=NOU:"Vorsorge".#79583;]
+[GP=PRE:"gegen"."gegen".#-1;=ADJ:"schädliche"."schädlich".#85747;=NOU:"Umwelteinwirkungen"."Umwelteinwirkung".#100251;]
+[GP=PRE:"durch"."durch".#-1;=NOU:"Luftverunreinigungen"."Luftverunreinigung".#68461;]
+[??=PNT:".".".".#-1;]
+
+SBJ=2:3;SBJ=2:19;SBJ=22:24;OBJ=22:25;OBJ=112:117;OBJ=121:125;SBJ=128:132;SBJ=143:145;OBJ=139:145;SBJ=150:155;OBJ=154:155;SBJ=159:161;SBJ=171:172;OBJ=164:172;SBJ=174:178;SBJ=181:183;SBJ=187:188;SBJ=190:197;CPL=191:197;OBJ=190:198;SBJ=204:206;SBJ=210:211;OBJ=210:213;SBJ=219:222;OBJ=220:222;OBJ=227:234;SBJ=236:237;OBJ=236:242;SBJ=252:255;CPL=271:255;SBJ=289:288;OBJ=289:293;SBJ=308:309;OBJ=311:309;SBJ=318:320;CPL=321:320;SBJ=324:326;CPL=327:326;APH=329:327;OBJ=327:340;SBJ=342:344;OBJ=342:350;SBJ=354:353;SBJ=358:359;OBJ=364:366;SBJ=368:369;OBJ=374:379;CPL=386:385;SBJ=384:390;CPL=396:395;SBJ=394:398;CPL=410:409;SBJ=408:412;CPL=434:433;SBJ=430:435;SBJ=440:444;OBJ=459:461;SBJ=466:469;CPL=470:469;CPL=472:469;SBJ=532:538;SBJ=543:545;SBJ=585:578;OBJ=586:578;SBJ=591:594;SBJ=607:608;OBJ=614:616;SBJ=623:624;OBJ=635:636;SBJ=640:641;OBJ=649:650;SBJ=653:654;SBJ=659:660;CPL=661:660;SBJ=666:665;SBJ=693:696;OBJ=692:696;SBJ=700:702;SBJ=707:709;SBJ=717:719;SBJ=727:729;APH=485:284;APH=546:284;APH=595:284;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Disambiguation	1	298	9	VER		erreichen	14005	False	36				 	
+Wrong Grammar	1	376	3	PRO	die	der		True	47				 	
+Wrong Disambiguation	1	383	7	NOU		Prüfung	117851	False	49				 	500971
+Wrong Disambiguation	1	395	7	NOU	Antrag	Anträge	22083	False	51				 	22082
+Wrong Disambiguation	0	423	11	NOU		Genehmigung	3453	False	55				 	22082
+Wrong Disambiguation	1	458	7	NOU		Betrieb	104830453	False	60				 	
+Wrong Disambiguation	1	478	6	NOU		Anlage	31102	False	63				 	2789
+Wrong Disambiguation	1	488	4	NOU		Abs.	122344	False	66				 	
+Wrong Entity Type	1	495	7	COM		BImSchG	104830453	True	68				 	
+Wrong Disambiguation	1	561	8	NOU	Betrieb	Betriebs	104830453	False	80				 	
+Wrong Disambiguation	1	588	6	NOU		Anlage	31102	False	83				 	
+Wrong Disambiguation	1	599	4	NOU		Abs.	122344	False	86				 	
+Wrong Disambiguation	1	630	4	NOU		Abs.	122344	False	91				 	
+Wrong Entity Type	1	637	7	COM		BImSchG	104830453	True	93				 	
+Wrong Disambiguation	1	650	7	NOU		Prüfung	117851	False	97				 	
+Wrong Disambiguation	1	662	7	NOU	Antrag	Anträge	22083	False	99				 	
+Wrong Grammar	1	745	3	PRO	der	des		True	110				 	
+Wrong Entity Type	1	782	7	COM		BImSchG	104830453	True	119				 	
+Wrong Disambiguation	1	795	7	NOU		Prüfung	117851	False	123				 	
+Wrong Disambiguation	1	807	25	NOU		Genehmigungsbedürftigkeit	22793	True	125				 	
+Wrong Disambiguation	1	852	4	NOU		Abs.	122344	False	130				 	
+Wrong Entity Type	1	859	7	COM		BImSchG	104830453	True	132				 	
+Wrong Disambiguation	1	885	4	PRE		über	98894	False	137				 	
+Missing Concept	0	890	13	ADJ	nachträglich	nachträgliche	41627	False	138				 	
+Wrong Disambiguation	1	904	11	NOU	Anordnung	Anordnungen	118012	False	139				 	
+Wrong Entity Type	1	920	7	COM		BImSchG	104830453	True	142				 	
+Wrong Disambiguation	1	952	11	NOU	Anordnung	Anordnungen	118012	False	148				 	
+Wrong Disambiguation	1	964	4	PRE		über	98894	False	149				 	
+Wrong Disambiguation	1	988	3	NOU		Art	120732	False	153				 	
+Wrong Disambiguation	1	1017	6	NOU		Anlage	31102	False	159				 	
+Wrong Disambiguation	1	1024	11	ADJ	ausgehend	ausgehenden	24345	False	160				 	
+Wrong Disambiguation	1	1095	6	NOU		Anlage	31102	False	168				 	
+Wrong Entity Type	1	1133	7	COM		BImSchG	104830453	True	175				 	
+Wrong Disambiguation	1	1147	6	NOU		Schutz	3163	False	0				 	
+Wrong Disambiguation	1	1154	3	PRE		vor	596945	False	0				 	
+Wrong Disambiguation	1	1257	8	VER	regeln	geregelt	16023	False	0				 	
+Wrong Grammar	1	1267	7	ADV		dagegen	130327	False	0				 	
+Wrong Disambiguation	1	1385	8	VER	regeln	geregelt	16023	False	0				 	
+Wrong Disambiguation	1	1399	13	NOU	Anforderung	Anforderungen	105380723	False	0				 	
+Wrong Disambiguation	1	1454	22	ADJ		genehmigungsbedürftige	26423	True	0				 	
+Wrong Disambiguation	1	1477	7	NOU	Anlage	Anlagen	31102	False	0				 	
+Missing Concept	0	1599	20	ADJ	luftverunreinigenden	luftverunreinigenden	-1	False	0				 	
+Wrong Disambiguation	1	1707	23	ADJ		genehmigungsbedürftigen	26423	True	0				 	
+Wrong Disambiguation	1	1731	7	NOU	Anlage	Anlagen	31102	False	0				 	
+Wrong Disambiguation	1	1747	4	NOU		Abs.	122344	False	0				 	
+Wrong Disambiguation	1	1754	4	NOU		Nrn.	14339	False	0				 	
+Wrong Entity Type	1	1767	7	COM		BImSchG	104830453	True	0				 	
+Wrong Disambiguation	2	1879	6	NOU		Nummer	4176	False	0				 	
+Wrong Disambiguation	1	1991	12	VER	heranziehen	herangezogen	14234	False	0				 	141922
+Wrong Recognition	1	2031	20	NOU	Immissionskenngröße	Immissionskenngrößen	2491	True	0				 	61282
+Wrong Disambiguation	1	2057	6	NOU		Nummer	14339	False	0				 	
+Wrong Disambiguation	0	2093	7	NOU		Prüfung	117851	False	0				 	500971
+Wrong Grammar	1	2132	5	CON	damit	damit	-1	False	0				 	
+Wrong Disambiguation	0	2149	7	NOU		Aufwand	113516686	False	0				 	119336
+Wrong Grammar	1	2181	6	NOU	Trage	Tragen	161140	False	0				 	
+Wrong Disambiguation	1	2194	22	ADJ		genehmigungsbedürftige	26423	True	0				 	
+Wrong Disambiguation	1	2217	7	NOU	Anlage	Anlagen	31102	False	0				 	
+Wrong Disambiguation	1	2295	3	VER	sein	ist	12562	False	0				 	
+Wrong Disambiguation	1	2302	6	VER		prüfen	13159	False	0				 	13153
+Wrong Grammar	1	2313	3	PRO	die	die	-1	False	0				 	
+Wrong Disambiguation	1	2326	5	NOU		Stand	17380	False	0				 	
+Wrong Disambiguation	0	2354	13	NOU	Möglichkeit	Möglichkeiten	119815	False	0				 	4320
+Wrong Disambiguation	1	2416	5	NOU		Stand	17380	False	0				 	
+Wrong Disambiguation	1	2478	4	VER	sein	sind	13082	False	0				 	
+Wrong Disambiguation	1	2561	4	NOU		Abs.	122344	False	0				 	
+Wrong Disambiguation	1	2568	4	NOU		Nrn.	14339	False	0				 	
+Wrong Entity Type	1	2581	7	COM		BImSchG	104830453	True	0				 	
+Wrong Disambiguation	1	2613	22	ADJ		genehmigungsbedürftige	26423	True	0				 	
+Wrong Disambiguation	1	2636	7	NOU	Anlage	Anlagen	31102	False	0				 	
+Wrong Grammar	1	2682	3	PRO	der	die		False	0				 	
+Wrong Disambiguation	1	2689	6	NOU		Nummer	309	False	0				 	
+Wrong Disambiguation	1	2702	22	ADJ		genehmigungsbedürftige	26423	True	0				 	
+Wrong Disambiguation	1	2725	7	NOU	Anlage	Anlagen	31102	False	0				 	
+Wrong Disambiguation	0	2789	12	VER	heranziehen	herangezogen	14234	False	0				 	141922
+Wrong Disambiguation	1	2829	4	VER	sein	sind	13082	False	0				 	
+Wrong Disambiguation	1	2838	11	NOU	Anordnung	Anordnungen	118012	False	0				 	
+Wrong Entity Type	1	2865	7	COM		BImSchG	104830453	True	0				 	
+Wrong Disambiguation	1	2913	9	NOU	Einheit	Einheiten	118557	False	0				 	
+Missing Concept	1	2926	9	NOU		Messwesen	142784	True	0				 	100058778
+Wrong Disambiguation	1	3021	5	NOU	Tier	Tiere	118160	False	0				 	
+Wrong Disambiguation	1	3042	5	NOU		Boden	129238	False	0				 	
+Wrong Disambiguation	1	3065	10	NOU		Atmosphäre	1639	False	0				 	
+Missing Concept	0	3103	11	ADJ	einwirkend	einwirkende		False	0				 	
+Wrong Disambiguation	1	3180	19	NOU		Massenkonzentration	119771	True	0				 	103686031
+Missing Concept	0	3214	20	ADJ	luftverunreinigenden	luftverunreinigenden	-1	False	0				 	
+Wrong Disambiguation	1	3242	7	VER	beziehen	bezogen	119588	False	0				 	
+Wrong Disambiguation	2	3258	7	NOU		Volumen	1954	False	0				 	
+Wrong Disambiguation	1	3315	3	VER	sein	ist	13136	False	0				 	
+Wrong Disambiguation	1	3323	19	NOU		Massenkonzentration	119771	True	0				 	
+Wrong Entity Form	1	3360	5	ADJ	101,3	101,3	-1	False	0				 	
+Missing Concept	1	3386	10	NOU		Deposition	130882	False	0				 	
+Missing Concept	0	3451	20	ADJ	luftverunreinigenden	luftverunreinigenden	-1	False	0				 	
+Wrong Disambiguation	1	3484	20	NOU	Immissionskenngröße	Immissionskenngrößen	2491	True	0				 	61282
+Wrong Disambiguation	1	4266	20	NOU	Immissionskenngröße	Immissionskenngrößen	2491	True	0				 	61282
+Wrong Disambiguation	1	3506	18	NOU	Beurteilungspunkt	Beurteilungspunkte	1328	True	0				 	
+Missing Concept	1	3526	9	NOU	Punkt	Aufpunkte	1328	False	0				 	
+Wrong Disambiguation	1	3536	20	NOU	Immissionskenngröße	Immissionskenngrößen	2491	True	0				 	61282
+Wrong Disambiguation	1	3574	4	NOU		Höhe	117362	False	0				 	
+Wrong Recognition	1	3626	15	NOU		Gesamtbelastung	573370	False	0				 	119323
+Missing Concept	0	3661	20	ADJ	luftverunreinigenden	luftverunreinigenden	-1	False	0				 	
+Missing Concept	0	3732	10	ADJ	vorhanden	vorhandene	18832	False	0				 	
+Wrong Disambiguation	1	3743	9	NOU		Belastung	1355	False	0				 	119323
+Wrong Recognition	0	3799	15	NOU		Zusatzbelastung	574344	False	0				 	119323
+Wrong Disambiguation	1	3897	9	ADJ	geplant	geplanten	106468	False	0				 	80183
+Wrong Disambiguation	1	3907	7	NOU	Anlage	Anlagen	31102	False	0				 	
+Wrong Recognition	1	4001	15	NOU		Gesamtbelastung	573370	False	0				 	
+Wrong Disambiguation	1	4025	9	ADJ	geplant	geplanten	106468	False	0				 	
+Wrong Disambiguation	1	4035	7	NOU	Anlage	Anlagen	31102	False	0				 	
+Wrong Disambiguation	1	4017	3	VER	sein	ist	13082	False	0				 	
+Wrong Disambiguation	1	4134	7	NOU	Anlage	Anlagen	31102	False	0				 	
+Wrong Disambiguation	1	4142	10	VER	entsprechen	entspricht	120469	False	0				 	145773
+Wrong Disambiguation	1	4173	9	NOU		Belastung	28338	False	0				 	
+Wrong Disambiguation	1	4184	18	NOU	Beurteilungspunkt	Beurteilungspunkte	1328	True	0				 	
+Wrong Disambiguation	1	4219	6	NOU	Punkt	Punkte	1328	False	0				 	
+Wrong Recognition	1	4266	20	NOU	Immissionskenngröße	Immissionskenngrößen	2491	True	0				 	
+Wrong Disambiguation	1	4295	15	NOU		Gesamtbelastung	573370	False	0				 	
+Missing Concept	1	4329	9	NOU	Punkt	Aufpunkte	1328	False	0				 	
+Wrong Disambiguation	1	4355	6	NOU	Punkt	Punkte	1328	False	0				 	
+Missing Concept	0	4510	21	NOU	Immissions-Jahreswert	Immissions-Jahreswert	-1	False	0				 	
+Wrong Disambiguation	1	4540	15	NOU	Konzentrationswert	Konzentrations-	2493	True	0				 	
+Wrong Disambiguation	1	4561	15	NOU		Depositionswert	2493	True	0				 	
+Missing Concept	0	4591	9	ADJ	gemittelt	gemittelt	-1	False	0				 	
+Wrong Disambiguation	1	4601	4	PRE		über	98894	False	0				 	161851
+Wrong Recognition	1	4620	10	NOU	Mission	Immissions	16161	False	0				 	
+Wrong Recognition	1	4631	9	NOU		Tageswert	100180107	False	0				 	
+Wrong Disambiguation	1	4649	18	NOU		Konzentrationswert	2493	True	0				 	
+Missing Concept	0	4682	9	ADJ	gemittelt	gemittelt	-1	False	0				 	
+Wrong Disambiguation	1	4692	4	PRE		über	98894	False	0				 	
+Missing Concept	0	4816	22	NOU	Immissions-Stundenwert	Immissions-Stundenwert	-1	False	0				 	
+Wrong Disambiguation	1	4847	18	NOU		Konzentrationswert	2493	True	0				 	
+Missing Concept	0	4880	9	ADJ	gemittelt	gemittelt	-1	False	0				 	
+Wrong Disambiguation	1	4890	4	PRE		über	98894	False	0				 	
+Wrong Recognition	1	4916	2	NOU		B.	100163727	False	0				 	
+Wrong Disambiguation	1	5007	7	NOU	Stunde	Stunden	912	False	0				 	
+Wrong Disambiguation	1	5042	12	NOU		Abgasvolumen	1954	True	0				 	
+Wrong Disambiguation	1	5158	9	ADJ	flüssig	flüssigen	27276	False	0				 	
+Wrong Disambiguation	0	5150	6	ADJ	fest	festen	91066	False	0				 	135667
+Wrong Disambiguation	1	5209	13	NOU	Abgasvolumen	Abgasvolumens	1954	True	0				 	
+Wrong Disambiguation	1	5250	4	VER	sein	sind	13082	False	0				 	
+Missing Concept	0	5295	11	NOU		Normzustand	8	True	0				 	
+Wrong Entity Form	1	5318	5	ADJ	101,3	101,3	-1	False	0				 	
+Wrong Disambiguation	1	5329	4	PRE		nach	562278	False	0				 	
+Wrong Disambiguation	2	5344	15	NOU	Feuchtegehalt	Feuchtegehaltes	119306	True	0				 	
+Wrong Disambiguation	1	5375	7	VER	beziehen	bezogen	119588	False	0				 	
+Wrong Disambiguation	1	5424	9	VER	angeben	angegeben	13715	False	0				 	135715
+Wrong Disambiguation	1	5523	6	NOU		Anlage	31102	False	0				 	
+Wrong Disambiguation	1	5530	11	ADJ	ausgehend	ausgehenden	24345	False	0				 	
+Wrong Disambiguation	1	5592	9	VER	angeben	angegeben	13715	False	0				 	135715
+Missing Concept	0	5616	11	ADJ	emittiert	emittierten		False	0				 	
+Wrong Disambiguation	1	5653	7	VER	beziehen	bezogen	119588	False	0				 	
+Wrong Disambiguation	2	5669	7	NOU		Volumen	1954	False	0				 	
+Wrong Disambiguation	1	5678	19	NOU		Massenkonzentration	119771	True	0				 	
+Missing Concept	0	5716	11	NOU		Normzustand	8	True	0				 	
+Wrong Entity Form	1	5739	5	ADJ	101,3	101,3	-1	False	0				 	
+Wrong Disambiguation	1	5750	4	PRE		nach	562278	False	0				 	
+Wrong Disambiguation	1	5765	15	NOU	Feuchtegehalt	Feuchtegehaltes	119306	True	0				 	
+Missing Concept	0	5818	11	NOU		Normzustand	8	True	0				 	
+Wrong Entity Form	1	5841	5	ADJ	101,3	101,3	-1	False	0				 	
+Wrong Disambiguation	1	5866	15	NOU	Feuchtegehalt	Feuchtegehaltes	119306	True	0				 	
+Missing Concept	0	5911	11	ADJ	emittiert	emittierten		False	0				 	
+Wrong Disambiguation	1	5948	7	VER	beziehen	bezogen	119588	False	0				 	
+Wrong Grammar	1	6029	3	PRO	die	die	-1	False	0				 	
+Wrong Disambiguation	1	6085	7	NOU		Betrieb	104830453	False	0				 	
+Wrong Disambiguation	1	6099	6	NOU		Anlage	31102	False	0				 	
+Wrong Grammar	1	6112	3	PRO	der	den		False	0				 	
+Wrong Disambiguation	1	6208	6	NOU		Anlage	31102	False	0				 	
+Missing Concept	0	6230	11	ADJ	emittiert	emittierten		False	0				 	
+Wrong Disambiguation	1	6249	7	VER	beziehen	bezogen	119588	False	0				 	
+Wrong Disambiguation	2	6265	7	NOU		Volumen	1954	False	0				 	
+Wrong Disambiguation	1	6274	23	NOU		Faserstaubkonzentration	119771	True	0				 	
+Missing Concept	0	6312	11	NOU		Normzustand	8	True	0				 	
+Wrong Entity Form	1	6335	5	ADJ	101,3	101,3	-1	False	0				 	
+Wrong Disambiguation	1	6346	4	PRE		nach	562278	False	0				 	
+Wrong Disambiguation	1	6361	15	NOU	Feuchtegehalt	Feuchtegehaltes	119306	True	0				 	
+Missing Concept	0	6421	11	ADJ	emittiert	emittierten		False	0				 	
+Wrong Disambiguation	1	6465	5	NOU		Masse	4973	False	0				 	
+Wrong Disambiguation	1	6490	13	ADJ	verarbeitet	verarbeiteten	562574	False	0				 	163692
+Wrong Disambiguation	1	6562	16	NOU		Massenverhältnis	100223642	True	0				 	
+Wrong Disambiguation	1	6579	4	VER	eingehen	geht	120980	False	0				 	
+Wrong Grammar	1	6584	3	PRO	die	die	-1	False	0				 	
+Wrong Disambiguation	1	6631	7	NOU		Betrieb	104830453	False	0				 	
+Wrong Disambiguation	1	6645	6	NOU		Anlage	31102	False	0				 	
+Wrong Grammar	1	6658	3	PRO	der	den		False	0				 	
+Wrong Disambiguation	1	6754	6	NOU		Anlage	31102	False	0				 	
+Wrong Disambiguation	1	6780	16	NOU	Geruchseinheit	Geruchseinheiten	118557	True	0				 	100047574
+Missing Concept	0	6801	11	ADJ	emittiert	emittierten		False	0				 	
+Wrong Disambiguation	1	6827	7	VER	beziehen	bezogen	119588	False	0				 	
+Wrong Disambiguation	2	6843	7	NOU		Volumen	1954	False	0				 	
+Wrong Entity Form	1	6906	5	ADJ	101,3	101,3	-1	False	0				 	
+Wrong Disambiguation	1	6930	15	NOU	Feuchtegehalt	Feuchtegehaltes	119306	True	0				 	
+Missing Concept	0	7000	15	ADJ	olfaktometrisch	olfaktometrisch	-1	False	0				 	
+Wrong Disambiguation	1	7016	9	ADJ	gemessen	gemessene	19897	False	0				 	
+Wrong Disambiguation	1	7076	10	NOU		Abgasprobe	14276	True	0				 	
+Wrong Grammar	2	7103	3	ADV		bis	28941	False	0				 	
+Wrong Disambiguation	1	7111	14	NOU		Geruchschwelle	100774145	True	0				 	
+Wrong Disambiguation	1	7156	15	NOU		Geruchsschwelle	100774145	True	0				 	
+Missing Concept	0	7265	11	ADJ	emittiert	emittierten		False	0				 	
+Missing Concept	0	7289	20	ADJ	luftverunreinigenden	luftverunreinigenden	-1	False	0				 	
+Wrong Grammar	1	7321	3	PRO	die	der		False	0				 	
+Wrong Disambiguation	1	7345	14	NOU	Einsatzstoff	Einsatzstoffen	100028823	True	0				 	
+Wrong Disambiguation	1	7372	5	NOU		Masse	4973	False	0				 	
+Wrong Disambiguation	1	7387	9	VER	angeben	angegeben	135715	False	0				 	13715
+Missing Concept	0	7473	11	ADJ	emittiert	emittierten		False	0				 	
+Missing Concept	0	7497	20	ADJ	luftverunreinigenden	luftverunreinigenden	-1	False	0				 	
+Missing Concept	0	7536	11	ADJ	zugeführt	zugeführten		False	0				 	
+Wrong Disambiguation	1	7548	5	NOU		Masse	4973	False	0				 	
+Wrong Disambiguation	1	7573	9	VER	angeben	angegeben	135715	False	0				 	13715
+Wrong Disambiguation	0	7727	10	NOU	Grundlage	Grundlagen	14984	False	0				 	117234
+Missing Concept	0	7859	14	ADV	festzulegenden	festzulegenden	-1	False	0				 	
+Wrong Disambiguation	1	7920	21	NOU	Massenkonzentration	Massenkonzentrationen	119771	True	0				 	
+Wrong Disambiguation	1	8045	13	NOU		Konzentration	119771	False	0				 	
+Wrong Recognition	1	8077	22	NOU	Halbstundenmittelwert	Halbstundenmittelwerte	13523	True	0				 	71360
+Wrong Grammar	1	8100	3	PRO	das	das	-1	False	0				 	
+Wrong Disambiguation	1	8128	13	NOU		Konzentration	119771	False	0				 	
+Wrong Disambiguation	1	8190	7	VER	beziehen	bezogen	119588	False	0				 	
+Wrong Disambiguation	1	8237	18	NOU	Massenverhältnis	Massenverhältnisse	100223642	True	0				 	
+Wrong Disambiguation	1	8257	7	VER	beziehen	bezogen	119588	False	0				 	
+Wrong Disambiguation	1	8329	7	VER	beziehen	bezogen	119588	False	0				 	
+Wrong Disambiguation	1	8411	7	VER	beziehen	bezogen	119588	False	0				 	
+Missing Concept	0	8470	13	NOU	Anforderung	Anforderungen	100774228	False	0				 	

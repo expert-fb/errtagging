@@ -1,0 +1,601 @@
+﻿[GN=ADJ:"Bildgebende"."bildgebend".#28622;=NOU:"Diagnostik".#33331;]
+[GP=ART:"des"."der";=NPR:"Patellofemoralgelenks"."Patellofemoralgelenk";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Das"."das";=NPR:"Patellofemoralgelenk"."Patellofemoralgelenk".#-1;]
+[??=PNT:"("."(".#-1;]
+[GN=NPR:"PFG".$100179289;]
+[??=PNT:")".")".#-1;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ADJ:"häufig".#35650;=NOU:"Ursache".#100179289;]
+[GP=PRE:"für"."für".#-1;=NOU:"Beschwerden"."Beschwerde".#118542;]
+[GP=PRE:"im"."in";=NOU:"Bereich".#100082794;]
+[GP=ART:"des"."das";=NOU:"Kniegelenks"."Kniegelenk".#62514;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Dabei"."dabei".#130289;]
+[PV=VER:"ist"."sein".#172056;]
+[GN=ART:"die"."die".#-1;=NOU:"Patientengruppe".#572816;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Patientengruppe".#572816;]
+[GN=ADJ:"dieses"."dies";=NOU:"Beschwerdebild".$128854;]
+[PV=VER:"betrifft"."betreffen".#500612;]
+[??=PNT:",".",".#-1;]
+[GA=ADV:"nicht".#74226;=ADJ:"homogen".#56653;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Sie"."sie";]
+[PV=VER:"reicht"."reichen".#118061;]
+[GP=PRE:"von"."von".#-1;=ADJ:"jungen"."jung".#59716;=ADJ:"aktiven"."aktiv".#122978;=NOU:"Patienten"."Patient".#77063;]
+[GP=PRE:"mit"."mit".#-1;=ART:"einer"."eine";=ADJ:"akuten"."akut".#20023;=NOU:"Patellaluxation".$104118;]
+[GP=PRE:"über".#596956;=ADV:"häufig".#75362;=ADJ:"inaktive"."inaktiv".#22100;=NOU:"Patienten"."Patient".#77063;]
+[GP=PRE:"mit"."mit".#-1;=ART:"einer"."eine";=ADJ:"chronischen"."chronisch".#31606;=NOU:"Instabilität".#58568;]
+[GP=ART:"der"."die";=NOU:"Kniescheibe".#100229081;]
+[GV=PRE:"bis"."bis".#-1;]
+[GV=ADV:"hin".#141229;]
+[GP=PRE:"zu"."zu".#-1;=ADJ:"älteren"."alt".#123120;=NOU:"Patienten"."Patient".#77063;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Arthrose".#22867;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Dazu"."dazu".#141179;]
+[PV=VER:"kommt"."kommen".#117781;]
+[GN=ART:"die"."die".#-1;=ADJ:"große"."groß".#50386;=NOU:"Gruppe".#118844919;]
+[GP=ART:"der"."die";=NOU:"Patienten"."Patient".#77063;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Knieschmerz".#570285;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"erfolgreiche"."erfolgreich".#35470;=NOU:"Therapie".#3242;]
+[GN=PRO:"all"."all".#-1;]
+[GP=ADJ:"dieser"."dies";=NOU:"Patienten"."Patient".#77063;]
+[PN=VER:"ist"."sein".#12562;=ADV:"daher".#33073;=ADJ:"abhängig".#119932;]
+[GP=PRE:"von"."von".#-1;=ART:"einer"."eine";=ADJ:"exakten"."exakt".#19897;=NOU:"Analyse".#100217602;]
+[GP=ART:"der"."die";]
+[GV=ADV:"zu Grunde".#112172;]
+[GP=ADJ:"liegenden"."liegend".#26488;=NOU:"Pathologie".#7123;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Um"."um";]
+[GP=PRE:"auf"."auf".#-1;=PRO:"alle"."all";]
+[GN=ADJ:"verschiedenen"."verschieden".#20987;=NOU:"Pathologien"."Pathologie".#7123;]
+[PV=VER:"einzugehen"."eingehen".#120980;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"empfiehlt"."empfehlen".#15098;=PRO:"sich"."er";]
+[GN=ART:"ein"."ein".#-1;=ADJ:"systematisches"."systematisch".#95433;=NOU:"Vorgehen".#102920982;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Es"."es";]
+[PV=VER:"gilt"."gelten".#137902;]
+[GN=ADJ:"3"."3".#-1;=NOU:"Fragen"."Frage".#15785;]
+[PV=CON:"zu".#565251;=VER:"beantworten".#13386;]
+[??=PNT:":".":".#-1;]
+[PV=VER:"Besteht"."bestehen".#13400;]
+[GN=ART:"ein"."ein".#-1;=ADJ:"mechanisches"."mechanisch".#82470;=NOU:"Problem".#12402;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Fehllauf"."Lauf".#1702;]
+[GP=ART:"der"."die";=NOU:"Kniescheibe".#100229081;]
+[??=PNT:")".")".#-1;]
+[??=PNT:"?"."?".#-1;]
+[CL]
+[PV=VER:"Liegt"."liegen".#14832;]
+[GN=ART:"eine"."ein";=ADJ:"strukturelle"."strukturell".#159971;=NOU:"Veränderung".#2785;]
+[GV=ADV:"vor".#106670;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"z."."z.".#-1;]
+[CL]
+[GN=NPR:"B. Knorpelschaden"."B. Knorpelschaden".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:"?"."?".#-1;]
+[CL]
+[PV=VER:"Erklärt"."erklären".#13475;]
+[GN=ART:"die"."die".#-1;=ADJ:"gefundene"."gefunden".#596981;=NOU:"Pathologie".#7123;]
+[GN=ART:"die"."die".#-1;=NOU:"Beschwerden"."Beschwerde".#118542;]
+[GP=ART:"des"."der";=NOU:"Patienten"."Patient".#77063;]
+[??=PNT:"?"."?".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Zur"."zu";=NOU:"Beantwortung".#26297;]
+[GP=ADJ:"dieser"."dies";=NOU:"Fragen"."Frage".#15785;]
+[PV=VER:"steht"."stehen".#159252;]
+[GN=ART:"eine"."ein";=NOU:"Vielzahl".#4973;]
+[GN=NOU:"bildgebender Verfahren"."bildgebendes Verfahren".#497732;]
+[GP=PRE:"zu"."zu".#-1;=NOU:"Verfügung".#119551;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"In"."in";=ADJ:"diesem"."dies";=NOU:"Beitrag".#120068;]
+[PV=VER:"werden"."werden".#-1;]
+[GN=ART:"die"."die".#-1;=ADJ:"wichtigsten"."wichtig".#109123;]
+[PV=VER:"vorgestellt"."vorstellen".#132781;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Röntgenbild".#84167;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Das"."das";=NOU:"Röntgenbild".#84167;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"a."."a.".#-1;]
+[CL]
+[GN=NOU:"p.".#76325;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"lateral"."lateral".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"tangential"."tangential".#-1;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"stellt"."darstellen".#14778;]
+[GN=ADV:"nach wie vor".#149375;=ART:"die"."die".#-1;=NOU:"Basis".#14984;]
+[GN=ART:"der"."der".#-1;=ADJ:"radiologischen"."radiologisch".#81480;=NOU:"Abklärung".#125189;]
+[GP=ART:"des"."der";=NPR:"PFG".$100179289;]
+[GV=ADV:"dar"."darstellen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Nachweis".#17003;]
+[GP=ART:"einer"."eine";=ADJ:"pathologischen"."pathologisch".#77057;=NOU:"Position".#104164871;]
+[GN=PRO:"der"."der".#-1;]
+[GN=NOU:"Patella".#100229081;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Veränderungen"."Veränderung".#2785;]
+[GP=ART:"des"."der";=NOU:"Knochens"."Knochen".#1557;]
+[PV=VER:"können"."können".#-1;]
+[GA=ADV:"damit".#32147;=ADJ:"gut".#29675;]
+[PV=VER:"dargestellt"."darstellen".#14778;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Kniegelenk".#62514;]
+[GV=ADV:"anterior-posterior"."anterior-posterior".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"Diese"."dies";=NOU:"Aufnahme".#125340;]
+[PV=VER:"dient"."dienen".#131099;]
+[GV=ADV:"hauptsächlich".#58485;]
+[GP=ART:"der"."die";=NOU:"Darstellung".#2142;]
+[GP=ART:"des"."der";=NPR:"Tibiofemuralgelenks"."Tibiofemuralgelenk";]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"sollte"."sollen";]
+[GV=ADV:"daher".#33073;]
+[GP=PRE:"unter"."unter".#-1;=NOU:"Belastung".#28338;]
+[PV=VER:"durchgeführt"."durchführen".#13125;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Neben"."neben";=ART:"der"."die";=NOU:"Diagnostik".#33331;]
+[GN=ADJ:"knöcherner"."knöchern".#93957;=NOU:"Verletzungen"."Verletzung".#2709;]
+[GP=ART:"der"."die";=NOU:"Kniescheibe".#100229081;]
+[PV=VER:"kann"."können";]
+[GN=PRO:"man"."man".#-1;]
+[GV=ADV:"auch".#23235;]
+[GN=ART:"die"."die".#-1;=NOU:"Stellung".#104164871;]
+[GP=ART:"der"."die";=NOU:"Kniescheibe".#100229081;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."der".#-1;=ADJ:"transversalen"."transversal".#97852;=NOU:"Ebene".#976;]
+[PV=VER:"einschätzen".#133174;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Dies"."dies";]
+[PV=VER:"erfordert"."erfordern".#12745;]
+[GV=ADV:"jedoch".#20252;]
+[GN=ART:"eine"."ein";=ADJ:"exakte"."exakt".#19897;=NOU:"Aufnahmetechnik".#588672;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"da"."da".#-1;]
+[GN=ADV:"bereits".#87685;=ADJ:"geringe"."gering".#100425;=NOU:"Drehfehler".$2013;]
+[GP=PRE:"zu"."zu".#-1;=ADJ:"falschen"."falsch".#135245;=NOU:"Ergebnissen"."Ergebnis".#117958;]
+[PV=VER:"führen"."fahren".#51016;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Ganzbeinstandaufnahme".$125340;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Mehr".#148383;=NOU:"Information".#1723;]
+[PV=VER:"erhält"."erhalten".#18053;]
+[GN=PRO:"man"."man".#-1;]
+[GP=PRE:"durch"."durch".#-1;=ART:"eine"."ein";=ADJ:"Ganzbeinstand-"."Ganzbeinstand";]
+[??=PNT:"("."(".#-1;]
+[GN=NPR:"GBS"."GBS".#-1;=PNT:"-"."-".#-1;]
+[??=PNT:")".")".#-1;]
+[GN=NOU:"Aufnahme".#125340;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Hierbei"."hierbei".#141135;]
+[PV=VER:"kann"."können";]
+[GN=ART:"die"."die".#-1;=NOU:"Gesamtachse".$122705;]
+[GN=ART:"der"."der".#-1;=ADJ:"unteren"."unteren".#-1;=NOU:"Extremität".#113415392;]
+[PV=VER:"gemessen"."messen".#17336;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Ebenfalls"."ebenfalls".#23235;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"eine"."ein";=NOU:"Beurteilung".#117368;]
+[PN=ART:"der"."der".#-1;=NOU:"Kniewinkel".$111599;]
+[??=PNT:"("."(".#-1;]
+[GN=NPR:"LDFW"."LDFW".#-1;]
+[GN=ADJ:"lateraler"."lateral".#66370;=ADJ:"distaler"."distal".#33963;=NOU:"Femurwinkel".$111599;]
+[??=PNT:",".",".#-1;]
+[GN=NPR:"MPTW".$67;]
+[GN=ADJ:"medialer"."medial".#148340;=ADJ:"proximaler"."proximal".#80503;=NOU:"Tibiawinkel".$111599;]
+[??=PNT:")".")".#-1;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GP=ART:"der"."die";=NOU:"Gelenklinie".$101067164;]
+[GV=ADV:"möglich"."möglich".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Auch"."auch".#23235;]
+[GN=ART:"der"."der".#-1;=ADJ:"modifizierte"."modifiziert";=NOU:"Q-Winkel".$111599;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Winkel".#111599;]
+[GP=PRE:"zwischen"."zwischen".#-1;=NOU:"Tuberositas"."Tuberos";]
+[GV=ADV:"tibiae"."tibiae".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GP=ADJ:"höchstem"."hoch".#88257;=NOU:"Punkt".#1328;]
+[GN=ART:"der"."der".#-1;=ADJ:"interkondylären"."interkondylären".#-1;=NPR:"Notch"."Notch".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Spina".#100482853;]
+[GA=ADV:"iliaca"."iliaca".#-1;=ADJ:"anterior"."anterior".#-1;=ADJ:"superior".#56171;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"normal".#119055;]
+[GP=PRE:"bis"."bis".#-1;=ADJ:"26"."26".#-1;=PNT:"°"."°".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"kann"."können";]
+[GV=ADV:"nur".#20252;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"dieser"."dies";=NOU:"Aufnahmeart".$1555;]
+[PV=VER:"bestimmt"."bestimmen".#135715;=VER:"werden"."werden".#-1;=PNT:"["."[".#-1;=ADJ:"40"."40".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Kniegelenk".#62514;]
+[GV=ADV:"lateral"."lateral".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"Diese"."dies";=NOU:"Aufnahme".#125340;]
+[PV=VER:"erlaubt"."erlauben".#17758;]
+[GP=PRE:"neben"."neben".#-1;=ART:"der"."die";=NOU:"Diagnostik".#33331;]
+[GP=PRE:"von"."von".#-1;=NOU:"Frakturen"."Fraktur".#100068833;]
+[GV=ADV:"auch".#23235;]
+[GN=ART:"die"."die".#-1;=NOU:"Beurteilung".#117368;]
+[GP=ART:"des"."der";=NOU:"Gelenkspalts"."Gelenkspalt".$158201;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PN=ADJ:"Zusätzlich"."zusätzlich".#19517;=VER:"ist"."sein".#12562;]
+[GN=ART:"eine"."ein";=NOU:"Analyse".#100217602;]
+[GP=ADJ:"wichtiger"."wichtig".#109123;=NOU:"Faktoren"."Faktor".#3148;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Faktor".#3148;]
+[GP=PRE:"zu"."zu".#-1;=ART:"einer"."eine";=NOU:"Instabilität".#58568;]
+[GP=ART:"der"."die";=NOU:"Kniescheibe".#100229081;]
+[PV=VER:"führen"."fahren".#73259;=PNT:"["."[".#-1;=ADJ:"16"."16".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"möglich"."möglich".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Patella".#100229081;]
+[GA=ADV:"alta"."alta".#-1;=PNT:"/"."/".#-1;=ADJ:"infera"."infera".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=NOU:"Messung".#10475;]
+[GP=ART:"der"."die";=NOU:"Patellastellung".$3451;]
+[GP=PRE:"in"."in".#-1;=ADJ:"kraniokaudaler"."kraniokaudaler".#-1;=NOU:"Richtung".#102151613;]
+[PN=VER:"ist"."sein".#12562;=ADV:"leider".#28057;=ADV:"nicht".#74226;=ADV:"einheitlich".#596506;=ADJ:"geregelt".#562566;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PN=ART:"Die"."die";=ADJ:"gebräuchlichste"."gebräuchlich".#36490;=NOU:"Messung".#10475;=VER:"ist"."sein".#12562;]
+[GN=PRO:"jene"."jene".#-1;]
+[GP=PRE:"nach".#562278;=NPH:"Insall".$100215627;]
+[CN=CON:"u."."u.".#-1;]
+[GP=NPR:"Salvati"."Salvati".#-1;=PNT:"["."[".#-1;=ADJ:"21"."21".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Dabei"."dabei".#141135;]
+[PV=VER:"wird"."werden".#140981;]
+[GN=ART:"das"."das".#-1;=NOU:"Verhältnis".#100223642;]
+[GP=ART:"der"."die";=NOU:"Patellalänge".$6546;]
+[GP=PRE:"zur"."zu";=NOU:"Länge".#6546;]
+[GP=ART:"des"."der";=NOU:"Lig"."Lig".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"patellae"."patellae".#-1;]
+[GP=PRE:"in"."in".#-1;=NOU:"Millimetern"."Millimeter".#100174789;]
+[PV=VER:"berechnet"."berechnen".#14575;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Bei"."bei";=ART:"einer"."eine";=ADJ:"normalen"."normal".#119054;=NOU:"Position".#3451;]
+[PV=VER:"ergibt"."ergeben".#15422;=PRO:"sich"."er";]
+[GN=ART:"ein"."ein".#-1;=NOU:"Wert".#13526;]
+[GP=PRE:"von"."von".#-1;=ADJ:"1"."1".#-1;=MEA:"0,2 mm"."0,2 Millimeter".$100174789;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Diese"."dies";=NOU:"Messung".#10475;]
+[PN=VER:"ist"."sein".#12562;=ADJ:"einfach".#63207;]
+[PV=VER:"durchzuführen"."durchführen".#13125;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"ändert"."ändern".#13898;=PRO:"sich"."er";]
+[GV=ADV:"jedoch".#20252;]
+[GP=PRE:"bei"."bei".#-1;=ART:"einer"."eine";=NPR:"Distalisierung"."Distalisierung".#-1;]
+[GN=ART:"der"."der".#-1;=NOU:"Tuberositas"."Tuberos";]
+[GV=ADV:"tibiae"."tibiae".#-1;]
+[GV=ADV:"nicht".#74226;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"ist"."sein";]
+[GV=ADV:"daher".#33073;]
+[GP=PRE:"zur"."zu";=NOU:"Operationsplanung".$118402;]
+[PV=ADV:"nicht".#74226;=VER:"geeignet"."eignen".#15415;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"In"."in";=ADJ:"diesem"."dies";=NOU:"Fall".#114944328;]
+[PV=VER:"empfiehlt"."empfehlen".#15098;=PRO:"sich"."er";]
+[GN=ART:"die"."die".#-1;=NOU:"Methode".#102920982;]
+[GP=PRE:"nach".#562278;=NOU:"Caton"."Caton".#-1;=PNT:"["."[".#-1;=ADJ:"7"."7".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"bei"."bei".#-1;=PRO:"der"."die";]
+[GN=ART:"die"."die".#-1;=NOU:"Länge".#118707;]
+[GP=ART:"der"."die";=NOU:"Patellagelenkfläche".$1798;]
+[GP=PRE:"mit"."mit".#-1;=ART:"dem"."der";=NOU:"Abstand".#2317;]
+[GN=ART:"der"."der".#-1;=ADJ:"vorderen"."vorder".#106138;=NOU:"Tibiakante".$143887;]
+[GP=PRE:"zum"."zu";=ADJ:"distalsten"."distal".#33963;=NOU:"Punkt".#1328;]
+[GP=ART:"der"."die";=NOU:"Patellagelenkfläche".$1798;]
+[PV=VER:"verglichen"."vergleichen".#16146;=VER:"wird"."werden";]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Abb.".#100011348;]
+[CL]
+[GV=ADV:"1)"."1)".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NPR:"Trochleadysplasie".$119374;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Ein"."ein";=ADJ:"weiterer"."weit".#30148;=ADJ:"wichtiger"."wichtig".#109123;=NOU:"Faktor".#3148;]
+[GP=ART:"der"."die";=NOU:"Patellainstabilität".$58568;]
+[PN=VER:"ist"."sein".#13082;]
+[GN=ART:"die"."die".#-1;=NPR:"Trochleadysplasie".$119374;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Sie"."sie";]
+[PN=VER:"ist"."sein".#12562;=ADJ:"pathognomonisch"."pathognomonisch".#-1;]
+[GP=PRE:"für"."für".#-1;=ART:"einen"."ein";=NOU:"Fehllauf"."Lauf".#1702;]
+[GP=ART:"der"."die";=NOU:"Kniescheibe".#100229081;=PNT:"["."[".#-1;=ADJ:"16"."16".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Eine"."ein";=NOU:"Beurteilung".#117368;]
+[PN=VER:"ist"."sein".#12562;]
+[GV=ADV:"nur".#20252;]
+[GP=PRE:"im"."in";=ADJ:"exakt".#19897;=ADJ:"seitlichen"."seitlich".#89463;=NOU:"Strahlengang".#101417028;]
+[PN=ADJ:"möglich".#40256;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Dabei"."dabei".#141135;]
+[PV=VER:"wird"."werden".#167036;]
+[GP=PRE:"auf"."auf".#-1;=ART:"die"."die".#-1;=NOU:"Überschneidung".#99376;]
+[GP=ART:"des"."der";=NPR:"Sulcus"."Sulcu";]
+[GN=ADJ:"trochleae"."trochleae".#-1;]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."der".#-1;=ADJ:"lateralen"."lateral".#66370;=NPR:"Femurkondyle"."Femurkondyle".#-1;]
+[??=PNT:"("."(".#-1;]
+[??=PNT:""".""".#-1;]
+[PV=VER:"crossing"."Crosabsingen".$19019;]
+[GV=ADV:"sign"."sign".#-1;]
+[??=PNT:""".""".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Abb.".#100011348;]
+[GA=ADJ:"2"."2".#-1;]
+[CL]
+[CR]
+[GV=ADV:"a)"."a)".#-1;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GP=PRE:"auf"."auf".#-1;=ART:"einen"."ein";=NOU:"Niveauunterschied".#150071;]
+[GN=ART:"der"."der".#-1;=ADJ:"medialen"."medial".#148340;]
+[CN=CON:"und"."und".#-1;]
+[GN=ADJ:"lateralen"."lateral".#66370;=NPR:"Trochleaschulter"."Trochleaschulter".#-1;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Doppelkontur".$639;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Abb.".#100011348;]
+[GA=ADJ:"2"."2".#-1;]
+[CL]
+[CR]
+[PV=ADV:"b)"."b)".#-1;=VER:"geachtet"."achten".#13193;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Zusätzlich"."zusätzlich".#19517;]
+[PV=VER:"wird"."werden".#167036;]
+[GN=ART:"die"."die".#-1;=NOU:"Erhöhung".#93265;]
+[GN=ART:"der"."der".#-1;=NPR:"Trochlea".$93265;]
+[GP=PRE:"über".#596948;=ART:"dem"."der";=ADJ:"anterioren"."anterioren".#-1;=NOU:"Kortex".#100075839;]
+[GP=ART:"des"."der";=NOU:"Femurschafts"."Femurschaft".$103992556;]
+[??=PNT:"("."(".#-1;]
+[GA=ADV:""";=ADJ:"bump"."bump".#-1;=PNT:""".""".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Abb.".#100011348;]
+[GA=ADJ:"2"."2".#-1;]
+[CL]
+[CR]
+[GA=ADV:"c)"."c)".#-1;=ADJ:"gemessen".#562527;=PNT:"["."[".#-1;=ADJ:"11"."11".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Bei"."bei";=NOU:"Gesunden"."Gesunde".#48564;]
+[PV=VER:"beträgt"."betragen".#13116;]
+[GN=ART:"der"."der".#-1;=PNT:""".""".#-1;=ADJ:"bump"."bump".#-1;=PNT:""".""".#-1;]
+[GN=PNT:"-"."-".#-1;=ADJ:"0,8"."0,8".#-1;=MEA:"2,9 mm"."2,9 Millimeter".$100174789;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Patella".#100229081;]
+[GV=ADV:"tangential"."tangential".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Anhand"."anhand";=ADJ:"dieser"."dies";=NOU:"Aufnahme".#125340;]
+[PV=VER:"kann"."können";]
+[GN=ART:"das"."das".#-1;=NPR:"PFG".$100179289;]
+[PV=ADV:"am besten".#575958;=VER:"beurteilt"."beurteilen".#172935;=VER:"werden"."werden".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=PRO:"sie"."sie".#-1;]
+[PV=VER:"sollte"."sollen";]
+[GA=ADV:"daher".#33073;=ADJ:"standardmäßig"."Standard";]
+[PV=VER:"angefertigt"."anfertigen".#13619;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Es"."es";]
+[PV=VER:"wurden"."werden".#14301;]
+[GN=ADJ:"verschiedene"."verschieden".#20987;=NOU:"Techniken"."Technik".#1284;]
+[PV=VER:"beschrieben"."beschreiben".#119407;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Eine"."ein";=NOU:"Technik".#13971;]
+[GP=PRE:"unter"."unter".#-1;=NOU:"Belastung".#28338;]
+[PV=VER:"wurde"."werden".#167036;]
+[GP=PRE:"von"."von".#-1;=NPR:"Baldini"."Baldini".#-1;]
+[GN=ADJ:"et"."et".#-1;=NOU:"al".#100101497;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GA=ADV:"[";=ADJ:"2"."2".#-1;=PNT:"]"."]".#-1;]
+[PV=VER:"publiziert"."publizieren".#13458;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Wie"."wie";]
+[GV=ADV:"auch".#23235;=ADV:"schon".#87685;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."der".#-1;=ADJ:"lateralen"."lateral".#66370;=NOU:"Aufnahme".#125340;]
+[PV=VER:"können".#14354;]
+[GN=ART:"eine"."ein";=NOU:"Verletzung".#2709;]
+[GP=ART:"des"."der";=NOU:"Knochens"."Knochen".#1557;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GN=ART:"der"."der".#-1;=NOU:"Gelenkspalt".$158201;]
+[PV=VER:"beurteilt"."beurteilen".#172935;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Zusätzlich"."zusätzlich".#596242;]
+[PV=VER:"stellt"."darstellen".#14805;]
+[GN=ART:"eine"."ein";=ADJ:"solche"."solch".#27540;=NOU:"Aufnahme".#125340;=NOU:"Stellung".#104164871;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Form".#146;]
+[GP=ART:"der"."die";=NOU:"Kniescheibe".#100229081;]
+[GV=ADV:"gut".#596240;]
+[GV=ADV:"dar"."darstellen";]
+[??=PNT:".".".".#-1;]
+
+SBJ=6:8;CPL=9:8;SBJ=16:15;APH=18:16;SBJ=16:20;OBJ=19:20;SBJ=24:25;SBJ=38:37;SBJ=42:45;CPL=43:45;SBJ=57:56;SBJ=59:60;SBJ=59:62;OBJ=61:62;SBJ=65:64;CPL=67:64;SBJ=72:71;SBJ=80:79;OBJ=81:79;SBJ=88:87;OBJ=89:87;SBJ=112:110;OBJ=111:110;OBJ=118:125;OBJ=119:125;OBJ=121:125;SBJ=132:133;OBJ=132:141;SBJ=147:152;OBJ=149:152;SBJ=154:155;OBJ=157:155;SBJ=173:169;OBJ=175:169;OBJ=179:181;SBJ=185:186;SBJ=225:226;OBJ=230:226;SBJ=234:233;APH=237:235;SBJ=235:240;SBJ=250:252;SBJ=255:254;SBJ=262:261;SBJ=273:272;SBJ=276:277;SBJ=283:280;SBJ=283:290;SBJ=294:293;OBJ=299:304;SBJ=313:315;CPL=316:315;SBJ=318:319;SBJ=323:327;CPL=333:330;SBJ=-49:337;SBJ=360:359;CPL=358:359;CPL=361:359;OBJ=384:385;OBJ=387:390;CPL=394:395;SBJ=397:399;CPL=401:399;SBJ=418:417;OBJ=420:417;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Disambiguation	0	27	21	NPR	Patellofemoralgelenk	Patellofemoralgelenks		True	4				 	
+Wrong Disambiguation	1	104	11	NOU	Beschwerde	Beschwerden	118542	False	15				 	117508
+Wrong Disambiguation	0	144	5	ADV	dabei	Dabei	130289	False	21				 	
+Wrong Disambiguation	1	150	3	VER	sein	ist	172056	False	22				 	
+Wrong Disambiguation	0	201	8	VER	betreffen	betrifft	500612	False	29				 	17151
+Wrong Disambiguation	1	230	6	VER	reichen	reicht	118061	False	35				 	120177
+Wrong Disambiguation	0	248	7	ADJ	aktiv	aktiven	122978	False	38				 	19978
+Wrong Disambiguation	0	299	4	PRE		über	596956	False	44				 	
+Wrong Disambiguation	1	424	4	ADV	dazu	Dazu	141179	False	62				 	98967
+Wrong Disambiguation	1	429	5	VER	kommen	kommt	117781	False	63				 	
+Wrong Grammar	1	509	3	PRO	all	all	-1	False	75				 	
+Missing Concept	0	579	9	ADV		zu Grunde	112172	False	86				 	
+Wrong Disambiguation	1	589	9	ADJ	liegend	liegenden	26488	False	87				 	
+Missing Concept	1	599	10	NOU		Pathologie	7123	False	88				 	
+Missing Concept	1	637	11	NOU	Pathologie	Pathologien	7123	False	94				 	
+Wrong Disambiguation	1	649	10	VER	eingehen	einzugehen	120980	False	95				 	132820
+Wrong Recognition	1	799	5	VER	liegen	Liegt	14832	False	120		vorliegen		 	165974
+Wrong Disambiguation	0	823	11	NOU		Veränderung	2785	False	123				 	498782
+Wrong Recognition	1	843	17	NPR	B. Knorpelschaden	B. Knorpelschaden	-1	False	127				 	
+Missing Concept	1	885	10	NOU		Pathologie	7123	False	133				 	
+Wrong Disambiguation	1	900	11	NOU	Beschwerde	Beschwerden	118542	False	135				 	
+Wrong Recognition	1	958	5	VER	stehen	steht	159252	False	143		zur Verfügung stehen		 	15415
+Wrong Disambiguation	1	1056	11	VER	vorstellen	vorgestellt	132781	False	156				 	13302
+Wrong Disambiguation	1	1101	2	NOU		p.	76325	False	164				 	
+Missing Concept	0	1105	7	ADV	lateral	lateral	-1	False	166				 	
+Missing Concept	0	1117	10	ADV	tangential	tangential	-1	False	168				 	
+Wrong Disambiguation	0	1129	6	VER	darstellen	stellt	14778	False	170				 	14805
+Wrong Disambiguation	0	54	20	NPR	Patellofemoralgelenk	Patellofemoralgelenk	-1	False	7				 	
+Wrong Disambiguation	0	1192	3	NPR		PFG	100179289	True	178				 	
+Wrong Disambiguation	1	1235	8	NOU		Position	104164871	False	185				 	
+Wrong Grammar	1	1244	3	PRO	der	der	-1	False	186				 	
+Wrong Disambiguation	0	1304	11	VER	darstellen	dargestellt	14778	False	195				 	
+Missing Concept	0	1335	18	ADV	anterior-posterior	anterior-posterior	-1	False	199				 	
+Wrong Disambiguation	1	1361	8	NOU		Aufnahme	125340	False	202				 	
+Wrong Disambiguation	0	1410	19	NPR	Tibiofemuralgelenk	Tibiofemuralgelenks		True	208				 	
+Wrong Disambiguation	1	1453	9	NOU		Belastung	28338	False	213				 	500921
+Wrong Disambiguation	1	1505	10	ADJ	knöchern	knöcherner	93957	False	220				 	
+Wrong Disambiguation	1	1563	8	NOU		Stellung	104164871	False	228				 	1689
+Wrong Disambiguation	1	1609	5	NOU		Ebene	976	False	234				 	
+Wrong Disambiguation	1	1733	6	VER	fahren	führen	51016	False	251				 	
+Wrong Disambiguation	1	1741	21	NOU		Ganzbeinstandaufnahme	125340	True	253				 	
+Wrong Disambiguation	0	1781	6	VER	erhalten	erhält	18053	False	257				 	14132
+Wrong Grammar	1	1803	14	ADJ	Ganzbeinstand	Ganzbeinstand-		True	261				 	
+Wrong Disambiguation	1	1824	8	NOU		Aufnahme	125340	False	266				 	
+Wrong Recognition	1	1867	7	ADJ	unteren	unteren	-1	False	273		untere		 	498527
+Wrong Disambiguation	1	1922	11	NOU		Beurteilung	117368	False	281				 	2133
+Wrong Disambiguation	1	1938	10	NOU		Kniewinkel	111599	True	283				 	
+Wrong Disambiguation	1	1974	11	NOU		Femurwinkel	111599	True	288				 	
+Wrong Disambiguation	1	2012	11	NOU		Tibiawinkel	111599	True	293				 	
+Wrong Disambiguation	1	2035	11	NOU		Gelenklinie	101067164	True	297				 	
+Missing Concept	0	2065	12	ADJ	modifiziert	modifizierte		True	302				 	
+Wrong Disambiguation	1	2078	8	NOU		Q-Winkel	111599	True	303				 	
+Wrong Disambiguation	1	2088	6	NOU		Winkel	111599	False	305				 	
+Wrong Recognition	1	2104	11	NOU	Tuberos	Tuberositas		True	307				 	
+Wrong Disambiguation	1	2136	5	NOU		Punkt	1328	False	311				 	563141
+Missing Concept	0	2146	15	ADJ	interkondylären	interkondylären	-1	False	313				 	
+Wrong Recognition	1	2172	5	NOU		Spina	100482853	False	316				 	
+Wrong Recognition	1	2215	2	ADJ	26	26	-1	False	323				 	
+Wrong Disambiguation	0	2226	3	ADV		nur	20252	False	328				 	
+Missing Concept	1	2253	8	VER	bestimmen	bestimmt	135715	False	332				 	
+Wrong Disambiguation	1	2301	8	NOU		Aufnahme	125340	False	342				 	
+Wrong Disambiguation	1	2362	11	NOU		Beurteilung	117368	False	351				 	2133
+Wrong Recognition	1	2482	6	VER	fahren	führen	73259	False	368		führen		 	
+Missing Concept	0	2495	7	ADV	möglich	möglich	-1	False	373				 	
+Missing Concept	1	2541	15	NOU		Patellastellung	3451	True	383				 	
+Missing Concept	0	2560	14	ADJ	kraniokaudaler	kraniokaudaler	-1	False	385				 	
+Wrong Disambiguation	1	2660	4	PRE		nach	562278	False	398				 	
+Wrong Entity Type	1	2675	7	NPR	Salvati	Salvati	-1	False	401				 	
+Wrong Disambiguation	1	2695	4	VER	werden	wird	140981	False	407				 	
+Wrong Disambiguation	1	2704	10	NOU		Verhältnis	100223642	False	409				 	13953
+Wrong Recognition	0	2746	3	NOU	Lig	Lig	-1	False	415				 	
+Wrong Disambiguation	1	2805	8	NOU		Position	3451	False	425				 	1689
+Wrong Disambiguation	1	2830	4	NOU		Wert	13526	False	429				 	115088658
+Missing Concept	0	2919	14	NPR	Distalisierung	Distalisierung	-1	False	445				 	
+Wrong Recognition	0	2938	11	NOU	Tuberos	Tuberositas		True	447				 	
+Missing Entity	0	3062	5	NOU	Caton	Caton	-1	False	466				 	
+Wrong Disambiguation	1	3170	5	NOU		Punkt	1328	False	485				 	
+Wrong Disambiguation	0	3217	4	NOU		Abb.	100011348	False	491				 	
+Wrong Disambiguation	0	3226	17	NPR		Trochleadysplasie	119374	True	494				 	
+Wrong Recognition	1	3249	8	ADJ	weit	weiterer	30148	False	497				 	
+Wrong Disambiguation	1	3299	3	VER	sein	ist	13082	False	502				 	
+Wrong Disambiguation	0	3307	17	NPR		Trochleadysplasie	119374	True	504				 	
+Missing Concept	0	3334	15	ADJ	pathognomonisch	pathognomonisch	-1	False	508				 	
+Wrong Disambiguation	1	3360	8	NOU	Lauf	Fehllauf	1702	False	511				 	
+Wrong Disambiguation	1	3396	11	NOU		Beurteilung	117368	False	519				 	2133
+Wrong Disambiguation	0	3412	3	ADV		nur	20252	False	521				 	
+Missing Concept	1	3436	12	NOU		Strahlengang	101417028	False	525				 	
+Wrong Disambiguation	1	3449	7	ADJ		möglich	40256	False	526				 	79324
+Wrong Disambiguation	1	3464	4	VER	werden	wird	167036	False	529				 	
+Wrong Entity Form	0	3496	6	NPR	Sulcu	Sulcus		True	534				 	
+Missing Concept	0	3531	12	NPR	Femurkondyle	Femurkondyle	-1	False	539				 	
+Wrong Grammar	2	3546	8	VER	Crosabsingen	crossing	19019	True	542				 	
+Wrong Grammar	0	3569	2	ADV	a)	a)	-1	False	548				 	
+Wrong Disambiguation	1	3610	8	ADJ	medial	medialen	148340	False	554				 	
+Missing Concept	0	3633	16	NPR	Trochleaschulter	Trochleaschulter	-1	False	557				 	
+Wrong Grammar	0	3672	2	ADV	b)	b)	-1	False	563				 	
+Wrong Disambiguation	1	3705	8	NOU		Erhöhung	93265	False	569				 	
+Missing Concept	0	3718	8	NPR		Trochlea	93265	True	571				 	
+Missing Concept	0	3736	10	ADJ	anterioren	anterioren	-1	False	574				 	
+Missing Concept	1	3747	6	NOU		Kortex	100075839	False	575				 	
+Missing Concept	1	3758	12	NOU	Femurschaft	Femurschafts	103992556	True	577				 	
+Wrong Grammar	0	3787	2	ADV	c)	c)	-1	False	585				 	
+Wrong Grammar	1	3831	4	ADJ	bump	bump	-1	False	596				 	
+Missing Concept	0	3858	10	ADV	tangential	tangential	-1	False	603				 	
+Wrong Disambiguation	1	3884	8	NOU		Aufnahme	125340	False	607				 	
+Wrong Entity Type	0	3902	3	NPR		PFG	100179289	True	610				 	
+Missing Concept	0	3954	13	ADJ	Standard	standardmäßig		True	618				 	
+Wrong Disambiguation	1	3991	6	VER	werden	wurden	14301	False	623				 	
+Wrong Disambiguation	1	4039	7	NOU		Technik	13971	False	629				 	
+Wrong Disambiguation	1	4053	9	NOU		Belastung	28338	False	631				 	
+Wrong Disambiguation	1	4063	5	VER	werden	wurde	167036	False	632				 	
+Wrong Entity Type	1	4073	7	NPR	Baldini	Baldini	-1	False	634				 	
+Wrong Recognition	2	4084	2	NOU		al	100101497	False	636				 	
+Wrong Disambiguation	1	4136	8	NOU		Aufnahme	125340	False	649				 	
+Wrong Disambiguation	1	4145	6	VER		können	14354	False	650				 	
+Wrong Disambiguation	1	4232	6	VER	darstellen	stellt	14805	False	662				 	14797
+Wrong Disambiguation	1	4251	8	NOU		Aufnahme	125340	False	665				 	
+Wrong Disambiguation	1	4260	8	NOU		Stellung	104164871	False	666				 	
+Wrong Disambiguation	1	4294	3	ADV		gut	596240	False	671				 	

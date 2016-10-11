@@ -1,0 +1,369 @@
+﻿[PV=PRO:"Es"."es";=VER:"ist"."sein".#12562;]
+[GN=ADV:"noch".#74484;=ADV:"nicht".#74226;=ADV:"einmal".#37101;=MEA:"zwei Jahre"."2 Jahr".$100000577;]
+[GV=ADV:"her".#140293;]
+[??=PNT:":".":".#-1;]
+[GP=PRE:"Am"."an";=DAT:"11. Dezember"."Dec-11".$100205892;]
+[PV=VER:"fielen"."fallen".#17179;]
+[GN=PRO:"sich"."er";]
+[GN=NOU:"Firmenchef".#63882;=NPH:"Renaud Laplanche".$100215627;]
+[CN=CON:"und"."und".#-1;]
+[GN=ADJ:"seine"."sein";=NOU:"Finanzchefin".#100623268;=NPH:"Carrie Dolan".$100215627;]
+[GV=ADV:"noch".#74484;]
+[GP=PRE:"in"."in".#-1;=ART:"die"."die".#-1;=NOU:"Arme"."Arm".#120720;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"als"."als".#-1;]
+[GN=PRO:"sie"."sie".#-1;]
+[GN=ART:"den"."der";=ADJ:"ersten"."erste".#20255;=NOU:"Kurs".#4170;]
+[GP=ADJ:"ihrer"."ihr";=NOU:"Aktie".#19937;]
+[GP=PRE:"auf"."auf".#-1;=ART:"dem"."das";=NOU:"Parkett".#564021;]
+[GN=ART:"der"."der".#-1;=GEO:"New York"."New York City".#15108634;=NOU:"Stockexchange"."Exchange".#40433;]
+[PV=VER:"erlebten"."erleben".#13183;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Es"."es";]
+[PN=VER:"war"."sein".#12562;]
+[GV=ADV:"damals".#35928;]
+[PN=NOU:"Tag".#105019497;]
+[GV=ADV:"eins".#36896;]
+[GP=ART:"des"."der";=ORG:"Online-Kreditvermittlers Lending Club".$100043229;]
+[GP=PRE:"als"."als".#-1;=NOU:"börsennotiertes Unternehmen".#564246;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Das"."das";=NOU:"Start-up".#100129238;]
+[GP=PRE:"aus"."aus".#-1;=GEO:"San Francisco".#15371812;]
+[PV=VER:"war"."sein";]
+[GP=PRE:"als"."als".#-1;=ADJ:"preisgünstige"."preisgünstig".#79704;=NOU:"Alternative".#20506;]
+[GP=PRE:"zu"."zu".#-1;=NOU:"Banken"."Bank".#4373;]
+[PV=VER:"angetreten"."antreten".#13844;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Kurs".#4171;]
+[PV=VER:"sprang"."springen".#173430;]
+[GP=PRE:"beim"."bei";=NOU:"Börsengang".#29774;]
+[GV=PRE:"auf"."auf".#-1;]
+[GP=ADV:"mehr".#70026;=PRE:"als"."als".#-1;=MON:"25 Dollar".$5963;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Heute"."heute".#141095;=VER:"notiert"."notieren".#103914;]
+[GN=ART:"die"."die".#-1;=NOU:"Aktie".#19937;]
+[GV=ADV:"nicht".#74226;=ADV:"einmal".#118174;=ADV:"mehr".#70026;]
+[GP=PRE:"bei"."bei".#-1;=ART:"einem"."ein";=NOU:"Fünftel".#45353;]
+[GP=ART:"des"."der";=ADJ:"ursprünglichen"."ursprünglich".#102333;=NOU:"Werts"."Wert".#115088658;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPH:"Renaud Laplanche".$100215627;]
+[PV=VER:"musste"."müssen";]
+[GN=ART:"die"."die".#-1;=NOU:"Firma".#104830453;=COM:"Anfang Mai".$104830453;]
+[PV=VER:"verlassen".#119623;]
+[??=PNT:",".",".#-1;]
+[PV=ADV:"jetzt".#141095;=VER:"ist"."sein";]
+[GV=ADV:"auch".#23235;]
+[GN=NOU:"Finanzchefin".#100623268;=NPH:"Carrie Dolan".$100215627;]
+[PV=VER:"abgesprungen"."abspringen".#17982;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Zahlen"."Zahl".#14331;]
+[GP=ART:"des"."das";=NOU:"Unternehmens"."Unternehmen".#1245;]
+[PN=VER:"sind"."sein".#12562;=ADJ:"katastrophal".#33083;]
+[??=PNT:"-"."-".#-1;]
+[GN=ORG:"Lending Club"."Online-Kreditvermittlers Lending Club".$100043229;]
+[PV=VER:"scheint"."scheinen".#14275;]
+[GP=PRE:"vom"."von";=NOU:"Geldverleihen"."Geldverleih".$164484;]
+[GP=PRE:"zum"."zu";=NOU:"Geldverbrennen".$4460;]
+[PV=VER:"übergegangen"."gehen".#15379;]
+[PV=CON:"zu".#565251;=VER:"sein".#12562;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Das"."das";=NOU:"Unternehmen".#104830453;]
+[PV=VER:"sammelt"."einsammeln".#36905;]
+[GN=NOU:"Geld".#100001368;]
+[GP=PRE:"von"."von".#-1;=NOU:"Privatleuten"."Privatmann".#152431;]
+[GV=ADV:"ein"."einsammeln";]
+[??=PNT:",".",".#-1;]
+[PV=VER:"bündelt"."bündeln".#30725;]
+[GN=PRO:"es"."es".#-1;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"reicht"."reichen".#47876;]
+[GN=PRO:"es"."es".#-1;]
+[GP=PRE:"in"."in".#-1;=NOU:"Form".#17106;]
+[GP=PRE:"von"."von".#-1;=NOU:"Krediten"."Kredit".#120620;]
+[GP=PRE:"an"."an".#-1;=ADJ:"andere".#20987;=NOU:"Privatleute"."Privatmann".#152431;]
+[GA=ADJ:"weiter"."weit".#30148;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Peer".#35784;=PNT:"-"."-".#-1;=NOU:"to-Peer-Kredite"."To-Peer-Kredit".$100182076;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Dabei"."dabei".#130291;]
+[PV=VER:"geht"."gehen".#15379;]
+[GN=ART:"das"."das".#-1;=NOU:"Geld".#100001368;]
+[GV=ADV:"oft".#75362;]
+[GP=PRE:"an"."an".#-1;=NOU:"Kunden"."Kunde".#3878;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"schwacher"."schwach".#35106;=NOU:"Bonität".#100350161;]
+[??=PNT:",".",".#-1;]
+[GV=PRE:"im Gegenzug".#588885;]
+[PV=VER:"erhalten".#13345;]
+[GN=ART:"die"."die".#-1;=NOU:"Verleiher".#103810;]
+[GN=ADV:"vergleichsweise".#103259;=ADJ:"hohe"."hoch".#39296;=NOU:"Zinsen"."Zins".#100170924;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ORG:"Lending Club"."Online-Kreditvermittlers Lending Club".$100043229;]
+[PV=VER:"nimmt"."nehmen".#12944;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Vermittlung".#58852;]
+[GP=PRE:"von"."von".#-1;=ADJ:"beiden"."beide".#169688;]
+[GN=NOU:"Seiten"."Seite".#1979;]
+[GP=NOU:"Gebühren"."Gebühr".#2204;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Mit"."mit";=ART:"einem"."ein";=NOU:"Kreditvolumen".#64669;]
+[GP=PRE:"von"."von".#-1;=MON:"neun Milliarden Dollar"."9.000.000.000 Dollar".$5963;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"die"."die".#-1;=NOU:"Firma".#104830453;]
+[GP=PRE:"in"."in".#-1;=ADJ:"ihrem"."ihr";=NOU:"Segment".#51865;]
+[PN=NOU:"Marktführer".#69354;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Das"."das";=NOU:"Konzept".#120748;]
+[PV=VER:"scheint"."scheinen".#117664;]
+[PV=ADV:"nicht".#74226;=VER:"aufzugehen"."aufgehen".#125102;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPH:"Dolan"."Carrie Dolan".$100215627;]
+[PV=VER:"verkündete"."verkünden".#13494;]
+[GN=ADJ:"ihren"."ihr";=NOU:"Abgang".#118026;]
+[GP=PRE:"an"."an".#-1;=ART:"einem"."ein";=NOU:"Tag".#105019497;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"an"."an".#-1;=ART:"dem"."der";=ORG:"Lending Club"."Online-Kreditvermittlers Lending Club".$100043229;]
+[GN=ADJ:"katastrophale"."katastrophal".#33083;=NOU:"Zahlen"."Zahl".#309;]
+[PV=VER:"melden".#17134;=VER:"musste"."müssen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Am"."an";=NOU:"Montagabend".#115497;]
+[PV=VER:"gab"."geben".#15190;]
+[GN=ART:"die"."die".#-1;=NOU:"Kreditplattform".$3774;]
+[GN=ART:"einen"."ein";=NOU:"Verlust".#164536;]
+[GP=PRE:"von"."von".#-1;=MON:"81 Millionen Dollar"."81.000.000 Dollar".$5963;]
+[GP=PRE:"für"."für".#-1;=ART:"das"."das".#-1;=ADJ:"abgelaufene"."abgelaufen".#576634;=NOU:"Quartal".#105303;]
+[GA=ADJ:"bekannt".#26936;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=ADJ:"gleichen"."gleich".#22392;=NOU:"Quartal".#105303;]
+[GP=ART:"des"."das";=NOU:"Vorjahres"."Vorjahr".#106307;]
+[PV=VER:"waren"."sein";=PRO:"es"."es".#-1;]
+[GN=MON:"4,1 Millionen Dollar"."4.100.000 Dollar".$5963;]
+[PV=VER:"gewesen"."sein".#12562;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Allein"."allein";]
+[GN=MON:"35,4 Millionen Dollar"."35.400.000 Dollar".$5963;]
+[PV=VER:"musste"."müssen".#149311;]
+[GN=ORG:"Lending Club"."Online-Kreditvermittlers Lending Club".$100043229;]
+[GP=PRE:"auf"."auf".#-1;=ART:"den"."der";]
+[GP=PRE:"im"."in";=NOU:"Frühjahr".#100001312;]
+[GP=DAT:"2014".$100205892;]
+[GN=NOU:"übernommenen"."übernommenen".#-1;]
+[GN=NOU:"Geldverleiher".#47506;]
+[GP=PRE:"aus"."aus".#-1;=ART:"der"."die";=NOU:"Gesundheitsbranche".#592164;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Springstone"."Springston".$12099715;=NPH:"Financial".$100215627;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"abschreiben".#117029;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";=ADJ:"größte"."groß".#52544;=NOU:"Schlag".#2711;]
+[CN=CON:"aber"."aber".#-1;]
+[PV=VER:"war"."sein".#13136;]
+[GN=ART:"der"."der".#-1;=NOU:"Abgang".#121780;]
+[GP=ART:"des"."der";=ADJ:"früheren"."früh".#45046;=NOU:"Geschäftsführers"."Geschäftsführer".#5129;=NPH:"Renaud Laplanche".$100215627;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Er"."er";]
+[PV=VER:"hatte"."haben";]
+[GP=PRE:"über".#98894;=ART:"einen"."ein";=ADJ:"problematischen"."problematisch".#80026;=NOU:"Kreditverkauf".$103380760;]
+[GP=PRE:"an"."an".#-1;=ART:"eine"."ein";=NOU:"Investmentbank".#10935;]
+[PV=ADV:"nicht".#74226;=VER:"berichtet"."berichten".#13686;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Daraufhin"."daraufhin".#32262;=VER:"sprangen"."abspringen".#17982;]
+[GN=ADJ:"mehrere"."viel".#173024;=ADJ:"größere"."groß".#50386;=NOU:"Investoren"."Investor".#21531;]
+[GV=ADV:"ab"."abspringen";]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."die".#-1;]
+[GA=ADV:"regelmäßig".#98793;=ADJ:"Lending Club"."Lending Club".#-1;]
+[GN=NOU:"Kredite"."Kredit".#100182076;]
+[PV=VER:"übernommen"."übernehmen".#133950;=VER:"hatten"."haben";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Börsenaufsicht".#29769;]
+[PV=VER:"ermittelte"."ermitteln".#14451;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ORG:"Lending Club"."Online-Kreditvermittlers Lending Club".$100043229;]
+[PV=VER:"hatte"."haben";]
+[GN=ADV:"zwar".#112900;=ADJ:"überwiegend".#611892;=NOU:"Kredite"."Kredit".#120620;]
+[GP=PRE:"von"."von".#-1;=NOU:"Privatleuten"."Privatmann".#152431;]
+[GP=PRE:"an"."an".#-1;=NOU:"Privatleute"."Privatmann".#152431;]
+[PV=VER:"vermittelt"."vermitteln".#164567;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"aber"."aber".#-1;]
+[GV=ADV:"teilweise".#96299;=ADV:"auch".#23235;]
+[GN=NOU:"Kredite"."Kredit".#100182076;]
+[GN=PRO:"selbst"."selbst".#-1;]
+[PV=VER:"finanziert"."finanzieren".#118497;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Jetzt".#100193168;]
+[PV=VER:"werden".#167036;]
+[GN=ART:"die"."die".#-1;=NOU:"Kreditgeber".#64653;]
+[GN=ADJ:"misstrauisch".#71117;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=NOU:"Juni".#100000120;]
+[PV=VER:"musste"."müssen";]
+[GN=ORG:"Lending Club"."Online-Kreditvermittlers Lending Club".$100043229;]
+[GN=ART:"einen"."ein";=NOU:"Fonds".#102620430;]
+[PV=VER:"schließen".#124024;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"weil"."weil".#-1;]
+[GN=NOU:"Kunden"."Kunde".#3878;]
+[GV=NPR:"442 Millionen"."442 Millionen".#-1;]
+[PV=ADV:"wieder".#74486;=VER:"abziehen".#15379;=VER:"wollten"."wollen";]
+[??=PNT:",".",".#-1;]
+[GN=PCT:"58 Prozent"."58%".$100011229;]
+[GP=ART:"des"."das";=NOU:"Fondsvolumens"."Fondsvolumen".#592602;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Seit"."seit";=NOU:"Juni".#100000120;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=NPH:"Scott Sanborn".$100215627;]
+[GN=ART:"der"."der".#-1;=ADJ:"neue"."neu".#149884;=NOU:"Chef".#118998;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Wie"."wie";]
+[GN=PRO:"das"."das".#-1;]
+[GN=PNT:""".""".#-1;=MMD:"Wall Street Journal"."The Wall Street Journal".#100164746;=PNT:""".""".#-1;]
+[PV=VER:"berichtet"."berichten".#13686;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"hat"."haben";]
+[GN=PRO:"er"."er".#-1;]
+[GN=PCT:"zwölf Prozent"."12%".$100011229;]
+[GP=ART:"des"."das";=NOU:"Personals"."Personal".#821;]
+[PV=VER:"abgebaut"."abbauen".#14554;]
+[CN=CON:"und"."und".#-1;]
+[GN=ADJ:"viele"."viel".#173024;=NOU:"Millionen"."Million".#100038526;]
+[PV=VER:"ausgegeben"."ausgeben".#17308;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"um"."um".#-1;=ADJ:"wichtige"."wichtig".#109123;=NOU:"Führungskräfte"."Führungskraft".#45226;]
+[PV=CON:"zu".#565251;=VER:"halten".#12739;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Auch"."auch".#23235;]
+[GN=NPH:"Carrie Dolan".$100215627;]
+[PV=VER:"hatte"."haben";]
+[GN=PRO:"er"."er".#-1;]
+[GN=MON:"vier Millionen Dollar"."4.000.000 Dollar".$5963;]
+[PV=VER:"angeboten"."anbieten".#13273;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"um"."um".#-1;=PRO:"sie"."sie".#-1;]
+[PV=CON:"zu".#565251;=VER:"halten".#13376;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Den"."der";=NOU:"Großteil".#100095581;]
+[PV=ADV:"davon".#130559;=VER:"wird"."werden";]
+[GN=PRO:"sie"."sie".#-1;]
+[PV=ADV:"jetzt".#141095;=ADV:"nie".#74288;=VER:"erhalten".#13881;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Möglicherweise"."möglicherweise".#105201;=VER:"kehrt"."kehren".#16429;]
+[GV=ADV:"jetzt".#141095;=ADV:"aber".#74486;=ADV:"wieder".#74486;]
+[GN=NOU:"Ruhe".#3446;]
+[PV=VER:"ein"."einen".#14874;]
+[??=PNT:":".":".#-1;]
+[GN=ART:"Die"."die";=NOU:"Verhandlungen"."Verhandlung".#100202875;]
+[GP=PRE:"über".#98894;=ADJ:"mehrere"."viel".#173024;=NOU:"Deals"."Deal".#16499;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Investoren"."Investor".#21531;]
+[PV=VER:"seien"."sein";]
+[PV=ADV:"kürzlich".#59770;=ADV:"wieder".#74486;=VER:"aufgenommen"."aufnehmen".#13844;=VER:"worden"."werden";]
+[??=PNT:".".".".#-1;]
+
+SBJ=7:5;SBJ=14:19;OBJ=15:19;SBJ=21:24;SBJ=30:35;SBJ=37:38;SBJ=44:43;SBJ=49:52;OBJ=51:52;SBJ=56:57;SBJ=59:61;SBJ=63:64;SBJ=51:72;OBJ=73:72;SBJ=78:77;SBJ=81:80;SBJ=92:91;SBJ=100:98;OBJ=99:98;SBJ=102:103;SBJ=51:114;SBJ=117:118;SBJ=117:119;SBJ=121:122;OBJ=123:122;SBJ=121:128;SBJ=132:131;OBJ=133:131;SBJ=155:146;APH=152:155;SBJ=163:162;SBJ=166:170;SBJ=173:172;SBJ=176:179;OBJ=178:179;SBJ=181:182;SBJ=185:190;OBJ=187:190;SBJ=195:196;OBJ=194:196;SBJ=198:199;CPL=200:199;CPL=201:199;SBJ=206:207;OBJ=215:207;SBJ=210:212;SBJ=220:219;CPL=221:219;APH=221:220;SBJ=224:226;OBJ=225:226;SBJ=229:232;OBJ=231:232;SBJ=229:235;SBJ=229:238;SBJ=243:245;OBJ=244:245;SBJ=243:248;SBJ=252:253;OBJ=250:253;SBJ=257:258;SBJ=260:264;APH=71:51;APH=112:51;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Disambiguation	1	3	3	VER	sein	ist	12562	False	0				 	
+Wrong Disambiguation	0	7	4	ADV		noch	74484	False	0				 	
+Wrong Disambiguation	0	18	6	ADV		einmal	37101	False	0				 	
+Wrong Disambiguation	1	57	6	VER	fallen	fielen	17179	False	0				 	
+Wrong Disambiguation	0	133	4	ADV		noch	74484	False	0				 	
+Wrong Disambiguation	2	170	4	NOU		Kurs	4170	False	0				 	4177
+Wrong Entity Form	1	207	8	GEO	New York City	New York	15108634	False	0				 	
+Wrong Entity Form	0	258	4	ADV		eins	36896	False	0				 	
+Wrong Disambiguation	1	391	11	NOU		Alternative	20506	False	0				 	118490
+Wrong Disambiguation	2	406	6	NOU	Bank	Banken	4373	False	0				 	100022687
+Wrong Disambiguation	1	413	10	VER	antreten	angetreten	13844	False	0				 	
+Wrong Disambiguation	2	429	4	NOU		Kurs	4171	False	0				 	
+Wrong Recognition	1	461	4	ADV		mehr	70026	False	0				 	98894
+Wrong Disambiguation	1	487	7	VER	notieren	notiert	103914	False	0				 	118815
+Wrong Recognition	1	511	6	ADV		einmal	118174	False	0				 	
+Wrong Recognition	1	518	4	ADV		mehr	70026	False	0				 	
+Wrong Disambiguation	0	560	5	NOU	Wert	Werts	115088658	False	0				 	
+Wrong Disambiguation	1	693	12	NOU	Unternehmen	Unternehmens	1245	False	0				 	104830453
+Wrong Recognition	2	769	14	NOU		Geldverbrennen	4460	True	0				 	
+Wrong Recognition	1	784	12	VER	gehen	übergegangen	15379	False	0		übergehen		 	161965
+Wrong Disambiguation	1	857	7	VER	bündeln	bündelt	30725	False	0				 	173724
+Wrong Recognition	1	872	6	VER	reichen	reicht	47876	False	0		weiterreichen		 	13574
+Wrong Recognition	1	885	4	NOU		Form	17106	False	0		in Form von	PRE	 	
+Wrong Disambiguation	0	906	6	ADJ		andere	20987	False	0				 	118640
+Wrong Recognition	1	933	4	NOU		Peer	35784	False	0				 	
+Wrong Disambiguation	1	962	4	VER	gehen	geht	15379	False	0				 	
+Wrong Disambiguation	0	994	9	ADJ	schwach	schwacher	35106	False	0				 	
+Wrong Disambiguation	1	1025	8	VER		erhalten	13345	False	0				 	13950
+Wrong Disambiguation	0	1064	4	ADJ	hoch	hohe	39296	False	0				 	
+Wrong Disambiguation	1	1090	5	VER	nehmen	nimmt	12944	False	0				 	14100
+Wrong Disambiguation	1	1127	6	NOU	Seite	Seiten	1979	False	0				 	157441
+Wrong Disambiguation	1	1251	7	VER	scheinen	scheint	117664	False	187				 	
+Wrong Disambiguation	1	1265	10	VER	aufgehen	aufzugehen	125102	False	189				 	
+Wrong Disambiguation	1	1355	6	NOU	Zahl	Zahlen	309	False	203				 	
+Wrong Recognition	1	1392	3	VER	geben	gab	15190	False	209		bekanntgeben		 	13452
+Missing Concept	1	1400	15	NOU		Kreditplattform	3774	True	211				 	
+Missing Concept	1	1462	11	ADJ	abgelaufen	abgelaufene	576634	False	218				 	106302
+Wrong Grammar	0	1564	6	CON	allein	Allein		True	232				 	
+Wrong Grammar	1	1638	12	NOU	übernommenen	übernommenen	-1	False	241				 	
+Wrong Entity Form	2	1693	11	NOU	Springston	Springstone	12099715	True	247				 	
+Wrong Disambiguation	2	1716	11	VER		abschreiben	117029	False	250				 	117025
+Wrong Disambiguation	1	1740	6	NOU		Schlag	2711	False	254				 	119074
+Wrong Disambiguation	1	1752	3	VER	sein	war	13136	False	256				 	
+Wrong Recognition	1	1771	8	ADJ	früh	früheren	45046	False	260		früher		 	35927
+Wrong Disambiguation	1	1824	4	PRE		über	98894	False	266				 	596956
+Wrong Disambiguation	0	1894	9	VER	berichten	berichtet	13686	False	274				 	13688
+Wrong Disambiguation	0	2029	10	VER	ermitteln	ermittelte	14451	False	292				 	119239
+Wrong Grammar	1	2065	11	ADJ		überwiegend	611892	False	297			ADV	 	58485
+Wrong Disambiguation	1	2077	7	NOU	Kredit	Kredite	120620	False	298				 	100182076
+Wrong Disambiguation	1	894	8	NOU	Kredit	Krediten	120620	False	132				 	100182076
+Wrong Disambiguation	0	2117	10	VER	vermitteln	vermittelt	164567	False	303				 	15234
+Wrong Grammar	1	2176	5	NOU		Jetzt	100193168	False	312				 	
+Wrong Disambiguation	1	2182	6	VER		werden	167036	False	313				 	14301
+Wrong Disambiguation	0	2253	5	NOU		Fonds	102620430	False	323				 	136456
+Wrong Disambiguation	1	2259	9	VER		schließen	124024	False	324				 	
+Wrong Disambiguation	0	2296	6	ADV		wieder	74486	False	329				 	167250
+Wrong Disambiguation	1	2303	8	VER		abziehen	15379	False	330				 	
+Wrong Disambiguation	1	2541	6	VER		halten	12739	False	367				 	
+Wrong Disambiguation	0	2619	6	VER		halten	13376	False	379				 	
+Wrong Disambiguation	0	2640	5	ADV		davon	130559	False	383				 	130560
+Wrong Recognition	1	2690	5	VER	kehren	kehrt	16429	False	391		einkehren		 	132915
+Missing Concept	0	2702	4	ADV		aber	74486	False	393				 	20252
+Wrong Disambiguation	0	2707	6	ADV		wieder	74486	False	394				 	167250
+Wrong Disambiguation	1	2714	4	NOU		Ruhe	3446	False	395				 	120200
+Wrong Grammar	2	2719	3	VER	einen	ein	14874	False	396				 	
+Wrong Disambiguation	1	2742	4	PRE		über	98894	False	400				 	596956
+Wrong Disambiguation	0	2791	6	ADV		wieder	74486	False	407				 	167250
+Wrong Entity Form	1	267	37	ORG		Online-Kreditvermittlers Lending Club	100043229	True	0				 	
+Wrong Entity Type	0	726	12	ORG	Online-Kreditvermittlers Lending Club	Lending Club	100043229	True	0			COM	 	
+Wrong Entity Type	0	1077	12	ORG	Online-Kreditvermittlers Lending Club	Lending Club	100043229	True	0			COM	 	
+Wrong Entity Type	0	1328	12	ORG	Online-Kreditvermittlers Lending Club	Lending Club	100043229	True	0			COM	 	
+Wrong Entity Type	0	2041	12	ORG	Online-Kreditvermittlers Lending Club	Lending Club	100043229	True	0			COM	 	
+Wrong Entity Type	0	2234	12	ORG	Online-Kreditvermittlers Lending Club	Lending Club	100043229	True	0				 	

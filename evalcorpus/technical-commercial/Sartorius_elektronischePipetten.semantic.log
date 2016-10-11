@@ -1,0 +1,267 @@
+﻿[GN=ADJ:"Elektronische"."elektronisch".#37832;=NOU:"Pipetten"."Pipette".#100163373;]
+[CL]
+[CR]
+[GN=ADJ:"Elektronische"."elektronisch".#37832;=NOU:"Pipetten"."Pipette".#100163373;]
+[GP=PRE:"von"."von".#-1;=COM:"Sartorius".#178036;]
+[PN=VER:"sind"."sein".#12562;]
+[GN=ART:"die"."die".#-1;=ADJ:"idealen"."ideal".#57534;=NOU:"Begleiter".#118869;]
+[GP=PRE:"für"."für".#-1;=ADJ:"tägliches"."täglich".#95661;]
+[CN=CON:"und"."und".#-1;]
+[GP=ADJ:"wiederholtes"."wiederholt".#18392;=ADJ:"Liquid"."liquid".#28119;=NOU:"Handling".#16059;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Sie"."sie";]
+[PV=VER:"stellen".#159348;]
+[GN=ADJ:"höchste"."hoch".#88257;=NOU:"Genauigkeit".#101298969;]
+[GP=ADJ:"Ihrer"."Ihr";=NOU:"Ergebnisse"."Ergebnis".#117958;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Schnelligkeit".#2496;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GN=NOU:"Ergonomie".#101750812;]
+[GP=PRE:"beim"."bei";=NOU:"Arbeiten"."Arbeit".#541;]
+[PV=VER:"sicher"."sichern".#120277;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"voll".#120598;=ADV:"elektronisch".#596509;=ADJ:"gesteuerten"."gesteuert";=NOU:"Pipetten"."Pipette".#100163373;]
+[PV=VER:"gewährleisten".#48642;]
+[GN=ADJ:"benutzerunabhängige".$25267;=NOU:"Ergebnisse"."Ergebnis".#117958;]
+[GP=PRE:"von"."von".#-1;=ADJ:"gleichbleibend".#27777;=ADJ:"hoher"."hoch".#88257;=NOU:"Genauigkeit".#101298969;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=ADJ:"leichte"."leicht".#63207;=PNT:",".",".#-1;=ADJ:"ergonomische"."ergonomisch".#39425;=NOU:"Design".#38918;]
+[PV=VER:"bietet"."bieten".#13302;]
+[GP=PRO:"Ihnen"."Sie";]
+[GN=ADJ:"unübertroffenen"."unübertroffen".#101964;=NOU:"Komfort".#63027;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Dank"."dank";=ART:"der"."die";=ADJ:"verschiedenen"."verschieden".#20987;=ORG:"Pipettiermodi".$116334295;]
+[PV=VER:"bewältigen".#14539;]
+[GN=PRO:"Sie"."Sie".#-1;]
+[GN=PRO:"Ihre"."Ihr";]
+[GN=ADJ:"Liquid"."liquid".#28119;=PNT:"-"."-".#-1;=NOU:"Handling-Aufgaben".$100753877;]
+[GV=ADV:"schneller"."schnell".#596234;]
+[CN=CON:"als"."als".#-1;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"mechanischen"."mechanisch".#148140;=NOU:"Pipetten"."Pipette".#100163373;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"großen"."groß".#50386;=NOU:"Volumenbereiche"."Volumenbereich".$100082794;]
+[GP=ADJ:"elektronischer"."elektronisch".#37832;=NOU:"Pipetten"."Pipette".#100163373;]
+[PV=VER:"entsprechen".#145773;]
+[GV=ADV:"meist".#70140;]
+[GP=ART:"dem"."der";=NOU:"Volumenbereich".$100082794;]
+[GP=ADJ:"zweier"."zweite".#117172;=ADJ:"mechanischer"."mechanisch".#148140;=NOU:"Pipetten"."Pipette".#100163373;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"sodass"."sodass".#-1;]
+[GN=PRO:"Sie"."Sie".#-1;]
+[GP=ADJ:"weniger"."wenig".#117574;=NOU:"Pipetten"."Pipette".#100163373;]
+[PV=VER:"benötigen".#12747;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=PRD:"Picus®"."Picus® NxT".$100163373;=PNT:"&"."&".#-1;=PRD:"Picus® NxT".$100163373;]
+[??=PNT:"-"."-".#-1;]
+[GN=ADJ:"Höchste"."hoch".#88257;=NOU:"Perfektion".#47428;=CON:"und"."und".#-1;=NOU:"Ergonomie".#101750812;]
+[CL]
+[CR]
+[GN=PRD:"Picus® NxT".$100163373;=CON:"und"."und".#-1;=PRD:"Picus®"."Picus® NxT".$100163373;]
+[PN=VER:"sind"."sein".#12562;]
+[GN=ART:"die"."die".#-1;=ADJ:"benutzerfreundlichsten"."benutzerfreundlich".#22151;=CON:"und"."und".#-1;=ADJ:"ausgefeiltesten"."ausgefeilt".#33168;=ADJ:"elektronischen"."elektronisch".#37832;=NOU:"Pipetten"."Pipette".#100163373;]
+[GP=PRE:"von"."von".#-1;=COM:"Sartorius".#178036;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Mit"."mit";=ADJ:"ihrem"."ihr";=ADV:"außerordentlich".#24963;=ADJ:"kompakten"."kompakt".#63144;]
+[CN=CON:"und"."und".#-1;]
+[GP=ADV:"besonders".#58485;=ADJ:"leichten"."leicht".#63207;=NOU:"Design".#38918;]
+[PV=VER:"erleichtern".#173599;]
+[GN=PRO:"sie"."sie".#-1;]
+[GP=PRO:"Ihnen"."Sie";]
+[GN=PRO:"Ihre"."Ihr";]
+[GN=ADJ:"tagtägliche"."tagtäglich".#95667;=NOU:"Arbeit".#14258;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"reduzieren".#14554;]
+[GV=ADV:"so".#90954;]
+[GN=ART:"das"."das".#-1;=NOU:"Risiko".#9620;]
+[GP=ART:"einer"."eine";=NOU:"Erkrankung".#330;]
+[GP=PRE:"am"."an";=NOU:"RSI-Syndrom".#586362;]
+[??=PNT:"("."(".#-1;]
+[GN=ADJ:"Repetitive"."repetitiv".#46450;=EVN:"Strain".$113406554;=NOU:"Injury"."Jury".#119212;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Das"."das";=ADV:"einzigartig".#596421;=ADJ:"leichte"."leicht".#63207;=CON:"und"."und".#-1;=ADJ:"kompakte"."kompakt".#63144;=NOU:"Design".#38918;]
+[PV=VER:"sorgt"."sorgen".#119589;]
+[GP=PRE:"für"."für".#-1;=ADJ:"maximalen"."maximal".#52730;=NOU:"Bedienkomfort".#571334;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Technologie".#100011016;]
+[GP=ART:"der"."die";=NOU:"Spitzenklasse".#158578;]
+[PV=VER:"sichert"."sichern".#120277;]
+[GN=ADJ:"reproduzierbare"."reproduzierbar".#83249;=NOU:"Ergebnisse"."Ergebnis".#117958;]
+[GP=PRE:"von"."von".#-1;=ADJ:"hoher"."hoch".#88257;=NOU:"Genauigkeit".#101298969;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=ADJ:"intuitive"."intuitiv".#58920;=NOU:"Benutzeroberfläche".#16368;]
+[PN=VER:"ist"."sein".#12562;]
+[GP=PRE:"in"."in".#-1;=ADJ:"fünf".#173632;=NOU:"Sprachen"."Sprache".#100034770;]
+[PN=ADJ:"verfügbar".#18832;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Deutsch".#100052040;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Englisch".#100001860;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Französisch".#100000150;=PNT:",".",".#-1;=NOU:"Russisch".#100007737;=CON:"und"."und".#-1;=NOU:"Chinesisch".#100007850;]
+[??=PNT:")".")".#-1;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"unterstützt"."unterstützen".#14057;]
+[GN=ART:"die"."die".#-1;=ADJ:"einfache"."einfach".#63207;=NOU:"Handhabung".#16059;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ADJ:"Überragende"."überragend".#52730;=NOU:"Zuverlässigkeit".#173514;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Sicherheit".#1534;]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."die";=PRD:"Picus® NxT".$100163373;]
+[GP=PRE:"in"."in".#-1;=ADJ:"streng".#72176;=ADJ:"regulierten"."reguliert";=NOU:"Bereichen"."Bereich".#22153;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Das"."das";=ADJ:"einzigartige"."einzigartig".#37396;=PNT:",".",".#-1;=ADJ:"universelle"."universell".#20328;=NOU:"Einstellrad".#600095;]
+[PV=VER:"ermöglicht"."ermöglichen".#39598;]
+[GN=ART:"eine"."ein";=ADJ:"schnelle"."schnell".#81737;=NOU:"Bedienung".#127671;]
+[GP=PRE:"mit"."mit".#-1;=ADV:"nur".#66818;=ART:"einer"."eine";=NOU:"Hand".#100033767;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Minimaler"."minimal".#100425;=NOU:"Kraftaufwand".#62558;]
+[GP=PRE:"dank"."dank".#-1;=ADV:"praktisch".#79462;=ADJ:"angeordneter"."angeordnet";=NOU:"Soft-Key-Bedientaste"."Soft-Key-bedientast".$124725;]
+[CN=CON:"und"."und".#-1;]
+[GP=ADJ:"elektronischem"."elektronisch".#37832;=NOU:"Spitzenabwurf"."Abwurf".#19287;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=ADJ:"komfortable"."komfortabel".#63029;=NOU:"Design".#561942;]
+[GP=ART:"des"."der";=NOU:"Griffs"."Griff".#1609;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"des"."der";=NOU:"Fingerbügels"."Fingerbügel".$100815240;]
+[PV=VER:"lässt"."liegenlassen".#67707;]
+[GN=ART:"die"."die".#-1;=PRD:"Picus®"."Picus® NxT".$100163373;]
+[GV=ADV:"leicht".#591900;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Hand".#100033767;]
+[GV=ADV:"liegen"."liegenlassen";]
+[??=PNT:",".",".#-1;]
+[CN=CON:"ohne"."ohne".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=PRO:"Sie"."Sie".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Pipette".#100163373;]
+[GA=ADJ:"fest".#91066;]
+[PV=VER:"umklammern".#99942;=VER:"müssen"."müssen".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"elektronische"."elektronisch".#37832;=NOU:"Steuerung".#118891017;]
+[GP=PRE:"von"."von".#-1;=NOU:"Kolben".#100045227;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Bremse".#30181;]
+[PV=VER:"garantiert"."garantieren".#48642;]
+[GN=ADJ:"genaue"."genau".#79603;=CON:"und"."und".#-1;=ADJ:"präzise"."präzis".#79603;=NOU:"Pipettierergebnisse"."Pipettierergebnis".$117958;]
+[??=PNT:"-"."-".#-1;]
+[GV=ADV:"unabhängig".#596227;]
+[GP=PRE:"vom"."von";=NOU:"Benutzer".#2455;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=ADJ:"einzigartige"."einzigartig".#37396;=NOU:"Mikrotiterplatten-Tracker"."Mikrotiterplatten-Tracker".#-1;]
+[PV=VER:"erhöht"."erhöhen".#173624;]
+[GN=ART:"die"."die".#-1;=NOU:"Verlässlichkeit".#173514;]
+[GP=PRE:"beim"."bei";=NOU:"Befüllen"."Befüllen".#-1;]
+[GP=ART:"der"."die";=NOU:"Platten"."Platte".#13;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=NPR:"eLINE"."eLINE".#-1;]
+[??=PNT:"®"."®".#-1;]
+[??=PNT:"-"."-".#-1;]
+[GV=ADV:"klassisch".#596548;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"komfortabel".#596246;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=ADJ:"vielseitigen"."vielseitig".#37664;=ORG:"Pipettiermodi".$116334295;]
+[GN=ART:"der"."der".#-1;=NPR:"eLINE"."eLINE".#-1;]
+[??=PNT:"®"."®".#-1;]
+[GN=ORG:"Pipettiermodi".$116334295;]
+[PV=VER:"reduzieren".#14554;]
+[GN=ART:"die"."die".#-1;=NOU:"Zahl".#309;]
+[GP=ART:"der"."die";=NOU:"Arbeitsschritte"."Arbeitsschritt".#22581;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"erlauben".#14287;]
+[GV=ADV:"dabei".#130291;]
+[GN=ART:"ein"."ein".#-1;=ADV:"deutlich".#596230;=ADJ:"schnelleres"."schnell".#81737;=NOU:"Arbeiten"."Arbeit".#541;]
+[CN=CON:"als"."als".#-1;]
+[GP=PRE:"mit"."mit".#-1;=ART:"einer"."eine";=ADJ:"mechanischen"."mechanisch".#148140;=NOU:"Pipette".#100163373;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"voll".#120598;=ADV:"elektronisch".#596509;=ADJ:"gesteuerte"."gesteuert";=NOU:"Arbeitsweise".#124539;]
+[GP=ART:"der"."die";=NOU:"Pipette".#100163373;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"einschließlich".#36973;=ART:"des"."der";=ADV:"erstmals".#39846;=ADJ:"elektronischen"."elektronisch".#37832;=NOU:"Spitzenabwurfs"."Abwurf".#19287;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"bietet"."bieten".#13297;]
+[GP=PRO:"Ihnen"."Sie";]
+[GN=ADJ:"bewährte"."bewährt".#28202;=NOU:"Benutzerfreundlichkeit".#564218;]
+[??=PNT:".".".".#-1;]
+
+SBJ=2:4;CPL=5:4;SBJ=12:11;OBJ=15:11;SBJ=17:19;SBJ=21:22;OBJ=23:22;SBJ=26:27;OBJ=29:27;TRM=28:27;SBJ=34:32;OBJ=35:32;SBJ=40:42;SBJ=40:50;SBJ=57:58;CPL=59:58;SBJ=68:65;OBJ=69:65;SBJ=68:71;SBJ=81:82;SBJ=86:88;OBJ=89:88;SBJ=93:96;SBJ=106:105;SBJ=116:117;OBJ=118:117;SBJ=126:130;OBJ=131:130;SBJ=138:141;OBJ=112:141;CPL=140:141;SBJ=143:147;OBJ=148:147;SBJ=153:154;OBJ=155:154;SBJ=170:171;OBJ=172:171;SBJ=170:175;OBJ=177:175;SBJ=181:186;OBJ=188:186;TRM=187:186;APH=77:3;APH=139:112;APH=179:112;APH=182:112;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Missing Concept	1	118	6	ADJ	liquid	Liquid	28119	False	0				 	
+Wrong Recognition	1	139	7	VER		stellen	159348	False	0		sicherstellen		 	48642
+Wrong Disambiguation	1	147	7	ADJ	hoch	höchste	88257	False	0				 	
+Wrong Disambiguation	1	173	10	NOU	Ergebnis	Ergebnisse	117958	False	0				 	101350376
+Wrong Grammar	1	229	6	VER	sichern	sicher	120277	False	0				 	
+Missing Concept	0	259	11	ADJ	gesteuert	gesteuerten		False	0				 	
+Wrong Disambiguation	0	294	19	ADJ		benutzerunabhängige	25267	True	0				 	
+Wrong Disambiguation	1	314	10	NOU	Ergebnis	Ergebnisse	117958	False	0				 	101350376
+Wrong Disambiguation	1	344	5	ADJ	hoch	hoher	88257	False	0				 	
+Wrong Disambiguation	0	350	11	NOU		Genauigkeit	101298969	False	0				 	14646
+Wrong Disambiguation	0	396	6	VER	bieten	bietet	13302	False	0				 	
+Wrong Recognition	1	457	13	ORG		Pipettiermodi	116334295	True	0				 	102920982
+Missing Concept	1	491	6	ADJ	liquid	Liquid	28119	False	0				 	
+Wrong Disambiguation	1	498	17	NOU		Handling-Aufgaben	100753877	True	0				 	
+Wrong Disambiguation	0	568	15	NOU	Volumenbereich	Volumenbereiche	100082794	True	0				 	22153
+Wrong Disambiguation	0	630	14	NOU		Volumenbereich	100082794	True	0				 	22153
+Wrong Disambiguation	0	652	12	ADJ	mechanisch	mechanischer	148140	False	0				 	148324
+Wrong Disambiguation	0	534	12	ADJ	mechanisch	mechanischen	148140	False	0				 	148324
+Wrong Disambiguation	1	736	7	ADJ	hoch	Höchste	88257	False	0				 	
+Wrong Disambiguation	0	827	15	ADJ	ausgefeilt	ausgefeiltesten	33168	False	0				 	121043
+Wrong Disambiguation	0	932	8	ADJ	leicht	leichten	63207	False	0				 	
+Wrong Grammar	1	970	4	PRO	Ihr	Ihre		False	0				 	
+Wrong Entity Form	1	1056	10	ADJ	repetitiv	Repetitive	46450	False	0				 	
+Wrong Disambiguation	0	1099	7	ADJ	leicht	leichte	63207	False	0				 	
+Wrong Disambiguation	1	1216	10	NOU	Ergebnis	Ergebnisse	117958	False	0				 	
+Wrong Disambiguation	1	1231	5	ADJ	hoch	hoher	88257	False	0				 	
+Wrong Disambiguation	1	1237	11	NOU		Genauigkeit	101298969	False	0				 	14646
+Wrong Disambiguation	1	1376	11	VER	unterstützen	unterstützt	14057	False	0				 	14045
+Wrong Disambiguation	1	1445	10	NOU		Sicherheit	1534	False	0				 	
+Wrong Grammar	1	1478	6	ADJ		streng	72176	False	0				 	
+Missing Concept	0	1485	11	ADJ	reguliert	regulierten		False	0				 	
+Wrong Disambiguation	1	1633	9	ADV		praktisch	79462	False	0				 	580695
+Missing Concept	0	1643	12	ADJ	angeordnet	angeordneter		False	0				 	
+Wrong Recognition	2	1656	20	NOU	Soft-Key-bedientast	Soft-Key-Bedientaste	124725	True	0				 	
+Wrong Disambiguation	1	1715	11	ADJ	komfortabel	komfortable	63029	False	0				 	139603
+Wrong Disambiguation	1	1727	6	NOU		Design	561942	False	0				 	
+Missing Concept	1	1753	12	NOU	Fingerbügel	Fingerbügels	100815240	True	0				 	
+Wrong Recognition	1	1766	5	VER	liegenlassen	lässt	67707	False	0				 	
+Wrong Disambiguation	0	1783	6	ADV		leicht	591900	False	0				 	
+Wrong Disambiguation	1	1836	4	ADJ		fest	91066	False	0				 	
+Wrong Disambiguation	1	1940	19	NOU	Pipettierergebnis	Pipettierergebnisse	117958	True	0				 	
+Wrong Disambiguation	1	1962	10	ADV		unabhängig	596227	False	0				 	119512
+Missing Concept	0	2004	25	NOU	Mikrotiterplatten-Tracker	Mikrotiterplatten-Tracker	-1	False	0				 	
+Missing Concept	0	2062	8	NOU	Befüllen	Befüllen	-1	False	0				 	
+Wrong Disambiguation	1	2123	12	ADJ	vielseitig	vielseitigen	37664	False	0				 	
+Wrong Recognition	1	2161	13	ORG		Pipettiermodi	116334295	True	0				 	102920982
+Wrong Disambiguation	1	2190	4	NOU		Zahl	309	False	0				 	7
+Wrong Disambiguation	1	2219	8	VER		erlauben	14287	False	0				 	
+Wrong Disambiguation	0	2238	8	ADV		deutlich	596230	False	0				 	
+Wrong Disambiguation	0	2282	12	ADJ	mechanisch	mechanischen	148140	False	0				 	
+Wrong Grammar	0	2308	4	ADJ		voll	120598	False	0				 	
+Missing Concept	0	2326	10	ADJ	gesteuert	gesteuerte		False	0				 	
+Wrong Disambiguation	0	2422	6	VER	bieten	bietet	13297	False	0				 	13273

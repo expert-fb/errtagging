@@ -1,0 +1,10 @@
+Total Concepts	33182
+Error Kind	Light	Heavy	Horrible	Total
+Missing Concept	668	312	9	989
+Wrong Recognition	97	416	66	579
+Wrong Disambiguation	1189	4452	102	5743
+Wrong Grammar	223	902	121	1246
+Missing Entity	97	183	4	284
+Wrong Entity Type	113	233	5	351
+Wrong Entity Form	51	175	2	228
+Total	2438	6673	309	9420

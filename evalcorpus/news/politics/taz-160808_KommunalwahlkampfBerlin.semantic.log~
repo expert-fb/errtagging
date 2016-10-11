@@ -1,0 +1,619 @@
+﻿[PV=ADV:"Da"."da".#173213;=VER:"sage"."sagen".#154795;]
+[GV=ADV:"nochmal".#74486;]
+[GN=PRO:"jemand"."jemand".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Wahlplakate"."Wahlplakat".#107050;]
+[PV=VER:"würden"."werden";]
+[GN=PRO:"nichts"."nichts".#-1;]
+[PV=VER:"bewirken".#14422;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"In"."in";=GEO:"Berlin".#12936154;]
+[PV=VER:"hat"."haben";]
+[GN=ART:"ein"."ein".#-1;=ADJ:"kleines"."klein".#62098;=NOU:"Plakat".#78434;]
+[GN=ART:"eine"."ein";=ADJ:"heftige"."heftig".#53015;=NOU:"Debatte".#14473;]
+[PV=VER:"ausgelöst"."auslösen".#16294;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PN=ADJ:"Beteiligt"."beteiligt".#122978;=VER:"sind"."sein";]
+[GN=NOU:"Linkspartei".#67841;]
+[??=PNT:",".",".#-1;]
+[GN=ORG:"SPD"."Sozialdemokratische Partei Deutschlands".#7462;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Grüne".#7433;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=PNT:""".""".#-1;=NPR:"Oma Anni"."Oma Anni".#-1;=PNT:""".""".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Die"."die";]
+[PV=VER:"lehnt"."lehnen".#119233;=PRO:"sich"."er";]
+[GP=PRE:"auf"."auf".#-1;=ART:"der"."die";=NOU:"Wahlwerbung".#107052;]
+[GP=ART:"der"."die";=NOU:"Linken"."Linke".#566361;]
+[GP=PRE:"aus"."aus".#-1;=ART:"dem"."das";=NOU:"Fenster".#2741;]
+[GP=ADJ:"ihrer"."ihr";=NOU:"Wohnung".#4080;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PNT:""".""".#-1;=NOU:"Mietrebellin".$38101;=PNT:""".""".#-1;]
+[PV=VER:"steht"."stehen".#32369;]
+[GV=ADV:"oben".#74978;=ADV:"drüber".#141135;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Und"."und";]
+[GN=PNT:""".""".#-1;=NPR:"Oma Anni"."Oma Anni".#-1;]
+[PV=VER:"bleibt"."darunterbleiben".#32341;=PNT:""".""".#-1;]
+[GV=ADV:"darunter"."darunterbleiben";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=NOU:"Frau".#100000467;]
+[GP=PRE:"auf"."auf".#-1;=ART:"dem"."das";=NOU:"Plakat".#78434;]
+[PV=VER:"gibt"."geben".#15231;=PRO:"es"."es".#-1;]
+[GV=ADV:"wirklich".#107105;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"95-jährige"."jährig".#496974;=NPH:"Anni Lenz".$100215627;]
+[PV=VER:"lebt"."leben".#14645;]
+[GP=PRE:"in"."in".#-1;=ART:"einer"."eine";=NOU:"Siedlung".#2579;]
+[GP=PRE:"aus"."aus".#-1;]
+[GP=ART:"den"."die";]
+[GN=DAT:"20er"."1920-1929".$100011471;]
+[GP=NOU:"Jahren"."Jahr".#100000577;]
+[GP=PRE:"in"."in".#-1;]
+[GP=GEO:"Berlins"."Berlin".#12936154;]
+[GP=NOU:"Norden".#100000659;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Seit"."seit";]
+[GN=PRO:"ein"."ein".#-1;]
+[GN=ADJ:"paar".#47019;=NOU:"Jahren"."Jahr".#100000577;]
+[PV=VER:"wehrt"."wehren".#16939;]
+[GN=PRO:"sie"."sie".#-1;]
+[GN=PRO:"sich"."er";]
+[GV=ADV:"zusammen".#48140;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"ihren"."ihr";=NOU:"NachbarInnen"."Nachbarin".#72739;]
+[GP=PRE:"gegen"."gegen".#-1;=ART:"einen"."ein";=NOU:"Investor".#21531;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"der"."Investor".#21531;]
+[GN=ART:"die"."die".#-1;=NOU:"Mieten"."Miete".#4204;]
+[GV=ADV:"rabiat"."rabiat".#-1;]
+[PV=VER:"hochsetzen"."absetzen".#117051;=VER:"will"."wollen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"All"."all";]
+[GN=PRO:"das"."das".#-1;]
+[PV=VER:"konnte"."können";]
+[GN=PRO:"man"."man".#-1;]
+[GN=NOU:"Ende".#16627;]
+[GP=ART:"der"."die";=NOU:"Woche".#980;]
+[GP=PRE:"in"."in".#-1;=ART:"einem"."ein";=NOU:"Porträt".#79153;]
+[GP=ART:"des"."das";=ADJ:"lokalen"."lokal".#68134;=NOU:"Boulevardblattes"."Boulevardblatt".#29871;]
+[GN=ADJ:"Berliner".#117112;=NOU:"Kurier".#4143;]
+[PV=VER:"nachlesen".#149479;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Darin"."darin".#32273;]
+[PV=VER:"sagt"."sagen".#154795;]
+[GN=NPH:"Lenz"."Anni Lenz".$100215627;]
+[GV=ADV:"auch".#173912;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=PRO:"sie"."sie".#-1;]
+[PV=VER:"zugestimmt"."zustimmen".#14317;=VER:"habe"."haben";]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"auf"."auf".#-1;=ART:"das"."das".#-1;=NOU:"Plakat".#78434;]
+[GP=ART:"der"."die";=NOU:"Linkspartei".#67841;]
+[PV=CON:"zu".#565251;=VER:"kommen".#117782;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=VER:"Wählen"."wählen".#13051;=VER:"würde"."werden";]
+[GN=PRO:"sie"."sie".#-1;]
+[GN=PRO:"die"."die".#-1;]
+[GV=ADV:"aber".#74486;=ADV:"nicht".#74226;]
+[??=PNT:".".".".#-1;]
+[CL]
+[??=PNT:""".""".#-1;]
+[PV=VER:"War"."sein".#596963;]
+[GV=ADV:"immer".#57736;]
+[GN=ORG:"SPD"."Sozialdemokratische Partei Deutschlands".#7462;]
+[??=PNT:",".",".#-1;]
+[GR=ORG:"das"."Sozialdemokratische Partei Deutschlands".#7462;]
+[PV=VER:"bleib"."bleiben".#129080;]
+[GN=PRO:"ich"."ich".#-1;]
+[GV=ADV:"auch".#173912;]
+[??=PNT:".".".".#-1;]
+[??=PNT:""".""".#-1;]
+[CL]
+[CR]
+[GN=ART:"Ein"."ein";=ADJ:"gefundenes"."gefunden".#596981;=NOU:"Fressen".#1160;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Sozialdemokraten"."Sozialdemokrat".#7449;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"twitterten"."twitterten".#-1;=ADJ:"prompt".#90982;]
+[GN=ART:"ein"."ein".#-1;=ADJ:"leicht".#67034;=ADJ:"verändertes"."verändert".#170603;=NOU:"Plakat".#78434;]
+[??=PNT:":".":".#-1;]
+[??=PNT:""".""".#-1;]
+[GN=NOU:"Mietrebellin".$38101;=NPR:"Oma Anni"."Oma Anni".#-1;]
+[PV=VER:"bleibt"."bleiben".#14281;]
+[GN=ORG:"SPD"."Sozialdemokratische Partei Deutschlands".#7462;=PNT:"-"."-".#-1;=NOU:"Wählerin".#5682;]
+[??=PNT:""".""".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Prompt"."prompt".#118428;]
+[PV=VER:"flogen"."durchfliegen".#131995;]
+[GP=PRE:"per"."per".#-1;=NOU:"Kurznachrichtendienst".#16866;]
+[GN=ART:"die"."die".#-1;=NOU:"Fetzen".#135772;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=NOU:"Zweifel".#100034302;]
+[PV=VER:"werde"."werden";]
+[GN=NPR:"Oma Anni"."Oma Anni".#-1;]
+[GV=ADV:"doch".#173057;]
+[GP=PRE:"von"."von".#-1;=ART:"der"."die";=ORG:"SPD"."Sozialdemokratische Partei Deutschlands".#7462;]
+[GP=PNT:""".""".#-1;=PRE:"in"."in".#-1;=ART:"den"."der";=NOU:"Arsch".#11627;]
+[PV=VER:"getreten"."treten".#16092;=PNT:""".""".#-1;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"schrieb"."schreiben".#156709;]
+[GN=NPH:"Klaus Lederer".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Landeschef".#497299;]
+[GP=ART:"der"."die";=NOU:"Linken"."Linke".#566361;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[CN=ADV:"Woraufhin"."woraufhin".#110096;]
+[GN=PRO:"sich"."er";]
+[GN=NPH:"Andreas Otto".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=ADJ:"baupolitischer".$78882;=NOU:"Sprecher".#92382;]
+[GP=ART:"der"."die";=NOU:"Grünen-Fraktion".#591775;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"einschaltete"."einschalten".#120966;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ORG:"SPD"."Sozialdemokratische Partei Deutschlands".#7462;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Linkspartei".#67841;]
+[PV=VER:"hätten"."haben";]
+[GN=PRO:"das"."das".#-1;]
+[GR=PNT:""".""".#-1;=PRO:"selbst"."selbst".#-1;]
+[PV=VER:"verbockt"."verbocken".#102695;=PNT:""".""".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Schließlich"."schließlich".#118837;=VER:"habe"."haben";]
+[GN=ART:"die"."die".#-1;=ADV:"damals".#35928;=ADJ:"regierende"."regierend".#561616;=ADJ:"rot-rote"."rot-rot".#581007;=NOU:"Koalition".#100878249;]
+[GN=ART:"die"."die".#-1;=ADJ:"landeseigene"."landeseigen".#66028;=NOU:"Wohnungsbaugesellschaft".#109991;=ORG:"GSW".$119545;]
+[PV=VER:"verkauft"."verkaufen".#15283;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"mit"."mit".#-1;=PRO:"ihr"."sie";]
+[GN=ART:"die"."die".#-1;=NOU:"Siedlung".#112104567;]
+[GP=PRE:"samt"."samt".#-1;=NPR:"Oma Anni"."Oma Anni".#-1;]
+[GP=PRE:"im"."in";=NOU:"Jahr".#100000577;=DAT:"2004".$100205892;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Nur so"."nur so".#91652;]
+[PV=VER:"konnte"."können";]
+[GN=ART:"der"."der".#-1;=ADJ:"profitgierige"."Profitgier";=NOU:"Investor".#21531;]
+[GP=PRE:"zum"."zu";=NPR:"Zuge"."Zuge".#-1;]
+[PV=VER:"kommen".#16086;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Ja".#59192;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"konterte"."kontern".#145497;]
+[GV=ADV:"schließlich".#118837;]
+[GN=NPH:"Christian Gaebler".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=ORG:"SPD"."Sozialdemokratische Partei Deutschlands".#7462;=PNT:"-"."-".#-1;=NOU:"Staatssekretär".#100736559;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Stadtentwicklungsverwaltung".$97652;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"aber"."aber".#-1;]
+[GN=ART:"die"."die".#-1;=ADJ:"oppositionellen"."oppositionell".#75782;=NOU:"Grünen"."Grüne".#7433;]
+[PV=VER:"hätten"."haben";]
+[GN=ADV:"damals".#35928;=ADV:"sogar".#173912;=ADJ:"doppelt".#34290;=ADV:"so".#90954;=ADJ:"viele"."viel".#173024;=NOU:"Wohnungen"."Wohnung".#4080;]
+[PV=VER:"verkaufen".#15283;=VER:"wollen"."wollen".#-1;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"um"."um".#-1;=ART:"die"."die".#-1;=NOU:"Löcher"."Loch".#147417;]
+[GP=PRE:"im"."in";=NOU:"Landeshaushalt".#569176;]
+[PV=CON:"zu".#565251;=VER:"stoppen".#17317;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GR=PRO:"Was"."was";]
+[GN=ART:"die"."die".#-1;=NOU:"Grünen"."Grüne".#7033;]
+[GV=ADV:"wie-derum"."wie-derum".#-1;]
+[GV=ADV:"nicht".#74226;=ADV:"so".#90954;]
+[PV=VER:"stehen lassen".#159277;=VER:"wollten"."wollen";]
+[CN=CON:"und so weiter"."und so weiter".#-1;]
+[CN=CON:"und so fort"."und so fort".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GR=PRO:"Wer"."wer";]
+[PV=VER:"stellt"."stellen".#118429;]
+[GV=PRE:"am Ende".#597325;]
+[GN=ART:"den"."der";=NOU:"Bürgermeister".#12878;]
+[??=PNT:"?"."?".#-1;]
+[CL]
+[CR]
+[GN=MEA:"Sechs Wochen"."6 Woche".$980;]
+[GP=PRE:"vor".#596943;=ART:"der"."die";=NOU:"Wahl".#2865;]
+[GP=PRE:"am"."an";=DAT:"18. September"."Sep-18".$100205892;]
+[PV=VER:"scheinen".#117664;]
+[GN=ART:"die"."die".#-1;=ADJ:"drei".#170037;=ADV:"irgendwie".#117848;=ADJ:"linken"."link".#28062;=NOU:"Parteien"."Partei".#100007278;]
+[GA=ADV:"mal".#118174;=ADV:"wieder".#74486;=ADJ:"vollkommen".#101962;]
+[PV=VER:"zerstritten"."abstreiten".#15395;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Dabei"."dabei".#130289;]
+[PV=VER:"ist"."sein".#172056;]
+[GV=ADV:"eigentlich".#36198;=ADV:"mehr".#70026;]
+[CN=CON:"als"."als".#-1;]
+[GV=ADV:"offensichtlich".#21755;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=PRO:"sie"."sie".#-1;]
+[PV=ADV:"danach".#32207;=ADV:"zusammen".#48140;=VER:"regieren".#54069;=VER:"müssen"."müssen".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Denn"."denn";]
+[GN=ART:"der"."der".#-1;=ADV:"derzeit".#33080;=ADV:"noch".#74484;=ADJ:"amtierende"."amtierend".#596631;=ADJ:"rot-schwarze".$157042;=NOU:"Senat".#121379;]
+[PN=VER:"ist"."sein".#172056;]
+[GP=PRE:"in"."in".#-1;=ADJ:"allen"."all";=NOU:"Umfragen"."Umfrage".#117427;]
+[GA=ADJ:"weit".#30148;]
+[GP=PRE:"von"."von".#-1;=ART:"einer"."eine";=NOU:"Mehrheit".#119461;]
+[PN=ADJ:"entfernt".#38478;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"zudem".#98967;]
+[PV=VER:"haben".#125724;]
+[GN=PRO:"sich"."er";]
+[GN=ORG:"SPD"."Sozialdemokratische Partei Deutschlands".#7462;]
+[CN=CON:"und"."und".#-1;]
+[GN=ORG:"CDU"."Christlich-Demokratische Union".#7466;]
+[PV=ADV:"dermaßen".#33069;=VER:"überworfen"."überwerfen".#34517;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=ART:"eine"."ein";=ADJ:"weitere"."weit".#43176;=NOU:"Zusammenarbeit".#100380962;]
+[PN=ADV:"nahezu".#12562;=ADJ:"ausgeschlossen".#24364;=VER:"ist"."sein".#12562;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[CN=CON:"Weil"."weil";]
+[GV=ADV:"außerdem".#98967;]
+[GN=ART:"die"."die".#-1;=ORG:"AfD"."Alternative für Deutschland".#106721203;]
+[GV=ADV:"ziemlich".#111521;]
+[GV=ADV:"sicher".#56201;]
+[GP=PRE:"in"."in".#-1;=ART:"das"."das".#-1;=ADJ:"Berliner".#117112;=NOU:"Abgeordnetenhaus".#118052;]
+[PV=VER:"einziehen".#17287;=VER:"wird"."werden";]
+[??=PNT:",".",".#-1;]
+[GN=ART:"die"."die".#-1;=ORG:"CDU"."Christlich-Demokratische Union".#7466;]
+[PV=ADV:"aber".#74486;=VER:"garantiert"."garantieren".#48642;]
+[GV=ADV:"nicht".#74226;]
+[GP=PRE:"mit"."mit".#-1;=PRO:"ihr"."sie";]
+[PV=VER:"koalieren".#46325;=VER:"will"."wollen";]
+[??=PNT:",".",".#-1;]
+[PV=VER:"mag"."mögen".#148993;]
+[GR=PRO:"der"."der".#-1;]
+[GN=ADJ:"rechte"."recht".#84908;=NOU:"Flügel".#2340;]
+[GP=PRE:"im"."in";=NOU:"Landesparlament".#66053;]
+[PV=ADV:"zwar".#112900;=ADV:"insgesamt".#48140;=VER:"gestärkt"."stärken".#16364;]
+[GP=PRE:"aus"."aus".#-1;=ART:"der"."die";=NOU:"Wahl".#2865;]
+[PV=VER:"hervorgehen".#140979;]
+[??=PNT:",".",".#-1;]
+[PN=ADJ:"regierungsfähig".#82587;=VER:"ist"."sein".#12562;]
+[GN=PRO:"er"."er".#-1;]
+[CN=CON:"aber"."aber".#-1;]
+[GV=ADV:"bei weitem nicht".#173133;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Deshalb"."deshalb".#33073;]
+[PV=VER:"führt"."vorbeifahren".#165758;]
+[GN=ADV:"diesmal".#33640;=ADV:"praktisch".#79462;=ADJ:"kein"."kein".#-1;=NOU:"Weg".#2984;]
+[GV=ADV:"daran".#130443;]
+[GV=ADV:"vorbei"."vorbeifahren";]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=ART:"die"."die".#-1;=ADJ:"strukturelle"."strukturell".#159971;=ADJ:"linke"."link".#28062;=NOU:"Mehrheit".#119461;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Mehrheit".#119461;]
+[PV=PRO:"es"."es".#-1;]
+[GP=PRE:"in"."in".#-1;=GEO:"Berlin".#12936154;]
+[GV=ADV:"schon".#87685;]
+[GP=PRE:"seit"."seit".#-1;=DAT:"1995".$100205892;]
+[PV=VER:"gibt"."geben".#15231;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"auch".#173912;=ADV:"mal".#118174;=ADV:"wieder".#74486;]
+[GP=PRE:"zu"."zu".#-1;=ART:"einer"."eine";=ADJ:"linken"."link".#28062;=NOU:"Regierung".#2595;]
+[PV=VER:"führt"."führen".#136980;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Offen"."offen".#44532;]
+[PV=VER:"ist"."sein".#12562;]
+[GV=ADV:"eigentlich".#36198;=ADV:"nur".#20252;=ADV:"noch".#74484;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"welche"."welche".#-1;]
+[GP=ART:"der"."die";=ADJ:"drei".#170037;=NOU:"Parteien"."Partei".#100007278;]
+[GV=PRE:"am Ende".#597325;]
+[GP=ART:"den"."die";=NOU:"Regierenden"."Regierenden".#-1;=NOU:"Bürgermeister".#12878;]
+[PV=VER:"stellen".#16022;=VER:"darf"."dürfen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Amtsinhaber".#20808;=NPH:"Michael Müller".$100215627;]
+[PV=VER:"kommt"."kommen".#596963;]
+[GP=PRE:"in"."in".#-1;=ART:"den"."die";=ADJ:"meisten"."viel".#173024;=NOU:"Umfragen"."Umfrage".#117427;]
+[GV=PRE:"auf"."auf".#-1;]
+[GV=ADV:"nur".#20252;=ADV:"knapp".#65656;]
+[GP=PRE:"über".#98894;=PCT:"20 Prozent"."20%".$100011229;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GA=ADJ:"Dicht"."dicht".#33419;]
+[PV=VER:"gefolgt"."folgen".#13921;]
+[GP=PRE:"von"."von".#-1;=ART:"den"."die";=ORG:"Grünen"."Bündnis 90/Die Grünen".#7468;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Selbst".#103236990;]
+[GN=ART:"die"."die".#-1;=NOU:"Linkspartei".#67841;]
+[PV=VER:"müsste"."müssen";]
+[GP=PRE:"von"."von".#-1;=ART:"den"."die";=ADJ:"prognostizierten"."prognostiziert".#597034;]
+[GN=PCT:"18 Prozent"."18%".$100011229;]
+[GV=ADV:"nur".#20252;]
+[GN=ART:"einen"."ein";=ADJ:"kleinen"."klein".#62098;=NOU:"Satz".#100041796;]
+[PV=VER:"machen".#14422;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"um"."um".#-1;]
+[GV=ADV:"ganz".#24963;]
+[GV=PRE:"vorn"."vor".#596943;]
+[PV=CON:"zu".#565251;=VER:"landen".#146633;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"linke"."link".#28062;=NOU:"Wählerschaft".#166332;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Hauptstadt".#100005119;]
+[PV=VER:"darf"."dürfen";=PRO:"sich"."er";]
+[GN=ADV:"also".#43901;=ADV:"nicht".#74226;=ADV:"nur".#20252;=ADJ:"berechtigte"."berechtigt".#577054;=NOU:"Hoffnung".#2898;]
+[GP=PRE:"auf"."auf".#-1;=PRO:"eine"."ein";]
+[GP=PRO:"ihr"."sie";]
+[GN=ADJ:"adäquate"."adäquat".#19513;=NOU:"Regierung".#3842;]
+[PV=VER:"machen".#16211;]
+[??=PNT:",".",".#-1;]
+[GN=PRO:"sie"."sie".#-1;]
+[PV=VER:"kann"."können";]
+[GV=ADV:"sogar".#173912;]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."die";=NOU:"Stimmabgabe".#118114;]
+[GV=ADV:"aktiv".#590434;]
+[PV=VER:"beeinflussen".#12928;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"ob"."ob".#-1;]
+[PV=VER:"erneut"."erneuen".#14916;]
+[GN=NPH:"Michael Müller".$100215627;]
+[CN=CON:"oder"."oder".#-1;]
+[CN=CON:"doch"."doch".#-1;]
+[GN=NPH:"Ramona Pop".$100215627;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"bisher".#28957;]
+[GN=NOU:"Fraktionschefin".#44308;]
+[GP=ART:"der"."die";=ORG:"Grünen"."Bündnis 90/Die Grünen".#7468;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"beziehungsweise"."beziehungsweise".#-1;]
+[GN=NPH:"Klaus Lederer".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Landeschef".#497299;]
+[GP=ART:"der"."die";=NOU:"Linken"."Linke".#566361;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"ins"."in";=NOU:"Rote".#4850;=NOU:"Rathaus".#81821;]
+[PV=VER:"einziehen".#132606;=VER:"soll"."sollen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Eine"."ein";=ADV:"bundesweit".#596341;=ADJ:"einmalige"."einmalig".#36748;=NOU:"Konstellation".#145436;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Gut".#66087;]
+[GV=ADV:"möglich"."möglich".#-1;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GA=ADJ:"erst"."tag_numero";=ADJ:"spät".#91662;]
+[GP=PRE:"am"."an";=NOU:"Wahlabend".#106977;]
+[PV=ADV:"klar".#89692;=VER:"wird"."werden".#14301;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"wer"."Wahlabend".#106977;]
+[PV=VER:"die Nase vorn hat"."die Nase vorn haben".#591686;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Und"."und";]
+[CN=CON:"falls"."falls".#-1;]
+[GN=PRO:"alle"."all";]
+[GA=ADJ:"drei".#170037;=ADV:"extrem".#24963;=ADJ:"eng".#38296;]
+[PV=ADV:"beieinander".#26739;=VER:"landen".#146633;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"könnten"."können";]
+[GN=PRO:"sie"."sie".#-1;]
+[GV=ADV:"ja"."ja".#-1;]
+[GV=ADV:"noch".#74484;]
+[GP=PRE:"nach".#562279;=ART:"einem"."ein";=ADJ:"gemeinsamen"."gemeinsam".#47662;=ADJ:"externen"."extern".#24935;=NOU:"Kandidaten"."Kandidat".#100618536;]
+[PV=VER:"suchen".#15904;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPR:"Oma Anni"."Oma Anni".#-1;]
+[GV=ADV:"zum Beispiel".#26861;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=PRO:"Die"."die";]
+[PV=VER:"darf"."dürfen";=PRO:"sich"."er";]
+[GV=ADV:"schon mal".#58986;]
+[GP=PRE:"auf"."auf".#-1;=ART:"eine"."ein";=ADJ:"sozialere"."sozial".#91427;=NOU:"Wohnungspolitik".#110008;]
+[GP=PRE:"in"."in".#-1;=GEO:"Berlin".#12936154;]
+[PV=VER:"freuen".#44724;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Für"."für";=PRO:"sie"."sie".#-1;=PRO:"selbst"."selbst".#-1;]
+[PV=VER:"kommt"."kommen".#596963;]
+[GN=PRO:"die"."die".#-1;]
+[GA=ADV:"allerdings".#20252;=ADJ:"zu spät".#41627;]
+[??=PNT:":".":".#-1;]
+[GN=ADJ:"Ihr"."Ihr".#-1;=NOU:"Haus".#100699405;]
+[PV=VER:"wurde"."werden";]
+[GV=ADV:"ja"."ja".#-1;]
+[PV=ADV:"schon".#87685;=VER:"privatisiert"."privatisieren".#79941;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Dass"."dass";]
+[GN=PRO:"das"."das".#-1;]
+[PN=ART:"ein"."ein".#-1;=NOU:"Fehler".#2013;=VER:"war"."sein".#12562;]
+[??=PNT:",".",".#-1;]
+[PN=VER:"darin sind"."darin sein".#16335;]
+[GN=PRO:"sich"."er";]
+[GN=NOU:"Rote".#4850;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Rote".#4850;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Grüne".#7433;]
+[GA=ADV:"mittlerweile".#71379;=ADV:"weitgehend".#596336;=ADJ:"einig".#36585;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Immerhin"."immerhin".#118837;]
+[GN=ART:"ein"."ein".#-1;=NOU:"Anfang".#3871;]
+[??=PNT:".".".".#-1;]
+
+SBJ=2:0;SBJ=4:7;OBJ=6:7;SBJ=11:13;OBJ=12:13;SBJ=16:15;SBJ=25:26;SBJ=32:33;SBJ=37:38;SBJ=42:44;SBJ=47:48;SBJ=60:61;OBJ=59:61;APH=68:66;SBJ=66:71;OBJ=69:71;SBJ=77:82;OBJ=81:82;SBJ=86:85;SBJ=90:91;SBJ=90:95;SBJ=98:97;OBJ=99:97;SBJ=105:103;APH=107:105;SBJ=-49:108;SBJ=105:108;SBJ=121:122;CPL=123:122;OBJ=129:127;SBJ=135:137;SBJ=140:139;OBJ=142:139;APH=150:148;SBJ=148:153;OBJ=147:153;SBJ=-52:161;OBJ=160:161;SBJ=165:166;OBJ=170:166;SBJ=176:178;SBJ=184:182;OBJ=186:182;SBJ=190:193;SBJ=192:193;SBJ=190:197;SBJ=192:197;SBJ=-52:203;OBJ=200:203;SBJ=208:209;OBJ=211:209;SBJ=218:220;SBJ=229:230;SBJ=233:238;SBJ=243:241;OBJ=242:241;SBJ=243:246;SBJ=249:250;SBJ=255:259;SBJ=261:262;SBJ=261:265;SBJ=261:267;SBJ=268:271;OBJ=269:271;SBJ=276:275;SBJ=-53:282;APH=290:288;SBJ=288:295;SBJ=288:299;SBJ=305:309;SBJ=312:313;SBJ=327:330;OBJ=329:330;SBJ=327:335;SBJ=337:344;SBJ=346:351;SBJ=355:354;OBJ=358:354;SBJ=365:371;OBJ=367:371;APH=384:381;SBJ=381:385;SBJ=389:391;SBJ=394:398;SBJ=404:409;SBJ=413:412;OBJ=416:419;SBJ=422:423;SBJ=429:425;CPL=431:425;APH=338:292;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Disambiguation	0	0	2	ADV	da	Da	173213	False	1				 	130286
+Wrong Disambiguation	0	3	4	VER	sagen	sage	154795	False	2				 	126718
+Wrong Disambiguation	0	78	7	ADJ	klein	kleines	62098	False	15				 	
+Wrong Recognition	0	140	11	NOU		Linkspartei	67841	False	24				 	
+Wrong Recognition	0	158	5	NOU		Grüne	7433	False	28				 	
+Wrong Grammar	0	171	8	NPR	Oma Anni	Oma Anni	-1	False	32				 	
+Wrong Disambiguation	0	186	5	VER	lehnen	lehnt	119233	False	36				 	
+Missing Concept	0	205	11	NOU		Wahlwerbung	107052	False	40				 	
+Wrong Recognition	0	221	6	NOU	Linke	Linken	566361	False	42				 	
+Missing Concept	1	274	5	VER	stehen	steht	32369	False	52				 	
+Wrong Disambiguation	1	280	4	ADV		oben	74978	False	53				 	
+Wrong Grammar	0	298	8	NPR	Oma Anni	Oma Anni	-1	False	58				 	
+Wrong Recognition	1	307	6	VER	darunterbleiben	bleibt	32341	False	59				 	
+Wrong Disambiguation	0	446	6	NOU		Norden	100000659	False	85				 	103479010
+Missing Concept	1	463	4	ADJ		paar	47019	False	89				 	
+Wrong Disambiguation	0	490	8	ADV		zusammen	48140	False	94				 	101187
+Missing Concept	0	559	6	ADV	rabiat	rabiat	-1	False	105				 	
+Missing Concept	1	566	10	VER	absetzen	hochsetzen	117051	False	106				 	
+Wrong Recognition	1	663	8	ADJ		Berliner	117112	False	122				 	
+Wrong Disambiguation	0	706	4	ADV		auch	173912	False	129				 	
+Wrong Disambiguation	1	721	10	VER	zustimmen	zugestimmt	14317	False	133				 	
+Wrong Recognition	0	757	11	NOU		Linkspartei	67841	False	140				 	
+Wrong Disambiguation	1	772	6	VER		kommen	117782	False	0				 	
+Wrong Disambiguation	0	780	6	VER	wählen	Wählen	13051	False	0				 	14875
+Missing Concept	0	801	4	ADV		aber	74486	False	0				 	20252
+Wrong Disambiguation	1	814	3	VER	sein	War	596963	False	0				 	
+Wrong Disambiguation	1	833	5	VER	bleiben	bleib	129080	False	0				 	14281
+Missing Concept	1	865	7	NOU		Fressen	1160	False	0				 	
+Wrong Recognition	0	881	16	NOU	Sozialdemokrat	Sozialdemokraten	7449	False	0				 	
+Wrong Grammar	1	903	10	ADJ	twitterten	twitterten	-1	False	0				 	
+Wrong Grammar	1	925	6	ADJ		leicht	67034	False	0			ADV	 	591904
+Wrong Recognition	0	966	8	NPR	Oma Anni	Oma Anni	-1	False	0				 	
+Wrong Disambiguation	0	997	6	ADV	prompt	Prompt	118428	False	0				 	
+Wrong Recognition	1	1004	6	VER	durchfliegen	flogen	131995	False	0				 	
+Missing Concept	1	1041	6	NOU		Fetzen	135772	False	0				 	
+Wrong Recognition	0	1066	8	NPR	Oma Anni	Oma Anni	-1	False	0				 	
+Wrong Disambiguation	0	1075	4	ADV		doch	173057	False	0				 	
+Wrong Disambiguation	1	1117	7	VER	schreiben	schrieb	156709	False	0				 	
+Wrong Recognition	0	1155	6	NOU	Linke	Linken	566361	False	0				 	
+Missing Concept	0	1220	15	NOU		Grünen-Fraktion	591775	False	0				 	
+Wrong Disambiguation	1	1237	12	VER	einschalten	einschaltete	120966	False	0				 	120973
+Wrong Recognition	0	1259	11	NOU		Linkspartei	67841	False	0				 	
+Wrong Recognition	0	1445	8	NPR	Oma Anni	Oma Anni	-1	False	0				 	
+Wrong Recognition	2	1468	6	ADV	nur so	Nur so	91652	False	0				 	
+Missing Concept	0	1486	13	ADJ	Profitgier	profitgierige		False	0				 	
+Wrong Recognition	1	1513	4	NPR	Zuge	Zuge	-1	False	0				 	
+Wrong Disambiguation	1	1518	6	VER		kommen	16086	False	0				 	
+Wrong Disambiguation	0	1539	11	ADV		schließlich	118837	False	0				 	
+Wrong Disambiguation	1	1634	15	ADJ	oppositionell	oppositionellen	75782	False	0				 	
+Wrong Recognition	0	1650	6	NOU	Grüne	Grünen	7433	False	0				 	
+Missing Concept	1	1677	7	ADJ		doppelt	34290	False	0				 	
+Wrong Disambiguation	1	1685	2	ADV		so	90954	False	0				 	173553
+Wrong Disambiguation	1	1729	6	NOU	Loch	Löcher	147417	False	0				 	147418
+Missing Concept	1	1739	14	NOU		Landeshaushalt	569176	False	0				 	
+Wrong Disambiguation	1	1757	7	VER		stoppen	17317	False	0				 	120942
+Wrong Recognition	1	1774	6	NOU	Grüne	Grünen	7033	False	0				 	
+Wrong Disambiguation	1	1800	13	VER		stehen lassen	159277	False	0				 	159279
+	1	1853	6	VER	stellen	stellt	118429	False	0				 	
+Wrong Disambiguation	1	1853	6	VER	stellen	stellt	118429	False	0				 	
+Wrong Disambiguation	0	1860	7	PRE		am Ende	597325	False	0				 	
+Wrong Disambiguation	1	1900	3	PRE		vor	596943	False	0				 	596945
+Wrong Disambiguation	1	1908	4	NOU		Wahl	2865	False	0				 	2864
+Wrong Disambiguation	1	1930	8	VER		scheinen	117664	False	0				 	
+Missing Concept	2	1958	6	ADJ	link	linken	28062	False	0				 	
+Missing Concept	1	1974	3	ADV		mal	118174	False	0				 	
+Wrong Grammar	1	1985	10	ADJ		vollkommen	101962	False	0				 	
+Wrong Recognition	1	1996	11	VER	abstreiten	zerstritten	15395	False	0				 	103712
+Wrong Disambiguation	1	2009	5	ADV	dabei	Dabei	130289	False	0				 	141135
+Wrong Disambiguation	1	2015	3	VER	sein	ist	172056	False	0				 	12562
+Wrong Grammar	0	2039	14	ADV		offensichtlich	21755	False	0				 	
+Wrong Disambiguation	1	2071	8	ADV		zusammen	48140	False	0				 	101187
+Missing Concept	1	2130	12	ADJ		rot-schwarze	157042	True	0				 	
+Wrong Disambiguation	1	2149	3	VER	sein	ist	172056	False	0				 	12562
+Wrong Grammar	1	2171	4	ADJ		weit	30148	False	0			ADV	 	108396
+Wrong Grammar	1	2211	5	VER		haben	125724	False	0				 	
+Wrong Disambiguation	1	2243	10	VER	überwerfen	überworfen	34517	False	0				 	99573
+Wrong Grammar	1	2265	7	ADJ	weit	weitere	43176	False	0			ADV	 	166902
+Wrong Recognition	1	2288	6	ADV		nahezu	12562	False	0				 	
+Wrong Disambiguation	1	2386	9	VER		einziehen	17287	False	0				 	
+Missing Concept	1	2410	4	ADV		aber	74486	False	0				 	20252
+Wrong Grammar	1	2415	10	VER	garantieren	garantiert	48642	False	0				 	
+Wrong Disambiguation	1	2456	3	VER	mögen	mag	148993	False	0				 	148990
+Missing Concept	1	2464	6	ADJ	recht	rechte	84908	False	0				 	
+Wrong Disambiguation	1	2471	6	NOU		Flügel	2340	False	0				 	2353
+Wrong Grammar	1	2512	8	VER	stärken	gestärkt	16364	False	0				 	
+Wrong Disambiguation	1	2529	4	NOU		Wahl	2865	False	0				 	2864
+Wrong Recognition	1	2601	5	VER	vorbeifahren	führt	165758	False	0				 	
+Wrong Disambiguation	1	2630	3	NOU		Weg	2984	False	0				 	121135
+Missing Concept	1	2670	5	ADJ	link	linke	28062	False	0				 	
+Wrong Disambiguation	0	2703	5	ADV		schon	87685	False	0				 	156570
+Missing Concept	1	2730	3	ADV		mal	118174	False	0				 	
+Missing Concept	1	2750	6	ADJ	link	linken	28062	False	0				 	
+Wrong Disambiguation	1	2757	9	NOU		Regierung	2595	False	0				 	3842
+Wrong Disambiguation	1	2767	5	VER	führen	führt	136980	False	0				 	137003
+Wrong Recognition	1	2774	5	ADV	offen	Offen	44532	False	0			ADJ	 	86020
+Wrong Disambiguation	0	2830	7	PRE		am Ende	597325	False	0				 	173083
+Wrong Recognition	0	2842	11	NOU	Regierenden	Regierenden	-1	False	0				 	
+Wrong Disambiguation	1	2868	7	VER		stellen	16022	False	0				 	
+Wrong Disambiguation	1	2909	5	VER	kommen	kommt	596963	False	0				 	
+Wrong Disambiguation	0	2943	3	ADV		nur	20252	False	0				 	150274
+Wrong Disambiguation	1	2947	5	ADV		knapp	65656	False	0				 	144943
+Wrong Grammar	1	2970	5	ADJ	dicht	Dicht	33419	False	0			ADV	 	596343
+Wrong Disambiguation	0	2976	7	VER	folgen	gefolgt	13921	False	0				 	172943
+Wrong Grammar	2	3000	6	NOU		Selbst	103236990	False	0				 	
+Wrong Recognition	0	3011	11	NOU		Linkspartei	67841	False	0				 	
+	1	3084	4	NOU		Satz	100041796	False	0				 	
+Wrong Disambiguation	2	3084	4	NOU		Satz	100041796	False	0				 	101151752
+Wrong Disambiguation	1	3089	6	VER		machen	14422	False	0				 	16208
+Wrong Recognition	1	3105	4	PRE	vor	vorn	596943	False	0			ADV	 	105982
+Wrong Disambiguation	1	3113	6	VER		landen	146633	False	0				 	146639
+Missing Concept	1	3125	5	ADJ	link	linke	28062	False	0				 	
+Wrong Disambiguation	1	3187	11	ADJ	berechtigt	berechtigte	577054	False	0				 	27271
+Wrong Disambiguation	1	3199	8	NOU		Hoffnung	2898	False	0				 	101362683
+Wrong Disambiguation	1	3240	6	VER		machen	16211	False	0				 	
+Wrong Grammar	1	3306	6	VER	erneuen	erneut	14916	False	0				 	
+Wrong Recognition	0	3431	6	NOU	Linke	Linken	566361	False	0				 	
+Wrong Recognition	1	3443	4	NOU		Rote	4850	False	0				 	
+Wrong Disambiguation	2	3456	9	VER		einziehen	132606	False	0				 	
+	2	3513	3	NOU		Gut	66087	False	0				 	
+Wrong Grammar	2	3513	3	NOU		Gut	66087	False	0				 	
+Wrong Grammar	1	3517	7	ADV	möglich	möglich	-1	False	0			ADJ	 	79324
+Wrong Grammar	1	3554	4	ADV		klar	89692	False	0			ADJ	 	36338
+Wrong Disambiguation	1	3565	3	PRO	Wahlabend	wer	106977	False	0				 	
+Wrong Disambiguation	0	3615	3	ADJ		eng	38296	False	0				 	133862
+Wrong Disambiguation	1	3631	6	VER		landen	146633	False	0				 	
+Wrong Disambiguation	0	3654	4	ADV		noch	74484	False	0				 	
+Wrong Grammar	1	3659	4	PRE		nach	562279	False	0			ADV	 	562278
+Wrong Disambiguation	0	3670	11	ADJ	gemeinsam	gemeinsamen	47662	False	0				 	63086
+Wrong Disambiguation	0	3702	6	VER		suchen	15904	False	0				 	120965
+Wrong Recognition	0	3710	8	NPR	Oma Anni	Oma Anni	-1	False	0				 	
+Wrong Disambiguation	0	3766	9	ADJ	sozial	sozialere	91427	False	0				 	49561
+Wrong Disambiguation	1	3825	5	VER	kommen	kommt	596963	False	0				 	13136
+Wrong Recognition	2	3918	10	VER	darin sein	darin sind	16335	False	0				 	
+Missing Concept	1	3934	4	NOU		Rote	4850	False	0				 	
+Missing Concept	1	3940	4	NOU		Rote	4850	False	0				 	
+Wrong Recognition	0	3949	5	NOU		Grüne	7433	False	0				 	
+Wrong Disambiguation	1	3986	8	ADV	immerhin	Immerhin	118837	False	0				 	57742
+Wrong Disambiguation	0	3999	6	NOU		Anfang	3871	False	0				 	162047

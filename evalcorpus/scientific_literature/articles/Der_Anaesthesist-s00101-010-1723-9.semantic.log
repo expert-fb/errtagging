@@ -1,0 +1,614 @@
+﻿[GN=ADJ:"Perioperatives"."operativ".#75708;=NOU:"Monitoring".#71730;]
+[GP=ART:"des"."das";=NPR:"QT".$100422293;=PNT:"-"."-".#-1;=NOU:"Intervalls"."Intervall".#100186081;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=ADJ:"sichere"."sicher".#90152;=ADJ:"perioperative"."operativ".#75708;=NOU:"Betreuung".#118076;]
+[GP=PRE:"von"."von".#-1;=NOU:"Patienten"."Patient".#77063;]
+[GP=PRE:"mit"."mit".#-1;=PNT:""".""".#-1;=ADJ:"long"."long".#-1;=NPR:"QT".$100422293;]
+[GA=ADV:"syndrome"."syndrome".#-1;=PNT:""".""".#-1;]
+[??=PNT:"("."(".#-1;]
+[GN=NPR:"LQT"."LQT".#-1;=PNT:"-"."-".#-1;=NOU:"Syndrom".#100179630;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"bedarf"."bedürfen".#12747;]
+[GP=ART:"der"."die";=ADJ:"perioperativen"."operativ".#119000;=NOU:"Überwachung".#127609;]
+[GP=ART:"des"."das";=NPR:"QT".$100422293;=PNT:"-"."-".#-1;=NOU:"Intervalls"."Intervall".#100186081;=PNT:"["."[".#-1;=ADJ:"5"."5".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Ein"."ein";=ADJ:"automatisiertes"."automatisiert".#119866;=ADJ:"perioperatives"."operativ".#75708;=NPR:"QT".$100422293;=PNT:"-"."-".#-1;=NOU:"Monitoring".#71730;]
+[PV=VER:"wurde"."werden";]
+[GV=ADV:"bislang".#28957;=ADV:"nicht".#74226;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Routinebehandlung".$120424;]
+[PV=VER:"etabliert"."etablieren".#120344;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Das"."das";]
+[GP=PRE:"von"."von".#-1;=NPR:"Charbit"."Charbit".#-1;]
+[GN=ADJ:"et"."et".#-1;=NOU:"al".#100101497;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GA=ADV:"[";=ADJ:"2"."2".#-1;=PNT:"]"."]".#-1;]
+[GV=ADV:"vorgeschlagene"."vorgeschlagen";]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"auf"."auf".#-1;=ART:"der"."die";=GEO:"Fredericia".#12609691;=PNT:"-"."-".#-1;=NOU:"Formel".#16761;]
+[GN=ADJ:"basierende"."basierend".#588900;=NOU:"Verfahren".#102920982;]
+[PN=VER:"ist"."sein".#12562;=ADV:"sehr".#46001;=ADJ:"zeitaufwendig".#110872;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"für"."für".#-1;=ART:"den"."der";=NOU:"Routineeinsatz".#587170;]
+[GV=ADV:"ungeeignet".#41758;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"kam"."kommen".#17986;]
+[GA=ADV:"deshalb".#33073;=ADV:"auch".#23235;=ADV:"nur".#66818;=ADJ:"postoperativ".#79279;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"in"."in".#-1;=NOU:"Studien"."Studie".#117991;]
+[GP=PRE:"zum"."zu";=NOU:"Einsatz".#24700;=PNT:"["."[".#-1;=ADJ:"2"."2".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=NOU:"Folgenden"."Folgenden".#-1;]
+[PV=VER:"wird"."werden".#167036;]
+[GV=ADV:"erstmals".#39846;]
+[GP=PRE:"vom"."von";=ADJ:"perioperativen"."operativ".#75708;=NOU:"Management".#68994;]
+[GP=ADJ:"zweier"."zweite".#117172;=NOU:"Patienten"."Patient".#77063;]
+[??=PNT:"("."(".#-1;]
+[GA=ADV:""";=ADJ:"informed"."informed".#-1;=ADJ:"consent"."consent".#-1;=PNT:""".""".#-1;]
+[PV=VER:"liegt"."liegen".#16318;]
+[GV=ADV:"schriftlich".#596398;]
+[GV=ADV:"vor".#106670;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"erworbenem"."erworben".#588859;=NPR:"LQT"."LQT".#-1;=PNT:"-"."-".#-1;=NOU:"Syndrom".#100179630;]
+[PV=VER:"berichtet"."berichten".#13686;]
+[??=PNT:",".",".#-1;]
+[GR=PRE:"bei"."bei".#-1;=PRO:"denen"."die";=ART:"ein"."ein".#-1;=ADJ:"automatisiertes"."automatisiert".#119866;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"engmaschiges"."engmaschig";]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"über".#98894;=ART:"die"."die".#-1;=ADJ:"gesamte"."gesamt".#48115;=ADJ:"perioperative"."operativ".#119000;=NOU:"Behandlung".#3242;]
+[GN=ADJ:"einfach".#56999;=ADJ:"durchzuführendes"."durchzuführend";=NOU:"Monitoring".#71730;]
+[GP=ART:"des"."das";=NPR:"QT".$100422293;=PNT:"-"."-".#-1;=NOU:"Intervalls"."Intervall".#100186081;]
+[PV=VER:"eingesetzt"."einsetzen".#16415;=VER:"worden"."werden";=VER:"war"."sein";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Grundlagen"."Grundlage".#14984;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Das"."das";=NPR:"LQT"."LQT".#-1;=PNT:"-"."-".#-1;=NOU:"Syndrom".#100179630;]
+[PN=VER:"ist"."sein".#12562;=ART:"eine"."ein";=NOU:"Erkrankung".#330;]
+[GN=ART:"der"."der".#-1;=ADJ:"kardialen"."kardial".#60615;=NOU:"Erregungsrückbildung".$84400;=PNT:"["."[".#-1;=ADJ:"6"."6".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Es"."es";]
+[PV=VER:"werden".#14301;]
+[GN=ART:"eine"."ein";=ADJ:"angeborene"."angeboren".#21171;]
+[CN=CON:"und"."und".#-1;]
+[GN=ART:"eine"."ein";=ADJ:"erworbene"."erworben".#588859;=NOU:"Form".#146;]
+[PV=VER:"unterschieden"."unterscheiden".#121012;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"häufigsten"."häufig".#35650;=NOU:"Subtypen"."Typ".#16288;]
+[GP=ART:"der"."die";=ADJ:"angeborenen"."angeboren".#21171;=NOU:"Form".#100309252;]
+[PN=VER:"sind"."sein".#12562;]
+[GN=ART:"das"."das".#-1;=NPR:"LQT"."LQT".#-1;=PNT:"-"."-".#-1;=NOU:"Syndrom".#100179630;]
+[PN=ADJ:"1"."1".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NPR:"LQT"."LQT".#-1;=PNT:"-"."-".#-1;=NOU:"Syndrom".#100179630;]
+[GA=ADJ:"2"."2".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=ART:"das"."das".#-1;=NPR:"LQT"."LQT".#-1;=PNT:"-"."-".#-1;=NOU:"Syndrom".#100179630;]
+[GA=ADJ:"3"."3".#-1;=PNT:"["."[".#-1;=ADJ:"6"."6".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Prävalenz".#100719602;]
+[PV=VER:"wird"."werden";]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"1:2000"."1:2000".#-1;]
+[GP=PRE:"bis"."bis".#-1;=ADJ:"1:5000"."1:5000".#-1;]
+[PV=VER:"angegeben"."angeben".#135715;=PNT:"["."[".#-1;=ADJ:"4"."4".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=NOU:"Vergleich".#121059;]
+[GP=PRE:"zur"."zu";=ADJ:"genetischen"."genetisch".#39127;=NOU:"Form".#146;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=ART:"das"."das".#-1;=ADJ:"erworbene"."erworben".#588859;=NPR:"LQT"."LQT".#-1;=PNT:"-"."-".#-1;=NOU:"Syndrom".#100179630;]
+[PN=ADV:"wesentlich".#610749;=ADJ:"häufiger"."häufig".#35650;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"erworbene"."erworben".#588859;=NOU:"Form".#146;]
+[PV=VER:"ist"."sein".#12562;]
+[GP=PRE:"in"."in".#-1;=ADJ:"aller"."all";=NOU:"Regel".#117331;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Nebenwirkungen"."Nebenwirkung".#73791;]
+[GP=PRE:"von"."von".#-1;=NOU:"Medikamenten"."Medikament".#100012140;=PNT:"["."[".#-1;=ADJ:"8"."8".#-1;=PNT:"]"."]".#-1;]
+[CN=CON:"oder"."oder".#-1;]
+[GP=PRE:"auf"."auf".#-1;=ADJ:"strukturelle"."strukturell".#159971;=NOU:"Herzerkrankungen"."Herzerkrankung".#100190805;]
+[PV=VER:"zurückzuführen"."zurückführen".#168671;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Beiden"."beide".#169688;=NOU:"Formen"."Form".#146;]
+[GN=ART:"der"."der".#-1;=ADJ:"krankhaften"."krankhaft".#64518;=NOU:"Verlängerung".#118903;]
+[GP=ART:"des"."das";=NPR:"QT".$100422293;=PNT:"-"."-".#-1;=NOU:"Intervalls"."Intervall".#100186081;]
+[GP=PRE:"im"."in";=NOU:"Elektrokardiogramm".#100079785;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"EKG"."Ekg".#100079785;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"liegt"."liegen".#16338;]
+[GN=PRO:"eine"."ein";]
+[GN=ADJ:"gestörte"."gestört".#562345;=NOU:"Repolarisation".#100205729;]
+[GN=ADJ:"ventrikulärer"."ventrikulärer".#-1;=NOU:"Aktionspotenziale"."Aktionspotenzial".#100194277;]
+[GV=ADV:"zugrunde".#112172;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Repolarisation".#100205729;]
+[GN=ART:"ein"."ein".#-1;=ADJ:"hohes"."hoch".#141975;=NOU:"Risiko".#9620;]
+[GN=ADJ:"lebensbedrohlicher"."lebensbedrohlich".#29800;=ADJ:"polymorpher"."polymorph".#79005;=ADJ:"ventrikulärer"."ventrikulärer".#-1;=NOU:"Arrhythmien"."Arrhythmie".#124644;]
+[GP=PRE:"vom"."von";=PNT:""".""".#-1;=NPR:"Torsades-de-pointes"."Torsades-de-pointe";=PNT:""".""".#-1;=PNT:"-"."-".#-1;]
+[??=PNT:"("."(".#-1;]
+[GN=NPR:"TdP".$101190554;=PNT:"-"."-".#-1;]
+[??=PNT:")".")".#-1;]
+[GN=NOU:"Typ".#100834884;]
+[PV=VER:"bedingt"."bedingen".#14422;=PNT:"["."[".#-1;=ADJ:"6"."6".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Diese"."dies";=NOU:"Arrhythmie".#124644;]
+[PV=VER:"kann"."können".#145388;]
+[PV=PRO:"sich"."er";]
+[GP=PRE:"in"."in".#-1;=NOU:"Synkopen"."Synkope".#100180007;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Unwohlsein".#3630;]
+[PV=VER:"äußern".#15331;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"aber"."aber".#-1;]
+[GV=ADV:"auch".#23235;]
+[GP=PRE:"zum"."zu";=ADJ:"plötzlichen"."plötzlich".#172893;=NOU:"Herztod".#54607;]
+[PV=VER:"führen"."fahren".#135120;=PNT:"["."[".#-1;=ADJ:"6"."6".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRD:"Antiarrhythmika".$80652;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Psychopharmaka"."Psychopharmakon".#80652;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Antibiotika"."Antibiotikum".#100012187;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Antiemetika"."Emetikum".#106981394;=PNT:"["."[".#-1;=ADJ:"8"."8".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"aber"."aber".#-1;]
+[GV=ADV:"auch".#23235;]
+[GN=NOU:"Anästhetika"."Anästhetikum".#73378;]
+[??=PNT:"["."[".#-1;]
+[GA=ADJ:"1"."1".#-1;]
+[??=PNT:",".",".#-1;]
+[GA=ADJ:"5"."5".#-1;]
+[??=PNT:",".",".#-1;]
+[GA=ADJ:"7"."7".#-1;]
+[??=PNT:"]"."]".#-1;]
+[PV=VER:"gehören".#137769;]
+[GP=PRE:"zu"."zu".#-1;=ART:"den"."die";=NOU:"Medikamenten"."Medikament".#100012140;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Medikament".#100012140;]
+[GN=ART:"die"."die".#-1;=NOU:"QT-Zeit"."QT-Zeit".#-1;]
+[PV=VER:"verlängern".#121031;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Sie"."sie";]
+[PV=VER:"wirken".#167445;]
+[GV=ADV:"direkt".#131235;]
+[GP=PRE:"auf"."auf".#-1;=ART:"den"."der";=NOU:"IKr-Kaliumstrom"."IKr-Kaliumstrom".#-1;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"der"."IKr-Kaliumstrom";]
+[GP=PRE:"durch"."durch".#-1;=NOU:"Proteine"."Protein".#100008054;]
+[PV=VER:"ermöglicht"."ermöglichen".#39598;=VER:"wird"."werden";]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"für"."für".#-1;=PRO:"die"."die".#-1;]
+[GN=PRO:"das"."das".#-1;]
+[GP=PRE:"als"."als".#-1;=NPR:"KCNH2"."KCNH2".#-1;]
+[GN=ADJ:"bezeichnete"."bezeichnet".#596822;=NOU:"Gen".#107060602;]
+[PV=VER:"codiert"."codieren".#15463;=PNT:"["."[".#-1;=ADJ:"9"."9".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=ADJ:"perioperative"."operativ".#75708;=NOU:"Management".#68994;]
+[GP=PRE:"von"."von".#-1;=NOU:"Patienten"."Patient".#77063;]
+[GP=PRE:"mit"."mit".#-1;=NPR:"LQT"."LQT".#-1;=PNT:"-"."-".#-1;=NOU:"Syndrom".#100179630;]
+[PV=VER:"stellt"."darstellen".#14778;]
+[GN=ART:"eine"."ein";=ADJ:"medizinische"."medizinisch".#118162;=NOU:"Herausforderung".#120504;]
+[GV=ADV:"dar"."darstellen";]
+[??=PNT:",".",".#-1;]
+[CN=CON:"weil"."weil".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Gefahr".#46715;]
+[PV=VER:"besteht"."bestehen".#13082;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"durch"."durch".#-1;=NOU:"Aktivierung".#19989;]
+[GP=ART:"des"."der";=NOU:"Sympathikus".#100187215;]
+[GP=PRE:"während"."während".#-1;=ART:"der"."die";=NOU:"Operation".#2973;]
+[GN=NOU:"Herzrhythmusstörungen"."Herzrhythmusstörung".#100189331;]
+[GP=PRE:"vom"."von";=NOU:"TdP-Typ"."TdP-Typ".#-1;]
+[PV=VER:"hervorzurufen"."hervorrufen".#14422;=PNT:"["."[".#-1;=ADJ:"6"."6".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Zudem"."zudem".#98967;]
+[PV=VER:"existiert"."existieren".#13082;]
+[GV=ADV:"bislang".#28957;]
+[GN=PRO:"kein"."kein".#-1;]
+[GN=ADJ:"optimales"."optimal".#27842;=NOU:"Anästhesieverfahren".$102920982;]
+[GP=PRE:"zur"."zu";=NOU:"Vermeidung".#103908;]
+[GP=ADJ:"dieser"."dies";=NOU:"Arrhythmien"."Arrhythmie".#22818;]
+[??=PNT:"["."[".#-1;]
+[GA=ADJ:"1"."1".#-1;]
+[??=PNT:",".",".#-1;]
+[GA=ADJ:"5"."5".#-1;]
+[??=PNT:",".",".#-1;]
+[GA=ADJ:"7"."7".#-1;]
+[??=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Außerdem"."außerdem".#98967;]
+[PV=VER:"können"."können".#-1;]
+[GN=ADJ:"einzelne"."einzeln".#37349;=NOU:"Anästhetika"."Anästhetikum".#73378;]
+[GN=ADV:"ebenfalls".#23235;=ADJ:"ventrikuläre"."ventrikuläre".#-1;=NOU:"Arrhythmien"."Arrhythmie".#22818;]
+[GP=PRE:"vom"."von";=NOU:"TdP-Typ"."TdP-Typ".#-1;]
+[PV=VER:"hervorrufen".#14422;]
+[??=PNT:"["."[".#-1;]
+[GA=ADJ:"1"."1".#-1;]
+[??=PNT:",".",".#-1;]
+[GA=ADJ:"5"."5".#-1;]
+[??=PNT:",".",".#-1;]
+[GA=ADJ:"7"."7".#-1;]
+[??=PNT:",".",".#-1;]
+[GA=ADJ:"10"."10".#-1;]
+[??=PNT:"]"."]".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Fallbeispiele"."Fallbeispiel".#79598;]
+[GP=ART:"des"."das";=ADJ:"perioperativen"."operativ".#75708;=NOU:"Managements"."Management".#68994;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Anamnesen"."Anamnese".#20896;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";]
+[GN=MEA:"62 Jahre"."62 Jahr".$100000577;]
+[GN=ADJ:"alte"."alt".#123120;=NOU:"Patient".#77063;=NOU:"A"."a".#100009659;]
+[PV=VER:"wurde"."werden";]
+[GP=PRE:"wegen"."wegen".#-1;=NOU:"Läsion".#100827023;]
+[GN=ART:"der"."der".#-1;=ADJ:"linksseitigen"."linksseitig".#67848;=NOU:"Rotatorenmanschette".$4831;]
+[GP=PRE:"zur"."zu";=NOU:"Schulteroperation".#572819;]
+[PV=VER:"vorgestellt"."vorstellen".#132781;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRO:"Ihm"."Er";]
+[PV=VER:"wurde"."werden".#140981;]
+[GP=PRE:"aufgrund".#23445;=ART:"eines"."ein";=ADJ:"erworbenen"."erworben".#588859;=NPR:"LQT"."LQT".#-1;=PNT:"-"."-".#-1;=NOU:"Syndroms"."Syndrom".#100179630;]
+[GV=PRE:"im Rahmen".#173558;]
+[GP=ART:"einer"."eine";=NOU:"Lungenarterienembolie".$100275466;]
+[GP=PRE:"bei"."bei".#-1;=NOU:"Unterschenkelvenenthrombose".$100261327;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"fünfmaliger"."fünfmalig".#45329;=ADJ:"defibrillationspflichtiger"."defibrillationspflichtiger".#-1;=NOU:"Arrhythmie".#124644;]
+[GP=PRE:"vom"."von";=NOU:"TdP-Typ"."TdP-Typ".#-1;]
+[GP=PRE:"vor".#596945;=MEA:"4 Jahren"."4 Jahr".$100000577;]
+[GN=ART:"ein"."ein".#-1;=NOU:"Implantierbares-Kardioverter"."Implantierbares-Kardioverter".#-1;]
+[??=PNT:"/"."/".#-1;]
+[GN=NPR:"Defibrillator-"."Defibrillator-".#-1;]
+[??=PNT:"("."(".#-1;]
+[GN=DEV:"ICD".$101183543;=PNT:"-"."-".#-1;]
+[??=PNT:")".")".#-1;]
+[GN=NOU:"Zweikammersystem".#100189445;]
+[PV=VER:"implantiert"."implantieren".#133074;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Alle"."all";=NPR:"TdP".$101190554;=PNT:"-"."-".#-1;=NOU:"Episoden"."Episode".#39076;]
+[PV=VER:"wurden"."werden";]
+[GP=PRE:"durch"."durch".#-1;=NOU:"Stresssituationen"."Stresssituation".#94457;]
+[PV=VER:"ausgelöst"."auslösen".#14422;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"konnten"."können";]
+[GP=PRE:"durch"."durch".#-1;=ADJ:"sofortige"."sofortig".#90982;=NOU:"Defibrillation".#100954202;]
+[PV=VER:"terminiert"."terminieren".#26537;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Patient".#77063;]
+[PV=VER:"hatte"."haben".#13088;]
+[GN=ART:"eine"."ein";=ADJ:"koronare"."koronar".#64130;=NOU:"Herzkrankheit".#100190805;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"ein"."einen".#14874;]
+[GN=ADJ:"allergisches"."allergisch".#20262;=NOU:"Asthma".#100035869;=CON:"und"."und".#-1;=ART:"eine"."ein";=NOU:"Schilddrüsenunterfunktion".#100016501;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"kardiale"."kardial".#60615;=NOU:"Vormedikation"."Medikation".#69928;]
+[PV=VER:"bestand"."bestehen".#13082;]
+[GP=PRE:"aus"."aus".#-1;=NOU:"Metoprololtartrat".$1652;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Atorvastatin".#100668093;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Für"."für";=ART:"die"."die".#-1;=ADJ:"90"."90".#-1;=PNT:"-"."-".#-1;=ADJ:"minütige"."minütige".#-1;=NOU:"Operation".#2973;]
+[PV=VER:"musste"."müssen";]
+[GN=ART:"das"."das".#-1;=DEV:"ICD".$101183543;=PNT:"-"."-".#-1;=NOU:"System".#100058778;]
+[PV=VER:"ausgeschaltet"."ausschalten".#122205;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";]
+[GN=MEA:"51 Jahre"."51 Jahr".$100000577;]
+[GN=ADJ:"alte"."alt".#123120;=NOU:"Patient".#77063;=NOU:"B"."b".#100009705;]
+[PV=VER:"wurde"."werden".#14301;]
+[GP=PRE:"wegen"."wegen".#-1;=ART:"eines"."ein";=NOU:"Bandscheibenvorfalls"."Bandscheibenvorfall".#100697117;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Höhe".#100208826;]
+[GN=ART:"der"."der".#-1;=NOU:"Lendenwirbelkörper".$15050;]
+[??=PNT:"("."(".#-1;]
+[GN=NPR:"LWK"."LWK".#-1;]
+[??=PNT:")".")".#-1;]
+[GV=ADV:"4/5"."4/5".#-1;]
+[GP=PRE:"zur"."zu";=NOU:"Dekompression".#32753;]
+[GP=ART:"der"."die";=NOU:"Nervenwurzel".#100674696;]
+[PV=VER:"vorgestellt"."vorstellen".#132781;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Zur"."zu";=NOU:"Langzeittherapie".#497178;]
+[GP=ART:"einer"."eine";=ADJ:"chronischen"."chronisch".#31606;=ADJ:"paranoid".#76694;=ADJ:"schizophrenen"."schizophren".#155747;=NOU:"Psychose".#100170082;]
+[PV=VER:"erhielt"."erhalten".#13881;]
+[GN=PRO:"er"."er".#-1;]
+[GN=ART:"das"."das".#-1;=NOU:"Neuroleptikum".#100208144;=PRD:"Aripiprazol".$100208144;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Patient".#77063;]
+[PV=VER:"berichtete"."berichten".#13686;]
+[GP=PRE:"von"."von".#-1;=ART:"einer"."eine";]
+[GP=PRE:"durch"."durch".#-1;=ART:"das"."das".#-1;=NOU:"Neuroleptikum".#100208144;]
+[GP=ADJ:"verursachten"."verursacht".#597027;=NOU:"Verlängerung".#118903;]
+[GP=ART:"des"."das";=NPR:"QT".$100422293;=PNT:"-"."-".#-1;=NOU:"Intervalls"."Intervall".#100186081;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Es"."es";]
+[GA=ADJ:"bestanden".#123120;]
+[GN=ART:"ein"."ein".#-1;=ADJ:"arterieller"."arteriell".#22856;=NOU:"Hypertonus"."Tonus".#100925744;=PNT:",".",".#-1;=NOU:"Nikotin-"."Nikotinabusus".$148758;=CON:"und"."und".#-1;=NOU:"Drogenabusus".#34834;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ADJ:"kardiale"."kardial".#60615;=NOU:"Vormedikation"."Medikation".#69928;]
+[PV=VER:"bestand"."bestehen".#13082;]
+[GP=PRE:"aus"."aus".#-1;=NPR:"Bisoprolol".$100079529;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Magnesium".#100000660;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Serumkaliumwert".$2493;]
+[PV=VER:"betrug"."betragen".#13116;]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"beiden"."beide".#169688;=NOU:"Patienten"."Patient".#77063;]
+[GA=ADV:"4,2"."4,2".#-1;=ADJ:"mmol"."mmol".#-1;=PNT:"/"."/".#-1;=ADJ:"l."."l.".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Vorgehen".#102920982;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Nach"."nach".#562278;=NOU:"Prämedikation"."Medikation".#69928;]
+[GP=PRE:"mit"."mit".#-1;=NPR:"Midazolam"."Midazolam".#-1;]
+[??=PNT:"("."(".#-1;]
+[GN=MEA:"7,5 mg"."7,5 Milligramm".$103241121;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"erhielt"."erhalten".#18053;]
+[GN=NOU:"Patient".#77063;=NOU:"A"."a".#100009659;]
+[GN=ART:"eine"."ein";=ADJ:"interskalenäre"."interskalenäre".#-1;=NOU:"Plexusblockade".$29261;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"kombiniert"."kombinieren".#145221;]
+[GP=PRE:"mit"."mit".#-1;=ART:"einer"."eine";=ADJ:"balancierten"."balanciert";=NOU:"Allgemeinanästhesie".$20906;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Larynxmaske".$3152;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Patient".#77063;=NOU:"B"."b".#100009705;]
+[PV=VER:"wurde"."werden";]
+[GP=PRE:"mithilfe"."mithilfe".#-1;=ART:"der"."die";=NOU:"Intubationsnarkose".$73373;]
+[GP=PRE:"in"."in".#-1;=ADJ:"balancierter"."balanciert";=NOU:"Allgemeinanästhesie".$20906;]
+[PV=VER:"behandelt"."behandeln".#14780;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Beide"."beide".#169688;=NOU:"Patienten"."Patient".#77063;]
+[PV=VER:"erhielten"."erhalten".#13881;]
+[GN=NOU:"Fentanyl".#100407541;=CON:"und"."und".#-1;=NPR:"Sevofluran"."Sevofluran".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Zusätzlich"."zusätzlich".#596242;]
+[GP=PRE:"zum"."zu";=NOU:"Standardmonitoring".$71730;]
+[PV=VER:"wurden"."werden";]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"beiden"."beide".#169688;]
+[GP=PRE:"von"."von".#-1;=ART:"der"."die";=NOU:"Narkoseeinleitung".$17713;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"zur"."zu";=NOU:"Verlegung".#103806;]
+[GP=PRE:"aus"."aus".#-1;=ART:"dem"."der";=NOU:"Aufwachraum".#23865;]
+[GN=ADV:"kontinuierlich".#589893;=ADJ:"12"."12".#-1;=PNT:"-"."-".#-1;=NOU:"Kanal-EKG-Ableitungen"."Kanal-EKG-Ableitung".$501031;]
+[PV=VER:"aufgezeichnet"."aufzeichnen".#121069;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Hierdurch"."hierdurch".#54847;]
+[PN=VER:"war"."sein".#12562;]
+[GN=PRO:"es"."es".#-1;]
+[PN=ADJ:"möglich".#40256;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."die".#-1;]
+[GP=PRE:"in"."in".#-1;=ART:"den"."die";=NOU:"Monitorsystemen"."Monitorsystem".$2786;]
+[GN=ADJ:"implementierten"."implementiert";=ADJ:"vollständigen"."vollständig".#45972;=NOU:"Analysemöglichkeiten".$120017;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"12SL"."12SL".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=COM:"GE".#175700;]
+[??=PNT:",".",".#-1;]
+[GN=GEO:"Milwaukee".#15242947;]
+[??=PNT:",".",".#-1;]
+[GN=GEO:"Wisconsin".#15259350;]
+[??=PNT:",".",".#-1;]
+[GN=GEO:"USA"."Vereinigte Staaten".#16223392;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"anzuwenden"."anwenden".#14079;]
+[CN=CON:"und"."und".#-1;]
+[GN=ART:"das"."das".#-1;=NPR:"QT".$100422293;=PNT:"-"."-".#-1;=NOU:"Intervall".#100186081;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GN=PRO:"seine"."sein";]
+[GP=PRE:"nach".#562279;=NPH:"Bazett".$100215627;]
+[PV=VER:"frequenzkorrigierte"."Frequenzkorrigieren".$14897;]
+[GN=NOU:"Form".#146;]
+[GP=PRE:"als"."als".#-1;=NPR:"QTc"."QTc".#-1;=PNT:"-"."-".#-1;=NOU:"Intervall".#100186081;=PNT:"["."[".#-1;=ADJ:"3"."3".#-1;=PNT:"]"."]".#-1;]
+[GV=ADV:"kontinuierlich".#589893;]
+[GP=PRE:"zu"."zu".#-1;=ADJ:"überwachen"."überwach".#99544;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Es"."es";]
+[PV=VER:"wurde"."werden".#167036;]
+[GP=PRE:"auf"."auf".#-1;=NPR:"Normothermie"."Normothermie".#-1;]
+[GP=ART:"des"."der";=NOU:"Patienten"."Patient".#77063;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GN=ART:"eine"."ein";=ADJ:"ruhige"."ruhig".#84612;=NOU:"Umgebung".#2951;]
+[GP=PRE:"in"."in".#-1;=NOU:"OP".#75669;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Aufwachraum".#23865;]
+[PV=VER:"geachtet"."achten".#13193;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Medikamente"."Medikament".#100012140;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Medikament".#100012140;]
+[GN=ART:"die"."die".#-1;=NOU:"QT-Zeit"."QT-Zeit".#-1;]
+[PV=VER:"verlängern".#121031;=PNT:"["."[".#-1;=ADJ:"8"."8".#-1;=PNT:"]"."]".#-1;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"wurden"."werden";=VER:"vermieden"."vermeiden".#17354;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Von"."von";=ART:"der"."die";=NOU:"Einleitungsphase".$17390;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"zur"."zu";=NOU:"Verlegung".#103806;]
+[GP=PRE:"aus"."aus".#-1;=ART:"dem"."der";=NOU:"Aufwachraum".#23865;]
+[PN=VER:"war"."sein".#13082;]
+[GP=PRE:"zu"."zu".#-1;=ADJ:"jeder"."jede";=NOU:"Zeit".#9;]
+[GN=ART:"ein"."ein".#-1;=NOU:"Defibrillator".#32633;]
+[PN=ADJ:"griffbereit".#50295;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Beide"."beide".#169688;=NOU:"Patienten"."Patient".#77063;]
+[PV=VER:"konnten"."können".#14354;]
+[GV=ADV:"sicher".#56201;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"ohne"."ohne".#-1;=NOU:"Komplikationen"."Komplikation".#14812;]
+[GV=ADV:"perioperativ"."operativ".#596574;]
+[PV=VER:"behandelt"."behandeln".#14116;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"nach".#562279;=NOU:"Hause"."Haus".#1055;]
+[PV=VER:"entlassen".#15852;=VER:"werden"."werden".#-1;]
+[??=PNT:".".".".#-1;]
+
+SBJ=4:11;OBJ=9:11;SBJ=29:30;SBJ=29:35;OBJ=55:62;CPL=60:62;SBJ=68:69;CPL=70:69;CPL=82:81;SBJ=79:83;OBJ=91:95;SBJ=103:104;OBJ=103:110;SBJ=121:119;APH=125:121;SBJ=121:133;OBJ=126:133;SBJ=135:136;SBJ=135:141;SBJ=148:166;OBJ=148:166;APH=169:167;SBJ=167:171;OBJ=170:171;SBJ=173:174;APH=178:176;OBJ=176:180;OBJ=176:180;SBJ=183:186;OBJ=185:186;SBJ=188:191;OBJ=192:191;SBJ=196:197;SBJ=196:204;OBJ=202:204;SBJ=209:207;SBJ=224:226;OBJ=223:226;OBJ=245:252;OBJ=247:252;SBJ=263:255;SBJ=265:270;OBJ=267:270;OBJ=272:275;OBJ=272:279;SBJ=281:282;OBJ=260:282;SBJ=260:285;SBJ=288:289;SBJ=299:302;SBJ=301:302;CPL=305:302;SBJ=317:316;OBJ=318:316;SBJ=320:321;SBJ=331:332;SBJ=337:338;SBJ=348:350;SBJ=351:350;OBJ=352:350;SBJ=348:354;SBJ=351:354;OBJ=358:362;SBJ=364:365;OBJ=366:365;OBJ=376:377;APH=384:381;SBJ=381:382;SBJ=386:398;OBJ=400:398;SBJ=381:404;OBJ=402:404;SBJ=410:411;CPL=415:411;SBJ=410:419;APH=423:421;SBJ=421:425;OBJ=424:425;SBJ=318:427;SBJ=435:436;SBJ=438:439;SBJ=438:444;SBJ=438:447;APH=150:148;APH=167:148;APH=283:260;APH=323:318;APH=421:318;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Disambiguation	0	30	2	NPR		QT	100422293	True	0				 	
+Wrong Recognition	0	100	4	ADJ	long	long	-1	False	0				 	
+Missing Entity	0	119	3	NPR	LQT	LQT	-1	False	0				 	
+Wrong Entity Type	0	174	2	NPR		QT	100422293	True	0				 	
+Wrong Entity Type	0	228	2	NPR		QT	100422293	True	0				 	
+Wrong Disambiguation	1	270	17	NOU		Routinebehandlung	120424	True	0				 	3242
+Wrong Grammar	1	299	3	PRO	das	Das		False	0				 	
+Wrong Entity Type	1	307	7	NPR	Charbit	Charbit	-1	False	0				 	
+Wrong Recognition	1	318	2	NOU		al	100101497	False	0				 	
+Missing Concept	0	326	14	ADV	vorgeschlagen	vorgeschlagene		False	0				 	
+Wrong Entity Type	1	353	10	GEO		Fredericia	12609691	False	0				 	
+Wrong Disambiguation	1	364	6	NOU		Formel	16761	False	0				 	
+Wrong Disambiguation	1	424	14	NOU		Routineeinsatz	587170	False	0				 	24700
+Wrong Disambiguation	0	454	3	VER	kommen	kam	17986	False	0				 	
+Wrong Disambiguation	1	533	4	VER	werden	wird	167036	False	0				 	
+Missing Concept	1	566	10	NOU		Management	68994	False	0				 	
+Wrong Disambiguation	1	577	6	ADJ	zweite	zweier	117172	False	0				 	
+Wrong Entity Form	1	596	8	ADJ	informed	informed	-1	False	0				 	
+Wrong Recognition	1	614	5	VER	liegen	liegt	16318	False	0		vorliegen		 	165973
+Missing Concept	0	641	10	ADJ	erworben	erworbenem	588859	False	0				 	
+Missing Entity	0	652	3	NPR	LQT	LQT	-1	False	0				 	
+Wrong Grammar	0	706	12	ADV	engmaschig	engmaschiges		False	0				 	
+Wrong Disambiguation	0	723	4	PRE		über	98894	False	0				 	
+Wrong Grammar	1	765	7	ADJ		einfach	56999	False	0				 	
+Missing Concept	0	773	16	ADJ	durchzuführend	durchzuführendes		False	0				 	
+Wrong Entity Type	0	805	2	NPR		QT	100422293	True	0				 	
+Wrong Disambiguation	1	819	10	VER	einsetzen	eingesetzt	16415	False	0				 	16416
+Missing Entity	0	858	3	NPR	LQT	LQT	-1	False	0				 	
+Wrong Disambiguation	1	933	6	VER		werden	14301	False	0				 	
+Missing Concept	0	965	9	ADJ	erworben	erworbene	588859	False	0				 	
+Wrong Disambiguation	1	975	4	NOU		Form	146	False	0				 	17106
+Wrong Disambiguation	1	1010	8	NOU	Typ	Subtypen	16288	False	0				 	100834884
+Wrong Disambiguation	1	1035	4	NOU		Form	100309252	False	0				 	
+Missing Entity	0	1049	3	NPR	LQT	LQT	-1	False	0				 	
+Missing Entity	0	1064	3	NPR	LQT	LQT	-1	False	0				 	
+Missing Entity	0	1086	3	NPR	LQT	LQT	-1	False	0				 	
+Wrong Disambiguation	0	1146	9	VER	angeben	angegeben	135715	False	0				 	13715
+Wrong Disambiguation	1	1190	4	NOU		Form	146	False	0				 	
+Missing Concept	0	1203	9	ADJ	erworben	erworbene	588859	False	0				 	
+Missing Entity	0	1213	3	NPR	LQT	LQT	-1	False	0				 	
+Wrong Disambiguation	1	1225	10	ADV		wesentlich	610749	False	0				 	
+Missing Concept	0	1250	9	ADJ	erworben	erworbene	588859	False	0				 	
+Wrong Disambiguation	1	1260	4	NOU		Form	146	False	0				 	
+Wrong Recognition	1	1278	5	NOU		Regel	117331	False	0		in aller Regel	ADV	 	
+Wrong Disambiguation	1	1265	3	VER	sein	ist	12562	False	0				 	13140
+Wrong Disambiguation	1	1386	6	NOU	Form	Formen	146	False	0				 	
+Wrong Entity Type	0	1426	2	NPR		QT	100422293	True	0				 	
+Wrong Recognition	1	1468	5	VER	liegen	liegt	16338	False	0		zugrunde liegen		 	13121
+Wrong Grammar	1	1474	4	PRO	ein	eine		False	0				 	
+Missing Concept	0	1503	13	ADJ	ventrikulärer	ventrikulärer	-1	False	0				 	
+Missing Concept	0	1597	13	ADJ	ventrikulärer	ventrikulärer	-1	False	0				 	
+Wrong Entity Type	0	1651	3	NPR		TdP	101190554	True	0				 	
+Wrong Disambiguation	1	1769	6	VER	fahren	führen	135120	False	0				 	
+Wrong Disambiguation	1	1876	7	VER		gehören	137769	False	0				 	17653
+Missing Concept	0	1913	7	NOU	QT-Zeit	QT-Zeit	-1	False	0				 	
+Wrong Disambiguation	1	1937	6	VER		wirken	167445	False	0				 	14767
+Wrong Disambiguation	1	1944	6	ADV		direkt	131235	False	0				 	131234
+Missing Concept	0	1959	15	NOU	IKr-Kaliumstrom	IKr-Kaliumstrom	-1	False	0				 	
+Missing Concept	0	2081	10	NOU		Management	68994	False	362				 	
+Missing Entity	0	2110	3	NPR	LQT	LQT	-1	False	366				 	
+Wrong Disambiguation	0	2122	6	VER	darstellen	stellt	14778	False	369				 	
+Missing Concept	0	2275	7	NOU	TdP-Typ	TdP-Typ	-1	False	389				 	
+Wrong Grammar	1	2326	4	PRO	kein	kein	-1	False	398				 	
+Missing Concept	0	2453	12	ADJ	ventrikuläre	ventrikuläre	-1	False	418				 	
+Missing Concept	0	2482	7	NOU	TdP-Typ	TdP-Typ	-1	False	421				 	
+Missing Concept	0	2550	11	NOU	Management	Managements	68994	False	436				 	
+Wrong Disambiguation	1	2587	4	ADJ	alt	alte	123120	False	442				 	123122
+Missing Concept	0	2639	19	NOU		Rotatorenmanschette	4831	True	450				 	
+Wrong Disambiguation	1	2698	5	VER	werden	wurde	140981	False	456				 	
+Missing Concept	0	2719	10	ADJ	erworben	erworbenen	588859	False	459				 	
+Missing Entity	0	2730	3	NPR	LQT	LQT	-1	False	460				 	
+Missing Concept	0	2829	26	ADJ	defibrillationspflichtiger	defibrillationspflichtiger	-1	False	470				 	
+Missing Concept	0	2871	7	NOU	TdP-Typ	TdP-Typ	-1	False	473				 	
+Missing Entity	0	2896	28	NOU	Implantierbares-Kardioverter	Implantierbares-Kardioverter	-1	False	477				 	
+Wrong Disambiguation	2	2946	16	NOU		Zweikammersystem	100189445	False	484				 	
+Wrong Entity Type	0	2981	3	NPR		TdP	101190554	True	488				 	
+Wrong Grammar	2	3144	3	VER	einen	ein	14874	False	510				 	
+Missing Concept	1	3243	17	NOU		Metoprololtartrat	1652	True	522				 	
+Wrong Disambiguation	1	3324	6	NOU		System	100058778	False	536				 	2786
+Wrong Disambiguation	1	3366	4	ADJ	alt	alte	123120	False	542				 	123122
+Wrong Disambiguation	1	3381	5	VER	werden	wurde	14301	False	545				 	
+Wrong Disambiguation	1	3424	4	NOU		Höhe	100208826	False	550				 	
+Wrong Disambiguation	1	3433	18	NOU		Lendenwirbelkörper	15050	True	552				 	
+Missing Concept	1	3466	13	NOU		Dekompression	32753	False	558				 	
+Wrong Disambiguation	0	3558	13	ADJ	schizophren	schizophrenen	155747	False	568				 	155746
+Wrong Entity Type	0	3710	2	NPR		QT	100422293	True	587				 	
+Wrong Grammar	1	3728	9	ADJ		bestanden	123120	False	592				 	
+Wrong Disambiguation	1	3862	15	NOU		Serumkaliumwert	2493	True	611				 	
+Wrong Entity Form	1	3906	3	ADV	4,2	4,2	-1	False	616				 	
+Missing Concept	0	3993	14	ADJ	interskalenäre	interskalenäre	-1	False	633				 	
+Missing Concept	1	4008	14	NOU		Plexusblockade	29261	True	634				 	
+Missing Concept	0	4045	12	ADJ	balanciert	balancierten		True	639				 	
+Missing Concept	1	4082	11	NOU		Larynxmaske	3152	True	642				 	
+Missing Concept	0	4146	12	ADJ	balanciert	balancierter		True	651				 	
+Wrong Disambiguation	1	4179	9	VER	behandeln	behandelt	14780	False	653				 	
+Wrong Disambiguation	1	4206	9	VER	erhalten	erhielten	13881	False	657				 	
+Wrong Disambiguation	1	4301	17	NOU		Narkoseeinleitung	17713	True	670				 	
+Wrong Grammar	2	4319	3	ADV		bis	28941	False	671				 	
+Wrong Disambiguation	1	4327	9	NOU		Verlegung	103806	False	673				 	
+Wrong Disambiguation	1	4375	21	NOU	Kanal-EKG-Ableitung	Kanal-EKG-Ableitungen	501031	True	680				 	
+Wrong Disambiguation	1	4412	9	ADV	hierdurch	Hierdurch	54847	False	683				 	
+Wrong Grammar	1	4438	3	PRO	die	die	-1	False	688				 	
+Missing Concept	0	4465	15	ADJ	implementiert	implementierten		True	692				 	
+Wrong Disambiguation	1	4523	2	COM		GE	175700	False	698				 	
+Wrong Entity Type	0	4573	2	NPR		QT	100422293	True	709				 	
+Wrong Grammar	1	4592	5	PRO	sein	seine		True	713				 	
+Wrong Grammar	1	4610	19	VER	Frequenzkorrigieren	frequenzkorrigierte	14897	True	716				 	
+Wrong Grammar	1	4672	2	PRE	zu	zu	-1	False	726				 	
+Wrong Grammar	2	4675	10	ADJ	überwach	überwachen	99544	False	727				 	
+Wrong Disambiguation	1	4690	5	VER	werden	wurde	167036	False	730				 	
+Missing Concept	0	4700	12	NPR	Normothermie	Normothermie	-1	False	732				 	
+Missing Concept	0	4807	7	NOU	QT-Zeit	QT-Zeit	-1	False	749				 	
+Missing Concept	1	4882	9	NOU		Verlegung	103806	False	763				 	
+Wrong Disambiguation	1	4977	7	VER	können	konnten	14354	False	777				 	
+Wrong Disambiguation	1	4985	6	ADV		sicher	56201	False	778				 	
+Wrong Disambiguation	1	5029	9	VER	behandeln	behandelt	14116	False	783				 	14786
+Wrong Disambiguation	1	5043	4	PRE		nach	562279	False	785				 	
+Wrong Disambiguation	1	5048	5	NOU	Haus	Hause	1055	False	786				 	
+Wrong Disambiguation	1	5054	9	VER		entlassen	15852	False	787				 	15909

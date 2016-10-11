@@ -1,0 +1,483 @@
+﻿[CN=CON:"Als"."als";]
+[GN=ART:"der"."der".#-1;=ADJ:"24-jährige"."jährig".#496974;=NPH:"Apsley Cherry-Garrard".$100215627;]
+[GN=DAT:"1910".$100205892;]
+[PV=VER:"eingeladen"."einladen".#14634;=VER:"wurde"."werden";]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"an"."an".#-1;]
+[GP=NPH:"Scotts"."Scott".#560994;]
+[GP=NOU:"Südpolexpedition".$16218;]
+[PV=VER:"teilzunehmen"."teilnehmen".#14384;]
+[??=PNT:",".",".#-1;]
+[PN=VER:"war"."sein".#172056;]
+[GN=PRO:"er"."er".#-1;]
+[GV=ADV:"wohl".#20252;]
+[PN=ART:"das"."das".#-1;=ADJ:"unnützeste"."unnütz".#74261;=NOU:"Mitglied".#14393;]
+[GP=ART:"der"."die";=NOU:"Unternehmung".#1245;]
+[??=PNT:":".":".#-1;]
+[GN=PRO:"Er"."er";]
+[PV=VER:"hatte"."haben";]
+[GP=PRE:"in"."in".#-1;=GEO:"Oxford".#12628286;]
+[GN=PRO:"einige"."einige".#-1;]
+[GN=ADJ:"geisteswissenschaftliche"."geisteswissenschaftlich".#47342;=NOU:"Fächer"."Fach".#4195;]
+[PV=VER:"studiert"."studieren".#120945;]
+[??=PNT:",".",".#-1;]
+[PN=VER:"war"."sein".#12562;=ADV:"stark".#120770;=ADJ:"kurzsichtig".#146443;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"tappte"."tappen".#500876;]
+[GP=PRE:"wegen"."wegen".#-1;=ART:"der"."die";=NOU:"Kälte".#514;]
+[GV=ADV:"meistens".#70140;]
+[GP=PRE:"ohne"."ohne".#-1;=NOU:"Brille".#100037501;]
+[GP=PRE:"durch"."durch".#-1;=ART:"die"."die".#-1;=GEO:"Antarktis".#101555938;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PN=ADV:"Da"."da".#173213;=VER:"ist"."sein".#12562;]
+[GN=PRO:"es"."es".#-1;]
+[PN=ART:"ein"."ein".#-1;=NOU:"Trost".#15311;]
+[GP=PRE:"für"."für".#-1;=PRO:"jeden"."jede";]
+[GN=PRO:"selbst"."selbst".#-1;]
+[GN=ADV:"nicht".#74226;=ADJ:"ganz".#45972;=ADV:"so".#157991;=ADJ:"nützlichen"."nützlich".#112923;=NOU:"Geisteswissenschaftler".#47340;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=PRO:"die"."die".#-1;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"wie"."wie".#-1;]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"allen"."all";=NOU:"Polarexpeditionen"."Polarexpedition".#78825;]
+[GA=ADV:"größtenteils".#50585;=ADJ:"vorgeschobenen"."vorgeschoben".#589129;]
+[??=PNT:"-"."-".#-1;]
+[GN=ADJ:"wissenschaftlichen"."wissenschaftlich".#95470;=NOU:"Ziele"."Ziel".#4116;]
+[GN=PRO:"sich"."er";]
+[GV=ADV:"schon".#87685;=ADV:"bald".#119293;]
+[GP=PRE:"als"."als".#-1;=ADJ:"banal".#118480;=ADJ:"erwiesen".#577314;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"der"."der".#-1;=ADJ:"patriotische"."patriotisch".#68354;=NOU:"Plan".#693;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"die"."die".#-1;=ADJ:"britische"."britisch".#30306;=NOU:"Fahne".#245;]
+[GP=PRE:"am"."an";=NPR:"Südpol".#100000933;]
+[PV=VER:"aufzupflanzen"."aufpflanzen".#125371;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"an"."an".#-1;=NPR:"Amundsen"."Amundsen".#-1;]
+[PV=VER:"scheiterte"."scheitern".#14958;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"so"."so".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GP=NOU:"Cherry-Garrards"."Cherry-Garrards".#-1;]
+[GN=MEA:"zwölf Jahre"."12 Jahr".$100000577;]
+[GN=ADV:"später".#149444;=ADJ:"erschienene"."erschienen".#588502;=NOU:"Chronik".#100185363;]
+[GN=PNT:""".""".#-1;=NPR:"The Worst Journey"."The Worst Journey".#-1;]
+[GP=PRE:"in"."in".#-1;=ADJ:"the"."the".#-1;=NPR:"World"."World".#-1;=PNT:""".""".#-1;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=NOU:"Nachwelt".#73144;]
+[CN=CON:"als"."als".#-1;]
+[GN=ART:"das"."das".#-1;=ADJ:"eigentliche"."eigentlich".#36197;=NOU:"Ergebnis".#117958;]
+[GP=ART:"der"."die";=NPH:"Scott".#560994;=PNT:"-"."-".#-1;=NOU:"Expedition".#16220;]
+[PV=VER:"gelten".#137905;=VER:"darf"."dürfen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Insbesondere"."insbesondere".#58485;]
+[GP=NOU:"Cherry-Garrards"."Cherry-Garrards".#-1;]
+[GN=NOU:"Bericht".#4540;]
+[GP=PRE:"über".#98894;=ADJ:"seine"."sein";=PNT:""".""".#-1;=NPR:"Winter Journey".$100223557;=PNT:""".""".#-1;]
+[PV=VER:"ist"."sein".#13082;]
+[GN=PRO:"eine"."ein";=ART:"der"."die";=ADJ:"besten"."gut".#29675;=CON:"und"."und".#-1;=ADJ:"eindringlichsten"."eindringlich".#28260;=NOU:"Schilderungen"."Schilderung".#2142;]
+[GR=PRO:"des"."der";]
+[GN=ADJ:"absurden"."absurd".#19134;=NOU:"Missverhältnisses"."Missverhältnis".#33933;]
+[GP=PRE:"von"."von".#-1;=NOU:"Aufwand".#119336;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Ergebnis".#117958;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"das"."Ergebnis".#117958;]
+[GV=ADV:"nicht".#74226;=ADV:"nur".#20252;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=ADJ:"frühe"."früh".#45046;=NOU:"Polarforschung".$44061;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"sondern"."sondern".#-1;]
+[GP=PRE:"für"."für".#-1;=ART:"einen"."ein";=NOU:"Großteil".#100095581;]
+[GP=ADJ:"aller"."all";=ADJ:"menschlichen"."menschlich".#142414;=NOU:"Betätigungen"."Betätigung".#101914636;]
+[PN=ADV:"so".#157991;=ADJ:"charakteristisch".#12562;=VER:"ist"."sein".#12562;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Zusammen"."zusammen".#101187;]
+[GP=PRE:"mit"."mit".#-1;=NPH:"Edward Bill Wilson".$100215627;]
+[CN=CON:"und"."und".#-1;]
+[GP=NPH:"Henry "Birdie" Bowers"."Henry Bowers".$100215627;]
+[??=PNT:",".",".#-1;]
+[GR=NPH:"die"."Edward Bill Wilson".$100215627;]
+[GV=ADV:"beide"."beide".#-1;]
+[GP=PRE:"im"."in";=ADJ:"darauffolgenden"."darauffolgend".#20283;=NOU:"Sommer".#4892;]
+[GP=PRE:"auf"."auf".#-1;=ART:"der"."die";=ADJ:"eigentlichen"."eigentlich".#36197;=NOU:"Südpolexpedition".$16218;]
+[PV=VER:"ums Leben kamen"."ums Leben kommen".#34528;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"macht"."machen".#16224;=PRO:"sich"."er";]
+[GN=NOU:"Cherry-Garrard"."Cherry-Garrard".#-1;]
+[GP=PRE:"in"."in".#-1;=ADJ:"völliger"."völlig".#45972;=NOU:"Dunkelheit".#318;]
+[GP=PRE:"bei"."bei".#-1;=NOU:"Temperaturen"."Temperatur".#100011466;]
+[GP=PRE:"um"."um".#-1;=PRO:"die"."die".#-1;]
+[GN=PNT:"-"."-".#-1;=MEA:"50 Grad".$562089;]
+[GV=ADV:"zu Fuß".#173087;]
+[GP=PRE:"auf"."auf".#-1;=ART:"den"."der";=NOU:"Weg".#3404;]
+[GP=PRE:"nach".#562278;=NOU:"Cape".#101129355;=PRD:"Crozier".$101129355;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"um"."um".#-1;]
+[GV=ADV:"erstmals".#39846;]
+[GN=NOU:"Eier"."Ei".#2426;]
+[GP=ART:"des"."der";=NOU:"Kaiserpinguins"."Kaiserpinguin".#100161829;]
+[GP=PRE:"für"."für".#-1;=ADJ:"wissenschaftliche"."wissenschaftlich".#95470;=NOU:"Zwecke"."Zweck".#4116;]
+[PV=CON:"zu".#565251;=VER:"beschaffen".#15234;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Über"."über".#98894;=PRO:"die"."die".#-1;]
+[GN=ADV:"außerordentlich".#24963;=ADJ:"mühselige"."mühselig".#21930;=NOU:"Unternehmung".#1245;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"bei"."bei".#-1;=PRO:"der"."die";]
+[GN=ART:"die"."die".#-1;=NOU:"Zähne"."Zahn".#2489;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Kälte".#514;]
+[PV=VER:"splittern".#23782;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"zum Teil".#96299;]
+[GP=ADV:"kaum".#61100;=ADV:"mehr".#70026;=PRE:"als"."als".#-1;=MEA:"zwei Kilometer"."2 Kilometer".$100828224;]
+[GP=PRE:"am"."an";=NOU:"Tag".#105019497;]
+[PV=VER:"zurückgelegt"."zurücklegen".#112501;=VER:"werden"."werden".#-1;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"schreibt"."schreiben".#156695;]
+[GN=NOU:"Cherry-Garrard"."Cherry-Garrard".#-1;]
+[??=PNT:":".":".#-1;]
+[??=PNT:""".""".#-1;]
+[GN=ART:"Die"."die";=ADJ:"nachfolgenden"."nachfolgend".#580175;=NOU:"Wochen"."Woche".#980;]
+[PN=VER:"waren"."sein".#12562;=ADV:"vergleichsweise".#103259;=ADJ:"glücklich".#100533;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"nicht".#74226;]
+[CN=CON:"weil"."weil".#-1;]
+[GN=ADJ:"unsere"."unser";=NOU:"Bedingungen"."Bedingung".#125241;]
+[PN=ADV:"später".#149444;=ADJ:"besser"."gut".#29675;=VER:"waren"."sein".#12562;]
+[??=PNT:"-"."-".#-1;]
+[GV=ADV:"tatsächlich".#107105;]
+[PN=VER:"waren"."sein".#12562;]
+[GN=PRO:"sie"."sie".#-1;]
+[PN=ADV:"sehr".#46001;=ADV:"viel".#46001;=ADJ:"schlechter"."schlecht".#120251;]
+[??=PNT:"-"."-".#-1;]
+[PV=VER:"sondern".#15850;]
+[CN=CON:"weil"."weil".#-1;]
+[GN=PRO:"wir"."wir".#-1;]
+[GN=ART:"das"."das".#-1;=NOU:"Gefühl".#100009415;]
+[PV=ADV:"dafür".#130588;=VER:"verloren"."verlieren".#16504;=VER:"hatten"."haben";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Ich"."ich";]
+[GP=PRE:"für"."für".#-1;=ADJ:"meinen"."mein";=NOU:"Teil".#29;]
+[PV=VER:"war"."sein";]
+[GP=PRE:"zu"."zu".#-1;=ART:"einem"."ein";=NOU:"Punkt".#1384;]
+[GP=ART:"des"."das";=NOU:"Leidens"."Leiden".#118247;]
+[PV=VER:"gekommen"."kommen".#117806;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"bei"."bei".#-1;=PRO:"dem"."der";]
+[GN=PRO:"mich"."ich";]
+[GA=ADV:"nur".#20252;=ADV:"mehr".#70026;=ADJ:"interessierte"."interessiert".#58742;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"ob"."ob".#-1;]
+[GN=PRO:"ich"."ich".#-1;]
+[GP=PRE:"ohne"."ohne".#-1;=ADJ:"viele"."viel".#173024;=NOU:"Schmerzen"."Schmerz".#100081938;]
+[PV=VER:"würde"."werden";=VER:"sterben".#15960;=VER:"können"."können".#-1;]
+[??=PNT:".".".".#-1;]
+[??=PNT:""".""".#-1;]
+[CL]
+[GP=NOU:"Abends"."Abend".#105416741;]
+[PV=VER:"dauert"."dauern".#108418;=PRO:"es"."es".#-1;]
+[GN=NOU:"Stunden"."Stunde".#100025235;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Schlafsäcke"."Schlafsack".#100214638;]
+[GP=PRE:"aus"."aus".#-1;=NOU:"Rentierfell".$562301;]
+[GV=ADV:"so weit".#157991;]
+[PV=VER:"aufzutauen"."auftauen".#125671;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=PRO:"man"."man".#-1;]
+[PV=VER:"hineinschlüpfen".#141506;=VER:"kann"."können";]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Cherry-Garrard"."Cherry-Garrard".#-1;]
+[PV=VER:"verbringt"."verbringen".#14682;]
+[GN=ART:"die"."die".#-1;=NOU:"Nächte"."Nacht".#298;]
+[GV=ADV:"schlaflos"."schlaflos".#-1;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"gekrümmt"."krümmen".#146219;]
+[GP=PRE:"vor".#596943;=NOU:"Zittern"."Zittern".#-1;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=ADJ:"jeden"."jede";=NOU:"Morgen".#1794;]
+[PV=VER:"gefriert"."gefrieren".#132772;]
+[GN=ART:"die"."die".#-1;=ADJ:"ungeeignete"."ungeeignet".#57881;=PNT:",".",".#-1;=ADJ:"nasse"."nass".#496883;=NOU:"Bekleidung".#100011460;]
+[GP=PRE:"beim"."bei";=NOU:"Verlassen".#561854;]
+[GP=ART:"des"."das";=NOU:"Zeltes"."Zelt".#100170544;]
+[GV=ADV:"in Sekundenschnelle".#56740;]
+[CN=CON:"zu".#565251;]
+[PV=ART:"einer"."eine";=VER:"steifen".#16405;]
+[GN=NOU:"Rüstung".#22777;]
+[??=PNT:":".":".#-1;]
+[??=PNT:""".""".#-1;]
+[GV=ADV:"Einmal"."einmal".#118174;=ADV:"draußen".#34549;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"hob"."heben".#15646;]
+[GN=PRO:"ich"."ich".#-1;]
+[GN=ADJ:"meinen"."mein";=NOU:"Kopf".#2614;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"um"."um".#-1;=PRO:"mich"."ich";]
+[PV=VER:"umzuschauen"."umschauen".#162650;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"entdeckte"."entdecken".#119778;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=PRO:"ich"."ich".#-1;]
+[GN=PRO:"ihn"."er";]
+[PV=ADV:"nicht".#74226;=ADV:"mehr".#70026;=VER:"bewegen".#15726;=VER:"konnte"."können";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ADJ:"Meine"."mein";=NOU:"Kleidung".#113457;]
+[PV=VER:"war"."sein".#172056;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Zeit".#9;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Zeit".#9;]
+[GN=PRO:"ich"."ich".#-1;]
+[PV=ADV:"so".#157991;=VER:"stand"."stehen".#159252;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"hart".#589172;]
+[PV=VER:"gefroren"."frieren".#44822;]
+[??=PNT:"-"."-".#-1;]
+[GP=PRE:"in"."in".#-1;=ADV:"kaum".#61100;=MEA:"fünfzehn Sekunden"."15 Sekunde".$100829073;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Für"."für";=NOU:"Stunden"."Stunde".#100025235;]
+[PV=VER:"musste"."müssen".#149311;]
+[GN=PRO:"ich"."ich".#-1;]
+[CN=CON:"nun"."nun".#-1;]
+[GP=PRE:"in"."in".#-1;=ADJ:"dieser"."dies";=NOU:"Körperhaltung".#563221;]
+[GN=ART:"den"."der";=NOU:"Schlitten".#100181388;]
+[PV=VER:"voranziehen"."anziehen".#17299;]
+[??=PNT:"-"."-".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"von"."von".#-1;=ADJ:"diesem"."dies";=NOU:"Augenblick".#784;]
+[GV=PRE:"an"."an".#-1;]
+[PV=VER:"achteten"."achten".#13193;]
+[GN=PRO:"wir"."wir".#-1;]
+[GV=ADV:"darauf".#32260;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"eine"."ein";=ADJ:"ziehende"."ziehend";=NOU:"Körperhaltung".#563221;]
+[PV=VER:"einzunehmen"."einnehmen".#14411;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"bevor"."bevor".#-1;]
+[GN=PRO:"wir"."wir".#-1;]
+[PV=VER:"einfroren"."einfrieren".#132772;]
+[??=PNT:".".".".#-1;]
+[??=PNT:""".""".#-1;]
+[CL]
+[CN=CON:"Aber"."aber";]
+[GN=ADJ:"tragische"."tragisch".#97670;=NOU:"Geschehnisse"."Geschehnis".#1028;]
+[PV=VER:"bergen".#120087;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"insbesondere".#58485;]
+[CN=CON:"wenn"."wenn".#-1;]
+[GN=PRO:"sie"."sie".#-1;]
+[PV=ADV:"lange".#66157;=VER:"zurückliegen".#16255;]
+[CN=CON:"und"."und".#-1;]
+[GN=PRO:"man"."man".#-1;]
+[GV=ADV:"nur".#20252;]
+[GP=PRE:"im"."in";=ADJ:"warmen"."warm".#107440;=NOU:"Bett".#100042177;]
+[GP=PRE:"von"."von".#-1;=PRO:"ihnen"."sie";]
+[PV=VER:"liest"."lesen".#120858;]
+[??=PNT:",".",".#-1;]
+[GN=ADV:"auch".#23235;=ADV:"immer".#57736;=ADJ:"großes"."groß".#50386;=ADJ:"komisches"."komisch".#25887;=NOU:"Potential".#16756;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Eine"."ein";]
+[GN=ART:"der"."der".#-1;=ADJ:"denkwürdigsten"."denkwürdig".#32967;=NOU:"Passagen"."Passage".#3027;]
+[GN=PRO:"der"."der".#-1;]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Komik".#63031;]
+[GN=ADV:"oft".#75362;=ADJ:"schlecht".#58160;=ADJ:"ausgestatteten"."ausgestattet".#577307;=NOU:"Polarliteratur".$375;]
+[PV=VER:"ist"."sein".#13136;]
+[GP=NOU:"Cherry-Garrards"."Cherry-Garrards".#-1;]
+[GN=NOU:"Beschreibung".#3621;]
+[GP=ART:"der"."die";=NOU:"Übergabe".#161942;]
+[GP=ART:"der"."die";=ADJ:"drei".#170037;=NOU:"Pinguineier"."Pinguinei".$100001368;]
+[GP=PRE:"an"."an".#-1;=ART:"ein"."ein".#-1;=ADJ:"britisches"."britisch".#30306;=NOU:"Naturkundemuseum".#498245;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Eier"."Ei".#2426;]
+[??=PNT:",".",".#-1;]
+[??=PNT:""".""".#-1;]
+[GP=PRE:"für"."für".#-1;=ART:"die"."die".#-1;=ADJ:"drei".#170037;=ADJ:"menschliche"."menschlich".#70333;=NOU:"Leben".#100000003;]
+[PV=VER:"dreihundertmal"."Dreihundertabmalen".$18722;]
+[GP=PRE:"am"."an";=NOU:"Tag".#105019497;]
+[PV=VER:"riskiert"."riskieren".#16423;=VER:"worden"."werden";=VER:"waren"."sein";]
+[CN=CON:"und"."und".#-1;]
+[GN=ADJ:"drei".#170037;=ADJ:"menschliche"."menschlich".#70333;=NOU:"Konstitutionen"."Konstitution".#102076487;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"zur"."zu";=ADJ:"äußersten"."äußer".#126854;=NOU:"Grenze".#4422;]
+[GP=ART:"der"."die";=ADJ:"menschlichen"."menschlich".#70333;=NOU:"Leistungsfähigkeit".#16748;]
+[PV=VER:"strapaziert"."strapazieren".#14950;=VER:"worden"."werden";=VER:"sind"."sein";]
+[??=PNT:""".""".#-1;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"werden"."werden".#-1;]
+[GP=PRE:"mit"."mit".#-1;=ART:"der"."die";=ADJ:"größten"."groß".#50386;=NOU:"Gleichgültigkeit".#49297;]
+[PV=VER:"entgegengenommen"."entgegennehmen".#133950;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Cherry-Garrard"."Cherry-Garrard".#-1;]
+[PV=VER:"wartet"."warten".#107549;]
+[GV=ADV:"störrisch"."störrisch".#-1;]
+[GN=ART:"den"."der";=ADJ:"halben"."halb".#51414;=NOU:"Tag".#105019497;]
+[GP=PRE:"im"."in";=NOU:"Vorzimmer".#106730;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"um"."um".#-1;]
+[GV=ADV:"auch".#23235;=ADV:"nur".#20252;]
+[GN=ART:"eine"."ein";=NOU:"Quittung".#100190581;]
+[PV=CON:"zu".#565251;=VER:"erhalten".#18053;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GP=PRE:"bei"."bei".#-1;=ART:"einem"."ein";=ADJ:"späteren"."spät".#118208;=NOU:"Besuch".#3870;]
+[PV=VER:"streiten"."abstreiten".#117072;]
+[GN=ART:"die"."die".#-1;=NOU:"Museumswärter".#72420;]
+[GN=ART:"die"."die".#-1;=NOU:"Existenz".#118810;]
+[GP=ART:"der"."die";=NOU:"Eier"."Ei".#2461;]
+[GV=ADV:"rundheraus".#84722;]
+[GV=ADV:"ab"."abstreiten";]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PN=ADV:"Vielleicht"."vielleicht".#100886;=VER:"ist"."sein".#12562;]
+[GN=PRO:"es"."es".#-1;]
+[PN=ART:"der"."der".#-1;=ADJ:"schiere"."schier".#50356;=NOU:"Umfang".#118711;]
+[GP=ART:"des"."der";=ADJ:"600"."600".#-1;=PNT:"-"."-".#-1;=NOU:"Seiten-Buchs"."Seiten-Buch".$1954;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"der"."der".#-1;=ADJ:"deutsche"."deutsch".#33218;=NOU:"Verleger".#101607826;]
+[PV=ADV:"bisher".#28957;=ADV:"davon".#130559;=VER:"abgehalten"."abhalten".#168697;=VER:"hat"."haben";]
+[??=PNT:",".",".#-1;]
+[GN=ART:"eine"."ein";=ADJ:"deutsche"."deutsch".#33218;=NOU:"Übersetzung".#13951;]
+[GP=ADJ:"dieses"."dies";=NOU:"Bestsellers"."Bestseller".#27858;]
+[PV=VER:"herauszubringen"."herausbringen".#15533;]
+[??=PNT:"-"."-".#-1;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Englisch".#100001860;]
+[PN=VER:"sind"."sein".#172056;]
+[GN=ADV:"derzeit".#33080;=ADV:"immerhin".#57742;=ADV:"mehr".#70026;=PRE:"als"."als".#-1;=ADJ:"zehn".#172702;=NOU:"Ausgaben"."Ausgabe".#2208;]
+[PN=ADJ:"erhältlich".#39441;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Jetzt".#100193168;]
+[PV=VER:"hat"."haben";=PRO:"sich"."er";]
+[GN=ART:"der"."der".#-1;=COM:"Berliner Semele Verlag".$102085381;]
+[PV=VER:"erbarmt"."erbarmen".#15380;]
+[CN=CON:"und"."und".#-1;]
+[GN=MEA:"84 Jahre"."84 Jahr".$100000577;]
+[GP=PRE:"nach".#562278;=NOU:"Erscheinen".#118340;]
+[GP=ART:"des"."das";=NOU:"Originals"."Original".#4762;]
+[GN=PNT:""".""".#-1;=ART:"Die"."die";=ADJ:"schlimmste"."schlimm".#46733;=NOU:"Reise".#118225;]
+[GP=PRO:"der"."die";]
+[GP=NOU:"Welt".#100000002;]
+[??=PNT:"-"."-".#-1;]
+[GN=ART:"Die"."die";=GEO:"Antarktis".#16654706;=NOU:"Expedition".#16225;]
+[GN=DAT:"1910".$100205892;=PNT:"-"."-".#-1;=DAT:"1913".$100205892;=PNT:""".""".#-1;]
+[PV=VER:"veröffentlicht"."veröffentlichen".#13458;]
+[??=PNT:".".".".#-1;]
+
+OBJ=1:3;SBJ=1:8;SBJ=11:13;SBJ=19:21;OBJ=20:21;SBJ=19:23;SBJ=19:25;CPL=35:31;SBJ=32:33;SBJ=-49:54;OBJ=52:54;SBJ=-49:57;SBJ=68:70;SBJ=78:77;APH=85:83;SBJ=79:92;CPL=80:92;APH=99:95;SBJ=106:105;SBJ=106:120;SBJ=126:128;OBJ=126:133;SBJ=136:135;SBJ=139:140;SBJ=-52:145;SBJ=149:150;SBJ=154:156;OBJ=155:156;SBJ=-49:163;SBJ=-49:172;OBJ=179:182;SBJ=185:186;SBJ=188:189;OBJ=188:193;SBJ=113:198;SBJ=113:204;SBJ=-49:210;OBJ=212:210;SBJ=-49:215;SBJ=-49:218;SBJ=-49:223;OBJ=222:223;SBJ=225:226;APH=229:227;SBJ=-49:231;OBJ=230:231;SBJ=-49:239;SBJ=-49:244;OBJ=243:244;SBJ=-52:249;SBJ=-52:254;OBJ=253:254;SBJ=-52:258;SBJ=262:263;OBJ=276:263;SBJ=267:268;SBJ=270:274;SBJ=285:283;SBJ=-49:294;SBJ=309:310;SBJ=309:318;SBJ=324:322;OBJ=323:322;SBJ=331:332;SBJ=335:336;SBJ=335:340;OBJ=338:340;SBJ=335:343;SBJ=344:345;SBJ=349:350;SBJ=359:361;APH=199:113;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Disambiguation	0	46	10	VER	einladen	eingeladen	14634	False	0				 	
+Wrong Disambiguation	1	105	3	VER	sein	war	172056	False	0				 	
+Wrong Disambiguation	0	112	4	ADV		wohl	20252	False	0				 	
+Wrong Disambiguation	1	217	8	VER	studieren	studiert	120945	False	0				 	
+Wrong Disambiguation	1	237	11	ADJ		kurzsichtig	146443	False	0				 	
+Wrong Disambiguation	1	253	6	VER	tappen	tappte	500876	False	0				 	
+Wrong Disambiguation	1	318	2	ADV	da	Da	173213	False	0				 	
+Wrong Grammar	1	342	5	PRO	jede	jeden		False	0				 	
+Wrong Grammar	1	348	6	PRO	selbst	selbst	-1	False	0				 	
+Wrong Grammar	0	361	4	ADJ		ganz	45972	False	0				 	
+Wrong Grammar	1	528	8	ADJ		erwiesen	577314	False	0				 	
+Wrong Disambiguation	0	594	13	VER	aufpflanzen	aufzupflanzen	125371	False	0				 	
+Wrong Entity Type	0	612	8	NPR	Amundsen	Amundsen	-1	False	0			NPH	 	
+Wrong Entity Type	1	641	15	NOU	Cherry-Garrards	Cherry-Garrards	-1	False	0			NPH	 	
+Wrong Entity Form	1	697	17	NPR	The Worst Journey	The Worst Journey	-1	False	0				 	
+Wrong Disambiguation	1	796	6	VER		gelten	137905	False	0				 	
+Wrong Entity Type	1	822	15	NOU	Cherry-Garrards	Cherry-Garrards	-1	False	0			NPH	 	
+Wrong Disambiguation	1	846	4	PRE		über	98894	False	0				 	
+Wrong Disambiguation	1	874	3	VER	sein	ist	13082	False	0				 	
+Wrong Grammar	1	878	4	PRO	ein	eine		False	0				 	
+Wrong Disambiguation	1	887	6	ADJ	gut	besten	29675	False	0				 	139252
+Wrong Disambiguation	0	915	13	NOU	Schilderung	Schilderungen	2142	False	0				 	
+Wrong Grammar	1	929	3	PRO	der	des		False	0				 	
+Wrong Disambiguation	1	996	3	ADV		nur	20252	False	0				 	
+Missing Concept	0	1092	16	ADJ		charakteristisch	12562	False	0				 	
+Wrong Entity Form	1	1150	6	NPH	 Bowers	Henry 		False	0				 	
+Missing Concept	1	1177	5	ADV	beide	beide	-1	False	0				 	
+Wrong Disambiguation	1	1264	5	VER	machen	macht	16224	False	0				 	
+Missing Entity	1	1275	14	NOU	Cherry-Garrard	Cherry-Garrard	-1	False	0			NPH	 	
+Wrong Entity Form	0	1338	7	MEA		50 Grad	562089	True	0				 	
+Wrong Disambiguation	1	1361	3	NOU		Weg	3404	False	0				 	
+Wrong Entity Form	1	1370	4	NOU		Cape	101129355	False	0				 	
+Wrong Disambiguation	1	1370	4	NOU		Cape	101129355	False	0				 	
+Wrong Entity Form	1	1375	7	PRD		Crozier	101129355	True	0				 	
+Wrong Disambiguation	1	1464	4	PRE	über	Über	98894	False	0				 	
+Wrong Disambiguation	1	1603	12	VER	zurücklegen	zurückgelegt	112501	False	0				 	
+Missing Entity	1	1633	14	NOU	Cherry-Garrard	Cherry-Garrard	-1	False	0			NPH	 	
+Wrong Disambiguation	1	1726	11	NOU	Bedingung	Bedingungen	125241	False	0				 	119224
+Wrong Disambiguation	1	1745	6	ADJ	gut	besser	29675	False	0				 	
+Wrong Disambiguation	1	1792	10	ADJ	schlecht	schlechter	120251	False	0				 	
+Wrong Disambiguation	1	1839	8	VER	verlieren	verloren	16504	False	0				 	164498
+Wrong Recognition	0	1871	4	NOU		Teil	29	False	0				 	
+Wrong Disambiguation	1	1889	5	NOU		Punkt	1384	False	0				 	1383
+Wrong Disambiguation	1	1907	8	VER	kommen	gekommen	117806	False	0				 	16179
+Wrong Recognition	1	1930	3	ADV		nur	20252	False	0				 	
+Wrong Grammar	1	1939	13	ADJ	interessiert	interessierte	58742	False	0				 	
+Wrong Disambiguation	1	2012	6	VER	dauern	dauert	108418	False	0				 	
+Wrong Entity Type	1	2114	14	NOU	Cherry-Garrard	Cherry-Garrard	-1	False	0			NPH	 	
+Missing Concept	0	2150	9	ADV	schlaflos	schlaflos	-1	False	0				 	
+Wrong Grammar	1	2164	8	VER	krümmen	gekrümmt	146219	False	0				 	
+Wrong Disambiguation	1	2173	3	PRE		vor	596943	False	0				 	
+Missing Concept	0	2177	7	NOU	Zittern	Zittern	-1	False	0				 	
+Wrong Disambiguation	1	2203	8	VER	gefrieren	gefriert	132772	False	0				 	
+Wrong Disambiguation	1	2216	11	ADJ	ungeeignet	ungeeignete	57881	False	0				 	
+Wrong Grammar	1	2292	2	CON		zu	565251	False	0				 	
+Wrong Grammar	2	2301	7	VER		steifen	16405	False	0				 	
+Wrong Disambiguation	1	2319	6	ADV	einmal	Einmal	118174	False	0				 	
+Wrong Grammar	1	2356	2	PRE	um	um	-1	False	0				 	
+Wrong Disambiguation	1	2364	11	VER	umschauen	umzuschauen	162650	False	0				 	
+Wrong Disambiguation	1	2412	4	ADV		mehr	70026	False	0				 	
+Wrong Disambiguation	1	2448	3	VER	sein	war	172056	False	0				 	
+Wrong Disambiguation	1	2476	5	VER	stehen	stand	159252	False	0				 	
+Wrong Disambiguation	1	2483	4	ADV		hart	589172	False	0				 	
+Wrong Disambiguation	1	2488	8	VER	frieren	gefroren	44822	False	0				 	
+Wrong Disambiguation	1	2591	11	VER	anziehen	voranziehen	17299	False	0				 	
+Wrong Disambiguation	1	2634	8	VER	achten	achteten	13193	False	0				 	
+Wrong Disambiguation	0	2647	6	ADV		darauf	32260	False	0				 	130451
+Wrong Disambiguation	1	2683	11	VER	einnehmen	einzunehmen	14411	False	0				 	
+Wrong Disambiguation	1	2706	9	VER	einfrieren	einfroren	132772	False	0				 	
+Wrong Disambiguation	1	2746	6	VER		bergen	120087	False	0				 	120090
+Wrong Disambiguation	1	2782	12	VER		zurückliegen	16255	False	0				 	
+Wrong Disambiguation	0	2857	9	ADJ	komisch	komisches	25887	False	0				 	
+Wrong Disambiguation	1	2902	8	NOU	Passage	Passagen	3027	False	0				 	
+Wrong Grammar	1	2911	3	PRO	der	der	-1	False	0				 	
+Wrong Disambiguation	1	2929	8	ADJ		schlecht	58160	False	0				 	
+Missing Entity	1	2972	15	NOU	Cherry-Garrards	Cherry-Garrards	-1	False	0			NPH	 	
+Wrong Disambiguation	2	3023	11	NOU	Pinguinei	Pinguineier	100001368	True	0				 	
+Wrong Disambiguation	1	3095	11	ADJ	menschlich	menschliche	70333	False	0				 	
+Wrong Grammar	2	3113	14	VER	Dreihundertabmalen	dreihundertmal	18722	True	0				 	
+Wrong Disambiguation	1	3166	11	ADJ	menschlich	menschliche	70333	False	0				 	
+Wrong Disambiguation	1	3178	14	NOU	Konstitution	Konstitutionen	102076487	False	0				 	
+Wrong Grammar	2	3193	3	ADV		bis	28941	False	0				 	
+Wrong Recognition	1	3201	9	ADJ	äußer	äußersten	126854	False	0				 	
+Wrong Disambiguation	1	3222	12	ADJ	menschlich	menschlichen	70333	False	0				 	
+Wrong Disambiguation	0	3295	7	ADJ	groß	größten	50386	False	0				 	
+Missing Entity	1	3338	14	NOU	Cherry-Garrard	Cherry-Garrard	-1	False	0			NPH	 	
+Missing Concept	0	3360	9	ADV	störrisch	störrisch	-1	False	0				 	
+Wrong Disambiguation	0	3402	4	ADV		auch	23235	False	0				 	
+Wrong Recognition	1	3452	8	ADJ	spät	späteren	118208	False	0				 	
+Wrong Disambiguation	1	3461	6	NOU		Besuch	3870	False	0				 	
+Wrong Disambiguation	1	3512	4	NOU	Ei	Eier	2461	False	0				 	
+Wrong Disambiguation	1	3532	10	ADV	vielleicht	Vielleicht	100886	False	0				 	
+Missing Concept	0	3554	7	ADJ	schier	schiere	50356	False	0				 	
+Wrong Disambiguation	0	3620	5	ADV		davon	130559	False	0				 	
+Missing Concept	0	3647	8	ADJ	deutsch	deutsche	33218	False	0				 	
+Wrong Disambiguation	1	3656	11	NOU		Übersetzung	13951	False	0				 	
+Wrong Disambiguation	1	3687	15	VER	herausbringen	herauszubringen	15533	False	0				 	
+Wrong Disambiguation	0	3718	4	VER	sein	sind	172056	False	0				 	
+Wrong Disambiguation	1	3754	8	NOU	Ausgabe	Ausgaben	2208	False	0				 	
+Wrong Disambiguation	1	3775	5	NOU		Jetzt	100193168	False	0				 	
+Wrong Disambiguation	1	3843	10	NOU		Erscheinen	118340	False	0				 	
+Missing Entity	1	3858	9	NOU	Original	Originals	4762	False	0				 	
+Wrong Recognition	0	3869	3	ART	die	Die		False	0				 	

@@ -1,0 +1,4 @@
+# working dir is corpus root directory
+
+for f in `find . -type f -name "*.log"` ; do errors=`egrep --binary-files=text "^(Wrong |Missing )" $f | wc -l`; echo "$errors   "`basename $f` ; done > errcounts.txt
+

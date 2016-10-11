@@ -1,0 +1,1067 @@
+﻿[GN=GEO:"Deutschland".#12907079;]
+[PV=VER:"ist"."sein";]
+[GP=PRE:"im"."in";=NOU:"Halbfinale".#100864897;]
+[GN=ART:"der"."der".#-1;=NPR:"EM 2012"."EM 2012".#-1;]
+[GP=PRE:"gegen"."gegen".#-1;=GEO:"Italien".#13160565;]
+[PV=VER:"ausgeschieden"."ausscheiden".#120714;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Bereits"."bereits".#87685;]
+[GP=PRE:"zur"."zu";=NOU:"Pause".#2761;]
+[PV=VER:"lag"."liegen".#16318;]
+[GN=ART:"die"."die".#-1;=NOU:"Löw-Elf"."Löw-Elf".#-1;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"0:2"."0:2".#-1;]
+[GP=PRE:"gegen"."gegen".#-1;=ART:"den"."der";=NOU:"Angstgegner".#21322;]
+[GP=PRE:"in"."in".#-1;=NOU:"Rückstand".#119748;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"schaffte"."schaffen".#14085;]
+[GN=PRO:"es"."es".#-1;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"zum"."zu";=NOU:"Schlusspfiff".#87099;]
+[GP=PRE:"trotz"."trotz".#-1;=ADV:"teils".#96294;=ADJ:"ausgezeichneter"."ausgezeichnet".#134924;=NOU:"Möglichkeiten"."Möglichkeit".#4320;]
+[GV=ADV:"nicht".#74226;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"den"."der";=NOU:"Rückstand".#110563;]
+[PV=ADV:"noch".#74484;=VER:"auszugleichen"."ausgleichen".#14870;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"In"."in";=PRO:"der"."die";=NOU:"Nachspielzeit".#497358;]
+[PV=VER:"verkürzte"."verkürzen".#103744;]
+[GN=ORG:"Özil".$116334295;]
+[GP=PRE:"per"."per".#-1;=NOU:"Strafstoß".#77274;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"doch"."doch".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Hoffnung".#100190507;]
+[GP=PRE:"auf"."auf".#-1;=ART:"die"."die".#-1;=NOU:"Verlängerung".#118905;]
+[PV=VER:"dauerte"."dauern".#108418;]
+[GN=ADV:"nur".#20252;=ADJ:"wenige"."wenig".#118578;=NOU:"Minuten"."Minute".#100007727;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"verflog"."verfliegen".#103203;]
+[GP=PRE:"mit"."mit".#-1;=ART:"dem"."der";=NOU:"Schlusspfiff".#87099;]
+[GV=ADV:"völlig".#588989;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=NOU:"Bundestrainer".#30801;=NPH:"Joachim Löw".$100215627;]
+[PV=VER:"setzte"."setzen".#157668;]
+[GP=PRE:"im"."in";=NOU:"Vergleich".#121061;]
+[GP=PRE:"zum"."zu";=ADJ:"4:2"."4:2".#-1;]
+[GP=PRE:"im"."in";=NOU:"Viertelfinale".#105299;]
+[GP=PRE:"gegen"."gegen".#-1;=GEO:"Griechenland".#10387796;]
+[GP=PRE:"auf"."auf".#-1;=ADJ:"drei".#170037;=NOU:"Änderungen"."Änderung".#2785;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Podolski".$100172226;=CON:"und"."und".#-1;=PRD:"Gomez".$59;]
+[PV=VER:"kehrten"."zurückkehren".#174022;]
+[GP=PRE:"für"."für".#-1;=NPR:"Schürrle"."Schürrle".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GP=NPR:"Klose"."Klose".#-1;]
+[GP=PRE:"in"."in".#-1;=ART:"die"."die".#-1;=NOU:"Startelf".#497848;]
+[GV=ADV:"zurück"."zurückkehren";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Erstmals"."erstmals".#39846;]
+[GP=PRE:"von"."von".#-1;=NOU:"Beginn".#498316;]
+[GV=PRE:"an"."an".#-1;]
+[PV=VER:"spielte"."spielen".#158429;]
+[GN=NPH:"Kroos"."Kroo".$100215627;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"der"."der".#-1;=NOU:"Reus"."Reus".#-1;]
+[PV=VER:"verdrängte"."verdrängen".#17073;]
+[CN=CON:"und"."und".#-1;]
+[GN=ART:"das"."das".#-1;=NOU:"Mittelfeld".#117625;]
+[PV=VER:"verstärkte"."verstärken".#120471;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=GEO:"Italiens"."Italien".#13160565;]
+[GN=NOU:"Coach".#173090;=NPH:"Cesare Prandelli".#100218380;]
+[PV=VER:"nahm"."vornehmen".#13039;]
+[GP=PRE:"nach".#562279;=ART:"dem"."der";=ADJ:"4:2"."4:2".#-1;]
+[GP=PRE:"im"."in";=NOU:"Elfmeterschießen".#37894;]
+[GP=PRE:"gegen"."gegen".#-1;=GEO:"England".#16240305;]
+[GN=ART:"einen"."ein";=NOU:"Wechsel".#19147;]
+[GV=ADV:"vor"."vornehmen";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPH:"Chiellini".$100215627;]
+[PV=VER:"kam"."kommen".#596963;]
+[GP=PRE:"nach".#562279;=ADJ:"ausgeheilter"."ausgeheilt";=NOU:"Zerrung".#72510;]
+[GP=PRE:"ins"."in";=NOU:"Team".#112973014;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Abate".#18216;]
+[PV=VER:"musste"."müssen";]
+[GP=PRE:"mit"."mit".#-1;=NOU:"Muskelproblemen"."Muskelproblem".$12402;]
+[PV=VER:"passen".#151059;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ORG:"Balzaretti".$116334295;]
+[PV=VER:"rutschte"."rutschen".#15621;]
+[GV=ADV:"so".#130436;]
+[GP=PRE:"von"."von".#-1;=ART:"der"."die";=NPR:"Links-"."Links-".#-1;]
+[GP=PRE:"auf"."auf".#-1;=ART:"die"."die".#-1;=NOU:"Rechtsverteidigerposition".$104164871;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PV=PRO:"Es"."es";=VER:"ging"."gehen".#14248;]
+[GA=ADV:"eigentlich".#36198;=ADJ:"gut".#29675;]
+[PV=VER:"los"."losen".#147539;]
+[GP=PRE:"in"."in".#-1;=GEO:"Warschau".#10751926;]
+[??=PNT:":".":".#-1;]
+[GP=GEO:"Deutschlands"."Deutschland".#12907079;]
+[GN=NOU:"Spielführer".#69137;=NPH:"Lahm".$100215627;]
+[PV=VER:"gewann"."gewinnen".#15798;]
+[GP=PRE:"gegen"."gegen".#-1;]
+[GP=GEO:"Italiens"."Italien".#13160565;]
+[GP=NOU:"Keeper".#5641;]
+[GN=NOU:"Buffon"."Buffon".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Platzwahl".#78616;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"auch".#173912;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Anfangsphase".#21117;]
+[PN=VER:"war"."sein".#12562;]
+[GN=ART:"die"."die".#-1;=NOU:"Elf".#5462;]
+[GP=PRE:"mit"."mit".#-1;=ART:"dem"."der";=NOU:"Adler".#4735;]
+[GP=PRE:"auf"."auf".#-1;=ART:"der"."die";=NOU:"Brust".#100009645;]
+[PN=ART:"die"."die".#-1;=ADJ:"bestimmende"."bestimmend".#69607;=NOU:"Mannschaft".#112973014;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=ORG:"DFB"."Deutscher Fußball-Bund".#33308;=PNT:"-"."-".#-1;=NOU:"Auswahl".#120004;]
+[PV=VER:"fand"."finden".#16126;]
+[GN=ADV:"erstaunlich".#24963;=ADJ:"viele"."viel".#173025;=NOU:"Lücken"."Lücke".#118895;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=ADJ:"italienischen"."italienisch".#59172;=NOU:"Defensive".#100377213;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Defensive".#100377213;]
+[GV=ADV:"schon".#87685;]
+[GP=PRE:"beim"."bei";=ADJ:"ersten"."erste".#20255;=NOU:"Eckball".#100242415;]
+[PV=VER:"wackelte"."wackeln".#166299;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Hummels"."Hummel".#100025407;]
+[PV=VER:"bugsierte"."bugsieren".#104347;]
+[GN=ART:"das"."das".#-1;=NOU:"Spielgerät".#91998;]
+[GP=PRE:"aus"."aus".#-1;=ART:"der"."die";=NOU:"Nahdistanz".#570816;]
+[GP=PRE:"aufs"."auf";=NOU:"Tor".#2410;]
+[??=PNT:",".",".#-1;]
+[GN=NPH:"Pirlos"."Pirlo".$100215627;=NOU:"Oberschenkel".#100129757;]
+[PV=VER:"rettete"."retten".#117720;]
+[GP=PRE:"auf"."auf".#-1;=ART:"der"."die";=NOU:"Linie".#1967;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"5."."5.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NPR:"Ex"."REXX".#100685820;=PNT:"-"."-".#-1;=ADJ:"Wolfsburger"."Wolfsburg";=NPR:"Barzagli"."Barzagli".#-1;]
+[PV=VER:"zeigte"."zeigen".#14279;=PRO:"sich"."er";]
+[GP=PRE:"nach".#562279;=ART:"einer"."eine";=ADJ:"direkten"."direkt".#33809;=NOU:"Hereingabe".#132791;]
+[GP=PRE:"von"."von".#-1;=NPH:"Boateng".$100215627;]
+[GP=PRE:"im"."in";=NOU:"Glück".#120388;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"lenkte"."lenken".#15399;]
+[GN=ART:"den"."der";=NOU:"Abpraller".#18794;]
+[GP=PRE:"von"."von".#-1;=NOU:"Buffon"."Buffon".#-1;]
+[GV=ADV:"knapp".#65656;]
+[GP=PRE:"am"."an";=ADJ:"eigenen"."eigen".#120216;=NOU:"Tor".#2408;]
+[GV=ADV:"vorbei".#106033;]
+[GA=ADV:"(";=ADJ:"12."."12.".#-1;=PNT:")".")".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"auch".#173912;]
+[GN=NPH:"Kroos"."Kroo".$100215627;]
+[PV=VER:"schoss"."schießen".#16295;]
+[GV=ADV:"scharf".#596366;]
+[??=PNT:"-"."-".#-1;]
+[GP=NOU:"Buffons"."Buffons".#-1;]
+[GN=NPR:"Fäuste"."Fauststoff".#100332885;]
+[PV=VER:"wehrten"."wehren".#16939;]
+[GV=ADV:"ab".#117200;]
+[GA=ADV:"(";=ADJ:"13."."13.".#-1;=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Langsam"."langsam".#596325;]
+[PV=ADV:"aber".#74486;=ADV:"sicher".#56201;=VER:"legte"."ablegen".#17731;]
+[GN=ART:"die"."die".#-1;=NPR:"Squadra Azzura"."Squadra Azzura".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Scheu".#100913668;]
+[GP=ART:"der"."die";=ADJ:"ersten"."erste".#20255;=NOU:"Minuten"."Minute".#100007727;]
+[GV=ADV:"ab"."ablegen";]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"setzte"."setzen".#157667;]
+[GV=PRE:"zunächst"."zunächst".#-1;]
+[GP=PRE:"aus"."aus".#-1;=ART:"der"."die";=NOU:"Distanz".#131343;]
+[GN=ADJ:"erste".#20255;=NOU:"Warnungen"."Warnung".#118769;]
+[GP=PRE:"in"."in".#-1;=NOU:"Richtung".#102151613;]
+[GN=NOU:"Torwart".#5641;=NOU:"Neuer"."Neue".#118119757;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Keeper".#5641;]
+[GP=ART:"des"."der";=ORG:"FC Bayern"."Bayern München FC".#100015789;]
+[PV=VER:"konnte"."können".#12879;]
+[CN=CON:"sowohl".#588445;]
+[GN=NPH:"Montolivos"."Montolivo".$100215627;=NOU:"Versuch".#100578508;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"17."."17.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"als"."als".#-1;]
+[GV=ADV:"auch".#173912;]
+[GN=NOU:"Cassanos"."Cass";=NOU:"Schuss".#1694;]
+[PV=PRE:"aufs"."auf";=VER:"rechte"."rechen".#139730;]
+[GN=NOU:"Eck".#500893;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"18."."18.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=VER:"entschärfen".#14190;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Über"."über".#596948;=ART:"den"."der";=ADJ:"linken"."link".#28062;=NOU:"Flügel".#2353;]
+[PV=VER:"drohte"."drohen".#16517;]
+[GN=ADV:"jedoch".#20252;=ADJ:"schnell".#117551;=ADJ:"weitere"."weit".#66152;=NOU:"Gefahr".#46715;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPH:"Chiellini".$100215627;]
+[PV=VER:"war"."sein";]
+[GA=ADJ:"weit".#66152;]
+[PV=VER:"aufgerückt"."aufrücken".#125626;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"nutzte"."nutzen".#16870;]
+[GN=ART:"den"."der";=NOU:"Freiraum".#44569;]
+[GP=PRE:"auf"."auf".#-1;=ADJ:"seiner"."sein";=NOU:"Seite".#30;]
+[??=PNT:"("."(".#-1;]
+[GN=NPH:"Kroos"."Kroo".$100215627;]
+[PV=VER:"zog"."ziehen".#14561;]
+[GN=PRO:"es"."es".#-1;]
+[GV=ADV:"immer wieder".#588646;]
+[GP=PRE:"in"."in".#-1;=ART:"die"."die".#-1;=NOU:"Spielfeldmitte".$2282;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"ließ"."lassen".#112452;]
+[GN=ART:"den"."der";=NOU:"Flügel".#2353;]
+[PV=VER:"verwaist"."verwaisen".#104828;]
+[??=PNT:")".")".#-1;]
+[GP=PRE:"für"."für".#-1;=ART:"einen"."ein";=ADJ:"kurzen"."kurz".#65605;=NOU:"Pass".#101193328;]
+[GP=PRE:"auf"."auf".#-1;=NPR:"Cassano"."Cassano".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Angreifer".#119647;]
+[PV=VER:"düpierte"."düpieren".#35131;]
+[GP=PRE:"mit"."mit".#-1;=ART:"einer"."eine";=ADJ:"geschickten"."geschickt".#562311;=NOU:"Drehung".#4928;=NPH:"Boateng".$100215627;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Hummels"."Hummel".#100025407;]
+[??=PNT:",".",".#-1;]
+[GN=NPH:"Khedira".$100215627;]
+[PV=VER:"kam"."kommen".#117781;]
+[GA=ADV:"zu spät"."zu spät".#-1;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"konnte"."können";]
+[GN=ART:"die"."die".#-1;=NOU:"Flanke".#101427103;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Balotelli".$117524964;]
+[PV=ADV:"nicht".#74226;=VER:"verhindern".#13785;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=ADJ:"wuchtige"."wuchtig".#33457;=NOU:"Mittelstürmer".#71354;]
+[PV=VER:"schüttelte"."abschütteln".#117030;]
+[GN=NOU:"Badstuber".$12246;]
+[GV=ADV:"ab"."abschütteln";]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"köpfte"."köpfen".#120693;]
+[GV=ADV:"unhaltbar"."unhaltbar".#-1;]
+[GP=PRE:"zum"."zu";=ADJ:"1:0"."1:0".#-1;]
+[GP=PRE:"für"."für".#-1;=GEO:"Italien".#13160565;]
+[GV=ADV:"ein".#36248;]
+[GA=ADV:"(";=ADJ:"20."."20.".#-1;=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ORG:"Özil".$116334295;]
+[??=PNT:",".",".#-1;]
+[GN=COM:"Schweinsteiger & Co.".$104830453;]
+[PV=VER:"schienen"."scheinen".#14275;]
+[PV=PRO:"sich"."er";]
+[GP=PRE:"von"."von".#-1;=ART:"dem"."der";=NOU:"Schock".#16921;]
+[GA=ADJ:"schnell".#117551;]
+[PV=CON:"zu".#565251;=VER:"erholen".#117312;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Buffon"."Buffon".#-1;]
+[PV=VER:"blieb"."bleiben".#129080;]
+[PV=ADV:"weiter".#166901;=VER:"beschäftigt"."beschäftigen".#16485;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ORG:"Özil".$116334295;]
+[PV=VER:"schoss"."schießen".#155660;]
+[GA=ADJ:"flach".#65605;]
+[GP=PRE:"aufs"."auf";=ADJ:"linke"."link".#28062;=ADJ:"untere".#498527;=NOU:"Eck".#500893;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"27."."27.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NPH:"Kroos"."Kroo".$100215627;]
+[PV=VER:"schoss"."schießen".#16295;]
+[GP=PRE:"am"."an";=NOU:"Ziel".#4114;]
+[GV=ADV:"vorbei".#106033;]
+[GA=ADV:"(";=ADJ:"30."."30.".#-1;=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Podolski".$100172226;]
+[PV=VER:"kam"."kommen".#17986;]
+[GP=PRE:"nach".#562279;=ART:"einer"."eine";=NPH:"Boateng".$100215627;=PNT:"-"."-".#-1;=NOU:"Flanke".#101427103;]
+[GN=ART:"einen"."ein";=NOU:"Schritt".#16168;]
+[GA=ADV:"zu spät"."zu spät".#-1;]
+[GA=ADV:"(";=ADJ:"33."."33.".#-1;=PNT:")".")".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=NPH:"Khedira".$100215627;]
+[PV=VER:"zielte"."zielen".#168223;]
+[GV=ADV:"mächtig"."mächtig".#-1;]
+[GP=PRE:"auf"."auf".#-1;=ART:"das"."das".#-1;=ADJ:"linke"."link".#28062;=ADJ:"obere".#74997;=NOU:"Eck".#500893;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"35."."35.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:"-"."-".#-1;]
+[GN=ART:"der"."der".#-1;=NOU:"Ausgleich".#126275;]
+[GV=ADV:"noch".#74484;]
+[GP=PRE:"vor".#596945;=ART:"der"."die";=NOU:"Pause".#2761;]
+[PV=VER:"blieb"."bleiben".#15336;]
+[GP=ADV:"dennoch".#32971;=ADJ:"unerreichbar".#100754;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=PRO:"Es"."es";]
+[PV=VER:"kam"."kommen".#17986;]
+[GA=ADV:"sogar".#173912;=ADV:"noch".#74484;=ADJ:"dicker"."dick".#33457;]
+[??=PNT:"!"."!".#-1;]
+[CL]
+[GN=GEO:"Italien".#13160565;]
+[PV=VER:"zeigte"."zeigen".#14279;=PRO:"sich"."er";]
+[GA=ADJ:"weiter"."weit".#66152;=ADJ:"eiskalt".#46886;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"kam"."kommen".#117781;]
+[GP=PRE:"durch"."durch".#-1;=NPH:"Montolivo".$100215627;]
+[GP=ART:"einem"."ein";=ADJ:"weiteren"."weit".#66152;=NOU:"Treffer".#173507;]
+[GA=ADJ:"nahe"."nah".#149622;]
+[GA=ADV:"(";=ADJ:"34."."34.".#-1;=PNT:")".")".#-1;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"ging"."gehen".#14248;]
+[GP=PRE:"durch"."durch".#-1;=ART:"ein"."ein".#-1;=NOU:"Traumtor".#569166;]
+[GP=PRE:"von"."von".#-1;=NOU:"Balotelli".$117524964;]
+[PV=VER:"gar"."garen".#137344;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"2:0"."2:0".#-1;]
+[GV=ADV:"in Front".#172844;]
+[??=PNT:"!"."!".#-1;]
+[CL]
+[GN=NPR:"Montolivos"."Montolivo".$12605268;]
+[GN=PNT:""".""".#-1;=ADJ:"tödliches"."tödlich".#97210;=PNT:""".""".#-1;=NOU:"Zuspiel".#101193328;]
+[PV=VER:"ließ"."zurücklassen".#112452;]
+[GP=GEO:"Deutschlands"."Deutschland".#12907079;]
+[GN=NOU:"Abwehr".#117105;]
+[GV=ADV:"hilflos"."hilflos".#-1;]
+[GV=ADV:"zurück"."zurücklassen";]
+[??=PNT:",".",".#-1;]
+[GN=ART:"der"."der".#-1;=GEO:"England".#16240305;=PNT:"-"."-".#-1;=NOU:"Legionär".#10364;]
+[PV=VER:"hatte"."haben".#13881;]
+[GN=NOU:"freie Bahn".#589920;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"drosch"."dreschen".#17570;]
+[GN=ART:"den"."der";=NOU:"Ball".#2374;]
+[GP=PRE:"am"."an";=ADJ:"ratlosen"."ratlos".#81849;=NOU:"Neuer"."Neue".#118119757;]
+[GV=ADV:"vorbei".#106033;]
+[GP=PRE:"in"."in".#-1;=ART:"die"."die".#-1;=NOU:"Maschen"."Masche".#100131916;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"36."."36.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Und"."und";]
+[PV=VER:"dabei blieb"."dabei bleiben".#118717;]
+[GN=PRO:"es"."es".#-1;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"zur"."zu";=NOU:"Pause".#2761;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=GEO:"Italien".#13160565;]
+[PV=VER:"hatte"."haben".#12561;]
+[CN=CON:"nun"."nun".#-1;]
+[GN=NOU:"Oberwasser".#75106;]
+[??=PNT:",".",".#-1;]
+[GP=ART:"dem"."das";=NOU:"DFB-Team".#591787;]
+[PV=VER:"fehlte"."fehlen".#135477;]
+[GN=NOU:"Linie".#15593;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Klarheit".#144646;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"ehe"."ehe".#-1;]
+[GN=ART:"der"."der".#-1;=NOU:"Pausenpfiff".#568575;]
+[GN=ART:"die"."die".#-1;=ADJ:"erste".#20255;=NOU:"Hälfte".#118415;]
+[PV=VER:"beendete"."beenden".#13106;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Nach"."nach".#562279;=ART:"der"."die";=NOU:"Pause".#2761;]
+[GP=PRE:"mit"."mit".#-1;=GEO:"Reus".#13097614;]
+[CN=CON:"und"."und".#-1;]
+[GP=NPR:"Klose"."Klose".#-1;]
+[??=PNT:"-"."-".#-1;]
+[GN=NOU:"Buffon"."Buffon".#-1;]
+[PV=VER:"lenkt"."lenken".#18047;]
+[GN=NOU:"Freistoß".#44605;]
+[GP=PRE:"an"."an".#-1;=ART:"die"."die".#-1;=NOU:"Latte".#152969;]
+[CL]
+[CR]
+[GN=NPH:"Joachim Löw".$100215627;]
+[PV=VER:"reagierte"."reagieren".#13390;]
+[GP=PRE:"mit"."mit".#-1;=ART:"einem"."ein";=NOU:"Doppelwechsel".$19147;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"schickte"."schicken".#13616;]
+[GN=GEO:"Reus".#13097614;]
+[CN=CON:"und"."und".#-1;]
+[GN=NPR:"Klose"."Klose".#-1;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"beide"."beide".#-1;]
+[GP=PRE:"gegen"."gegen".#-1;=GEO:"Griechenland".#10387796;]
+[GV=ADV:"noch".#74484;]
+[GN=NOU:"Torschützen"."Torschütze".#6991;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"für"."für".#-1;=PRD:"Gomez".$59;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Podolski".$100172226;]
+[GP=PRE:"auf"."auf".#-1;=ART:"das"."das".#-1;=NOU:"Feld".#102310214;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=PRO:"Die"."die";]
+[PV=VER:"umformierte"."formieren".#136502;]
+[GN=ADJ:"deutsche"."deutsch".#33218;=NOU:"Mannschaft".#112973014;]
+[PV=VER:"zeigte"."zeigen".#15133;]
+[GN=PRO:"sich"."er";]
+[GV=ADV:"selbstbewusst"."selbstbewusst".#-1;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"spielte"."spielen".#158433;]
+[CN=CON:"nun"."nun".#-1;]
+[GV=ADV:"schneller"."schnell".#596234;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"direkter"."direkt".#33810;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"zielstrebiger"."zielstrebig".#111516;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Folge".#2885;]
+[??=PNT:":".":".#-1;]
+[GN=GEO:"Italien".#13160565;]
+[PV=VER:"stand"."stehen".#32369;]
+[GV=ADV:"sofort".#114722;]
+[GP=PRE:"unter"."unter".#-1;=NOU:"Druck".#169131;]
+[??=PNT:"!"."!".#-1;]
+[CL]
+[GN=GEO:"Reus".#13097614;]
+[PV=VER:"dribbelte"."dribbeln".#34768;]
+[GN=PRO:"sich"."er";]
+[GP=PRE:"in"."in".#-1;=NOU:"Position".#15680;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"traf"."treffen".#13955;=ADV:"mit links".#120605;]
+[GN=ART:"den"."der";=NOU:"Ball".#2374;]
+[GA=ADV:"nicht".#74226;=ADJ:"voll".#120598;]
+[GA=ADV:"(";=ADJ:"48."."48.".#-1;=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPH:"Lahm".$100215627;]
+[PV=VER:"war"."sein";]
+[GV=PRE:"mit"."mit".#-1;]
+[PV=VER:"aufgerückt"."aufrücken".#125626;]
+[??=PNT:",".",".#-1;]
+[PV=VER:"zielte"."zielen".#168223;]
+[GP=PRE:"aus"."aus".#-1;=MEA:"16 Metern"."16 Meter".$11710;]
+[GR=PRE:"auf"."auf".#-1;=PRO:"das"."das".#-1;]
+[GN=ADJ:"rechte"."recht".#84908;=NOU:"Eck".#500893;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"verzog"."verziehen".#15505;]
+[GV=ADV:"knapp".#65656;]
+[GA=ADV:"(";=ADJ:"49."."49.".#-1;=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GA=ADJ:"Weiter"."weit".#66152;]
+[PV=VER:"ging"."gehen".#15626;=PRO:"es"."es".#-1;]
+[GV=ADV:"fast".#26795;=ADV:"nur".#20252;]
+[GP=PRE:"in"."in".#-1;=ART:"eine"."ein";=NOU:"Richtung".#102151613;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ORG:"Özil".$116334295;]
+[PV=VER:"zog"."vorbeiziehen".#106036;]
+[GP=PRE:"an"."an".#-1;=ADJ:"zwei".#173625;=NOU:"Kontrahenten"."Kontrahent".#14452;]
+[GV=ADV:"vorbei"."vorbeiziehen";]
+[??=PNT:",".",".#-1;]
+[PV=VER:"brachte"."bringen".#14085;]
+[GN=NPH:"Khedira".$100215627;]
+[GP=PRE:"von"."von".#-1;=ART:"der"."die";=NOU:"Grundlinie".#139126;]
+[GP=PRE:"aus"."aus".#-1;]
+[GV=ADV:"nicht".#74226;]
+[GP=PRE:"in"."in".#-1;=NOU:"Schussposition".#581232;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"55."."55.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPR:"Klose"."Klose".#-1;]
+[PV=VER:"fand"."wiederfinden".#167269;=PRO:"sich"."er";]
+[GP=PRE:"nach".#562279;=ADJ:"feinem"."fein".#120540;=NOU:"Doppelpass".#104006008;]
+[GP=PRE:"im"."in";=NOU:"Strafraum".#100845769;]
+[GV=ADV:"wieder"."wiederfinden";]
+[??=PNT:",".",".#-1;]
+[GN=NPH:"Bonucci".$100215627;]
+[PV=VER:"grätsche"."grätschen".#50056;]
+[GN=ART:"das"."das".#-1;=NOU:"Rund".#119091;]
+[GV=ADV:"im letzten Augenblick".#589262;]
+[GP=PRE:"zur"."zu";=NOU:"Ecke"."Eck".#500893;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"56."."56.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Buffon"."Buffon".#-1;]
+[PV=VER:"lenkte"."lenken".#18047;=ADV:"zu allem Überfluss".#98967;]
+[GN=ART:"einen"."ein";=NOU:"Traum-Freistoß".$44605;]
+[GP=PRE:"von"."von".#-1;=GEO:"Reus".#13097614;]
+[GP=PRE:"mit"."mit".#-1;=ART:"den"."die";=NOU:"Fingerkuppen"."Fingerkuppe".#9960;]
+[GP=PRE:"an"."an".#-1;=ART:"die"."die".#-1;=NOU:"Latte".#152969;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"61."."61.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPH:"Cesare Prandelli".#100218380;]
+[PV=VER:"brachte"."bringen".#14085;]
+[CN=CON:"nun"."nun".#-1;]
+[GN=NPH:"Diamanti".$100215627;]
+[GP=PRE:"für"."für".#-1;=NPR:"Cassano"."Cassano".#-1;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"57."."57.".#-1;]
+[??=PNT:")".")".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Balotelli".$117524964;]
+[PV=VER:"schoss"."schießen".#21761;]
+[GP=PRE:"aus"."aus".#-1;=MEA:"20 Metern"."20 Meter".$11710;]
+[GV=ADV:"links".#67810;]
+[GP=PRE:"an"."an".#-1;=ADJ:"Neuers"."neu".#30000;=NOU:"Tor".#2410;]
+[GV=ADV:"vorbei".#106033;]
+[GA=ADV:"(";=ADJ:"60."."60.".#-1;=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=GEO:"Italiens"."Italien".#13160565;]
+[GN=ADJ:"erstes"."erste".#20255;=NOU:"Lebenszeichen".#66743;]
+[GP=PRE:"in"."in".#-1;=NOU:"Durchgang".#15081;]
+[CL]
+[CR]
+[GP=GEO:"Deutschlands"."Deutschland".#12907079;]
+[GN=NOU:"Drangphase".#573850;]
+[PV=VER:"ebbte"."abebben".#15225;]
+[GN=NOU:"Mitte".#2282;]
+[GP=ART:"der"."die";=ADJ:"zweiten"."zweite".#117172;=NOU:"Hälfte".#118415;]
+[GV=ADV:"wieder".#74486;]
+[GV=ADV:"ab"."abebben";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=GEO:"Italien".#13160565;]
+[PV=VER:"schöpfte"."schöpfen".#156595;]
+[GV=ADV:"jetzt".#59489;]
+[GN=ART:"das"."das".#-1;=ADJ:"komplette"."komplett".#120598;=NOU:"Wechselkontingent".$145510;]
+[GV=PRE:"aus"."aus".#-1;]
+[??=PNT:"-"."-".#-1;]
+[GN=NOU:"Defensivspezialist".#573833;=NPH:"Thiago Motta".$100215627;]
+[GN=ADJ:"ersetzte"."ersetzt";=NOU:"Montolivo".$12605268;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"63."."63.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Balotelli".$117524964;]
+[PV=VER:"litt"."leiden";=VER:"erschöpft"."erschöpfen".#13188;]
+[GP=PRE:"an"."an".#-1;=NOU:"Krämpfen"."Krampf".#100574360;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"musste"."müssen";]
+[GP=GEO:"Udines"."Udine".#13150305;]
+[GN=NOU:"Torjäger-Oldie".$75497;]
+[GN=ADJ:"di"."di".#-1;=NOU:"Natale"."Natale".#-1;]
+[PV=VER:"weichen".#15102;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"So"."so";]
+[PV=VER:"litt"."leiden".#13807;]
+[GN=ART:"der"."der".#-1;=NOU:"Spielfluss".#568913;]
+[CN=CON:"und"."und".#-1;]
+[GN=PRO:"die"."die".#-1;]
+[GN=NOU:"Südeuropäer".#572896;]
+[PV=VER:"schafften"."schaffen".#14085;]
+[GN=PRO:"es"."es".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Gefahr".#46715;]
+[GP=PRE:"vom"."von";=ADJ:"eigenen"."eigen".#120216;=NOU:"Tor".#2410;]
+[PV=VER:"fernzuhalten"."fernhalten".#135621;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Mit"."mit";=NOU:"WM".#101344963;=PNT:"-"."-".#-1;=NOU:"Torschützenkönig".#97440;]
+[GN=NOU:"Müller".#100694116;]
+[GP=PRE:"für"."für".#-1;=NOU:"Verteidiger".#100512345;=NPH:"Boateng".$100215627;]
+[PV=VER:"setzte"."setzen".#157667;]
+[GN=ART:"der"."der".#-1;=NOU:"Bundestrainer".#30801;]
+[GA=ADV:"dann".#130436;=ADJ:"endgültig".#38174;]
+[GN=ART:"das"."das".#-1;=NOU:"Signal".#705;]
+[GP=PRE:"auf"."auf".#-1;=NOU:"Offensive".#16886;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"71."."71.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"doch"."doch".#-1;]
+[GN=ART:"der"."der".#-1;=NOU:"Weg".#121136;]
+[GP=PRE:"vor".#596943;]
+[GP=NOU:"Buffons"."Buffons".#-1;]
+[GP=NOU:"Tor".#2410;]
+[PV=VER:"blieb"."bleiben".#15336;]
+[GN=ADJ:"steinig".#93319;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"schwierig"."schwierig".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Gleichzeitig"."gleichzeitig".#589058;]
+[PV=VER:"hatte"."haben".#12561;]
+[GN=ART:"die"."die".#-1;=NPH:"Prandelli"."Cesare Prandelli".#100218380;=PNT:"-"."-".#-1;=NOU:"Elf".#5462;]
+[CN=CON:"nun"."nun".#-1;]
+[GN=ADJ:"exzellente"."exzellent".#134924;=NOU:"Kontergelegenheiten"."Gelegenheit".#4320;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NOU:"Marchisio"."March";]
+[PV=VER:"stand"."stehen".#159246;]
+[GA=ADJ:"frei".#44463;]
+[GP=PRE:"vor".#596943;=NOU:"Neuer"."Neue".#74163;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"das"."das".#-1;=ADJ:"3:0"."3:0".#-1;]
+[PV=VER:"schien"."scheinen".#117664;]
+[PV=ADV:"schon".#87685;=VER:"gefallen".#16350;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"doch"."doch".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Nummer".#309;]
+[GA=ADJ:"acht"."tag_numero";]
+[GN=ART:"der"."der".#-1;=NOU:"Italiener".#7205;]
+[PV=VER:"schoss"."schießen".#155653;]
+[GP=PRE:"aus"."aus".#-1;=ADJ:"bester"."gut".#44720;=NOU:"Position".#15680;]
+[GV=ADV:"knapp".#65656;]
+[GV=ADV:"vorbei".#106033;]
+[GA=ADV:"(";=ADJ:"75."."75.".#-1;=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GP=PRE:"Gegen"."gegen";=ART:"den"."der";=NOU:"Angstgegner".#21322;]
+[PV=VER:"versuchte"."versuchen".#120972;]
+[GN=GEO:"Deutschland".#12907079;]
+[GV=ADV:"noch einmal".#74486;]
+[GP=PRO:"alles"."all";]
+[GP=PRE:"auf"."auf".#-1;=ART:"eine"."ein";=NOU:"Karte".#100047883;]
+[PV=CON:"zu".#565251;=VER:"setzen".#157656;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"blieb dabei"."dabei bleiben".#118717;=ADJ:"lange"."lang".#66152;]
+[GP=PRE:"im"."in";=GEA:"Spiel".#12816695;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"da"."da".#-1;]
+[GN=NPH:"Diamanti".$100215627;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"78."."78.".#-1;]
+[??=PNT:")".")".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GN=ADJ:"di"."di".#-1;=NOU:"Natale"."Natale".#-1;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"82."."82.".#-1;]
+[??=PNT:")".")".#-1;]
+[GN=ADJ:"weitere"."weit".#30148;=NOU:"Torchancen"."Torchance".#8429;]
+[GA=ADV:"allzu".#20411;=ADJ:"nachlässig".#68537;]
+[PV=VER:"ausließen"."auslassen".#117041;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=NPH:"Kroos"."Kroo".$100215627;]
+[PV=VER:"setzte"."setzen".#173504;]
+[GN=ADJ:"zwei".#173625;=NOU:"Versuche"."Versuch".#100578508;]
+[GP=PRE:"aus"."aus".#-1;=ART:"der"."die";=ADJ:"zweiten"."zweite".#117172;=NOU:"Reihe".#525;]
+[GP=PRE:"an"."an".#-1;]
+[GP=GEO:"Italiens"."Italien".#13160565;]
+[GP=NOU:"Tor".#2410;]
+[GV=ADV:"vorbei".#106033;]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"80."."80.".#-1;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"86."."86.".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Zeit".#167948;]
+[PV=VER:"rann"."durchrinnen".#132335;]
+[GV=ADV:"immer mehr".#112306;=ADV:"davon".#130559;]
+[CN=CON:"und"."und".#-1;]
+[GN=ART:"der"."der".#-1;=ADJ:"vierfache"."vierfach".#172536;=NOU:"Weltmeister".#17663;]
+[PV=VER:"verteidigte"."verteidigen".#14053;=ADV:"ohne Fehl und Tadel".#499286;]
+[GP=PRO:"alles"."all";]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"was"."was".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Löw-Elf"."Löw-Elf".#-1;]
+[PV=ADV:"noch".#74484;=VER:"vorzubringen"."vorbringen".#13481;]
+[PV=VER:"hatte"."haben".#125724;]
+[??=PNT:"-"."-".#-1;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"in"."in".#-1;=ART:"die"."die".#-1;=NOU:"Nachspielzeit".#497358;]
+[GV=ADV:"hinein".#55204;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Dann"."dann".#130436;=VER:"verursachte"."verursachen".#14422;]
+[GN=ORG:"Balzaretti".$116334295;]
+[GN=ART:"einen"."ein";=NOU:"Handelfmeter".#501311;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"den"."der";=ORG:"Özil".$116334295;]
+[GP=PRE:"zum"."zu";=NOU:"Anschlusstreffer".#21779;]
+[PV=VER:"nutzen".#16870;=VER:"konnte"."können";]
+[??=PNT:"("."(".#-1;]
+[GV=ADV:"90."."90.".#-1;]
+[??=PNT:"+"."+".#-1;]
+[GA=ADJ:"2"."2".#-1;]
+[??=PNT:")".")".#-1;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Doch"."doch";]
+[PN=ADV:"da".#173213;=VER:"war"."sein".#12562;]
+[GN=ART:"die"."die".#-1;=NOU:"Messe".#100288514;]
+[PN=ADV:"schon".#87685;=ADJ:"gelesen".#596882;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=ADJ:"2:2"."2:2".#-1;=CON:"und"."und".#-1;=ART:"die"."die".#-1;=NOU:"Verlängerung".#118905;]
+[PV=VER:"blieben"."bleiben".#14281;]
+[GN=ADJ:"außer Reichweite".#590050;]
+[??=PNT:",".",".#-1;]
+[GV=PRE:"am Ende".#597325;]
+[PV=VER:"stand"."stehen".#124179;]
+[GN=ART:"das"."das".#-1;=ADJ:"bittere"."bitter".#128979;=NOU:"EM-Aus".$24025;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Damit"."damit".#32147;]
+[PV=VER:"bestreitet"."bestreiten".#42890;]
+[GN=GEO:"Italien".#13160565;]
+[GP=PRE:"am"."an";=ADJ:"kommenden"."kommend".#579509;=NOU:"Sonntag".#100000132;]
+[GP=PRE:"um"."um".#-1;=HOU:"20:45".$100025235;]
+[GP=PRE:"in"."in".#-1;=GEO:"Kiew".#10699311;]
+[GN=ART:"das"."das".#-1;=NOU:"Finale".#5797;]
+[GP=PRE:"gegen"."gegen".#-1;=NOU:"Weltmeister".#17663;=NPH:"Spanien".$100215627;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=NOU:"Duell".#35007;]
+[PV=VER:"hatte"."haben";=PRO:"es"."es".#-1;]
+[GV=ADV:"zu Beginn".#588590;]
+[GP=ART:"des"."das";=NOU:"Turniers"."Turnier".#100500834;]
+[GP=PRE:"in"."in".#-1;=NOU:"Gruppe".#67204;=NOU:"C"."c".#117757;]
+[PV=ADV:"bereits".#87685;=VER:"gegeben"."geben".#15231;]
+[??=PNT:".".".".#-1;]
+[CL]
+[PV=ADV:"Damals"."damals".#35928;=VER:"trennten"."trennen".#15863;=PRO:"sich"."er";]
+[GN=ADJ:"beide".#169688;=NOU:"Rivalen"."Rivale".#14465;]
+[GP=PRE:"in"."in".#-1;=PRO:"einem"."ein";=ART:"der"."die";=ADJ:"besten"."gut".#29675;=NOU:"EM".#40326;=PNT:"-"."-".#-1;=NOU:"Spiele"."Spiel".#100011410;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"1:1"."1:1".#-1;=PNT:"-"."-".#-1;=NOU:"Unentschieden".#111582038;]
+[??=PNT:".".".".#-1;]
+
+SBJ=0:5;SBJ=10:9;SBJ=16:15;SBJ=16:23;OBJ=22:23;SBJ=27:26;SBJ=31:33;SBJ=31:36;APH=558:41;SBJ=41:42;SBJ=-52:50;SBJ=61:60;SBJ=63:64;SBJ=66:67;SBJ=71:72;OBJ=76:72;SBJ=79:80;SBJ=84:87;SBJ=89:90;SBJ=107:103;OBJ=108:103;SBJ=107:112;SBJ=113:116;SBJ=118:119;OBJ=120:119;APH=123:121;SBJ=121:126;SBJ=128:129;OBJ=130:129;SBJ=134:135;OBJ=148:147;SBJ=156:157;SBJ=161:162;SBJ=169:168;OBJ=170:168;SBJ=177:174;OBJ=179:174;SBJ=181:183;OBJ=185:183;SBJ=192:193;OBJ=194:193;SBJ=203:202;SBJ=205:208;SBJ=205:210;OBJ=211:210;SBJ=216:215;OBJ=214:215;SBJ=216:220;OBJ=221:222;SBJ=227:228;SBJ=233:234;SBJ=238:240;SBJ=242:243;OBJ=244:243;SBJ=242:247;SBJ=255:258;CPL=257:258;SBJ=255:262;SBJ=264:265;SBJ=268:269;SBJ=276:277;SBJ=282:283;CPL=285:283;SBJ=289:290;SBJ=297:300;SBJ=304:305;SBJ=308:309;SBJ=308:312;SBJ=308:318;SBJ=308:321;SBJ=326:327;OBJ=329:327;SBJ=333:334;OBJ=335:334;SBJ=333:337;SBJ=348:347;SBJ=352:353;OBJ=355:353;SBJ=359:358;OBJ=361:358;SBJ=364:366;OBJ=365:366;SBJ=374:375;OBJ=376:375;SBJ=379:380;SBJ=386:383;OBJ=391:383;SBJ=-49:399;SBJ=329:401;OBJ=402:401;SBJ=329:405;SBJ=415:416;SBJ=420:421;OBJ=422:421;SBJ=420:425;OBJ=426:425;CPL=427:425;SBJ=430:433;SBJ=430:435;SBJ=437:440;OBJ=438:440;SBJ=450:451;SBJ=456:455;SBJ=465:466;SBJ=471:472;OBJ=473:472;SBJ=480:481;OBJ=482:481;SBJ=490:491;SBJ=493:500;SBJ=499:500;OBJ=499:500;SBJ=512:513;SBJ=525:520;OBJ=526:520;SBJ=531:532;SBJ=537:539;SBJ=543:542;SBJ=545:547;OBJ=546:547;SBJ=545:552;OBJ=550:552;SBJ=41:557;OBJ=560:557;SBJ=567:571;CPL=572:571;SBJ=578:577;OBJ=580:577;SBJ=582:583;SBJ=582:588;SBJ=592:595;OBJ=594:595;SBJ=614:625;SBJ=619:625;OBJ=619:625;SBJ=627:628;OBJ=629:628;SBJ=627:642;SBJ=645:646;APH=649:647;SBJ=647:651;OBJ=650:651;SBJ=-49:652;SBJ=659:658;OBJ=660:658;SBJ=662:664;SBJ=673:674;CPL=678:677;SBJ=682:681;SBJ=687:686;OBJ=691:686;SBJ=694:699;SBJ=702:701;APH=400:329;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Disambiguation	0	56	13	VER	ausscheiden	ausgeschieden	120714	False	9				 	120715
+Missing Concept	1	97	7	NOU	Löw-Elf	Löw-Elf	-1	False	16				 	5462
+Wrong Grammar	1	109	3	ADJ	0:2	0:2	-1	False	18				 	
+Wrong Disambiguation	1	138	9	NOU		Rückstand	119748	False	23				 	119749
+Wrong Disambiguation	1	152	8	VER	schaffen	schaffte	14085	False	25				 	16902
+Wrong Grammar	2	164	3	ADV		bis	28941	False	27				 	
+Wrong Disambiguation	1	238	9	NOU		Rückstand	110563	False	37				 	119748
+Wrong Disambiguation	0	248	4	ADV		noch	74484	False	38				 	
+Wrong Disambiguation	1	253	13	VER	ausgleichen	auszugleichen	14870	False	39				 	14864
+Wrong Disambiguation	1	289	9	VER	verkürzen	verkürzte	103744	False	44				 	14864
+Wrong Disambiguation	1	345	12	NOU		Verlängerung	118905	False	54				 	118899
+Wrong Disambiguation	1	452	6	VER	setzen	setzte	157668	False	68				 	
+Wrong Disambiguation	1	462	9	NOU		Vergleich	121061	False	70				 	
+Wrong Grammar	1	476	3	ADJ	4:2	4:2	-1	False	72				 	
+Wrong Grammar	1	476	3	ADJ	4:2	4:2	-1	False	72				 	
+Missing Concept	0	525	10	NOU	Änderung	Änderungen	2785	False	79				 	
+Wrong Recognition	2	537	8	NOU		Podolski	100172226	True	81				 	
+Wrong Entity Type	1	550	5	PRD		Gomez	59	True	83			NPH	 	
+Wrong Disambiguation	0	556	7	VER	zurückkehren	kehrten	174022	False	84				 	
+Wrong Entity Type	1	568	8	NPR	Schürrle	Schürrle	-1	False	86			NPH	 	
+Wrong Entity Type	1	581	5	NPR	Klose	Klose	-1	False	88			NPH	 	
+Wrong Disambiguation	1	634	7	VER	spielen	spielte	158429	False	98				 	158433
+Missing Entity	1	653	4	NOU	Reus	Reus	-1	False	102			NPH	 	
+Wrong Disambiguation	1	658	10	VER	verdrängen	verdrängte	17073	False	103				 	158433
+Wrong Disambiguation	1	677	10	NOU		Mittelfeld	117625	False	106				 	104981213
+Wrong Grammar	1	746	3	ADJ	4:2	4:2	-1	False	115				 	
+Wrong Disambiguation	0	790	7	NOU		Wechsel	19147	False	121				 	166647
+Wrong Disambiguation	1	813	3	VER	kommen	kam	596963	False	125				 	
+Wrong Disambiguation	1	817	4	PRE		nach	562279	False	126				 	
+Missing Concept	0	822	12	ADJ	ausgeheilt	ausgeheilter		True	127				 	
+Missing Entity	1	853	5	NOU		Abate	18216	False	132			NPH	 	
+Wrong Disambiguation	1	886	6	VER		passen	151059	False	136				 	173340
+Wrong Entity Type	1	894	10	ORG		Balzaretti	116334295	True	138			NPH	 	
+Missing Concept	1	905	8	VER	rutschen	rutschte	15621	False	139				 	
+Wrong Recognition	0	925	6	NPR	Links-	Links-	-1	False	143				 	
+Missing Concept	0	940	25	NOU		Rechtsverteidigerposition	104164871	True	146				 	
+Wrong Recognition	1	970	4	VER	gehen	ging	14248	False	149		losgehen		 	14161
+Wrong Entity Type	0	0	11	GEO		Deutschland	12907079	False	1				 	
+Wrong Entity Type	0	48	7	GEO		Italien	13160565	False	8				 	
+Wrong Entity Type	0	503	12	GEO		Griechenland	10387796	False	76				 	
+Wrong Entity Type	0	700	8	GEO	Italien	Italiens	13160565	False	109				 	
+Wrong Entity Type	0	776	7	GEO		England	16240305	False	119				 	
+Wrong Entity Type	0	1007	12	GEO	Deutschland	Deutschlands	12907079	False	156				 	
+Wrong Disambiguation	1	1037	6	VER	gewinnen	gewann	15798	False	159				 	138391
+Wrong Entity Type	0	1050	8	GEO	Italien	Italiens	13160565	False	161				 	
+Missing Entity	1	1066	6	NOU	Buffon	Buffon	-1	False	163			NPH	 	
+Wrong Disambiguation	0	1091	4	ADV		auch	173912	False	167				 	23235
+Wrong Disambiguation	1	1150	5	NOU		Brust	100009645	False	179				 	41313
+Wrong Disambiguation	0	1200	4	VER	finden	fand	16126	False	188				 	
+Wrong Disambiguation	1	1217	5	ADJ	viel	viele	173025	False	190				 	173024
+Wrong Disambiguation	0	1223	6	NOU	Lücke	Lücken	118895	False	191				 	
+Missing Concept	1	1277	6	ADJ	erste	ersten	20255	False	200				 	
+Missing Entity	1	1302	7	NOU	Hummel	Hummels	100025407	False	204			NPH	 	
+Wrong Disambiguation	1	1359	3	NOU		Tor	2410	False	212				 	
+Wrong Recognition	2	1416	2	NPR	REXX	Ex	100685820	False	225				 	
+Wrong Entity Type	1	1431	8	NPR	Barzagli	Barzagli	-1	False	228			NPH	 	
+Wrong Disambiguation	1	1452	4	PRE		nach	562279	False	231				 	
+Wrong Disambiguation	0	1498	5	NOU		Glück	120388	False	238				 	120481
+Wrong Disambiguation	1	1505	6	VER	lenken	lenkte	15399	False	240				 	
+Missing Entity	1	1530	6	NOU	Buffon	Buffon	-1	False	244			NPH	 	
+Wrong Disambiguation	1	1537	5	ADV		knapp	65656	False	245				 	
+Wrong Disambiguation	0	1575	4	ADV		auch	173912	False	254				 	
+Wrong Disambiguation	1	1586	6	VER	schießen	schoss	16295	False	256				 	117953
+Missing Entity	1	1602	7	NOU	Buffons	Buffons	-1	False	259			NPH	 	
+Wrong Recognition	2	1610	6	NPR	Fauststoff	Fäuste	100332885	False	260				 	
+Wrong Recognition	1	1617	7	VER	wehren	wehrten	16939	False	261		abwehren		 	129152
+Missing Concept	0	1635	7	ADV	langsam	Langsam	596325	False	267		langsam aber sicher		 	173195
+Wrong Disambiguation	1	1655	5	VER	ablegen	legte	17731	False	270				 	17729
+Missing Concept	0	1694	6	ADJ	erste	ersten	20255	False	276				 	
+Wrong Disambiguation	1	1716	6	VER	setzen	setzte	157667	False	280				 	
+Wrong Grammar	0	1723	8	PRE	zunächst	zunächst	-1	False	281				 	
+Wrong Disambiguation	1	1740	7	NOU		Distanz	131343	False	284				 	
+Missing Concept	0	1748	5	ADJ		erste	20255	False	285				 	
+Wrong Disambiguation	0	1754	9	NOU	Warnung	Warnungen	118769	False	286				 	3429
+Wrong Disambiguation	0	1767	8	NOU		Richtung	102151613	False	288				 	
+Missing Entity	1	1784	5	NOU	Neue	Neuer	118119757	False	290			NPH	 	
+Missing Entity	1	1865	8	NOU	Cass	Cassanos		True	306				 	
+Wrong Grammar	2	1886	6	VER	rechen	rechte	139730	False	309				 	
+Wrong Disambiguation	1	1893	3	NOU		Eck	500893	False	310				 	35736
+Wrong Grammar	1	1917	4	PRE	über	Über	596948	False	317				 	
+Missing Concept	1	1926	6	ADJ	link	linken	28062	False	319				 	
+Wrong Disambiguation	1	1933	6	NOU		Flügel	2353	False	320				 	
+Wrong Disambiguation	0	1940	6	VER	drohen	drohte	16517	False	321				 	16512
+Wrong Recognition	1	1962	7	ADJ	weit	weitere	66152	False	324		weiter		 	19517
+Missing Concept	0	1997	10	VER	aufrücken	aufgerückt	125626	False	330				 	
+Wrong Disambiguation	1	2040	5	NOU		Seite	30	False	337				 	
+Wrong Disambiguation	0	2053	3	VER	ziehen	zog	14561	False	340				 	141897
+Wrong Disambiguation	0	2099	4	VER	lassen	ließ	112452	False	347				 	
+Wrong Disambiguation	1	2108	6	NOU		Flügel	2353	False	349				 	2365
+Missing Concept	0	2115	8	VER	verwaisen	verwaist	104828	False	350				 	
+Missing Entity	1	2151	7	NPR	Cassano	Cassano	-1	False	357			NPH	 	
+Wrong Disambiguation	1	2193	11	ADJ	geschickt	geschickten	562311	False	364				 	
+Missing Entity	1	2225	7	NOU	Hummel	Hummels	100025407	False	368			NPH	 	
+Wrong Grammar	0	2246	7	ADV	zu spät	zu spät	-1	False	372				 	
+Wrong Disambiguation	1	2269	6	NOU		Flanke	101427103	False	376				 	132791
+Wrong Recognition	1	2280	9	NOU		Balotelli	117524964	True	378			NPH	 	
+Wrong Disambiguation	0	2335	10	VER	abschütteln	schüttelte	117030	False	385				 	122305
+Missing Entity	1	2346	9	NOU		Badstuber	12246	True	386			NPH	 	
+Missing Concept	0	2370	9	ADV	unhaltbar	unhaltbar	-1	False	390				 	
+Wrong Grammar	1	2384	3	ADJ	1:0	1:0	-1	False	392				 	
+Wrong Entity Type	0	2392	7	GEO		Italien	13160565	False	394				 	
+Wrong Recognition	0	2400	3	ADV		ein	36248	False	395				 	
+Wrong Disambiguation	1	2400	3	ADV		ein	36248	False	395				 	
+Wrong Entity Type	1	2411	4	ORG		Özil	116334295	True	400			NPH	 	
+Wrong Entity Type	1	2417	20	COM		Schweinsteiger & Co.	104830453	True	402				 	
+Missing Concept	1	2438	8	VER	scheinen	schienen	14275	False	403				 	
+Wrong Disambiguation	0	2460	6	NOU		Schock	16921	False	407				 	73965
+Wrong Disambiguation	0	2478	7	VER		erholen	117312	False	410				 	117315
+Missing Entity	1	2487	6	NOU	Buffon	Buffon	-1	False	412				 	
+Wrong Disambiguation	1	2494	5	VER	bleiben	blieb	129080	False	413				 	15336
+Wrong Entity Type	1	2520	4	ORG		Özil	116334295	True	417			NPH	 	
+Wrong Disambiguation	1	2525	6	VER	schießen	schoss	155660	False	418				 	
+Missing Concept	1	2543	5	ADJ	link	linke	28062	False	421				 	
+Wrong Disambiguation	0	2556	3	NOU		Eck	500893	False	423				 	35736
+Wrong Disambiguation	1	2573	6	VER	schießen	schoss	16295	False	429				 	
+Missing Concept	1	2588	6	ADV		vorbei	106033	False	432				 	
+Wrong Recognition	2	2602	8	NOU		Podolski	100172226	True	437			NPH	 	
+Wrong Disambiguation	1	2615	4	PRE		nach	562279	False	439				 	
+Wrong Disambiguation	1	2634	6	NOU		Flanke	101427103	False	443				 	132791
+Missing Concept	0	2688	7	ADV	mächtig	mächtig	-1	False	453				 	
+Missing Concept	1	2704	5	ADJ	link	linke	28062	False	456				 	
+Wrong Disambiguation	0	2716	3	NOU		Eck	500893	False	458				 	35736
+Wrong Disambiguation	1	2732	9	NOU		Ausgleich	126275	False	464				 	126277
+Wrong Disambiguation	0	2742	4	ADV		noch	74484	False	465				 	
+Wrong Disambiguation	1	2802	4	ADV		noch	74484	False	476				 	
+Wrong Disambiguation	1	2807	6	ADJ	dick	dicker	33457	False	477				 	
+Wrong Entity Type	0	2815	7	GEO		Italien	13160565	False	479				 	
+Wrong Recognition	1	2835	6	ADJ	weit	weiter	66152	False	482		weiter	ADV	 	166901
+Wrong Recognition	1	2877	8	ADJ	weit	weiteren	66152	False	489				 	
+Wrong Disambiguation	1	2909	4	VER	gehen	ging	14248	False	496				 	
+Wrong Recognition	1	2937	9	NOU		Balotelli	117524964	True	501			NPH	 	
+Wrong Grammar	2	2947	3	VER	garen	gar	137344	False	502				 	
+Wrong Grammar	1	2955	3	ADJ	2:0	2:0	-1	False	504				 	
+Wrong Entity Type	1	2969	10	NPR	Montolivo	Montolivos	12605268	True	507			NPH	 	
+Wrong Disambiguation	1	2981	9	ADJ	tödlich	tödliches	97210	False	509				 	97211
+Wrong Entity Type	0	3005	12	GEO	Deutschland	Deutschlands	12907079	False	513				 	
+Missing Concept	0	3025	7	ADV	hilflos	hilflos	-1	False	515				 	
+Missing Concept	0	3053	8	NOU		Legionär	10364	False	521				 	
+Wrong Disambiguation	1	3083	6	VER	dreschen	drosch	17570	False	525				 	117952
+Missing Entity	1	3111	5	NOU	Neue	Neuer	118119757	False	530			NPH	 	
+Wrong Disambiguation	0	3117	6	ADV		vorbei	106033	False	531				 	
+Missing Concept	0	3131	7	NOU	Masche	Maschen	100131916	False	534				 	
+Wrong Recognition	1	3150	11	VER	dabei bleiben	dabei blieb	118717	False	540				 	
+Wrong Grammar	2	3165	3	ADV		bis	28941	False	542				 	
+Wrong Entity Type	0	3180	7	GEO		Italien	13160565	False	546				 	
+Wrong Disambiguation	0	3188	5	VER	haben	hatte	12561	False	547				 	13076
+Wrong Grammar	0	3194	3	CON	nun	nun	-1	False	548				 	
+Missing Concept	1	3198	10	NOU		Oberwasser	75106	False	549				 	
+Wrong Disambiguation	1	3223	6	VER	fehlen	fehlte	135477	False	553				 	119342
+Wrong Disambiguation	1	3230	5	NOU		Linie	15593	False	554				 	
+Wrong Disambiguation	0	3240	8	NOU		Klarheit	144646	False	556				 	
+Missing Concept	0	3274	5	ADJ		erste	20255	False	562				 	
+Missing Concept	0	3280	6	NOU		Hälfte	118415	False	563				 	
+Wrong Entity Type	1	3316	4	GEO		Reus	13097614	False	570			NPH	 	
+Wrong Entity Type	1	3325	5	NPR	Klose	Klose	-1	False	572			NPH	 	
+Missing Entity	1	3333	6	NOU	Buffon	Buffon	-1	False	574			NPH	 	
+Wrong Entity Type	1	3424	4	GEO		Reus	13097614	False	587			NPH	 	
+Wrong Entity Type	1	3433	5	NPR	Klose	Klose	-1	False	589			NPH	 	
+Wrong Entity Type	0	3452	12	GEO		Griechenland	10387796	False	593				 	
+Wrong Disambiguation	0	3465	4	ADV		noch	74484	False	594				 	
+Wrong Entity Type	1	3487	5	PRD		Gomez	59	True	598			NPH	 	
+Missing Entity	1	3497	8	NOU		Podolski	100172226	True	600			NPH	 	
+Wrong Disambiguation	1	3556	6	VER	zeigen	zeigte	15133	False	609				 	14279
+Missing Concept	0	3568	13	ADV	selbstbewusst	selbstbewusst	-1	False	611				 	
+Wrong Grammar	0	3591	3	CON	nun	nun	-1	False	614				 	
+Wrong Disambiguation	0	3606	8	ADV	direkt	direkter	33810	False	617				 	
+Wrong Entity Type	0	3645	7	GEO		Italien	13160565	False	624				 	
+Wrong Disambiguation	1	3653	5	VER	stehen	stand	32369	False	625				 	
+Wrong Disambiguation	1	3672	5	NOU		Druck	169131	False	628				 	
+Wrong Entity Type	1	3679	4	GEO		Reus	13097614	False	630				 	
+Wrong Disambiguation	1	3702	8	NOU		Position	15680	False	634				 	
+Wrong Recognition	1	3717	9	ADV		mit links	120605	False	637				 	
+Wrong Disambiguation	1	3742	4	ADJ		voll	120598	False	641				 	
+Wrong Grammar	0	3763	3	PRE	mit	mit	-1	False	648				 	
+Wrong Disambiguation	1	3767	10	VER	aufrücken	aufgerückt	125626	False	649				 	
+Missing Concept	1	3808	6	ADJ	recht	rechte	84908	False	656				 	
+Wrong Disambiguation	0	3815	3	NOU		Eck	500893	False	657				 	
+Wrong Disambiguation	1	3823	6	VER	verziehen	verzog	15505	False	659				 	
+Wrong Disambiguation	1	3830	5	ADV		knapp	65656	False	660				 	
+Wrong Disambiguation	1	3850	4	VER	gehen	ging	15626	False	666				 	
+Wrong Entity Type	1	3885	4	ORG		Özil	116334295	True	674			NPH	 	
+Wrong Disambiguation	1	3902	12	NOU	Kontrahent	Kontrahenten	14452	False	678				 	119063
+Wrong Disambiguation	1	3923	7	VER	bringen	brachte	14085	False	681				 	16902
+Wrong Entity Type	1	3993	5	NPR	Klose	Klose	-1	False	694			NPH	 	
+Wrong Disambiguation	0	3999	4	VER	wiederfinden	fand	167269	False	695				 	167267
+Wrong Disambiguation	0	4014	6	ADJ	fein	feinem	120540	False	698				 	
+Wrong Disambiguation	0	4074	4	NOU		Rund	119091	False	707				 	
+Wrong Disambiguation	0	4105	4	NOU	Eck	Ecke	500893	False	710				 	
+Missing Entity	1	4117	6	NOU	Buffon	Buffon	-1	False	715			NPH	 	
+Wrong Entity Type	1	4175	4	GEO		Reus	13097614	False	721			NPH	 	
+Wrong Disambiguation	0	4238	7	VER	bringen	brachte	14085	False	733				 	
+Wrong Entity Type	1	4263	7	NPR	Cassano	Cassano	-1	False	737			NPH	 	
+Missing Entity	1	4281	9	NOU		Balotelli	117524964	True	742			NPH	 	
+Wrong Disambiguation	1	4291	6	VER	schießen	schoss	21761	False	743				 	
+Wrong Grammar	1	4321	6	ADJ	neu	Neuers	30000	False	748			NPH	 	
+Wrong Disambiguation	1	4328	3	NOU		Tor	2410	False	749				 	
+Missing Concept	1	4332	6	ADV		vorbei	106033	False	750				 	
+Wrong Entity Type	0	4346	8	GEO	Italien	Italiens	13160565	False	755				 	
+Missing Concept	0	4355	6	ADJ	erste	erstes	20255	False	756				 	
+Wrong Entity Type	0	4389	12	GEO	Deutschland	Deutschlands	12907079	False	760				 	
+Wrong Disambiguation	1	4419	5	NOU		Mitte	2282	False	763				 	118821
+Wrong Disambiguation	0	4444	6	ADV		wieder	74486	False	767				 	
+Wrong Entity Type	0	4455	7	GEO		Italien	13160565	False	770				 	
+Wrong Recognition	1	4463	8	VER	schöpfen	schöpfte	156595	False	771		ausschöpfen		 	126803
+Wrong Grammar	1	4548	8	ADJ	ersetzt	ersetzte		True	780				 	
+Wrong Entity Type	1	4557	9	NOU		Montolivo	12605268	True	781			NPH	 	
+Missing Entity	1	4574	9	NOU		Balotelli	117524964	True	786			NPH	 	
+Missing Concept	1	4584	4	VER	leiden	litt		True	787				 	
+Wrong Grammar	1	4589	9	VER	erschöpfen	erschöpft	13188	False	788				 	
+Wrong Entity Type	0	4622	6	GEO	Udine	Udines	13150305	False	793				 	
+Missing Concept	1	4629	14	NOU		Torjäger-Oldie	75497	True	794				 	
+Missing Entity	1	4647	6	NOU	Natale	Natale	-1	False	796		di Natale	NPH	 	
+Wrong Disambiguation	1	4654	7	VER		weichen	15102	False	797				 	501228
+Wrong Grammar	0	4663	2	CON	so	So		True	799				 	
+Wrong Disambiguation	1	4666	4	VER	leiden	litt	13807	False	800				 	
+Wrong Disambiguation	1	4706	9	VER	schaffen	schafften	14085	False	806				 	
+Wrong Disambiguation	1	4739	3	NOU		Tor	2410	False	812				 	
+Missing Entity	1	4781	6	NOU		Müller	100694116	False	819			NPH	 	
+Wrong Disambiguation	1	4792	11	NOU		Verteidiger	100512345	False	821				 	
+Wrong Disambiguation	0	4837	4	ADV		dann	130436	False	826				 	
+Wrong Disambiguation	1	4893	3	NOU		Weg	121136	False	838				 	
+Missing Entity	1	4901	7	NOU	Buffons	Buffons	-1	False	840			NPH	 	
+Wrong Disambiguation	1	4909	3	NOU		Tor	2410	False	841				 	
+Missing Concept	0	4931	9	ADV	schwierig	schwierig	-1	False	845				 	
+Wrong Grammar	0	4979	3	CON	nun	nun	-1	False	853				 	
+Missing Entity	1	5015	9	NOU	March	Marchisio		True	857			NPH	 	
+Wrong Disambiguation	1	5025	5	VER	stehen	stand	159246	False	858				 	
+Wrong Disambiguation	1	5031	4	ADJ		frei	44463	False	859				 	
+Wrong Disambiguation	0	5036	3	PRE		vor	596943	False	860				 	
+Missing Entity	1	5040	5	NOU	Neue	Neuer	74163	False	861				 	
+Wrong Grammar	0	5051	3	ADJ	3:0	3:0	-1	False	864				 	
+Wrong Disambiguation	1	5055	6	VER	scheinen	schien	117664	False	865				 	
+Wrong Disambiguation	2	5068	8	VER		gefallen	16350	False	867				 	
+Wrong Disambiguation	1	5087	6	NOU		Nummer	309	False	871				 	
+Missing Entity	0	5103	9	NOU		Italiener	7205	False	874				 	
+Wrong Disambiguation	1	5113	6	VER	schießen	schoss	155653	False	875				 	117953
+Wrong Disambiguation	1	5124	6	ADJ	gut	bester	44720	False	877				 	139252
+Wrong Disambiguation	1	5131	8	NOU		Position	15680	False	878				 	
+Wrong Disambiguation	1	5140	5	ADV		knapp	65656	False	879				 	
+Wrong Disambiguation	1	5146	6	ADV		vorbei	106033	False	880				 	
+Wrong Entity Type	1	5192	11	GEO		Deutschland	12907079	False	889				 	
+Missing Concept	1	5231	5	NOU		Karte	100047883	False	894				 	
+Wrong Disambiguation	1	5240	6	VER		setzen	157656	False	896				 	
+Wrong Recognition	1	5251	11	VER	dabei bleiben	blieb dabei	118717	False	898				 	
+Wrong Disambiguation	1	5263	5	ADJ	lang	lange	66152	False	899				 	
+Wrong Recognition	2	5272	5	GEA		Spiel	12816695	False	901				 	
+Missing Entity	1	5304	6	NOU	Natale	Natale	-1	False	910		di Natale	NPH	 	
+Wrong Recognition	1	5317	7	ADJ	weit	weitere	30148	False	914				 	
+Wrong Disambiguation	1	5370	6	VER	setzen	setzte	173504	False	921				 	
+Missing Concept	1	5407	5	NOU		Reihe	525	False	927				 	
+Wrong Entity Type	0	5416	8	GEO	Italien	Italiens	13160565	False	929				 	
+Wrong Disambiguation	1	5425	3	NOU		Tor	2410	False	930				 	
+Wrong Disambiguation	1	5429	6	ADV		vorbei	106033	False	931				 	
+Wrong Grammar	0	5154	3	ADJ	75.	75.	-1	False	882				 	
+Wrong Grammar	0	5292	3	ADV	78.	78.	-1	False	906				 	
+Wrong Grammar	0	5437	3	ADV	80.	80.	-1	False	933				 	
+Wrong Grammar	0	5442	3	ADV	86.	86.	-1	False	935				 	
+Wrong Grammar	0	5312	3	ADV	82.	82.	-1	False	912				 	
+Wrong Grammar	0	4568	3	ADV	63.	63.	-1	False	783				 	
+Wrong Grammar	0	4340	3	ADJ	60.	60.	-1	False	752				 	
+Wrong Grammar	0	4272	3	ADV	57.	57.	-1	False	739				 	
+Wrong Grammar	0	1407	2	ADV	5.	5.	-1	False	221				 	
+Wrong Grammar	0	1566	3	ADJ	12.	12.	-1	False	251				 	
+Wrong Grammar	0	1850	3	ADV	17.	17.	-1	False	301				 	
+Wrong Grammar	0	1898	3	ADV	18.	18.	-1	False	312				 	
+Wrong Grammar	0	1629	3	ADJ	13.	13.	-1	False	264				 	
+Wrong Grammar	0	2405	3	ADJ	20.	20.	-1	False	397				 	
+Wrong Grammar	0	2561	3	ADV	27.	27.	-1	False	425				 	
+Wrong Grammar	0	2664	3	ADJ	33.	33.	-1	False	448				 	
+Wrong Grammar	0	2721	3	ADV	35.	35.	-1	False	460				 	
+Wrong Grammar	0	2596	3	ADJ	30.	30.	-1	False	434				 	
+Wrong Grammar	0	2900	3	ADJ	34.	34.	-1	False	493				 	
+Wrong Grammar	0	3837	3	ADJ	49.	49.	-1	False	662				 	
+Wrong Grammar	0	3140	3	ADV	36.	36.	-1	False	536				 	
+Wrong Grammar	0	3748	3	ADJ	48.	48.	-1	False	643				 	
+Wrong Grammar	0	4878	3	ADV	71.	71.	-1	False	833				 	
+Wrong Grammar	0	4215	3	ADV	61.	61.	-1	False	729				 	
+Wrong Grammar	0	3987	3	ADV	55.	55.	-1	False	691				 	
+Wrong Disambiguation	1	5452	4	NOU		Zeit	167948	False	939				 	
+Wrong Recognition	1	5457	4	VER	durchrinnen	rann	132335	False	940				 	
+Wrong Disambiguation	1	5509	11	VER	verteidigen	verteidigte	14053	False	947				 	
+Wrong Recognition	0	5556	7	NOU	Löw-Elf	Löw-Elf	-1	False	953				 	
+Wrong Disambiguation	1	5569	12	VER	vorbringen	vorzubringen	13481	False	955				 	
+Wrong Disambiguation	1	5582	5	VER	haben	hatte	125724	False	956				 	
+Wrong Disambiguation	2	5590	3	ADV		bis	28941	False	958				 	
+Wrong Entity Type	1	5640	10	ORG		Balzaretti	116334295	True	966			NPH	 	
+Wrong Entity Type	1	5675	4	ORG		Özil	116334295	True	971			NPH	 	
+Wrong Grammar	0	5716	3	ADV	90.	90.	-1	False	977				 	
+Wrong Grammar	0	5721	1	ADJ	2	2	-1	False	0				 	
+Wrong Disambiguation	0	5741	5	NOU		Messe	100288514	False	0				 	
+Wrong Disambiguation	0	5733	3	VER	sein	war	12562	False	0				 	
+Wrong Grammar	0	5753	7	ADJ		gelesen	596882	False	0				 	
+Wrong Grammar	0	5766	3	ADJ	2:2	2:2	-1	False	0				 	
+Wrong Disambiguation	0	5778	12	NOU		Verlängerung	118905	False	0				 	
+Wrong Disambiguation	1	5825	5	VER	stehen	stand	124179	False	0				 	
+Wrong Disambiguation	0	5835	7	ADJ	bitter	bittere	128979	False	0				 	
+Wrong Disambiguation	1	5857	10	VER	bestreiten	bestreitet	42890	False	0				 	
+Wrong Entity Type	0	5868	7	GEO		Italien	13160565	False	0				 	
+Wrong Entity Type	1	5943	7	NPH		Spanien	100215627	True	0				 	
+Wrong Disambiguation	0	5997	6	NOU		Gruppe	67204	False	0				 	
+Wrong Disambiguation	1	6030	8	VER	trennen	trennten	15863	False	0				 	15851
+Missing Concept	0	6044	5	ADJ		beide	169688	False	0				 	
+Wrong Disambiguation	0	6071	6	ADJ	gut	besten	29675	False	0				 	173295
+Wrong Disambiguation	1	6081	6	NOU	Spiel	Spiele	100011410	False	0				 	562226
+Wrong Entity Type	1	299	4	ORG		Özil	116334295	True	0			NPH	 	
+Wrong Grammar	0	4111	3	ADV	56.	56.	-1	False	0				 	

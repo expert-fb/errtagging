@@ -428,8 +428,8 @@ SBJ=2:3;OBJ=4:3;SBJ=9:13;OBJ=15:18;SBJ=21:25;OBJ=20:25;SBJ=29:28;APH=38:36;SBJ=3
 Wrong Disambiguation	0	17	18	NOU		Zivilschutzkonzept	4781	True	3				 	4476
 Wrong Disambiguation	0	139	4	ADV		aber	74486	False	20				 	
 Wrong Disambiguation	0	282	18	NOU		Zivilschutzkonzept	4781	True	40				 	
-Wrong Grammar	1	306	9	ADJ		verändert	170603	False	43				 	
-Wrong Grammar	1	357	3	PRO	Katastrophe	was	117768	False	50				 	
+Wrong Grammar	1	306	9	ADJ		verändert	170603	False	43			VER	 	
+Wrong Disambiguation	1	357	3	PRO	Katastrophe	was	117768	False	50				 	
 Wrong Disambiguation	1	379	12	NOU		Angriffsfall	114944328	True	54				 	16321
 Wrong Disambiguation	0	443	6	VER		rüsten	154700	False	64				 	16089
 Wrong Recognition	1	470	6	VER	leiten	leitet	15399	False	68		einleiten		 	17682
@@ -442,7 +442,7 @@ Wrong Disambiguation	0	675	3	PRO	Zivilschutz	was	111861	False	106				 
 Wrong Disambiguation	1	756	9	VER	aktivieren	aktiviert	122991	False	120				 	14965
 Wrong Disambiguation	1	789	6	NOU		Stelle	1111	False	125				 	173007
 Wrong Disambiguation	1	817	10	NOU		Unterpunkt	163364	False	130				 	101772
-Wrong Grammar	1	867	3	ART	der	dem		True	137				 	
+Wrong Grammar	1	867	3	ART	der	dem		True	137			PRO	 	
 Wrong Disambiguation	1	877	6	ADJ	zivil	zivile	26534	False	140				 	111816
 Wrong Disambiguation	0	925	4	NOU		Fall	114944328	False	148				 	16321
 Wrong Disambiguation	1	930	4	VER	gehen	geht	117721	False	149				 	117745
@@ -452,7 +452,7 @@ Missing Entity	1	1118	3	ADV	dpa	dpa	-1	False	176				 
 Wrong Recognition	1	1132	15	MMD		Stichpunkt Post	100011033	True	179				 	
 Wrong Disambiguation	1	1167	7	ADJ	sicher	sichere	90152	False	185				 	157630
 Wrong Disambiguation	1	1366	41	NOU	Telekommunikationssicherstellungsgesetz	Telekommunikationssicherstellungsgesetzes	116849074	True	210				 	100049371
-Wrong Grammar	1	1432	3	PRO	die	die	-1	False	216				 	
+Wrong Grammar	1	1432	3	PRO	die	die	-1	False	216			ART	 	
 Wrong Disambiguation	1	1508	7	VER	denken	gedacht	12707	False	225				 	13002
 Wrong Disambiguation	1	1591	25	NOU		Heranziehungsorganisation	14592	True	237				 	14596
 Wrong Disambiguation	1	1934	4	ADV		mehr	70026	False	280				 	121258
@@ -462,20 +462,20 @@ Wrong Disambiguation	0	1972	4	ADV		aber	74486	False	287				 
 Wrong Disambiguation	0	1977	9	ADV		weiterhin	98967	False	288				 	108430
 Wrong Disambiguation	0	2050	6	ADV		wieder	74486	False	298				 	167250
 Wrong Disambiguation	1	2129	12	NOU		Angriffsfall	114944328	True	310				 	16321
-Wrong Grammar	0	2243	4	ADJ	tag_numero	erst		True	324				 	
-Wrong Grammar	1	2304	3	PRO	der	des		True	335				 	
+Wrong Grammar	0	2243	4	ADJ	tag_numero	erst		True	324			ADV	 	
+Wrong Grammar	1	2304	3	PRO	der	des		True	335			ART	 	
 Wrong Recognition	1	2331	4	VER	absehen	sehe	122330	False	338		sehen		 	12682
 Wrong Entity Type	0	2406	31	PRD		Konzeption Zivile Verteidigung"	64	True	352				 	
 Wrong Entity Type	0	2439	3	PRD	Konzeption Zivile Verteidigung"	KZV	64	True	354				 	
 Wrong Disambiguation	0	2479	5	NOU		Seite	157441	False	362				 	157442
 Wrong Disambiguation	1	2553	11	NOU		Herstellung	42314	False	372				 	
 Wrong Disambiguation	1	2690	9	NOU	Bereich	Bereichen	100082794	False	388				 	
-Wrong Grammar	2	2701	4	NOU		Wohl	109868	False	390				 	
+Wrong Grammar	2	2701	4	NOU		Wohl	109868	False	390			ADV	 	
 Wrong Disambiguation	0	2706	3	PRE		vor	596945	False	391				 	
 Wrong Disambiguation	0	2714	11	NOU		Hintergrund	15407	False	393				 	15408
 Wrong Disambiguation	1	2789	5	VER	heißen	heißt	140204	False	399				 	140206
 Wrong Disambiguation	0	2798	4	ADV		etwa	100886	False	401				 	26861
-Wrong Grammar	1	2804	2	PRE	um	um	-1	False	403				 	
+Wrong Grammar	1	2804	2	PRE	um	um	-1	False	403			CON	 	
 Wrong Disambiguation	1	2852	5	VER	sein	seien	12562	False	410				 	13140
 Wrong Disambiguation	1	2895	6	VER		halten	12739	False	417				 	
 Wrong Disambiguation	1	2942	8	VER		ersetzen	39778	False	423				 	

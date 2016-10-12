@@ -277,7 +277,7 @@ Wrong Entity Type	0	1058	11	NPR	Identitären Bewegung	Identitären	2862	True	157
 Wrong Disambiguation	1	1139	3	ADJ		eng	158268	False	171				 	
 Wrong Disambiguation	1	1164	10	VER	abstimmen	abgestimmt	14875	False	175				 	14876
 Wrong Disambiguation	0	1215	9	VER		versuchen	120972	False	184				 	80019
-Wrong Grammar	0	1242	2	CON	da	da	-1	False	188				 	
+Wrong Grammar	0	1242	2	CON	da	da	-1	False	188			ADV	 	
 Missing Concept	0	1245	9	VER	abholen	abzuholen	15998	False	189				 	
 Wrong Disambiguation	1	1263	5	VER	stehen	steht	32369	False	193				 	
 Wrong Disambiguation	1	1271	5	VER	sagen	sagte	154792	False	196				 	
@@ -293,7 +293,7 @@ Wrong Disambiguation	2	1686	8	NOU	Kontakt	Kontakte	14109	False	261				 
 Wrong Entity Type	1	1700	20	NPR		Identitären Bewegung	2862	True	264				 	
 Wrong Disambiguation	1	1767	4	ADV		dazu	141179	False	275				 	
 Missing Concept	1	1786	12	NOU	Erkenntnis	Erkenntnisse	39499	False	279				 	
-Wrong Grammar	0	1861	4	ADJ	tag_numero	erst		True	289				 	
+Wrong Grammar	0	1861	4	ADJ	tag_numero	erst		True	289			ADV	 	
 Missing Concept	0	1896	8	ADV	relevant	relevant	-1	False	294				 	
 Wrong Disambiguation	1	1916	6	ADV		darauf	32260	False	299				 	
 Wrong Disambiguation	1	1984	9	ADJ	bestimmt	bestimmte	47963	False	314				 	

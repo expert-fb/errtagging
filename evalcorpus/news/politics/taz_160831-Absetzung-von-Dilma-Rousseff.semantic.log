@@ -416,8 +416,8 @@ Wrong Disambiguation	1	502	5	NOU		Senat	121379	False	74				 	67129
 Wrong Disambiguation	1	512	4	PRE		nach	562278	False	76				 	
 Wrong Disambiguation	0	591	8	VER	handeln	handelte	15290	False	87				 	15327
 Wrong Disambiguation	1	627	8	VER	befinden	befunden	500457	False	93				 	
-Wrong Grammar	1	647	3	PRO	die	die	-1	False	97				 	
-Wrong Grammar	1	651	3	ADJ		gut	29675	False	98				 	
+Wrong Grammar	1	647	3	PRO	die	die	-1	False	97			ART	 	
+Wrong Grammar	1	651	3	ADJ		gut	29675	False	98			ADV	 	
 Missing Entity	2	703	2	NOU	Pt	PT	100000880	False	103				 	
 Wrong Recognition	0	716	7	ADJ		beendet	105813	False	105				 	
 Wrong Disambiguation	1	756	6	VER	werden	wurden	167036	False	110				 	14301
@@ -430,10 +430,10 @@ Wrong Disambiguation	1	1169	3	VER	kommen	kam	117781	False	168				 	13136
 Missing Concept	0	1377	8	ADJ	gekommen	gekommen	-1	False	197				 	
 Wrong Disambiguation	1	1387	9	ADJ	brennend	Brennende	30207	False	199				 	
 Wrong Disambiguation	1	1472	5	ADJ	groß	große	139010	False	210				 	
-Wrong Grammar	1	1538	3	ADJ		gut	29675	False	219				 	
+Wrong Grammar	1	1538	3	ADJ		gut	29675	False	219			ADV	 	
 Wrong Disambiguation	1	1640	4	NOU		Ende	12332	False	232				 	
-Wrong Grammar	1	1694	4	ADV		noch	74484	False	240				 	
-Wrong Grammar	0	1740	7	ADJ		ähnlich	19819	False	248				 	
+Wrong Grammar	1	1694	4	ADV		noch	74484	False	240			CON	 	
+Wrong Grammar	0	1740	7	ADJ		ähnlich	19819	False	248			ADV	 	
 Wrong Recognition	1	1827	5	VER	kennen	kennt	12728	False	261		auskennen		 	24495
 Missing Concept	0	1841	5	NOU	Geben	Geben	-1	False	264				 	
 Missing Concept	0	1851	6	NOU	Abnehmen	Nehmen		True	266				 	
@@ -461,17 +461,17 @@ Wrong Disambiguation	1	2990	23	NOU	Korruptionsermittlung	Korruptionsermittlungen
 Wrong Disambiguation	1	3019	13	NOU		Unterstützung	1150	False	444				 	
 Wrong Disambiguation	1	3119	11	NOU	Verbrechen	Verbrechens	120437	False	458				 	
 Wrong Disambiguation	1	3383	3	PRE		vor	596943	False	494				 	
-Wrong Grammar	1	3387	4	ADJ		eben	43160	False	495				 	
+Wrong Grammar	1	3387	4	ADJ		eben	43160	False	495			ADV	 	
 Wrong Disambiguation	1	3398	23	NOU	Korruptionsermittlung	Korruptionsermittlungen	33195	True	497				 	
 Wrong Disambiguation	1	3440	3	PRO	Klasse	die	100187588	False	501				 	
-Wrong Grammar	1	3534	3	PRO	die	die	-1	False	515				 	
+Wrong Grammar	1	3534	3	PRO	die	die	-1	False	515			ART	 	
 Missing Entity	1	3538	2	NOU	Pt	PT	100000880	False	516				 	
-Wrong Grammar	1	3589	6	NOU	Temers	Temers	-1	False	523				 	
+Missing Entity	1	3589	6	NOU	Temers	Temers	-1	False	523			NPH	 	
 Wrong Disambiguation	1	3664	6	VER	verlieren	verlor	164493	False	530				 	16504
 Wrong Disambiguation	1	3672	5	VER	zeigen	zeigt	15133	False	532				 	15140
 Wrong Disambiguation	1	3704	12	NOU	Ermittlung	Ermittlungen	33195	False	538				 	
 Wrong Disambiguation	1	3826	4	VER	gehen	geht	14248	False	554				 	
 Missing Concept	0	3841	11	NOU	Revidierung	Revidierung	-1	False	558				 	
-Wrong Grammar	2	3938	6	VER	rechen	rechte	52203	False	573				 	
+Wrong Grammar	2	3938	6	VER	rechen	rechte	52203	False	573			ADJ	 	
 Wrong Disambiguation	1	3981	13	ADJ	erfolgreich	erfolgreicher	35470	False	579				 	39349
 Missing Entity	1	3995	2	NOU	Pt	PT	100000880	False	580				 	

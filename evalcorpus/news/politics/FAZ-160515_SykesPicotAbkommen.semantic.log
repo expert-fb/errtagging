@@ -481,19 +481,19 @@
 SBJ=12:8;OBJ=14:8;OBJ=21:19;APH=25:22;SBJ=22:30;OBJ=27:30;OBJ=29:30;SBJ=44:58;OBJ=45:58;OBJ=62:61;APH=195:66;SBJ=68:67;APH=70:68;SBJ=68:78;OBJ=71:78;SBJ=81:80;OBJ=82:80;SBJ=86:89;SBJ=91:95;OBJ=93:95;SBJ=97:100;OBJ=98:100;TRM=99:100;SBJ=103:102;OBJ=104:102;APH=107:105;SBJ=105:110;SBJ=105:113;SBJ=-52:127;OBJ=121:127;SBJ=140:138;OBJ=142:138;APH=144:142;APH=146:142;APH=162:142;APH=189:142;SBJ=142:146;SBJ=142:148;SBJ=154:155;SBJ=161:162;SBJ=165:167;SBJ=172:174;OBJ=81:174;SBJ=172:176;SBJ=81:181;OBJ=179:181;APH=184:185;SBJ=188:187;CPL=189:187;SBJ=194:193;SBJ=205:212;OBJ=206:212;SBJ=214:218;CPL=220:218;SBJ=229:228;OBJ=225:228;SBJ=229:231;SBJ=229:238;APH=254:250;SBJ=250:257;SBJ=252:261;SBJ=267:269;OBJ=270:269;SBJ=275:274;APH=287:284;SBJ=284:290;SBJ=299:293;OBJ=301:293;APH=296:299;SBJ=303:309;OBJ=307:309;SBJ=319:321;OBJ=320:321;SBJ=316:323;CPL=324:323;APH=328:324;SBJ=324:334;OBJ=329:334;SBJ=338:341;CPL=342:341;APH=344:342;SBJ=342:346;OBJ=345:346;SBJ=348:356;SBJ=362:365;SBJ=380:381;SBJ=384:383;SBJ=391:395;CPL=394:395;CPL=398:395;SBJ=402:405;OBJ=406:405;SBJ=409:415;SBJ=411:415;SBJ=420:418;SBJ=423:428;OBJ=424:428;SBJ=431:432;SBJ=437:436;SBJ=439:442;SBJ=445:447;CPL=446:447;APH=51:50;APH=54:50;APH=173:81;APH=178:81;APH=209:81;APH=326:260;APH=340:260;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Wrong Recognition	1	32	6	NOU		Wurzel	2214	False	4				 	
-Wrong Grammar	1	64	3	PRO	ein	ein	-1	False	9				 	
-Wrong Grammar	2	68	4	VER	paaren	paar	150795	False	10				 	
-Wrong Grammar	1	87	10	ADJ	zerstört	zerstörten	588707	False	12				 	
+Wrong Grammar	1	64	3	PRO	ein	ein	-1	False	9			ADV	 	
+Wrong Grammar	2	68	4	VER	paaren	paar	150795	False	10			ADV	 	
+Wrong Grammar	1	87	10	ADJ	zerstört	zerstörten	588707	False	12			VER	 	
 Missing Concept	1	142	29	NOU	Konfliktsicherungsmechanismus	Konfliktsicherungsmechanismen	100517596	True	19				 	148327
 Wrong Disambiguation	1	204	6	VER	legen	legten	146963	False	26				 	500896
-Wrong Grammar	1	211	5	CON	damit	damit	-1	False	27				 	
+Wrong Grammar	1	211	5	CON	damit	damit	-1	False	27			PRO	 	
 Wrong Disambiguation	1	221	10	NOU		Grundstein	101133673	False	29				 	
 Wrong Disambiguation	1	296	12	VER		beschäftigen	16485	False	43				 	15753
 Wrong Disambiguation	1	451	7	GEA		Levante	12497974	False	68				 	
-Wrong Grammar	1	493	1	PRE	a	A		True	76				 	
+Wrong Grammar	1	493	1	PRE	a	A		True	76			NOU	 	
 Wrong Disambiguation	1	533	13	ADV		international	596222	False	87				 	
 Wrong Disambiguation	0	598	14	VER	unterschreiben	unterschrieben	118063	False	94				 	
-Wrong Grammar	1	752	3	PRO	der	des		True	114				 	
+Wrong Grammar	1	752	3	PRO	der	des		True	114			ART	 	
 Wrong Disambiguation	1	814	7	VER	ziehen	gezogen	124134	False	122				 	
 Wrong Disambiguation	0	870	4	NOU		Deal	16499	False	129				 	
 Wrong Disambiguation	0	908	8	VER		aussehen	118709	False	0				 	17348
@@ -503,26 +503,26 @@ Wrong Disambiguation	1	1065	5	NOU		Karte	4336	False	0				 	12073
 Wrong Disambiguation	1	1076	3	PRE		vor	596945	False	0				 	
 Wrong Disambiguation	1	1100	3	VER	liegen	lag	16330	False	0				 	
 Wrong Disambiguation	1	1109	5	VER	sagen	sagte	154806	False	0				 	
-Wrong Grammar	2	1121	5	PRO	mein	meine		False	0				 	
+Wrong Grammar	2	1121	5	PRO	mein	meine		False	0			VER	 	
 Wrong Disambiguation	0	1165	4	GEO		Acre	13649569	False	0				 	
 Wrong Disambiguation	1	1178	7	ADJ	letzte	letzten	106302	False	0				 	
-Wrong Grammar	2	1238	3	ADV		bis	28941	False	0				 	
+Wrong Grammar	2	1238	3	ADV		bis	28941	False	0			PRE	 	
 Wrong Disambiguation	1	1286	5	VER	haben	hatte	12561	False	0				 	
 Wrong Entity Form	1	1483	6	PRO	Er	Seiner		False	0				 	
 Wrong Disambiguation	1	1499	8	VER	aufsteigen	aufstieg	23808	False	0				 	
 Wrong Entity Form	0	1516	14	NOU		Downing Street	131547	False	0				 	
 Wrong Disambiguation	0	1534	7	VER	rufen	gerufen	154571	False	0				 	
-Wrong Grammar	1	1593	3	ART	die	die	-1	False	0				 	
-Wrong Grammar	1	1640	2	PRE	um	um	-1	False	0				 	
+Wrong Grammar	1	1593	3	ART	die	die	-1	False	0			PRO	 	
+Wrong Grammar	1	1640	2	PRE	um	um	-1	False	0			CON	 	
 Wrong Disambiguation	1	1661	4	NOU		Zeit	9	False	0				 	
 Wrong Disambiguation	1	1666	4	PRE		nach	562279	False	0				 	
-Wrong Grammar	1	1685	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	1685	3	PRO	der	des		False	0			ART	 	
 Wrong Disambiguation	1	1708	12	VER	aufstellen	aufzustellen	16022	False	0				 	
 Wrong Disambiguation	1	1728	9	VER		bestimmen	17412	False	0				 	
 Wrong Disambiguation	0	1827	3	NOU		Sir	35784	False	0				 	
 Wrong Disambiguation	1	1915	14	NOU		Dezembermorgen	3871	True	0				 	
 Wrong Disambiguation	1	2074	4	PRE		nach	562279	False	0				 	
-Wrong Grammar	1	2091	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	2091	3	PRO	der	des		False	0			ART	 	
 Wrong Disambiguation	1	2143	10	VER		vorstellen	132781	False	0				 	
 Wrong Disambiguation	1	2172	4	NOU		Zone	1374	False	0				 	
 Wrong Disambiguation	1	2220	5	VER		gehen	117714	False	0				 	
@@ -533,35 +533,35 @@ Wrong Disambiguation	1	2315	7	VER	deuten	deutete	12842	False	0				 
 Wrong Disambiguation	1	2337	4	NOU		Zone	1374	False	0				 	
 Wrong Disambiguation	1	2370	9	NOU		Kontrolle	31363	False	0				 	
 Wrong Disambiguation	1	2380	6	VER		kommen	117781	False	0				 	
-Wrong Grammar	1	2393	5	ADV	stand	stand	-1	False	0				 	
+Wrong Grammar	1	2393	5	ADV	stand	stand	-1	False	0			VER	 	
 Wrong Disambiguation	1	2444	4	NOU	Weg	Wege	2984	False	0				 	
 Wrong Disambiguation	1	2477	5	VER	haben	hatte	125724	False	0				 	
 Wrong Entity Form	1	2509	15	NPH		François George	100215627	True	0				 	
 Wrong Disambiguation	1	2566	7	VER	sein	gewesen	13136	False	0				 	
-Wrong Grammar	0	2632	4	ADJ	tag_numero	Erst		False	0				 	
+Wrong Grammar	0	2632	4	ADJ	tag_numero	Erst		False	0			ADV	 	
 Wrong Disambiguation	1	2701	4	ADV		dann	130436	False	0				 	
-Wrong Grammar	0	2722	3	CON	bis	Bis		False	0				 	
+Wrong Grammar	0	2722	3	CON	bis	Bis		False	0			PRE	 	
 Wrong Disambiguation	0	2872	7	GEA		Levante	12497974	False	0				 	
-Wrong Grammar	2	2885	3	ADV		bis	28941	False	0				 	
+Wrong Grammar	2	2885	3	ADV		bis	28941	False	0			PRE	 	
 Wrong Disambiguation	1	3103	10	NOU		Geschichte	119335	False	0				 	
 Wrong Disambiguation	1	3167	4	GEA		Nahe	73251	False	0				 	
-Wrong Grammar	2	3204	5	VER	heuen	heute		False	0				 	
+Wrong Grammar	2	3204	5	VER	heuen	heute		False	0			ADV	 	
 Wrong Disambiguation	1	3337	9	VER	treffen	getroffen	161325	False	0				 	
-Wrong Grammar	1	3387	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	3387	3	PRO	der	des		False	0			ART	 	
 Wrong Disambiguation	1	3438	4	ADJ	alt	alte	27887	False	0				 	
 Missing Entity	0	3530	20	NOU	Sykes-Picot-Abkommen	Sykes-Picot-Abkommen	-1	False	0				 	
 Missing Concept	1	10	20	NOU	Sykes-Picot-Abkommen	Sykes-Picot-Abkommen	-1	False	0				 	
 Wrong Disambiguation	0	3571	7	VER	sollen	sollten	148995	False	0				 	
 Wrong Recognition	1	3606	16	NOU	Ordnung schaffen	Ordnung schaffen	-1	False	0				 	
 Wrong Disambiguation	1	3633	5	NOU		Summe	1266	False	0				 	119211
-Wrong Grammar	1	3667	2	PRE	um	um	-1	False	0				 	
+Wrong Grammar	1	3667	2	PRE	um	um	-1	False	0			CON	 	
 Wrong Disambiguation	0	3856	7	VER	sein	gewesen	172056	False	0				 	
 Wrong Disambiguation	0	3865	8	VER	schreiben	schreibt	156695	False	0				 	
-Wrong Grammar	1	4047	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	4047	3	PRO	der	des		False	0			ART	 	
 Wrong Disambiguation	0	4222	10	PRD		Great Game	104485157	True	0				 	
 Wrong Disambiguation	0	4271	5	VER	stehen	stand	32369	False	0				 	
 Wrong Disambiguation	1	4280	11	NOU		Mittelpunkt	101645406	False	0				 	501331
-Wrong Grammar	1	4340	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	4340	3	PRO	der	des		False	0			ART	 	
 Wrong Entity Form	0	4344	11	ADJ	osmanisch	Osmanischen	76079	False	0				 	
 Wrong Disambiguation	1	4368	13	NOU		Gleichgewicht	118518	False	0				 	
 Wrong Disambiguation	1	4399	6	NOU	Macht	Mächte	118917	False	0				 	

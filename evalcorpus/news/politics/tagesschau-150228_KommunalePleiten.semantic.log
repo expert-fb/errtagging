@@ -500,7 +500,7 @@ SBJ=0:1;CPL=5:1;SBJ=9:8;SBJ=16:14;SBJ=34:36;CPL=39:36;OBJ=34:43;SBJ=49:48;SBJ=54
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Wrong Disambiguation	1	7	5	VER		gehen	117714	False	0				 	
 Wrong Disambiguation	1	63	4	VER	heißen	Hieß	13738	False	0				 	140206
-Wrong Grammar	0	83	3	CON	nun	nun	-1	False	0				 	
+Wrong Grammar	0	83	3	CON	nun	nun	-1	False	0			ADV	 	
 Wrong Disambiguation	0	113	11	NOU	Schieflage	Schieflagen	86420	False	0				 	155631
 Wrong Disambiguation	2	155	5	NOU	Esse	Essen	4419	False	0				 	
 Missing Concept	0	260	10	NOU	Stadtwerk	Stadtwerks	40789	True	0				 	
@@ -508,7 +508,7 @@ Wrong Disambiguation	1	271	3	VER	sein	ist	596963	False	0				 
 Wrong Disambiguation	0	294	6	NOU		Bürger	129858	False	0				 	118955
 Wrong Disambiguation	0	315	3	NOU		Gas	100011432	False	0				 	
 Wrong Disambiguation	1	322	9	VER		versorgen	15242	False	0				 	15235
-Wrong Grammar	0	590	3	CON	nun	nun	-1	False	0				 	
+Wrong Grammar	0	590	3	CON	nun	nun	-1	False	0			ADV	 	
 Wrong Disambiguation	0	635	8	NOU		Quittung	100190581	False	0				 	153013
 Wrong Disambiguation	2	739	6	NOU	Bank	Banken	4373	False	0				 	
 Wrong Disambiguation	1	746	5	VER		geben	13134	False	0				 	13446
@@ -516,11 +516,11 @@ Wrong Disambiguation	1	766	4	ADV		mehr	70026	False	0				 
 Wrong Disambiguation	1	829	8	NOU	Bilanz	Bilanzen	117958	False	0				 	
 Wrong Disambiguation	1	849	6	VER		fehlen	24088	False	0				 	
 Missing Concept	0	925	9	ADV	ärgerlich	ärgerlich	-1	False	0				 	
-Wrong Grammar	1	1017	3	PRO	ein	Ein		False	0				 	
+Wrong Grammar	1	1017	3	PRO	ein	Ein		False	0			ADJ	 	
 Wrong Disambiguation	1	1021	4	ADJ		paar	47019	False	0				 	
 Wrong Disambiguation	1	1085	4	PRE		über	98894	False	0				 	
-Wrong Grammar	1	1094	7	ADJ		heillos	121520	False	0				 	
-Wrong Grammar	1	1276	7	VER	bekennen	bekannt	118902	False	0				 	
+Wrong Grammar	1	1094	7	ADJ		heillos	121520	False	0			ADV	 	
+Wrong Grammar	1	1276	7	VER	bekennen	bekannt	118902	False	0				ADJ	 	
 Wrong Disambiguation	1	1657	6	VER	leiden	leidet	14145	False	250				 	
 Wrong Entity Type	1	1711	5	NOU	Esse	Essen	4419	False	258			GEO	 	
 Wrong Disambiguation	1	1717	8	VER	befinden	befindet	500457	False	259				 	14663
@@ -532,7 +532,7 @@ Wrong Disambiguation	1	2019	7	NOU		Häufung	123584	False	306				 
 Wrong Entity Type	1	2105	3	GEA	Vid	VID	10721681	False	315				 	
 Wrong Disambiguation	1	2202	4	VER	gehen	gehe	14248	False	341				 	
 Wrong Disambiguation	1	2319	3	VER	haben	hat	125724	False	363				 	
-Wrong Grammar	1	2334	3	ADV		ein	36248	False	367				 	
+Wrong Grammar	1	2334	3	ADV		ein	36248	False	367			ADJ	 	
 Wrong Disambiguation	1	2373	7	VER	geben	gegeben	13134	False	372				 	
 Wrong Disambiguation	0	2508	5	VER	stehen	steht	32369	False	395				 	
 Wrong Entity Type	1	2569	3	GEA	Vid	VID	10721681	False	404				 	
@@ -547,13 +547,13 @@ Wrong Disambiguation	1	3138	8	VER	rechnen	rechnete	14576	False	494				 	118858
 Wrong Disambiguation	0	3182	5	NOU		Regel	117331	False	501				 	
 Wrong Disambiguation	0	3233	6	ADV		gerade	90968	False	507				 	
 Wrong Disambiguation	0	3288	8	NOU	Verlust	Verluste	16431	False	516				 	
-Wrong Grammar	1	3407	6	NOU		Gerade	3535	False	532				 	
-Wrong Grammar	0	3445	6	VER	sprechen	sprich	12975	False	540				 	
+Wrong Grammar	1	3407	6	NOU		Gerade	3535	False	532			ADV	 	
+Wrong Grammar	0	3445	6	VER	sprechen	sprich	12975	False	540			ADV	 	
 Wrong Disambiguation	1	3534	4	VER	gehen	geht	14248	False	551				 	117745
 Wrong Disambiguation	0	3555	5	NOU	Fall	Fälle	16321	False	556				 	114944328
-Wrong Grammar	1	3676	4	ADJ		rund	121366	False	573				 	
+Wrong Grammar	1	3676	4	ADJ		rund	121366	False	573			ADV	 	
 Wrong Recognition	1	3685	11	NOU	Stadtwerk	Stadtwerken	108845	True	575				 	
-Wrong Grammar	1	3736	5	ADV	davon	Davon	130559	False	585				 	
+Wrong Grammar	1	3736	5	ADV	davon	Davon	130559	False	585			PRO	 	
 Wrong Disambiguation	1	3742	5	VER		haben	125724	False	586				 	
 Wrong Disambiguation	0	3758	3	NOU		Gas	100011432	False	589				 	
 Wrong Disambiguation	1	3767	10	NOU		Kraftwärme	46897	True	591				 	
@@ -564,7 +564,7 @@ Wrong Disambiguation	1	4001	4	VER	sein	sind	172056	False	625				 	13140
 Wrong Disambiguation	0	4006	4	ADV		etwa	100886	False	626				 	26861
 Wrong Disambiguation	0	4027	10	VER		beobachten	120071	False	630				 	
 Wrong Disambiguation	1	4093	8	NOU		Mehrheit	70050	False	640				 	
-Wrong Grammar	1	4189	3	ART	das	das	-1	False	655				 	
+Wrong Grammar	1	4189	3	ART	das	das	-1	False	655			PRO	 	
 Wrong Recognition	1	4193	7	ADJ	weit	weitere	30148	False	656				 	
 Wrong Disambiguation	1	4214	10	VER	verschlingen	verschlang	174045	False	658				 	136786
 Wrong Disambiguation	0	4309	7	NOU		Betrieb	104830453	False	675				 	

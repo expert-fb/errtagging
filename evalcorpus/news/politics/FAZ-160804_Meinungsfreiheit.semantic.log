@@ -664,13 +664,13 @@ Wrong Disambiguation	0	1778	12	NOU		Verurteilung	1790	False	250				 	165235
 Wrong Disambiguation	1	1955	8	VER	bemerken	bemerkte	17211	False	276				 	118760
 Wrong Disambiguation	2	2025	4	NOU		Haus	1058	False	285				 	100003947
 Wrong Disambiguation	1	2045	8	NOU		Einfahrt	25208	False	291				 	132725
-Wrong Grammar	0	2054	9	PRE	gegenüber	gegenüber	-1	False	292				 	
+Wrong Grammar	0	2054	9	PRE	gegenüber	gegenüber	-1	False	292			ADV	 	
 Wrong Disambiguation	0	2064	7	VER	wenden	wendete	167011	False	293				 	167013
 Wrong Recognition	0	2169	8	ADJ	spät	späteren	118208	False	308		später		 	91675
 Missing Concept	0	2206	7	VER	sehen	gesehen		True	313				 	
 Wrong Disambiguation	1	2214	5	VER	haben	hatte	13085	False	314				 	
 Wrong Disambiguation	1	2300	10	ADV		namentlich	58485	False	328				 	73341
-Wrong Grammar	1	2356	8	ADV	Besseres	Besseres	-1	False	336				 	
+Wrong Grammar	1	2356	8	ADV	Besseres	Besseres	-1	False	336			NOU	 	
 Wrong Disambiguation	0	2368	3	VER		tun	13039	False	338				 	
 Wrong Disambiguation	1	2394	10	NOU	Einfahrt	Einfahrten	25208	False	343				 	132725
 Wrong Recognition	0	2409	4	NOU	Auflicht	Auf-	23567	False	345				 	
@@ -688,12 +688,11 @@ Wrong Disambiguation	1	2936	4	ADV		mehr	70026	False	425				 
 Wrong Disambiguation	0	2941	9	ADJ	tragbar	tragbarer	161143	False	426				 	39877
 Wrong Disambiguation	1	2965	8	VER		annehmen	133950	False	428				 	
 Missing Concept	0	3002	10	ADJ	Erweis	erweislich		True	436				 	
-Wrong Grammar	2	3013	5	VER	wahren	wahre	166356	False	437				 	
+Wrong Grammar	2	3013	5	VER	wahren	wahre	166356	False	437			ADJ	 	
 Wrong Disambiguation	1	3056	9	VER	handeln	gehandelt	14264	False	442				 	15327
-Wrong Grammar	0	3086	8	CON	vielmehr	vielmehr	-1	False	449				 	
 Wrong Disambiguation	0	3128	5	VER	ankommen	kommt	16343	False	455				 	14832
 Missing Concept	1	3298	10	ADV		regelmäßig	98793	False	479				 	
-Wrong Grammar	2	3315	7	VER	rechen	gerecht	52203	False	481				 	
+Wrong Grammar	2	3315	7	VER	rechen	gerecht	52203	False	481			ADJ	 	
 Wrong Disambiguation	1	3329	9	NOU		Bedeutung	101570700	False	485				 	2491
 Missing Concept	0	3405	12	ADV	unzutreffend	unzutreffend	-1	False	496				 	
 Wrong Disambiguation	1	3542	3	NOU		Maß	100047574	False	516				 	88825
@@ -724,16 +723,16 @@ Wrong Disambiguation	1	5100	4	VER	gehen	ging	14248	False	750				 
 Wrong Disambiguation	1	5323	8	VER	verfolgen	verfolgt	164058	False	783				 	164062
 Wrong Disambiguation	1	5342	4	VER	gehen	ging	14248	False	787				 	
 Wrong Disambiguation	1	5480	10	NOU	Nachfrage	Nachfragen	119726	False	808				 	
-Wrong Grammar	0	5524	4	PRE		über	98894	False	814				 	596956
+Wrong Disambiguation	0	5524	4	PRE		über	98894	False	814				 	596956
 Wrong Disambiguation	1	5545	12	NOU	Ermittlung	Ermittlungen	33195	False	818				 	14288
 Wrong Disambiguation	1	5602	4	PRE		über	98894	False	827				 	
 Missing Concept	0	5670	8	ADJ	betraut	betraute		True	838				 	
-Wrong Grammar	1	5855	2	ADV		zu	168349	False	863				 	
+Wrong Grammar	1	5855	2	ADV		zu	168349	False	863			PRE	 	
 Wrong Disambiguation	1	5870	10	VER	verurteilen	verurteilt	163873	False	866				 	17770
 Wrong Disambiguation	2	6001	11	VER	ausgehen	ausgegangen	14621	False	882				 	126237
 Wrong Disambiguation	1	6051	11	VER		entscheiden	13026	False	889				 	12719
 Missing Entity	1	6074	9	GEO		Karlsruhe	12878857	False	893				 	
-Wrong Grammar	1	6160	4	ADV		über	98894	False	906				 	
+Wrong Grammar	1	6160	4	ADV		über	98894	False	906			PRE	 	
 Missing Concept	1	6184	10	ADJ	angesehen	angesehene	46402	False	911				 	
 Wrong Disambiguation	1	6233	6	ADV		gerade	90968	False	917				 	
 Wrong Disambiguation	1	6283	10	VER		überziehen	162310	False	924				 	

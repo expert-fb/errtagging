@@ -490,7 +490,7 @@ Wrong Disambiguation	1	359	7	NOU		Einsatz	24700	False	0				 	133159
 Wrong Disambiguation	1	393	8	VER	melden	gemeldet	17507	False	0				 	17505
 Wrong Disambiguation	0	444	7	VER	kennenlernen	lernten	144338	False	0				 	61264
 Wrong Disambiguation	0	488	4	PRE		über	596948	False	0				 	
-Wrong Grammar	0	514	7	ADJ		schnell	81737	False	0				 	
+Wrong Grammar	0	514	7	ADJ		schnell	81737	False	0			ADV	 	
 Wrong Disambiguation	0	593	12	ADJ	aufgesetzt	aufgesetztem	562735	False	0				 	
 Wrong Disambiguation	0	698	7	VER		bleiben	129080	False	0				 	
 Wrong Disambiguation	1	751	6	GEO		Graben	12904504	False	0				 	
@@ -508,7 +508,7 @@ Wrong Disambiguation	0	1216	10	NOU		Erinnerung	2941	False	0				 	3618
 Wrong Recognition	1	1261	8	NOU	Trumm	Trümmern	98488	False	0				 	
 Wrong Disambiguation	0	1308	11	VER	verschütten	verschüttet	120057	False	0				 	164855
 Wrong Disambiguation	1	1327	5	ADV	heute	Heute	54750	False	0				 	
-Wrong Grammar	1	1453	6	PRO	selbst	selbst	-1	False	0				 	
+Wrong Grammar	1	1453	6	PRO	selbst	selbst	-1	False	0			ADV	 	
 Wrong Recognition	1	1532	4	NOU		Reim	100178715	False	0				 	
 Wrong Disambiguation	1	1537	4	ADV		mehr	70026	False	0				 	
 Wrong Disambiguation	1	1563	4	ADJ	alt	alte	35927	False	0				 	
@@ -545,7 +545,7 @@ Wrong Disambiguation	1	2898	9	VER	rechnen	rechneten	14576	False	0				 
 Wrong Recognition	1	3003	3	ART	ein	ein	-1	False	0		ein für alle Mal	ADV	 	
 Wrong Recognition	1	3038	8	VER	sprechen	sprachen	13424	False	0		dafür sprechen		 	14803
 Wrong Grammar	1	3051	6	ADJ	stark	starke	43117	False	0			ADV	 	596296
-Wrong Grammar	2	3128	13	NOU	Dramatischere	dramatischere	13011333	True	0				 	
+Wrong Grammar	2	3128	13	NOU	Dramatischere	dramatischere	13011333	True	0			ADJ	 	
 Wrong Disambiguation	1	3254	6	VER		binden	128921	False	0				 	
 Wrong Disambiguation	1	3334	11	VER	entscheiden	entschieden	13018	False	0				 	
 Wrong Disambiguation	0	3358	5	ADJ		erste	170216	False	0				 	
@@ -556,7 +556,7 @@ Wrong Disambiguation	1	3535	8	NOU		Rechnung	100190581	False	0				 	16447
 Wrong Disambiguation	1	3544	8	VER		aufgehen	125092	False	0				 	
 Wrong Disambiguation	1	3561	10	ADV	vielleicht	Vielleicht	100886	False	0				 	
 Wrong Disambiguation	1	3578	5	ADJ	lang	lange	66152	False	0				 	139010
-Wrong Grammar	0	3584	5	CON	bevor	bevor	-1	False	0				 	
+Wrong Grammar	0	3584	5	CON	bevor	bevor	-1	False	0			ADV	 	
 Wrong Disambiguation	1	3597	7	NOU		Angriff	576386	False	0				 	
 Wrong Disambiguation	1	3605	3	VER	kommen	kam	117826	False	0				 	13136
 Wrong Disambiguation	1	3725	8	VER		ersetzen	39778	False	0				 	13131

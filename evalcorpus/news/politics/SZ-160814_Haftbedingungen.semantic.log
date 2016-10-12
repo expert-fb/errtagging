@@ -407,40 +407,37 @@
 
 SBJ=0:1;SBJ=3:4;SBJ=6:7;SBJ=9:11;SBJ=14:16;SBJ=19:21;SBJ=24:25;SBJ=30:34;SBJ=36:37;SBJ=41:44;CPL=43:44;SBJ=56:57;SBJ=60:64;SBJ=76:75;OBJ=78:75;OBJ=91:95;SBJ=106:105;SBJ=112:115;SBJ=121:122;SBJ=128:127;APH=135:133;SBJ=133:138;OBJ=136:138;SBJ=133:140;SBJ=156:160;CPL=158:160;SBJ=162:164;SBJ=168:169;SBJ=171:175;OBJ=173:175;SBJ=177:178;SBJ=177:184;SBJ=187:188;CPL=190:188;SBJ=196:195;APH=199:197;SBJ=197:206;CPL=203:206;SBJ=208:209;OBJ=215:216;SBJ=228:227;OBJ=218:227;APH=230:228;SBJ=228:233;OBJ=228:233;SBJ=239:241;OBJ=235:241;SBJ=235:244;TRM=243:244;SBJ=246:247;SBJ=252:251;SBJ=256:259;OBJ=257:259;CPL=258:259;SBJ=263:262;SBJ=267:271;OBJ=270:271;SBJ=285:288;SBJ=293:297;OBJ=300:299;SBJ=311:312;OBJ=313:312;SBJ=317:319;OBJ=318:319;SBJ=330:329;OBJ=333:329;APH=335:333;SBJ=333:338;SBJ=342:344;SBJ=346:349;CPL=348:349;SBJ=346:356;SBJ=363:362;SBJ=359:367;OBJ=359:369;SBJ=372:374;SBJ=372:379;OBJ=376:379;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	1	59	5	ADV	erste	erste	-1	False	0				 	
+Wrong Grammar	1	59	5	ADV	erste	erste	-1	False	0			ADJ	 	
 Wrong Disambiguation	1	65	6	VER	stimmen	stimmt	14875	False	0				 	120929
-Wrong Grammar	1	79	3	PRO	das	das	-1	False	0				 	
 Wrong Disambiguation	1	90	6	VER	stimmen	stimmt	14875	False	0				 	120929
-Wrong Grammar	1	55	3	PRO	das	Das		False	0				 	
-Wrong Grammar	1	107	3	PRO	das	das	-1	False	0				 	
-Wrong Grammar	1	111	6	ADV	dritte	dritte	-1	False	0				 	
+Wrong Grammar	1	111	6	ADV	dritte	dritte	-1	False	0			ADJ	 	
 Wrong Disambiguation	1	118	6	VER	stimmen	stimmt	14875	False	0				 	120929
-Wrong Grammar	1	157	6	PRE	gleich	gleich	-1	False	0				 	
+Wrong Grammar	1	157	6	PRE	gleich	gleich	-1	False	0			ADJ	 	
 Wrong Recognition	1	210	2	ADV		je	142693	False	0		je nach	PRE	 	
-Wrong Grammar	2	234	11	VER	verscheiden	verschieden	15960	False	0				 	
+Wrong Grammar	2	234	11	VER	verscheiden	verschieden	15960	False	0			ADJ	 	
 Wrong Disambiguation	1	261	5	ADV		immer	142693	False	0				 	57736
 Wrong Disambiguation	1	270	5	ADJ		krass	18499	False	0				 	64534
 Wrong Disambiguation	1	297	5	ADJ		krass	18499	False	0				 	64534
-Wrong Grammar	2	382	4	VER		sein	12562	False	0				 	
+Wrong Grammar	2	382	4	VER		sein	12562	False	0			PRO	 	
 Wrong Disambiguation	1	420	11	VER	schreiben	geschrieben	156695	False	0				 	13328
 Wrong Disambiguation	1	469	4	VER	sein	sind	172056	False	0				 	
 Wrong Disambiguation	1	522	3	ADV		gut	596240	False	0				 	
-Wrong Grammar	1	541	5	PRO	ein	einen		True	95				 	
+Wrong Grammar	1	541	5	PRO	ein	einen		True	95			ADJ	 	
 Wrong Disambiguation	1	547	4	NOU		Land	1570	False	96				 	6221
 Wrong Disambiguation	1	607	9	NOU		Gefangene	117392	False	106				 	
-Wrong Grammar	1	720	5	PRO	ein	einen		True	128				 	
+Wrong Grammar	1	720	5	PRO	ein	einen		True	128			ADJ	 	
 Wrong Disambiguation	1	726	4	NOU		Land	1570	False	129				 	
 Wrong Disambiguation	1	803	11	VER	anrechnen	angerechnet	14100	False	140				 	
 Wrong Disambiguation	0	823	7	ADJ	andere	anderen	20987	False	144				 	
-Wrong Grammar	1	865	5	PRO	ein	einen		True	151				 	
+Wrong Grammar	1	865	5	PRO	ein	einen		True	151			ADJ	 	
 Wrong Disambiguation	1	882	4	VER	werden	wird	14301	False	153				 	
-Wrong Grammar	1	1040	5	PRO	ein	einen		True	182				 	
+Wrong Grammar	1	1040	5	PRO	ein	einen		True	182			ADJ	 	
 Wrong Disambiguation	1	1057	4	VER	geben	gibt	13134	False	184				 	15231
 Wrong Disambiguation	1	1176	9	VER		einsitzen	36337	False	204				 	157886
 Wrong Disambiguation	1	1199	5	ADV		heute	54750	False	208				 	
-Wrong Grammar	2	1205	5	VER		einen	14874	False	209				 	
+Wrong Grammar	2	1205	5	VER		einen	14874	False	209			ADJ	 	
 Wrong Disambiguation	1	1271	11	NOU	Kommentar	Kommentaren	101141067	False	218				 	101749541
-Wrong Grammar	1	1289	2	PRE	um	um	-1	False	221				 	
+Wrong Grammar	1	1289	2	PRE	um	um	-1	False	221			CON	 	
 Missing Concept	0	1385	9	NOU		Geografie	100001071	False	237				 	
 Wrong Disambiguation	1	1437	11	VER	entscheiden	entscheidet	13026	False	244				 	13021
 Wrong Disambiguation	0	1538	10	ADV		sorgfältig	596306	False	259				 	19896
@@ -450,7 +447,7 @@ Wrong Disambiguation	1	1691	10	NOU		Sicherheit	1531	False	284				 	110566551
 Wrong Disambiguation	1	1775	4	PRE		nach	562278	False	299				 	
 Wrong Disambiguation	1	1980	4	NOU		Bund	117263	False	332				 	30792
 Wrong Disambiguation	1	1989	7	NOU	Land	Ländern	1570	False	334				 	6221
-Wrong Grammar	0	2016	4	ADJ	hin-	hin-	-1	False	338				 	
+Wrong Grammar	0	2016	4	ADJ	hin-	hin-	-1	False	338			VER	 	
 Wrong Disambiguation	0	2025	12	VER	herschieben	hergeschoben	15602	False	340				 	
 Wrong Disambiguation	1	2046	9	VER	passieren	passierte	15354	False	343				 	
 Wrong Recognition	1	2155	7	NOU		Wirkung	102995644	False	360		mit Wirkung von	PRE	 	
@@ -461,15 +458,15 @@ Wrong Disambiguation	0	2291	5	VER	hören	hörte	12839	False	380				 
 Wrong Disambiguation	1	2353	13	NOU	Vorstellung	Vorstellungen	102145290	False	389				 	484
 Wrong Disambiguation	1	2367	6	ADJ	gut	besser	29675	False	390				 	
 Wrong Disambiguation	1	2391	6	ADV		besser	27763	False	394				 	
-Wrong Grammar	1	2426	5	ADV	erste	erste	-1	False	401				 	
-Wrong Grammar	1	2453	6	ADV	zweite	zweite	-1	False	407				 	
+Wrong Grammar	1	2426	5	ADV	erste	erste	-1	False	401			ADJ	 	
+Wrong Grammar	1	2453	6	ADV	zweite	zweite	-1	False	407			ADJ	 	
 Wrong Disambiguation	1	2466	4	ADJ		ganz	45972	False	409				 	
 Missing Concept	0	2565	13	ADJ	hergesagt	vorhergesagte		True	425				 	
 Wrong Disambiguation	1	2616	11	VER	eintreten	eingetreten	16090	False	433				 	
 Wrong Disambiguation	1	2678	5	ADJ	alt	alten	123121	False	445				 	
 Wrong Disambiguation	1	2702	5	VER		haben	125724	False	449				 	
-Wrong Grammar	1	2799	12	ADJ	beobachtet	beobachteten	597024	False	465				 	
-Wrong Grammar	2	2862	4	VER	einen	eine	14874	False	471				 	
+Wrong Grammar	1	2799	12	ADJ	beobachtet	beobachteten	597024	False	465			VER	 	
+Wrong Grammar	2	2862	4	VER	einen	eine	14874	False	471			ART	 	
 Wrong Disambiguation	2	2963	6	VER		riefen	83713	False	484				 	
 Wrong Disambiguation	1	3027	5	VER	tönen	tönte	32912	False	498				 	
 Wrong Disambiguation	1	3088	6	NOU	Bund	Bundes	7196	False	509				 	

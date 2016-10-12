@@ -474,7 +474,7 @@ Wrong Disambiguation	0	945	4	NOU		Land	1570	False	0				 	500862
 Wrong Disambiguation	2	960	3	NOU		Mal	68923	False	0				 	
 Wrong Disambiguation	0	1003	7	VER	wählen	gewählt	13051	False	0				 	14875
 Wrong Disambiguation	1	1016	4	ADV		dazu	98967	False	0				 	
-Wrong Grammar	2	1032	6	PRO	Mal	diesen	68923	False	0				 	
+Wrong Grammar	2	1032	6	PRO	Mal	diesen	68923	False	0			NOU	 	
 Wrong Disambiguation	1	1061	8	VER		ersetzen	39778	False	0				 	13131
 Wrong Disambiguation	0	1075	8	ADJ	düster	düsteren	132372	False	0				 	131828
 Wrong Disambiguation	0	1084	9	NOU	Prophet	Propheten	4459	False	0				 	108332
@@ -490,7 +490,7 @@ Wrong Disambiguation	1	1630	7	VER	schaffen	schafft	14085	False	0				 	16902
 Wrong Disambiguation	0	1665	3	VER	sein	ist	13082	False	0				 	
 Wrong Disambiguation	1	1750	8	VER		gewinnen	32516	False	0				 	15798
 Missing Concept	0	1771	9	ADJ	wabernd	wabernder		False	0				 	
-Wrong Grammar	1	1788	6	VER	bessern	besser	125158	False	0				 	
+Wrong Grammar	1	1788	6	VER	bessern	besser	125158	False	0			ADJ	 	
 Missing Concept	1	1796	7	VER	durchschlagen	schlägt	18564	False	0				 	
 Wrong Disambiguation	0	1902	5	ADV		schon	87685	False	0				 	156568
 Missing Concept	0	1924	12	ADV	erschreckend	erschreckend	-1	False	0				 	

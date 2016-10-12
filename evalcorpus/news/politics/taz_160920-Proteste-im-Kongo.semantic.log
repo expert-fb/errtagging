@@ -485,7 +485,7 @@ Wrong Disambiguation	1	91	9	NOU	Protest	Protesten	119294	False	15				 
 Missing Concept	1	111	16	NOU		Wahlverschiebung	100082	True	18				 	
 Wrong Recognition	1	128	5	VER	nehmen	nimmt	12747	False	19		ein Ende nehmen		 	14485
 Missing Concept	0	171	7	ADJ	vertagt	vertagt	-1	False	27				 	
-Wrong Grammar	0	351	7	NOU		Dutzend	599	False	50				 	
+Wrong Grammar	0	351	7	NOU		Dutzend	599	False	50			ADJ	 	
 Wrong Disambiguation	1	393	3	VER	kommen	kam	117806	False	56				 	13136
 Wrong Disambiguation	1	475	6	VER	werden	wurden	14301	False	69				 	
 Missing Concept	0	597	11	ADJ	einberufen	einberufene		True	85				 	
@@ -533,7 +533,7 @@ Wrong Disambiguation	0	2884	7	ADJ	andere	anderer	20987	False	436				 	118640
 Wrong Disambiguation	1	2901	10	VER	anzünden	angezündet	21686	False	438				 	15450
 Missing Concept	0	2970	9	ADJ	verkohlt	verkohlte		True	450				 	
 Wrong Disambiguation	1	3007	6	VER	sprechen	sprach	12976	False	456				 	
-Wrong Grammar	2	3025	6	VER		sieben	106406	False	459				 	
+Wrong Grammar	2	3025	6	VER		sieben	106406	False	459			ADJ	 	
 Wrong Disambiguation	1	3075	7	VER	folgen	folgten	13921	False	468				 	117827
 Wrong Disambiguation	1	3083	14	NOU	Anschlag	Gegenanschläge	19682	False	469				 	
 Wrong Disambiguation	1	3126	5	VER	werden	wurde	167036	False	474				 	
@@ -541,10 +541,10 @@ Wrong Entity Type	0	3165	6	BLD	N'djili Airport	Ndjili	12300799	False	479			GEO	 
 Wrong Recognition	1	3218	8	ADJ		gesteckt	562602	False	487		in Brand stecken	VER	 	
 Wrong Disambiguation	1	3228	4	PRE	nach	Nach	562278	False	489				 	
 Wrong Entity Type	0	3261	6	BLD	N'djili Airport	Ndjili	12300799	False	493			GEO	 	
-Wrong Grammar	1	3441	3	PRO	die	Die		True	519				 	
+Wrong Grammar	1	3441	3	PRO	die	Die		True	519			ART	 	
 Wrong Disambiguation	1	3546	4	NOU		Haus	1058	False	533				 	
 Wrong Disambiguation	1	3559	8	VER	gehen	gegangen	117714	False	536				 	
-Wrong Grammar	1	3722	9	ADV	twitterte	twitterte	-1	False	567				 	
+Wrong Grammar	1	3722	9	ADV	twitterte	twitterte	-1	False	567			VER	 	
 Wrong Disambiguation	1	3873	8	VER		ausrufen	112529	False	589				 	80232
 Wrong Disambiguation	1	3897	8	NOU		Gespräch	118628	False	593				 	48497
 Wrong Disambiguation	1	3909	8	NOU		Reaktion	16603	False	595				 	
@@ -558,6 +558,6 @@ Wrong Disambiguation	1	4315	5	VER	bergen	birgt	120087	False	657				 	120090
 Wrong Disambiguation	1	4441	8	VER	verhängen	verhängt	103370	False	677				 	
 Wrong Recognition	1	4482	7	ADJ	weit	weitere	166894	False	683		weiter		 	
 Wrong Disambiguation	1	4507	5	NOU		Ebene	976	False	689				 	
-Wrong Grammar	1	4592	2	CON	um	um	-1	False	701				 	
+Wrong Grammar	1	4592	2	CON	um	um	-1	False	701			PRE	 	
 Wrong Entity Type	1	4665	5	GEO		Kongo	10200814	False	710			GEA	 	
 Wrong Disambiguation	1	4677	7	VER	bewerben	bewirbt	117762	False	713				 	28270

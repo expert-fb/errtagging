@@ -365,7 +365,7 @@ Missing Concept	2	55	2	NOU		Ex	40414	False	0				 
 Wrong Disambiguation	1	69	9	ADV		offiziell	75330	False	0				 	
 Wrong Disambiguation	1	90	3	GEO	Frankreich	was	13003269	False	0				 	
 Wrong Disambiguation	1	173	6	VER	glauben	glaubt	13006	False	0				 	
-Wrong Grammar	1	204	7	VER		berufen	16419	False	0				 	
+Wrong Grammar	1	204	7	VER		berufen	16419	False	0			ADJ	 	
 Missing Concept	0	217	8	ADJ	darbend	darbende		False	0				 	
 Wrong Disambiguation	1	233	3	PRE		vor	596943	False	0				 	
 Wrong Disambiguation	1	263	8	VER		bewahren	166356	False	0				 	17806
@@ -374,18 +374,18 @@ Wrong Disambiguation	0	344	11	ADV		unmittelbar	114722	False	0				 
 Wrong Disambiguation	1	385	4	ADV	dann	Dann	130436	False	0				 	
 Wrong Disambiguation	0	433	5	NOU		Glanz	100221656	False	0				 	
 Wrong Disambiguation	1	439	5	VER	fallen	fiele	167411	False	0				 	
-Wrong Grammar	1	503	4	ADJ	tag_numero	erst		False	0				 	
+Wrong Grammar	1	503	4	ADJ	tag_numero	erst		False	0			ADV	 	
 Missing Concept	0	517	3	ADV	alt	alt	-1	False	0				 	
 Wrong Disambiguation	1	522	4	VER	halten	hält	14189	False	0				 	
 Wrong Disambiguation	1	583	5	VER	sehen	sieht	157372	False	0				 	501077
 Wrong Disambiguation	1	707	4	VER	mögen	möge	17995	False	0				 	
-Wrong Grammar	1	750	6	VER	erneuen	erneut		False	0				 	
+Wrong Grammar	1	750	6	VER	erneuen	erneut		False	0			ADV	 	
 Wrong Disambiguation	1	844	4	VER	sein	sind	172056	False	0				 	
 Wrong Disambiguation	0	866	5	ADJ		recht	83676	False	0				 	
 Wrong Disambiguation	1	876	6	VER	spielen	spielt	158429	False	0				 	
 Wrong Disambiguation	1	899	3	PRE		vor	596943	False	0				 	
-Wrong Grammar	1	974	5	ADJ		offen	150432	False	0				 	
-Wrong Grammar	1	1016	6	PRO	manch	Manche		False	0				 	
+Wrong Grammar	1	974	5	ADJ		offen	150432	False	0			ADV	 	
+Wrong Grammar	1	1016	6	PRO	manch	Manche		False	0			ADJ	 	
 Wrong Disambiguation	1	1066	12	NOU		Republikaner	7430	False	0				 	7431
 Wrong Disambiguation	1	1082	7	ADJ	andere	anderen	20987	False	0				 	
 Wrong Recognition	1	1113	4	NOU		Ehre	35964	False	0		zur Ehre gereichen		 	118720
@@ -396,7 +396,7 @@ Wrong Disambiguation	1	1434	6	VER		halten	13376	False	0				 
 Wrong Disambiguation	1	1898	8	NOU		Schikane	155689	False	0				 	
 Missing Concept	0	1909	4	ADV		aber	74486	False	0				 	
 Wrong Entity Form	1	2005	5	NOU		Front	136890	False	0				 	
-Wrong Grammar	1	2066	12	VER	ausrechnen	ausgerechnet	14575	False	0				 	
+Wrong Grammar	1	2066	12	VER	ausrechnen	ausgerechnet	14575	False	0			ADV	 	
 Wrong Entity Form	0	2082	25	MMD	Magazin Valeurs Actuelle	Magazin Valeurs Actuelles	12538	True	0				 	
 Missing Concept	1	2128	7	ADJ	recht	rechten	84908	False	0				 	
 Wrong Disambiguation	0	2136	4	NOU		Rand	8982	False	0				 	
@@ -411,7 +411,7 @@ Missing Concept	0	2405	9	ADJ		sämtliche		False	0				 
 Missing Concept	1	2464	15	ADJ	republikanisch	republikanische	83258	False	0				 	
 Wrong Disambiguation	1	2532	4	PRE		nach	562279	False	0				 	
 Wrong Disambiguation	1	2613	3	NOU		Tod	12332	False	0				 	118198
-Wrong Grammar	1	2618	2	PRE	um	Um		False	0				 	
+Wrong Grammar	1	2618	2	PRE	um	Um		False	0			CON	 	
 Wrong Disambiguation	1	2662	6	NOU		Stimme	1187	False	0				 	
 Wrong Disambiguation	0	2773	10	VER	spekulieren	spekuliert	13006	False	0				 	
 Wrong Disambiguation	1	2809	5	NOU		Lager	14702	False	0				 	
@@ -420,5 +420,5 @@ Wrong Disambiguation	1	2832	4	VER	angehen	geht	15787	False	0				 
 Wrong Disambiguation	1	2878	6	ADJ		bereit	27288	False	0				 	
 Wrong Disambiguation	0	2972	4	ADV		auch	23235	False	0				 	
 Wrong Recognition	2	3000	2	NOU		la	561711	False	0				 	
-Wrong Grammar	1	3076	4	ADJ		eben	132395	False	0				 	
-Wrong Grammar	1	3139	5	ADJ	träf	träfe	30064	False	0				 	
+Wrong Grammar	1	3076	4	ADJ		eben	132395	False	0			ADV	 	
+Wrong Grammar	1	3139	5	ADJ	träf	träfe	30064	False	0			VER	 	

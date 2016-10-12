@@ -578,7 +578,7 @@ SBJ=2:3;SBJ=5:6;SBJ=8:11;CPL=9:11;SBJ=14:16;SBJ=20:23;OBJ=22:23;SBJ=26:25;SBJ=26
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Missing Concept	0	19	13	NOU		Schockschrott	7846	True	6				 	
 Missing Concept	1	53	15	NOU		Horrorkinoperle	100043436	True	12				 	59867
-Wrong Grammar	0	147	5	ADV	fähig	fähig	-1	False	26				 	
+Wrong Grammar	0	147	5	ADV	fähig	fähig	-1	False	26			ADJ	 	
 Wrong Disambiguation	1	168	4	NOU		Hand	139610	False	31				 	
 Wrong Recognition	1	217	4	VER	halten	hält	12739	False	39		innehalten		 	16261
 Wrong Disambiguation	1	266	7	VER	zittern	zittert	25737	False	50				 	
@@ -595,7 +595,7 @@ Missing Entity	0	696	4	ADJ	2016	2016	-1	False	125				 
 Wrong Disambiguation	1	845	3	PRO	Wissen	die	100009081	False	146				 	
 Wrong Disambiguation	1	872	8	VER		schicken	47876	False	151				 	13616
 Wrong Disambiguation	1	992	3	PRE		vor	596943	False	170				 	
-Wrong Grammar	0	1051	11	ADV	weißhaarig	weißhaarige		True	181				 	
+Wrong Grammar	0	1051	11	ADV	weißhaarig	weißhaarige		True	181			ADJ	 	
 Wrong Disambiguation	1	1077	6	NOU		Nichts	149964	False	185				 	74251
 Wrong Disambiguation	1	1094	8	NOU		Schatten	620	False	187				 	
 Wrong Disambiguation	1	1159	5	NOU		Rolle	154282	False	199				 	
@@ -611,10 +611,10 @@ Missing Entity	0	1434	4	ADJ	2009	2009	-1	False	242				 
 Wrong Disambiguation	1	1445	6	NOU		Kritik	103059502	False	246				 	
 Wrong Disambiguation	1	1452	3	VER	haben	hat	125724	False	247				 	
 Missing Concept	0	1460	7	ADV		zuletzt	112262	False	249				 	
-Wrong Grammar	1	1472	4	PRO	sein	sein	-1	False	251				 	
+Wrong Grammar	1	1472	4	PRO	sein	sein	-1	False	251			ADJ	 	
 Wrong Disambiguation	0	1490	7	NOU		Porträt	79153	False	253				 	
-Wrong Grammar	0	1502	10	ADV	todkrank	todkranken		True	255				 	
-Wrong Grammar	2	1545	3	ADV		bis	28941	False	260				 	
+Wrong Grammar	0	1502	10	ADV	todkrank	todkranken		True	255			ADJ	 	
+Wrong Grammar	2	1545	3	ADV		bis	28941	False	260			PRE	 	
 Wrong Disambiguation	1	1553	4	NOU		Mark	100016068	False	262				 	
 Missing Concept	0	1558	12	ADJ	zerfressen	zerfressenen		True	263				 	
 Wrong Entity Form	1	1597	36	NPR	Peter Askins Stephen-King-Verfilmung	Peter Askins Stephen-King-Verfilmung	-1	False	267				 	
@@ -626,7 +626,7 @@ Wrong Disambiguation	1	1747	10	VER	beherrschen	beherrscht	12879	False	288				 	1
 Wrong Disambiguation	1	1807	3	VER	sein	ist	172056	False	296				 	
 Wrong Disambiguation	1	1819	11	NOU		Einstellung	1515	False	299				 	120249
 Wrong Disambiguation	1	1916	11	VER	auffahren	aufgefahren	124999	False	315				 	142005
-Wrong Grammar	2	1932	6	VER	bereiten	bereit	17750	False	317				 	
+Wrong Grammar	2	1932	6	VER	bereiten	bereit	17750	False	317			ADJ	 	
 Wrong Entity Form	1	2026	22	NPH		Max Schrecks Nosferatu	100215627	True	330				 	
 Wrong Entity Form	1	2050	34	NPH		Boris Karloffs Frankensteinkreatur	100215627	True	332				 	
 Wrong Disambiguation	0	2142	4	ADV		mehr	70026	False	341				 	
@@ -642,10 +642,10 @@ Wrong Disambiguation	1	2614	10	VER	durchziehen	durchzogen	15354	False	422				 	1
 Wrong Disambiguation	1	2698	4	NOU		Trio	119933	False	438				 	119936
 Wrong Disambiguation	0	2712	6	ADJ		hübsch	74002	False	440				 	
 Wrong Disambiguation	1	2756	5	NOU		Ratte	153278	False	446				 	
-Wrong Grammar	2	2776	3	VER	einen	ein	14874	False	450				 	
-Wrong Grammar	1	2857	3	CON	als	als	-1	False	462				 	
+Wrong Grammar	2	2776	3	VER	einen	ein	14874	False	450			ART	 	
+Wrong Grammar	1	2857	3	CON	als	als	-1	False	462			PRE	 	
 Wrong Disambiguation	0	2921	13	NOU		Verantwortung	2740	False	469				 	
-Wrong Grammar	1	3036	5	PRO	ihr	ihrem		True	484				 	
+Wrong Grammar	1	3036	5	PRO	ihr	ihrem		True	484			ADJ	 	
 Wrong Disambiguation	1	3066	10	VER		entfliehen	84408	False	488				 	
 Missing Concept	0	3086	12	ADJ	verschlampt	verschlampte		True	492				 	
 Wrong Disambiguation	0	3184	6	ADJ	ganz	ganzen	45972	False	504				 	137314
@@ -653,7 +653,7 @@ Missing Entity	0	3214	6	NOU	Rockys	Rockys	-1	False	509				 
 Wrong Disambiguation	0	3314	6	ADJ		letzte	106302	False	526				 	20278
 Wrong Disambiguation	1	3321	5	NOU		Bruch	3126	False	527				 	3176
 Wrong Disambiguation	1	3366	11	VER		beschließen	16439	False	535				 	
-Wrong Grammar	1	3378	5	PRO	dies	diese		True	536				 	
+Wrong Grammar	1	3378	5	PRO	dies	diese		True	536			ADJ	 	
 Wrong Disambiguation	1	3435	5	VER	sitzen	sitzt	90695	False	548				 	
 Wrong Recognition	1	3547	6	VER	steigen	steigt	142072	False	569		einsteigen		 	133376
 Wrong Disambiguation	0	3558	4	ADV		denn	130440	False	571				 	
@@ -667,20 +667,20 @@ Wrong Disambiguation	1	3777	5	VER	sinken	sinkt	173117	False	615				 
 Wrong Disambiguation	0	3784	7	VER	schweben	schwebt	118787	False	617				 	
 Wrong Disambiguation	1	3866	16	NOU	Erzählbewegung	Erzählbewegungen	2868	True	631				 	
 Wrong Disambiguation	1	3926	5	ADJ	groß	große	40624	False	639				 	
-Wrong Grammar	2	3974	4	VER	weilen	weil	31978	False	650				 	
+Wrong Grammar	2	3974	4	VER	weilen	weil	31978	False	650			CON	 	
 Missing Concept	0	4043	6	ADV	schlau	schlau	-1	False	662				 	
 Missing Entity	0	4069	6	NOU	Rockys	Rockys	-1	False	666				 	
-Wrong Grammar	1	4150	6	PRO	selbst	selbst	-1	False	675				 	
+Wrong Grammar	1	4150	6	PRO	selbst	selbst	-1	False	675			ADV	 	
 Wrong Disambiguation	1	4205	4	VER	sein	sind	172056	False	683				 	
 Wrong Recognition	1	4225	13	NOU	Filmerzähler	Filmerzählers	11077	True	686				 	
-Wrong Grammar	2	4264	4	VER	weilen	weil	31978	False	693				 	
+Wrong Grammar	2	4264	4	VER	weilen	weil	31978	False	693			CON	 	
 Missing Concept	0	4280	6	ADV	blutig	blutig	-1	False	698				 	
 Wrong Disambiguation	0	4301	4	VER	sein	sind	13136	False	701				 	
 Wrong Disambiguation	0	4346	8	ADJ	billig	billigem	79704	False	711				 	120103
 Missing Concept	0	4355	13	NOU		Schockschrott	7846	True	712				 	
 Wrong Grammar	2	4405	1	ADV		"		True	721				 	
 Wrong Disambiguation	0	4440	6	VER		nennen	13705	False	729				 	
-Wrong Grammar	1	4503	8	ADV	gültig	gültiger		True	744				 	
+Wrong Grammar	1	4503	8	ADV	gültig	gültiger		True	744			ADJ	 	
 Wrong Disambiguation	1	4540	3	VER	sein	ist	172056	False	748				 	
 Wrong Disambiguation	1	4580	3	PRO	Angst	die	15436	False	754				 	
 Wrong Disambiguation	1	4624	12	NOU		Gesellschaft	104830453	False	762				 	
@@ -691,5 +691,5 @@ Wrong Disambiguation	1	4820	4	VER	gehen	geht	14248	False	793				 	117736
 Wrong Disambiguation	1	4897	3	ADV		her	140293	False	809				 	
 Wrong Disambiguation	1	4951	5	ADV		davon	130559	False	818				 	
 Wrong Disambiguation	1	4989	4	ADV		mehr	70026	False	826				 	
-Wrong Grammar	0	5014	3	ADV	tot	tot	-1	False	832				 	
-Wrong Grammar	1	5019	4	VER	leeren	leer	14521	False	834				 	
+Wrong Grammar	0	5014	3	ADV	tot	tot	-1	False	832			ADJ	 	
+Wrong Grammar	1	5019	4	VER	leeren	leer	14521	False	834			ADJ	 	

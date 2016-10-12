@@ -233,7 +233,7 @@ APH=112:5;SBJ=6:8;OBJ=7:8;SBJ=6:26;CPL=24:26;SBJ=32:31;OBJ=35:31;SBJ=39:46;OBJ=4
 Wrong Entity Type	0	85	12	NPH		Toni Erdmann	100215627	True	0				 	
 Wrong Disambiguation	0	143	9	NOU		Beziehung	562292	False	20				 	13954
 Wrong Disambiguation	0	162	2	ADV		so	130436	False	24				 	
-Wrong Grammar	0	184	3	CON	nun	nun	-1	False	30				 	
+Wrong Grammar	0	184	3	CON	nun	nun	-1	False	30			ADV	 	
 Wrong Disambiguation	1	228	5	VER		gehen	14248	False	37				 	
 Wrong Entity Type	0	250	12	NPH		Toni Erdmann	100215627	True	43				 	
 Wrong Recognition	1	290	4	VER	gehen	geht	117714	False	48		ins Rennen gehen		 	
@@ -242,17 +242,17 @@ Missing Concept	0	364	9	ADJ	Deutsche	Deutschen		True	59				 
 Wrong Entity Type	1	381	12	NPH		German Films	100215627	True	62				 	
 Wrong Disambiguation	1	543	11	ADJ	unabhängig	unabhängige	54060	False	87				 	119512
 Wrong Entity Type	0	572	12	NPH		Toni Erdmann	100215627	True	92				 	
-Wrong Grammar	1	597	3	PRO	der	den		True	96				 	
+Wrong Grammar	1	597	3	PRO	der	den		True	96			ART	 	
 Wrong Disambiguation	1	655	11	NOU		Handschrift	4364	False	104				 	139621
 Wrong Disambiguation	1	668	9	VER	überzeugen	überzeugt	13983	False	106				 	83477
-Wrong Grammar	1	699	4	PRO	ein	Eine		True	113				 	
+Wrong Grammar	1	699	4	PRO	ein	Eine		True	113			ART	 	
 Wrong Recognition	1	759	4	NOU		Puls	15306	False	121		Puls der Zeit		 	
 Missing Concept	0	822	22	ADJ	humorvoll-entlarvenden	humorvoll-entlarvenden	-1	False	133				 	
 Wrong Disambiguation	0	867	7	NOU	Nuance	Nuancen	498697	False	137				 	74811
 Wrong Disambiguation	0	895	9	NOU		Beziehung	562292	False	140				 	
 Wrong Disambiguation	1	915	6	VER		lassen	18010	False	143				 	
-Wrong Grammar	1	990	5	PRO	ein	einem		True	157				 	
-Wrong Grammar	0	1089	11	ADV	aufrüttelnd	aufrüttelnd	-1	False	176				 	
+Wrong Grammar	1	990	5	PRO	ein	einem		True	157			ART	 	
+Wrong Grammar	0	1089	11	ADV	aufrüttelnd	aufrüttelnd	-1	False	176			ADJ	 	
 Wrong Disambiguation	1	1140	8	NOU		Klarheit	144650	False	183				 	33216
 Wrong Disambiguation	1	1180	5	VER	sagen	sagte	154792	False	192				 	
 Wrong Entity Type	0	1224	12	NPH		Toni Erdmann	100215627	True	204				 	

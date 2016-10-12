@@ -727,12 +727,12 @@ Wrong Disambiguation	1	433	17	ADJ	gesellschaftlich	gesellschaftliche	119311	Fals
 Wrong Disambiguation	0	540	8	ADJ		wandelnd	148901	False	81				 	
 Wrong Disambiguation	1	584	4	PRE		über	596956	False	86				 	
 Wrong Disambiguation	1	668	3	NOU		Akt	102031615	False	99				 	
-Wrong Grammar	1	676	12	NOU	übertragenen	übertragenen	-1	False	102				 	
+Wrong Grammar	1	676	12	NOU	übertragenen	übertragenen	-1	False	102			ADJ	 	
 Wrong Disambiguation	1	712	5	NOU	Sinn	Sinne	2099	False	107				 	
 Wrong Disambiguation	1	807	5	VER	liegen	liegt	16334	False	126				 	
 Wrong Disambiguation	1	941	5	VER	singen	singt	121393	False	154				 	
 Wrong Entity Form	1	992	4	GEA		Sola	13070915	False	163				 	
-Wrong Grammar	1	1079	6	VER		wahren	166356	False	178				 	
+Wrong Grammar	1	1079	6	VER		wahren	166356	False	178			ADJ	 	
 Wrong Disambiguation	0	1162	4	ADV		auch	23235	False	189				 	
 Wrong Disambiguation	0	1186	7	ADV	weshalb	Weshalb	107573	False	194				 	
 Wrong Recognition	1	1232	2	NOU		la	561711	False	205				 	
@@ -763,7 +763,7 @@ Wrong Disambiguation	1	2297	5	ADJ	groß	große	50456	False	377				 
 Wrong Disambiguation	0	2303	5	NOU		Bühne	13919	False	378				 	
 Missing Concept	0	2309	10	ADV	behilflich	behilflich	-1	False	379				 	
 Wrong Disambiguation	1	2339	7	ADJ	letzte	letzten	52730	False	385				 	
-Wrong Grammar	2	2373	3	VER	einen	ein	14874	False	390				 	
+Wrong Grammar	2	2373	3	VER	einen	ein	14874	False	390			ART	 	
 Wrong Disambiguation	1	2354	3	VER	sein	ist	13082	False	387				 	
 Wrong Disambiguation	0	2561	4	ADV		dann	130436	False	419				 	
 Wrong Disambiguation	1	2574	9	VER		verlassen	17849	False	422				 	
@@ -775,7 +775,7 @@ Wrong Disambiguation	0	2862	9	ADJ	kräftig	kräftigen	93060	False	469				 
 Wrong Disambiguation	1	2959	11	ADJ	freundlich	freundliche	74002	False	483				 	
 Wrong Disambiguation	1	2971	8	NOU		Aufnahme	125340	False	484				 	
 Wrong Disambiguation	0	2991	4	ADV		auch	23235	False	489				 	
-Wrong Grammar	1	3002	7	ADV		richtig	107105	False	491				 	
+Wrong Grammar	1	3002	7	ADV		richtig	107105	False	491			ADJ	 	
 Missing Concept	0	3025	12	ADJ	Höhe	höhensichere		True	495				 	
 Missing Concept	0	3091	6	ADV	sauber	sauber	-1	False	503				 	
 Wrong Disambiguation	1	3105	5	NOU		Stück	159988	False	505				 	
@@ -788,19 +788,19 @@ Wrong Disambiguation	1	3219	9	VER		vernehmen	12932	False	526				 
 Wrong Entity Form	1	3250	3	ANM		Tra	100000144	True	532				 	
 Wrong Recognition	1	3315	16	NPH		Mozarts Papageno	100215627	True	548				 	
 Wrong Recognition	1	3450	6	VER	durchklingen	klingt	132081	False	570				 	
-Wrong Grammar	1	3496	6	VER	lockern	locker	147434	False	579				 	
+Wrong Grammar	1	3496	6	VER	lockern	locker	147434	False	579			ADJ	 	
 Wrong Entity Form	1	3564	5	NOU		Donna	12800	False	590				 	
 Wrong Disambiguation	1	3585	5	VER	singen	singt	121396	False	596				 	
 Wrong Disambiguation	0	3604	4	ADJ		frei	44463	False	599				 	
-Wrong Grammar	1	3633	8	ADV	sicher	sicherer	56201	False	605				 	
+Wrong Grammar	1	3633	8	ADV	sicher	sicherer	56201	False	605			ADJ	 	
 Wrong Recognition	2	3687	12	NOU		Rampensinger	605166	True	613				 	
-Wrong Grammar	1	3735	4	PRE	vor	vorn	596945	False	620				 	
+Wrong Grammar	1	3735	4	PRE	vor	vorn	596945	False	620			ADV	 	
 Wrong Disambiguation	1	3740	10	VER	abstellen	abgestellt	13621	False	621				 	
 Wrong Disambiguation	1	3785	6	NOU	Laut	Lautes	1188	False	629				 	
-Wrong Grammar	0	3803	18	ADJ	Bewundernswürdiges	Bewundernswürdiges	-1	False	632				 	
+Wrong Grammar	0	3803	18	ADJ	Bewundernswürdiges	Bewundernswürdiges	-1	False	632			NOU	 	
 Wrong Recognition	0	3834	16	VER	aufschleudern	hinausschleudert	23716	False	636				 	
 Wrong Disambiguation	1	3856	5	NOU		Hauch	139844	False	639				 	
-Wrong Grammar	0	3898	9	VER	verstärken	verstärkt	120471	False	646				 	
+Wrong Grammar	0	3898	9	VER	verstärken	verstärkt	120471	False	646			ADJ	 	
 Wrong Disambiguation	1	3947	5	VER	tragen	trägt	14084	False	653				 	
 Wrong Disambiguation	0	3962	7	ADJ	andere	anderen	20987	False	657				 	
 Wrong Disambiguation	1	3999	9	ADJ	besetzt	besetztes	577262	False	664				 	
@@ -811,40 +811,40 @@ Wrong Disambiguation	1	4091	9	NOU		Vergleich	121061	False	678				 
 Wrong Disambiguation	1	4132	6	ADJ	hell	hellen	52730	False	684				 	
 Wrong Disambiguation	1	4183	6	NOU		Aufzug	125323	False	692				 	
 Wrong Recognition	1	4204	20	NPH		Mitstudenten Edmondo	100215627	True	696				 	
-Wrong Grammar	1	4260	6	PRO	dies	dieses		True	702				 	
-Wrong Grammar	1	4291	4	ADJ	tag_numero	erst		True	705				 	
+Wrong Grammar	1	4260	6	PRO	dies	dieses		True	702			ADJ	 	
+Wrong Grammar	1	4291	4	ADJ	tag_numero	erst		True	705			ADV	 	
 Wrong Disambiguation	1	4316	9	NOU		Vergleich	121061	False	711				 	
 Wrong Disambiguation	1	4385	9	VER		einpacken	133064	False	719				 	
 Wrong Disambiguation	1	4442	7	NOU		Präsenz	495	False	728				 	
-Wrong Grammar	1	4481	3	ART	die	die	-1	False	735				 	
-Wrong Grammar	1	4527	3	PRO	der	Der		True	743				 	
+Wrong Grammar	1	4481	3	ART	die	die	-1	False	735			PRO	 	
+Wrong Grammar	1	4527	3	PRO	der	Der		True	743			ART	 	
 Wrong Disambiguation	1	4531	5	ADJ	groß	große	50456	False	744				 	
 Wrong Recognition	2	4537	7	NOU		Ambitus	98878	True	745				 	
 Wrong Disambiguation	1	4563	6	ADJ	tief	tiefen	96888	False	750				 	
 Wrong Disambiguation	2	4570	5	GEA	Lopud	Mezzo	13181323	False	751				 	
-Wrong Grammar	2	4576	3	ADV		bis	28941	False	752				 	
+Wrong Grammar	2	4576	3	ADV		bis	28941	False	752			PRE	 	
 Wrong Disambiguation	1	4609	6	NOU	Farbe	Farben	100001075	False	759				 	
 Wrong Disambiguation	1	4650	5	NOU		Tiefe	11608	False	765				 	
 Wrong Disambiguation	1	4656	4	PRE		über	98894	False	766				 	
 Wrong Disambiguation	0	4676	10	NOU		Mittellage	148861	False	769				 	
-Wrong Grammar	2	4687	3	ADV		bis	28941	False	770				 	
+Wrong Grammar	2	4687	3	ADV		bis	28941	False	770			PRE	 	
 Wrong Recognition	1	4723	7	VER	abstatten	statten	19073	False	775				 	
 Wrong Disambiguation	1	4817	4	VER	wissen	weiß	12920	False	788				 	
 Missing Concept	0	4823	12	ADV	phantastisch	Phantastisch		True	790				 	
 Wrong Recognition	2	4874	2	NOU		la	561711	False	797				 	
 Missing Concept	0	4883	10	ADV	hinreißend	hinreißend	-1	False	800				 	
-Wrong Grammar	0	4907	7	ADV		traurig	596285	False	803				 	
-Wrong Grammar	1	4919	18	VER	verrucht-verspielen	verrucht-verspielt	102695	True	805				 	
+Wrong Grammar	0	4907	7	ADV		traurig	596285	False	803			ADJ	 	
+Wrong Grammar	1	4919	18	VER	verrucht-verspielen	verrucht-verspielt	102695	True	805			ADJ	 	
 Wrong Disambiguation	1	5008	18	NOU		Schönheitspflaster	3605	True	818				 	
 Wrong Disambiguation	1	5044	9	VER	vertreiben	vertreibt	165179	False	821				 	
 Missing Concept	0	5055	14	ADV	herzzerreißend	herzzerreißend	-1	False	823				 	
-Wrong Grammar	1	5070	3	PRO	sie	ihr		True	824				 	
+Wrong Grammar	1	5070	3	PRO	sie	ihr		True	824			ADJ	 	
 Wrong Recognition	1	5074	9	NOU	Schwarm	Schwärmen	37737	False	825				 	
 Wrong Disambiguation	1	5088	7	NOU	Friede	Frieden	3443	False	827				 	
-Wrong Grammar	0	5190	4	CON	doch	doch	-1	False	844				 	
+Wrong Grammar	0	5190	4	CON	doch	doch	-1	False	844			ADV	 	
 Wrong Disambiguation	1	5211	6	NOU		Aufzug	100132911	False	849				 	
 Missing Concept	0	5365	11	ADV	chromatisch	chromatisch	-1	False	870				 	
-Wrong Grammar	1	5377	12	ADJ	einzudunkeln	einzudunkeln	-1	False	871				 	
+Wrong Grammar	1	5377	12	ADJ	einzudunkeln	einzudunkeln	-1	False	871			VER	 	
 Wrong Disambiguation	1	5412	9	ADJ	einfach	einfaches	56999	False	877				 	
 Wrong Disambiguation	1	5438	6	NOU	Lump	Lumpen	613	False	882				 	
 Wrong Disambiguation	1	5450	8	ADJ	golden	goldenem	49608	False	885				 	
@@ -854,20 +854,20 @@ Wrong Disambiguation	0	5477	4	NOU		Kind	4273	False	890				 
 Wrong Disambiguation	1	5543	4	NOU		Oper	120717	False	905				 	
 Wrong Disambiguation	1	5570	3	PRO	Bund	der	7196	False	912				 	
 Wrong Disambiguation	1	5659	14	NOU		Abschiedsszene	13909	True	924				 	
-Wrong Grammar	0	5731	7	PRE	anfangs	anfangs	-1	False	937				 	
+Wrong Grammar	0	5731	7	PRE	anfangs	anfangs	-1	False	937			ADV	 	
 Wrong Disambiguation	1	5815	15	NOU		Staatsopernchor	5481	True	951				 	
 Wrong Disambiguation	0	5851	7	ADJ	schön	schöner	29675	False	955				 	
 Wrong Disambiguation	1	5903	8	NOU		Dirigent	147127	False	965				 	
 Wrong Disambiguation	1	5928	5	VER	führen	führt	136986	False	967				 	
-Wrong Grammar	0	5965	6	ADV	solid	solide		True	970				 	
-Wrong Grammar	1	5976	5	PRO	etwas	etwas	-1	False	972				 	
+Wrong Grammar	0	5965	6	ADV	solid	solide		True	970			ADJ	 	
+Wrong Grammar	1	5976	5	PRO	etwas	etwas	-1	False	972			ADV	 	
 Missing Concept	0	6024	10	ADJ	überlassen	überlassen	-1	False	980				 	
 Wrong Disambiguation	1	6075	10	ADJ	gemischt	gemischten	67747	False	989				 	
 Wrong Disambiguation	1	6114	7	ADJ	offen	offenen	150440	False	995				 	
 Missing Concept	0	6142	6	NOU	Stehen	Stehen	-1	False	1002				 	
 Missing Concept	0	6150	10	ADV	ohnmächtig	ohnmächtig	-1	False	1004				 	
 Wrong Disambiguation	1	6187	6	NOU		Stimme	159582	False	1011				 	
-Wrong Grammar	1	6195	9	VER	abwenden	abgewandt	13785	False	1013				 	
+Wrong Grammar	1	6195	9	VER	abwenden	abgewandt	13785	False	1013			ADJ	 	
 Wrong Recognition	1	6225	3	ADV	non	non	-1	False	1021				 	
 Wrong Disambiguation	1	6242	7	VER	sprechen	spricht	12976	False	1025				 	
 Wrong Disambiguation	1	6254	5	VER	singen	singt	121393	False	1027				 	

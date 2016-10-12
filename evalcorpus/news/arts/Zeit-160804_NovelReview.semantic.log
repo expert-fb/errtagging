@@ -503,8 +503,8 @@ Wrong Disambiguation	0	508	5	NOU	Tor	Toren	100053060	False	86				 
 Wrong Disambiguation	0	529	10	NOU		Stillstand	159573	False	90				 	500223
 Wrong Disambiguation	1	577	5	ADV		darum	33073	False	98				 	130507
 Wrong Disambiguation	1	583	4	VER	gehen	geht	14248	False	99				 	
-Wrong Grammar	1	616	8	ADV	schmal	schmalem		True	103				 	
-Wrong Grammar	2	647	4	VER	fasen	fast	41559	False	106				 	
+Wrong Grammar	1	616	8	ADV	schmal	schmalem		True	103			ADJ	 	
+Wrong Grammar	2	647	4	VER	fasen	fast	41559	False	106			ADV	 	
 Wrong Disambiguation	1	699	11	NOU		Mittelpunkt	101645406	False	112				 	501331
 Wrong Disambiguation	1	711	5	VER	stehen	steht	32369	False	113				 	
 Wrong Disambiguation	1	776	8	VER	aufreiben	aufreibt	13188	False	125				 	125407
@@ -534,7 +534,7 @@ Wrong Disambiguation	0	1890	9	NOU	Absturz	Absturzes	172939	False	301				 	118741
 Wrong Disambiguation	2	1960	3	ADJ		alt	35927	False	310				 	123122
 Wrong Disambiguation	1	1997	6	ADV		allein	123059	False	317				 	
 Wrong Recognition	0	2014	6	VER	feiern	feiern	-1	False	321				 	
-Wrong Grammar	1	2026	11	VER	übertreiben	übertrieben	162251	False	323				 	
+Wrong Grammar	1	2026	11	VER	übertreiben	übertrieben	162251	False	323			ADJ	 	
 Wrong Disambiguation	2	2081	5	NOU		Kugel	100049393	False	332				 	2378
 Wrong Recognition	1	2106	8	NPH	Albert Einstein	Einstein	100000937	False	336				 	
 Wrong Disambiguation	0	2120	10	NOU		Treffpunkt	14940	False	339				 	119176
@@ -542,9 +542,9 @@ Wrong Disambiguation	1	2168	9	ADV	hinterher	Hinterher	55505	False	346				 	13043
 Wrong Disambiguation	1	2193	12	NOU		Luxusausgabe	7494	False	350				 	
 Wrong Disambiguation	1	2237	8	NPH	Albert Einstein	Einstein	100000937	False	360				 	
 Wrong Disambiguation	1	2303	5	ADV		herum	100886	False	373				 	
-Wrong Grammar	0	2313	13	ADJ	erfolgreich	Erfolgreichen	39349	False	375				 	
+Wrong Grammar	0	2313	13	ADJ	erfolgreich	Erfolgreichen	39349	False	375			NOU	 	
 Wrong Disambiguation	0	2368	5	NOU		Leben	2484	False	383				 	
-	0	2379	4	ADV		eher	35935	False	385				 	
+Wrong Disambiguation	0	2379	4	ADV		eher	35935	False	385				 	
 Wrong Disambiguation	1	2379	4	ADV		eher	35935	False	385				 	
 Wrong Disambiguation	1	2405	5	ADV		voran	105982	False	388				 	
 Wrong Disambiguation	0	2442	10	VER		versickern	104418	False	394				 	
@@ -554,7 +554,7 @@ Wrong Disambiguation	1	2601	8	VER	vertiefen	vertieft	17006	False	415				 
 Wrong Disambiguation	1	2659	3	GEO	Tirol	die	12750018	False	423				 	
 Wrong Disambiguation	1	2850	9	ADJ	zeitlos	zeitlosen	57741	False	448				 	609900
 Wrong Disambiguation	0	2901	6	VER	eindringen	dringt	36356	False	454				 	55224
-Wrong Grammar	1	2924	12	ADV	unheimlich	Unheimlichen	24963	False	458				 	
+Wrong Grammar	1	2924	12	ADV	unheimlich	Unheimlichen	24963	False	458			NOU	 	
 Wrong Disambiguation	1	2977	10	ADJ	wörtlich	wörtlichen	110145	False	467				 	167645
 Wrong Disambiguation	0	3100	5	NOU		Boden	100036133	False	490				 	100217164
 Wrong Disambiguation	1	3184	6	NOU	Folge	Folgen	994	False	506				 	2885
@@ -566,14 +566,14 @@ Wrong Disambiguation	1	3451	5	NOU		Geist	562025	False	549				 	3195
 Wrong Disambiguation	0	3478	9	VER		verlieren	173478	False	553				 	164505
 Wrong Disambiguation	1	3591	6	NOU		Heldin	2552	False	570				 	17672
 Wrong Disambiguation	1	3608	14	NOU		Verwandtschaft	101552552	False	573				 	14369
-Wrong Grammar	1	3623	2	ADJ		zu	111967	False	574				 	
+Wrong Grammar	1	3623	2	ADJ		zu	111967	False	574			PRE	 	
 Wrong Recognition	1	3626	13	NPH		Büchners Lenz	100215627	True	575				 	
 Wrong Disambiguation	1	3743	5	NOU		Blick	16563	False	590				 	
-	1	3786	5	ADJ	kurz	kurze	65605	False	599				 	
+Wrong Disambiguation	0	3786	5	ADJ	kurz	kurze	65605	False	599				 	
 Missing Concept	0	3786	5	ADJ	kurz	kurze	65605	False	599				 	
 Wrong Disambiguation	1	3798	3	VER	sein	ist	172056	False	601				 	
 Missing Concept	0	3819	5	ADV	leis	leise		True	605				 	
-Wrong Grammar	1	3834	12	VER	Lautstärke	lautstärkere		True	609				 	
+Wrong Grammar	1	3834	12	VER	Lautstärke	lautstärkere		True	609			ADJ	 	
 Missing Concept	0	3861	14	ADJ	Effektabreichern	effektreichere	82689	True	613				 	
 Wrong Disambiguation	1	3897	9	VER		verzehren	118580	False	617				 	
 Wrong Disambiguation	0	3922	3	ADV		nur	66818	False	621				 	

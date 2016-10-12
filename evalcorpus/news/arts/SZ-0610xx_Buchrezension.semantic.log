@@ -385,10 +385,10 @@ Wrong Disambiguation	1	217	8	VER	studieren	studiert	120945	False	0				 
 Wrong Disambiguation	1	237	11	ADJ		kurzsichtig	146443	False	0				 	
 Wrong Disambiguation	1	253	6	VER	tappen	tappte	500876	False	0				 	
 Wrong Disambiguation	1	318	2	ADV	da	Da	173213	False	0				 	
-Wrong Grammar	1	342	5	PRO	jede	jeden		False	0				 	
-Wrong Grammar	1	348	6	PRO	selbst	selbst	-1	False	0				 	
-Wrong Grammar	0	361	4	ADJ		ganz	45972	False	0				 	
-Wrong Grammar	1	528	8	ADJ		erwiesen	577314	False	0				 	
+Wrong Grammar	1	342	5	PRO	jede	jeden		False	0			ADJ	 	
+Wrong Grammar	1	348	6	PRO	selbst	selbst	-1	False	0			ADV	 	
+Wrong Grammar	0	361	4	ADJ		ganz	45972	False	0			ADV	 	
+Wrong Grammar	1	528	8	ADJ		erwiesen	577314	False	0			VER	 	
 Wrong Disambiguation	0	594	13	VER	aufpflanzen	aufzupflanzen	125371	False	0				 	
 Wrong Entity Type	0	612	8	NPR	Amundsen	Amundsen	-1	False	0			NPH	 	
 Wrong Entity Type	1	641	15	NOU	Cherry-Garrards	Cherry-Garrards	-1	False	0			NPH	 	
@@ -397,10 +397,10 @@ Wrong Disambiguation	1	796	6	VER		gelten	137905	False	0				 
 Wrong Entity Type	1	822	15	NOU	Cherry-Garrards	Cherry-Garrards	-1	False	0			NPH	 	
 Wrong Disambiguation	1	846	4	PRE		über	98894	False	0				 	
 Wrong Disambiguation	1	874	3	VER	sein	ist	13082	False	0				 	
-Wrong Grammar	1	878	4	PRO	ein	eine		False	0				 	
+Wrong Grammar	1	878	4	PRO	ein	eine		False	0			ART	 	
 Wrong Disambiguation	1	887	6	ADJ	gut	besten	29675	False	0				 	139252
 Wrong Disambiguation	0	915	13	NOU	Schilderung	Schilderungen	2142	False	0				 	
-Wrong Grammar	1	929	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	929	3	PRO	der	des		False	0			ART	 	
 Wrong Disambiguation	1	996	3	ADV		nur	20252	False	0				 	
 Missing Concept	0	1092	16	ADJ		charakteristisch	12562	False	0				 	
 Wrong Entity Form	1	1150	6	NPH	 Bowers	Henry 		False	0				 	
@@ -423,19 +423,19 @@ Wrong Recognition	0	1871	4	NOU		Teil	29	False	0				 
 Wrong Disambiguation	1	1889	5	NOU		Punkt	1384	False	0				 	1383
 Wrong Disambiguation	1	1907	8	VER	kommen	gekommen	117806	False	0				 	16179
 Wrong Recognition	1	1930	3	ADV		nur	20252	False	0				 	
-Wrong Grammar	1	1939	13	ADJ	interessiert	interessierte	58742	False	0				 	
+Wrong Grammar	1	1939	13	ADJ	interessiert	interessierte	58742	False	0			VER	 	
 Wrong Disambiguation	1	2012	6	VER	dauern	dauert	108418	False	0				 	
 Wrong Entity Type	1	2114	14	NOU	Cherry-Garrard	Cherry-Garrard	-1	False	0			NPH	 	
 Missing Concept	0	2150	9	ADV	schlaflos	schlaflos	-1	False	0				 	
-Wrong Grammar	1	2164	8	VER	krümmen	gekrümmt	146219	False	0				 	
+Wrong Grammar	1	2164	8	VER	krümmen	gekrümmt	146219	False	0			ADJ	 	
 Wrong Disambiguation	1	2173	3	PRE		vor	596943	False	0				 	
 Missing Concept	0	2177	7	NOU	Zittern	Zittern	-1	False	0				 	
 Wrong Disambiguation	1	2203	8	VER	gefrieren	gefriert	132772	False	0				 	
 Wrong Disambiguation	1	2216	11	ADJ	ungeeignet	ungeeignete	57881	False	0				 	
-Wrong Grammar	1	2292	2	CON		zu	565251	False	0				 	
-Wrong Grammar	2	2301	7	VER		steifen	16405	False	0				 	
+Wrong Grammar	1	2292	2	CON		zu	565251	False	0			PRE	 	
+Wrong Grammar	2	2301	7	VER		steifen	16405	False	0			ADJ	 	
 Wrong Disambiguation	1	2319	6	ADV	einmal	Einmal	118174	False	0				 	
-Wrong Grammar	1	2356	2	PRE	um	um	-1	False	0				 	
+Wrong Grammar	1	2356	2	PRE	um	um	-1	False	0			CON	 	
 Wrong Disambiguation	1	2364	11	VER	umschauen	umzuschauen	162650	False	0				 	
 Wrong Disambiguation	1	2412	4	ADV		mehr	70026	False	0				 	
 Wrong Disambiguation	1	2448	3	VER	sein	war	172056	False	0				 	
@@ -451,15 +451,15 @@ Wrong Disambiguation	1	2746	6	VER		bergen	120087	False	0				 	120090
 Wrong Disambiguation	1	2782	12	VER		zurückliegen	16255	False	0				 	
 Wrong Disambiguation	0	2857	9	ADJ	komisch	komisches	25887	False	0				 	
 Wrong Disambiguation	1	2902	8	NOU	Passage	Passagen	3027	False	0				 	
-Wrong Grammar	1	2911	3	PRO	der	der	-1	False	0				 	
+Wrong Grammar	1	2911	3	PRO	der	der	-1	False	0			ART	 	
 Wrong Disambiguation	1	2929	8	ADJ		schlecht	58160	False	0				 	
 Missing Entity	1	2972	15	NOU	Cherry-Garrards	Cherry-Garrards	-1	False	0			NPH	 	
 Wrong Disambiguation	2	3023	11	NOU	Pinguinei	Pinguineier	100001368	True	0				 	
 Wrong Disambiguation	1	3095	11	ADJ	menschlich	menschliche	70333	False	0				 	
-Wrong Grammar	2	3113	14	VER	Dreihundertabmalen	dreihundertmal	18722	True	0				 	
+Wrong Grammar	2	3113	14	VER	Dreihundertabmalen	dreihundertmal	18722	True	0			ADV	 	
 Wrong Disambiguation	1	3166	11	ADJ	menschlich	menschliche	70333	False	0				 	
 Wrong Disambiguation	1	3178	14	NOU	Konstitution	Konstitutionen	102076487	False	0				 	
-Wrong Grammar	2	3193	3	ADV		bis	28941	False	0				 	
+Wrong Grammar	2	3193	3	ADV		bis	28941	False	0			PRE	 	
 Wrong Recognition	1	3201	9	ADJ	äußer	äußersten	126854	False	0				 	
 Wrong Disambiguation	1	3222	12	ADJ	menschlich	menschlichen	70333	False	0				 	
 Wrong Disambiguation	0	3295	7	ADJ	groß	größten	50386	False	0				 	

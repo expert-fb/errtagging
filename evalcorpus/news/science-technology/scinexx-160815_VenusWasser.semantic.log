@@ -430,7 +430,7 @@ Wrong Disambiguation	1	35	4	NOU		Welt	5448	False	0				 	1630
 Wrong Disambiguation	1	51	6	ADJ	karg	kargen	132350	False	0				 	100856
 Wrong Disambiguation	0	123	7	ADV		darüber	130503	False	0				 	32326
 Wrong Disambiguation	0	131	6	VER	lasten	lastet	146735	False	0				 	
-Wrong Grammar	1	170	6	ADV	dick	dicker	24963	False	0				 	
+Wrong Grammar	1	170	6	ADV	dick	dicker	24963	False	0			ADJ	 	
 Wrong Disambiguation	1	177	3	VER	sein	ist	13136	False	0				 	
 Wrong Disambiguation	0	211	4	ADV		noch	74484	False	0				 	
 Wrong Disambiguation	0	266	4	ADV		noch	74484	False	0				 	
@@ -442,13 +442,13 @@ Wrong Disambiguation	1	479	6	ADV		darauf	32207	False	0				 
 Wrong Disambiguation	1	486	9	VER	liefern	geliefert	117418	False	0				 	
 Wrong Disambiguation	0	518	10	ADV		vielleicht	100886	False	0				 	105201
 Wrong Disambiguation	1	566	5	VER		haben	12561	False	0				 	
-Wrong Grammar	1	557	8	ADJ		besessen	562681	False	0				 	
-Wrong Grammar	1	681	5	NOU		Jetzt	100193168	False	0				 	
+Wrong Grammar	1	557	8	ADJ		besessen	562681	False	0			VER	 	
+Wrong Grammar	1	681	5	NOU		Jetzt	100193168	False	0			ADV	 	
 Wrong Entity Type	1	720	35	BLD	Goddard Institute for Space Studie	Goddard Institute for Space Studies	70	True	0				 	
 Wrong Entity Type	1	757	4	BLD	Goddard Institute for Space Studie	GISS	70	True	0				 	
 Wrong Disambiguation	1	847	5	VER		haben	13090	False	0				 	
 Wrong Disambiguation	1	957	10	VER	anwenden	angewendet	14079	False	0				 	124323
-Wrong Grammar	2	985	15	ADJ	rekonstruiert	rekonstruierten		False	0				 	
+Wrong Grammar	2	985	15	ADJ	rekonstruiert	rekonstruierten		False	0			VER	 	
 Wrong Disambiguation	0	1176	5	ADV		heute	54750	False	0				 	
 Wrong Disambiguation	0	1182	4	ADV		auch	173912	False	0				 	
 Missing Concept	0	1213	6	VER	dauern	dauert	108418	False	0				 	
@@ -460,11 +460,11 @@ Wrong Disambiguation	1	1516	15	NOU		Venusoberfläche	723	True	0				 
 Wrong Disambiguation	1	1532	6	VER	ausgehen	gingen	14621	False	0				 	
 Missing Concept	1	1585	14	NOU	Venusmission	Venusmissionen	549	True	0				 	
 Wrong Disambiguation	1	1754	7	VER		ergeben	12972	False	0				 	
-Wrong Grammar	0	1819	7	ADJ	wenig	weniger	118578	False	0				 	
+Wrong Grammar	0	1819	7	ADJ	wenig	weniger	118578	False	0			ADV	 	
 Wrong Disambiguation	1	1885	11	NOU	Bedingung	Bedingungen	125241	False	0				 	119224
-Wrong Grammar	1	2035	15	NOU	überschießenden	überschießenden	-1	False	0				 	
+Wrong Grammar	1	2035	15	NOU	überschießenden	überschießenden	-1	False	0			ADJ	 	
 Wrong Disambiguation	0	2082	5	VER	bleiben	blieb	129080	False	0				 	
-Wrong Grammar	0	2105	8	PRE	zunächst	zunächst	-1	False	0				 	
+Wrong Grammar	0	2105	8	PRE	zunächst	zunächst	-1	False	0			ADV	 	
 Wrong Disambiguation	1	2159	4	ADJ		lang	146667	False	0				 	
 Wrong Disambiguation	1	2164	6	VER	können	könnte	12879	False	0				 	
 Wrong Disambiguation	1	2304	4	ADV		rund	144593	False	0				 	100886
@@ -477,24 +477,24 @@ Wrong Disambiguation	1	2674	4	ADJ		lang	146667	False	0				 
 Wrong Disambiguation	0	2724	6	VER	machen	machte	13039	False	0				 	
 Wrong Disambiguation	1	2844	5	ADJ	lang	lange	66152	False	0				 	
 Wrong Disambiguation	0	2910	4	ADV		auch	173912	False	0				 	
-Wrong Grammar	1	2949	11	ADJ	verdunstet	verdunstete		False	0				 	
+Wrong Grammar	1	2949	11	ADJ	verdunstet	verdunstete		False	0			VER	 	
 Wrong Disambiguation	1	3037	6	VER	wirken	wirkte	113596	False	0				 	
 Wrong Disambiguation	1	3085	3	PRE		vor	596945	False	0				 	
 Wrong Disambiguation	1	3085	3	PRE		vor	596945	False	0				 	
-Wrong Grammar	1	3136	5	NOU		Folge	994	False	0				 	
-Wrong Grammar	1	3182	7	ADJ	wenig	weniger	118578	False	0				 	
+Wrong Disambiguation	1	3136	5	NOU		Folge	994	False	0				 	
+Wrong Grammar	1	3182	7	ADJ	wenig	weniger	118578	False	0			ADV	 	
 Wrong Disambiguation	1	3280	3	PRO	Ergebnis	die	117958	False	0				 	
-Wrong Grammar	2	3294	4	VER	paaren	paar	150795	False	0				 	
+Wrong Grammar	2	3294	4	VER	paaren	paar	150795	False	0			ADJ	 	
 Wrong Disambiguation	1	3299	4	GEO		Grad	13184890	False	0				 	
 Wrong Disambiguation	1	3325	6	VER		liegen	16334	False	0				 	
 Missing Entity	1	3374	4	NOU	GISS	GISS	-1	False	0				 	
 Wrong Disambiguation	0	3425	7	ADJ	stark	starken	93062	False	0				 	
 Wrong Disambiguation	0	3445	10	ADJ		ausgesetzt	589062	False	0				 	
-Wrong Grammar	1	3493	7	ADJ	wenig	weniger	118578	False	0				 	
-Wrong Grammar	1	3512	7	VER	sein	gewesen	172056	False	0				 	
-Wrong Grammar	1	3579	4	ADJ	tag_numero	Erst		False	0				 	
+Wrong Grammar	1	3493	7	ADJ	wenig	weniger	118578	False	0			ADV	 	
+Wrong Disambiguation	1	3512	7	VER	sein	gewesen	172056	False	0				 	
+Wrong Grammar	1	3579	4	ADJ	tag_numero	Erst		False	0			ADV	 	
 Wrong Disambiguation	0	3631	2	ADV		so	130436	False	0				 	
-Wrong Grammar	1	3746	6	ADJ	weit	weiter	66152	False	0				 	
+Wrong Grammar	1	3746	6	ADJ	weit	weiter	66152	False	0			ADV	 	
 Wrong Disambiguation	1	3863	4	ADV		noch	74484	False	0				 	
 Wrong Disambiguation	1	3868	7	ADJ	stark	stärker	43117	False	0				 	
 Wrong Disambiguation	1	4004	5	ADV		heute	54750	False	0				 	

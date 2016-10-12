@@ -505,16 +505,16 @@ Missing Concept	0	11	10	NOU		Doppeltopf	4793	True	2				 
 Missing Concept	0	22	13	NOU		Hybridtechnik	571325	False	3				 	
 Wrong Disambiguation	1	50	4	VER	sollen	soll	148995	False	6				 	
 Wrong Disambiguation	0	73	8	ADJ	sauber	sauberer	85484	False	9				 	154986
-Wrong Grammar	1	86	9	ADV	sparsam	sparsamer		True	11				 	
-Wrong Grammar	1	160	7	VER	beziehen	bezogen	119588	False	21				 	
-Wrong Grammar	1	243	8	ADJ		Ökomobil	71443	True	35				 	
+Wrong Grammar	1	86	9	ADV	sparsam	sparsamer		True	11			ADJ	 	
+Wrong Grammar	1	160	7	VER	beziehen	bezogen	119588	False	21			ADV	 	
+Wrong Grammar	1	243	8	ADJ		Ökomobil	71443	True	35			NOU	 	
 Wrong Recognition	1	311	7	NOU		Hybride	5861	False	45				 	
 Wrong Disambiguation	1	320	4	ADV	etwa	Etwa	100886	False	47				 	
 Missing Entity	0	329	6	NOU	Urbino	Urbino	-1	False	49				 	
 Wrong Disambiguation	1	438	11	ADJ	niedrig	niedrigerer	65605	False	67				 	120703
 Wrong Recognition	1	502	4	ADJ	viel	mehr	173024	False	76		mehr	ADV	 	121258
 Wrong Disambiguation	1	629	9	VER	begreifen	begriffen	12860	False	99				 	16457
-Wrong Grammar	1	653	15	ADJ	experimentiert	experimentierte		True	103				 	
+Wrong Grammar	1	653	15	ADJ	experimentiert	experimentierte		True	103			VER	 	
 Missing Entity	1	711	2	NOU	Ö	OE	100844976	False	108				 	
 Wrong Disambiguation	0	783	8	VER	starten	startete	159117	False	120				 	14161
 Wrong Entity Form	1	796	23	NPR	Niederflur-Midibus Cito	Niederflur-Midibus Cito	-1	False	122				 	
@@ -523,16 +523,16 @@ Wrong Recognition	1	929	10	NOU	hoher Preis	hohe Preis	14506	False	140				 
 Wrong Disambiguation	1	960	8	NOU		Regelung	14597	False	144				 	119428
 Wrong Disambiguation	1	1005	8	VER		bedeuten	14805	False	151				 	14815
 Wrong Disambiguation	1	1079	9	VER		verfolgen	17486	False	161				 	164064
-Wrong Grammar	1	1111	3	PRO	ein	ein	-1	False	165				 	
-Wrong Grammar	1	1115	5	PRO	etwas	etwas	-1	False	166				 	
+Wrong Grammar	1	1111	3	PRO	ein	ein	-1	False	165			ART	 	
+Wrong Grammar	1	1115	5	PRO	etwas	etwas	-1	False	166			ADV	 	
 Wrong Recognition	1	1199	3	PRO	ein	ein	-1	False	183				 	
-Wrong Grammar	0	1221	6	ADV	teuer	teurer		True	186				 	
+Wrong Grammar	0	1221	6	ADV	teuer	teurer		True	186			ADJ	 	
 Wrong Disambiguation	1	1228	4	VER		sein	13082	False	187				 	
 Wrong Disambiguation	1	1257	6	NOU		Diesel	8482	False	191				 	8468
 Wrong Entity Form	1	1384	4	NOU		West	500261	False	209				 	
-Wrong Grammar	0	1443	5	ADV	alt	alten		True	218				 	
-Wrong Grammar	1	1428	5	PRO	eine	einer		True	216				 	
-Wrong Grammar	2	1456	3	VER	malen	mal	32912	False	221				 	
+Wrong Grammar	0	1443	5	ADV	alt	alten		True	218			ADJ	 	
+Wrong Grammar	1	1428	5	PRO	eine	einer		True	216			ART	 	
+Wrong Grammar	2	1456	3	VER	malen	mal	32912	False	221			ADV	 	
 Wrong Disambiguation	0	1467	8	ADJ	belebt	belebten	27034	False	223				 	
 Wrong Disambiguation	1	1553	11	ADJ	klassisch	klassischen	121361	False	241				 	121362
 Missing Concept	0	1582	10	NOU	Verdichten	Verdichten	-1	False	246				 	
@@ -549,7 +549,7 @@ Wrong Disambiguation	1	1800	9	NOU		Erfindung	4782	False	285				 	4783
 Missing Concept	0	1819	6	NOU	Zünden	Zünden	-1	False	289				 	
 Wrong Disambiguation	0	1846	4	ADJ		weit	66152	False	293				 	
 Wrong Recognition	0	1914	6	NOU	Oberer	Oberen	75012	False	304				 	
-Wrong Grammar	1	1960	5	PRO	ein	einen		True	313				 	
+Wrong Grammar	1	1960	5	PRO	ein	einen		True	313			ART	 	
 Wrong Disambiguation	1	2055	3	NPH		Sal	561397	False	326				 	
 Wrong Disambiguation	1	2094	6	VER	setzen	setzte	157656	False	334				 	
 Wrong Disambiguation	0	2101	4	ADV		noch	74484	False	335				 	
@@ -558,9 +558,9 @@ Wrong Disambiguation	1	2193	13	NOU		Bummelbetrieb	104830453	True	350				 
 Wrong Disambiguation	1	2221	6	NOU		System	100058778	False	353				 	
 Wrong Disambiguation	0	2234	4	NOU		Teil	29	False	355				 	172311
 Wrong Disambiguation	1	2246	18	NOU		Verdichterzylinder	100110304	True	358				 	
-Wrong Grammar	1	2302	4	NPH		Will	101553386	False	365				 	
+Wrong Grammar	1	2302	4	NPH		Will	101553386	False	365			VER	 	
 Wrong Disambiguation	1	2318	8	VER	abjagen	losjagen	18616	False	368				 	
-Wrong Grammar	1	2371	3	PRO	das	das	-1	False	379				 	
+Wrong Grammar	1	2371	3	PRO	das	das	-1	False	379			ART	 	
 Wrong Disambiguation	1	2582	4	ADV		mehr	70026	False	410				 	121258
 Wrong Disambiguation	0	2596	5	ADJ	voll	volle	120598	False	413				 	105749
 Wrong Disambiguation	1	2634	5	ADJ		prall	152264	False	422				 	

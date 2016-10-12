@@ -414,7 +414,7 @@ Wrong Disambiguation	0	474	5	ADV		dahin	32042	False	76				 	32043
 Wrong Recognition	0	480	3	VER	sein	sei	13111	False	77				 	
 Wrong Recognition	0	501	10	ADV	weit weg	weiter Weg	108395	False	82				 	
 Wrong Entity Form	0	542	7	ADJ	aegypti	aegypti	-1	False	89				 	
-Wrong Grammar	1	550	11	NOU	übertragene	übertragene	-1	False	90				 	
+Wrong Grammar	1	550	11	NOU	übertragene	übertragene	-1	False	90			ADJ	 	
 Missing Entity	0	562	10	NOU	Zika-Virus	Zika-Virus	-1	False	91				 	
 Wrong Disambiguation	0	655	4	NOU		Kind	4273	False	102				 	118761
 Wrong Disambiguation	1	660	6	VER		führen	136980	False	103				 	
@@ -435,8 +435,8 @@ Missing Entity	0	1234	12	NOU	Dengue-Virus	Dengue-Virus	-1	False	194				 
 Missing Entity	0	1277	10	NOU	Zika-Virus	Zika-Virus	-1	False	199				 	
 Wrong Disambiguation	1	1299	14	VER		neutralisieren	149943	False	202				 	
 Wrong Disambiguation	0	1323	8	VER	erklären	erklärte	13475	False	206				 	
-Wrong Grammar	0	1394	3	CON	nun	Nun		True	213				 	
-Wrong Grammar	0	1410	8	PRE	zunächst	zunächst	-1	False	216				 	
+Wrong Grammar	0	1394	3	CON	nun	Nun		True	213			ADV	 	
+Wrong Grammar	0	1410	8	PRE	zunächst	zunächst	-1	False	216			ADV	 	
 Wrong Disambiguation	0	1459	2	ADV		so	90954	False	225				 	
 Missing Concept	0	1512	16	NOU	Dengue-Infektion	Dengue-Infektion	-1	False	233				 	
 Missing Entity	0	1550	4	NPR	Zika-Virus	Zika	100034770	True	237				 	
@@ -462,7 +462,7 @@ Wrong Disambiguation	1	2103	4	VER	geben	gibt	13134	False	0				 
 Wrong Disambiguation	1	2145	6	NOU		Studie	174040	False	0				 	
 Wrong Disambiguation	1	2203	18	NOU		Abtreibungswünsche	17016	True	0				 	
 Missing Concept	0	2229	10	ADV	sprunghaft	sprunghaft	-1	False	0				 	
-Wrong Grammar	0	2243	4	PRO	ein	Eine		False	0				 	
+Wrong Grammar	0	2243	4	PRO	ein	Eine		False	0			ART	 	
 Wrong Disambiguation	0	2331	4	NOU		Zahl	14331	False	0				 	7
 Wrong Disambiguation	1	2340	18	NOU	Abtreibungswunsch	Abtreibungswünsche	17016	True	0				 	
 Missing Concept	0	2372	10	ADV		sprunghaft	12562	False	0				 	

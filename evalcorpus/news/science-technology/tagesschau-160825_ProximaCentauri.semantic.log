@@ -402,7 +402,7 @@
 CPL=9:8;SBJ=7:11;SBJ=18:20;SBJ=30:31;APH=35:33;SBJ=33:38;SBJ=33:40;CPL=37:40;SBJ=50:51;OBJ=48:51;SBJ=54:57;APH=65:62;SBJ=60:63;OBJ=61:63;SBJ=62:69;SBJ=73:76;OBJ=75:76;OBJ=79:78;SBJ=83:82;SBJ=87:92;OBJ=90:92;CPL=99:94;SBJ=95:96;SBJ=103:102;OBJ=104:102;SBJ=110:111;APH=119:116;SBJ=115:117;OBJ=116:117;SBJ=116:121;OBJ=120:121;SBJ=124:125;SBJ=128:131;SBJ=139:141;SBJ=144:145;SBJ=144:150;SBJ=153:154;OBJ=155:154;SBJ=166:167;OBJ=168:167;SBJ=172:173;APH=184:181;OBJ=179:182;OBJ=181:187;SBJ=197:196;SBJ=197:202;OBJ=200:202;SBJ=205:207;SBJ=212:211;SBJ=219:221;OBJ=218:221;SBJ=-50:233;SBJ=236:235;OBJ=239:235;SBJ=242:247;SBJ=244:247;OBJ=244:247;SBJ=252:254;CPL=253:254;SBJ=257:260;SBJ=267:266;SBJ=270:269;SBJ=273:274;SBJ=278:283;OBJ=282:283;SBJ=291:292;SBJ=297:298;SBJ=301:300;CPL=305:300;SBJ=309:308;SBJ=314:317;SBJ=319:320;SBJ=324:323;SBJ=326:330;CPL=331:330;SBJ=338:339;SBJ=342:341;OBJ=343:341;SBJ=347:350;OBJ=348:350;SBJ=358:360;OBJ=359:360;OBJ=363:364;APH=26:2;APH=49:2;APH=88:33;APH=145:144;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Wrong Entity Type	0	99	18	NPR	Proxima Cenauri	Proxima Centauri b	100034770	True	14				 	
-Wrong Grammar	0	178	3	CON	nun	nun	-1	False	26				 	
+Wrong Grammar	0	178	3	CON	nun	nun	-1	False	26			ADV	 	
 Wrong Disambiguation	1	213	4	VER	geben	gibt	13201	False	34				 	15231
 Wrong Disambiguation	0	234	4	PRE		nach	562278	False	38				 	
 Wrong Disambiguation	0	239	7	ADJ	eigen	eigenen	80137	False	39				 	120216
@@ -418,16 +418,16 @@ Wrong Disambiguation	1	755	9	VER	ansehen	angesehen	17342	False	118				 	12935
 Wrong Disambiguation	0	799	8	ADJ		wirklich	82526	False	127				 	96019
 Wrong Disambiguation	1	821	6	VER		wissen	15893	False	131				 	12920
 Wrong Disambiguation	1	903	5	NOU		Stern	1275	False	146				 	100000523
-Wrong Grammar	1	915	8	PRO	dieselbe	dieselbe	-1	False	148				 	
+Wrong Grammar	1	915	8	PRO	dieselbe	dieselbe	-1	False	148			ADJ	 	
 Wrong Disambiguation	1	930	8	VER	zuwenden	zuwendet	15187	False	150				 	
 Wrong Recognition	1	965	21	ADV		auf der anderen Seite	588751	False	158				 	
 Wrong Disambiguation	1	1014	11	VER	bombardieren	bombardiere	29642	False	164				 	129311
 Wrong Disambiguation	1	1084	8	NOU		Teilchen	3918	False	172				 	76897
-Wrong Grammar	1	1146	2	PRE	ob	ob	-1	False	182				 	
+Wrong Grammar	1	1146	2	PRE	ob	ob	-1	False	182			CON	 	
 Wrong Entity Form	1	1150	15	NPR		Proxima Cenauri	100034770	True	184				 	
-Wrong Grammar	1	1166	1	NOU		b	100115276	False	185				 	
+Wrong Grammar	1	1166	1	NOU		b	100115276	False	185			PRE	 	
 Wrong Disambiguation	0	1254	5	NOU		Leben	2484	False	206				 	100000003
-Wrong Grammar	1	1266	7	PRO	solch	solchen		True	208				 	
+Wrong Grammar	1	1266	7	PRO	solch	solchen		True	208			ADJ	 	
 Wrong Disambiguation	1	1286	11	NOU	Bedingung	Bedingungen	125241	False	210				 	119224
 Wrong Disambiguation	1	1315	9	VER		schreiben	156695	False	215				 	
 Wrong Disambiguation	1	1399	6	NOU		Studie	174040	False	225				 	117991
@@ -439,16 +439,16 @@ Wrong Disambiguation	1	1744	5	NOU		Masse	4973	False	279				 	100011423
 Wrong Disambiguation	0	1774	4	PRE		nach	562278	False	283				 	
 Wrong Disambiguation	1	1859	9	VER	beteiligen	beteiligt	14505	False	298				 	14384
 Wrong Disambiguation	0	2123	5	VER	liegen	liegt	16342	False	342				 	16335
-Wrong Grammar	0	2270	4	ADJ	tag_numero	erst		True	359				 	
+Wrong Grammar	0	2270	4	ADJ	tag_numero	erst		True	359			ADV	 	
 Wrong Disambiguation	1	2281	8	NOU	Hinweis	Hinweise	1638	False	361				 	10468
 Wrong Entity Type	0	2295	18	NPR	Proxima Cenauri	Proxima Centauri b	100034770	True	364				 	
 Wrong Disambiguation	1	2323	5	VER	liegen	liegt	16318	False	368				 	14832
-Wrong Grammar	2	2350	7	VER		grenzen	21299	False	373				 	
+Wrong Grammar	2	2350	7	VER		grenzen	21299	False	373			NOU	 	
 Wrong Entity Type	1	2369	3	GEA	Eso	ESO	13184153	False	377				 	
 Wrong Entity Type	0	2452	22	NPR	Guillem Anglada-Escudé	Guillem Anglada-Escudé	-1	False	390				 	
 Wrong Disambiguation	0	2623	4	PRE		nach	562278	False	412				 	
 Wrong Disambiguation	1	2723	5	ADJ	hoch	hoher	141978	False	430				 	
-Wrong Grammar	0	2774	7	ADV	erhaben	erhaben	-1	False	437				 	
+Wrong Grammar	0	2774	7	ADV	erhaben	erhaben	-1	False	437			ADJ	 	
 Wrong Disambiguation	1	2831	7	VER	sein	gewesen	172056	False	447				 	
 Wrong Disambiguation	0	2950	4	PRE		über	98894	False	465				 	
 Wrong Recognition	1	3011	7	ADJ	weit	weitere	43176	False	473				 	
@@ -459,5 +459,5 @@ Wrong Disambiguation	0	3491	6	NOU	Stern	Sterne	1275	False	545				 	100000523
 Wrong Disambiguation	2	3523	4	ADJ	rot	rote	118299	False	550				 	
 Wrong Disambiguation	2	3528	6	NOU	Zwerg	Zwerge	4269	False	551				 	100244393
 Wrong Disambiguation	1	3643	4	VER	geben	gibt	13201	False	574				 	15231
-Wrong Grammar	1	3709	6	PRO	dies	dieser		True	586				 	
-Wrong Grammar	2	3775	3	VER	nahen	nah	140324	False	595				 	
+Wrong Grammar	1	3709	6	PRO	dies	dieser		True	586			ADJ	 	
+Wrong Grammar	2	3775	3	VER	nahen	nah	140324	False	595			ADV	 	

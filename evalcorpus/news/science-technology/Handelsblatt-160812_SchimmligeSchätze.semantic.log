@@ -310,10 +310,10 @@
 SBJ=2:1;OBJ=3:1;SBJ=6:8;APH=14:12;SBJ=12:17;SBJ=12:19;SBJ=27:20;SBJ=12:23;SBJ=34:32;OBJ=40:42;SBJ=44:45;SBJ=50:51;SBJ=50:55;OBJ=54:55;SBJ=57:58;APH=62:60;SBJ=60:66;SBJ=69:70;OBJ=71:70;SBJ=76:75;CPL=77:75;SBJ=82:81;SBJ=85:92;APH=97:94;SBJ=85:95;OBJ=94:95;SBJ=94:100;SBJ=108:105;SBJ=115:118;OBJ=121:124;SBJ=134:130;SBJ=138:137;SBJ=138:147;SBJ=149:150;SBJ=-49:153;OBJ=158:159;SBJ=163:164;SBJ=174:175;SBJ=-52:184;SBJ=188:187;OBJ=191:187;SBJ=193:194;SBJ=193:199;OBJ=197:199;SBJ=206:207;OBJ=171:207;SBJ=220:219;CPL=221:219;SBJ=220:223;SBJ=-52:228;SBJ=-52:238;OBJ=239:238;SBJ=247:246;SBJ=251:250;SBJ=254:259;OBJ=191:259;OBJ=258:259;SBJ=251:263;SBJ=268:269;SBJ=266:271;OBJ=266:275;CPL=274:275;OBJ=279:280;APH=203:171;APH=230:171;APH=256:191;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Missing Concept	1	10	4	NOU		Ruck	47216	False	0				 	
-Wrong Grammar	1	133	6	VER		dicken	36342	False	0				 	
+Wrong Grammar	1	133	6	VER		dicken	36342	False	0			ADJ	 	
 Wrong Disambiguation	1	179	6	VER	reichen	reicht	47876	False	0				 	
 Wrong Disambiguation	1	209	6	VER	fischen	fischt	136011	False	0				 	136013
-Wrong Grammar	1	283	8	VER	verbergen	verbirgt	119505	False	0				 	
+Wrong Disambiguation	1	283	8	VER	verbergen	verbirgt	119505	False	0				 	
 Wrong Disambiguation	1	418	4	NOU		Teil	100223557	False	0				 	
 Wrong Disambiguation	1	423	5	ADV		davon	130559	False	0				 	
 Wrong Disambiguation	1	465	6	NOU		Fundus	17343	False	0				 	137065
@@ -323,7 +323,7 @@ Wrong Disambiguation	1	621	4	ADV	rund	Rund	144593	False	0				 
 Wrong Disambiguation	1	633	9	NOU	Exemplar	Exemplare	562104	False	0				 	40455
 Wrong Disambiguation	1	655	8	NOU		Sammlung	85184	False	0				 	3050
 Wrong Disambiguation	0	666	5	ADV	damit	Damit	32147	False	0				 	130383
-Wrong Grammar	1	733	3	PRO	der	den		False	0				 	
+Wrong Grammar	1	733	3	PRO	der	den		False	0			ART	 	
 Wrong Entity Form	0	769	27	ORG	Institut für Mikrobiologie	Instituts für Mikrobiologie	2431	True	0				 	
 Wrong Disambiguation	0	894	5	ADJ	neu	neuen	149884	False	0				 	149886
 Wrong Disambiguation	1	1002	8	NOU		Sammlung	85184	False	0				 	3050
@@ -353,20 +353,20 @@ Wrong Disambiguation	1	1755	7	ADJ	eigen	eigenen	80137	False	0				 
 Wrong Disambiguation	1	1936	5	VER	heißen	heißt	13738	False	0				 	
 Wrong Disambiguation	1	1968	4	PRE		nach	562278	False	0				 	
 Wrong Disambiguation	0	1973	15	ADJ	international	internationalen	58786	False	0				 	
-Wrong Grammar	1	2014	10	ADJ	archiviert	archiviert	-1	False	0				 	
+Wrong Grammar	1	2014	10	ADJ	archiviert	archiviert	-1	False	0			VER	 	
 Wrong Disambiguation	1	2133	8	NOU	Kultur	Kulturen	2855	False	0				 	
 Wrong Disambiguation	1	2145	4	ADJ		rund	34477	False	0				 	
 Wrong Disambiguation	1	2214	6	VER		werden	167036	False	0				 	
 Wrong Disambiguation	1	2225	6	NOU	Stamm	Stämme	100133311	False	0				 	
 Missing Concept	1	2232	11	ADJ	gekühlt	tiefgekühlt	578517	False	0				 	
-Wrong Grammar	1	2249	17	VER	gefriertrocknen	gefriergetrocknet		False	0				 	
+Wrong Grammar	1	2249	17	VER	gefriertrocknen	gefriergetrocknet		False	0			ADJ	 	
 Wrong Disambiguation	1	2292	8	NOU	Partner	Partnern	4236	False	0				 	
 Wrong Disambiguation	1	2373	8	NOU		Sammlung	85184	False	0				 	
 Wrong Disambiguation	0	2409	4	ADV		etwa	100886	False	0				 	
 Missing Concept	1	2417	14	NPR	Bakteriophagen	Bakteriophagen	-1	False	0				 	
 Wrong Disambiguation	1	2491	7	VER	handeln	handelt	14264	False	0				 	
 Wrong Disambiguation	1	2541	5	NOU	Tier	Tiere	118160	False	0				 	
-Wrong Grammar	1	2570	9	VER	bestimmen	bestimmte	135715	False	0				 	
+Wrong Grammar	1	2570	9	VER	bestimmen	bestimmte	135715	False	0			ADJ	 	
 Wrong Disambiguation	1	2591	5	NOU	Art	Arten	1555	False	0				 	
 Missing Concept	1	2663	6	NOU		Garaus	137330	False	0				 	
 Wrong Disambiguation	1	2701	5	ADJ		erste	170216	False	0				 	

@@ -454,14 +454,14 @@
 
 SBJ=6:7;OBJ=4:7;SBJ=19:18;SBJ=25:28;OBJ=27:28;SBJ=25:30;SBJ=36:37;SBJ=42:41;SBJ=50:53;SBJ=50:57;SBJ=60:63;SBJ=67:71;OBJ=68:71;CPL=69:71;SBJ=75:76;SBJ=79:78;SBJ=82:78;SBJ=88:92;OBJ=91:92;SBJ=96:97;APH=105:102;OBJ=102:103;SBJ=102:110;OBJ=108:110;SBJ=118:116;OBJ=124:126;OBJ=128:130;OBJ=133:135;SBJ=140:138;OBJ=145:148;SBJ=150:152;OBJ=151:152;SBJ=150:157;SBJ=167:166;SBJ=174:176;SBJ=-52:181;OBJ=180:181;SBJ=-52:185;OBJ=183:185;SBJ=-52:188;SBJ=-52:195;SBJ=199:204;SBJ=208:209;SBJ=214:213;SBJ=221:220;OBJ=223:220;APH=225:223;SBJ=223:229;SBJ=231:232;OBJ=233:232;SBJ=238:240;SBJ=243:242;SBJ=246:249;OBJ=248:249;SBJ=260:262;SBJ=266:267;OBJ=268:267;SBJ=280:278;SBJ=287:288;OBJ=284:288;SBJ=284:290;SBJ=295:296;SBJ=306:307;SBJ=311:309;TRM=310:309;SBJ=316:319;SBJ=321:323;SBJ=327:328;OBJ=329:328;SBJ=327:332;SBJ=336:337;SBJ=340:342;SBJ=346:348;OBJ=347:348;SBJ=354:358;OBJ=355:358;CPL=356:358;SBJ=368:369;SBJ=373:372;SBJ=377:376;APH=383:381;SBJ=387:388;SBJ=393:395;SBJ=-52:406;OBJ=403:406;SBJ=61:410;CPL=414:410;APH=47:20;APH=405:61;APH=409:61;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	0	51	12	ADJ		unvermittelt	59263	False	0				 	
+Wrong Grammar	0	51	12	ADJ		unvermittelt	59263	False	0			ADV	 	
 Wrong Disambiguation	1	70	6	NOU	Menge	Mengen	100036161	False	0				 	7
 Wrong Disambiguation	1	112	8	ADJ	einzig	einzigen	37396	False	0				 	
 Wrong Disambiguation	2	145	6	VER	austreten	treten	127002	False	0				 	
-Wrong Grammar	2	195	4	VER	einen	Eine	14874	False	0				 	
+Wrong Grammar	2	195	4	VER	einen	Eine	14874	False	0			ART	 	
 Wrong Disambiguation	1	288	4	NOU		Land	1570	False	0				 	
-Wrong Grammar	2	306	4	VER	weiten	weit	16110	False	0				 	
-Wrong Grammar	2	315	5	VER	breiten	breit	125911	False	0				 	
+Wrong Grammar	2	306	4	VER	weiten	weit	16110	False	0			ADJ	 	
+Wrong Grammar	2	315	5	VER	breiten	breit	125911	False	0			ADJ	 	
 Missing Concept	0	327	9	ADJ	kreisend	kreisende		False	0				 	
 Wrong Recognition	0	433	7	ADV		einfach	565253	False	0		einfach so		 	
 Wrong Disambiguation	1	441	2	ADV		so	100886	False	0				 	
@@ -499,7 +499,7 @@ Wrong Disambiguation	1	2126	7	VER	herausschießen	schießt	140524	False	0				 
 Wrong Disambiguation	1	2138	5	ADJ	hoch	hohem	88257	False	0				 	
 Wrong Disambiguation	1	2144	5	NOU		Druck	169131	False	0				 	
 Wrong Disambiguation	1	2175	12	NOU		Blasenwirbel	27035	True	0				 	
-Wrong Grammar	1	2199	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	2199	3	PRO	der	des		False	0			ART	 	
 Wrong Disambiguation	1	2273	6	ADJ	breit	breite	129502	False	0				 	
 Wrong Disambiguation	1	2280	6	NOU		Becken	127628	False	0				 	
 Wrong Disambiguation	1	2308	13	NOU		Muschelresten	4218	True	0				 	
@@ -529,10 +529,10 @@ Wrong Disambiguation	1	3107	4	PRE		nach	562278	False	0				 
 Wrong Disambiguation	0	3255	7	NOU		Biologe	6141	False	0				 	100864503
 Wrong Entity Type	1	3366	20	WRK		US Geological Survey	117991	True	0				 	
 Missing Concept	0	3438	7	VER	anfachen	anfacht	15450	False	0				 	
-Wrong Grammar	2	3487	3	PRO	die	die	-1	False	0				 	
+Wrong Grammar	2	3487	3	PRO	die	die	-1	False	0			ART	 	
 Wrong Disambiguation	1	3534	4	VER	gehen	ging	14248	False	0				 	
 Wrong Disambiguation	1	3604	15	NOU		Entzündlichkeit	6849	False	0				 	38982
-Wrong Grammar	2	3706	3	PRO	die	die	-1	False	0				 	
+Wrong Grammar	2	3706	3	PRO	die	die	-1	False	0			ART	 	
 Wrong Entity Form	1	3764	5	ADJ	mobil	Mobil	71443	False	0				 	
 Wrong Entity Type	1	3780	7	DEV		Limited	11820	True	0				 	
 Wrong Disambiguation	1	3798	10	NOU	Nachfrage	Nachfragen	119728	False	0				 	

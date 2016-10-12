@@ -478,13 +478,13 @@ CPL=3:1;SBJ=7:10;OBJ=8:10;CPL=9:10;SBJ=18:19;SBJ=25:24;OBJ=27:24;SBJ=30:31;SBJ=3
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Wrong Disambiguation	1	26	5	ADV		immer	142693	False	0				 	142692
 Wrong Disambiguation	1	47	10	ADJ	bestimmt	bestimmten	47963	False	0				 	27831
-Wrong Grammar	1	95	10	ADJ		vollkommen	101962	False	0				 	
+Wrong Grammar	1	95	10	ADJ		vollkommen	101962	False	0			ADV	 	
 Wrong Disambiguation	0	131	4	ADJ		weit	30148	False	0				 	66152
 Missing Concept	0	156	6	NOU		Schiff	100011446	False	0				 	
 Wrong Disambiguation	1	260	4	ADV		rund	144593	False	42				 	100886
 Wrong Disambiguation	0	277	4	VER	geben	gibt	15206	False	44				 	15231
 Missing Concept	0	445	10	NOU	Futurist	Futuristen	5799	False	72				 	
-Wrong Grammar	0	461	6	ADV		sicher	56201	False	74				 	
+Wrong Grammar	0	461	6	ADV		sicher	56201	False	74			ADJ	 	
 Wrong Disambiguation	1	574	6	ADV		anders	119898	False	91				 	20986
 Missing Concept	0	637	12	NOU	Wisch-Geste	Wisch-gesten	16069	True	102				 	
 Wrong Recognition	1	758	7	VER		stellen	118429	False	117		Frage stellen		 	20986
@@ -492,8 +492,8 @@ Wrong Recognition	1	781	9	VER	ausfahren	ausführen	21550	False	120		ausführen		
 Wrong Disambiguation	1	793	4	ADV		etwa	100886	False	122				 	26861
 Wrong Disambiguation	1	830	4	ADV		dann	98967	False	129				 	
 Wrong Disambiguation	1	851	4	ADV		mehr	70026	False	132				 	
-Wrong Grammar	1	884	2	PRE	um	um	-1	False	139				 	
-Wrong Grammar	1	887	5	PRO	etwas	etwas	-1	False	140				 	
+Wrong Grammar	1	884	2	PRE	um	um	-1	False	139			CON	 	
+Wrong Grammar	1	887	5	PRO	etwas	etwas	-1	False	140			ADJ	 	
 Missing Concept	0	893	10	NOU	Bestimmtes	Bestimmtes	-1	False	141				 	
 Wrong Disambiguation	1	929	11	NOU		Hintergrund	15406	False	148				 	
 Wrong Disambiguation	1	941	6	VER		laufen	15626	False	149				 	
@@ -507,12 +507,12 @@ Missing Concept	0	1301	10	NOU	Einblenden	Einblenden	-1	False	210				 
 Wrong Disambiguation	1	1376	7	VER		geraten	15338	False	221				 	17986
 Wrong Disambiguation	1	1468	12	VER		installieren	16419	False	236				 	58574
 Wrong Entity Type	1	1496	10	COM		Siri & Co.	104830453	True	241				 	
-Wrong Grammar	1	1539	3	PRO	der	der	-1	False	247				 	
+Wrong Grammar	1	1539	3	PRO	der	der	-1	False	247			ART	 	
 Wrong Disambiguation	1	1563	5	ADV		darum	33073	False	253				 	
 Wrong Disambiguation	1	1569	4	VER	gehen	geht	15626	False	254				 	117745
 Missing Concept	1	1600	12	ADJ	regelmäßig	regelmäßigen	82518	False	260				 	
 Wrong Disambiguation	1	1613	5	NOU		Platz	151832	False	261				 	
-Wrong Grammar	1	1623	3	PRO	der	den		True	263				 	
+Wrong Grammar	1	1623	3	PRO	der	den		True	263			ART	 	
 Missing Concept	1	1627	11	NPR	Homescreen	Homescreens		True	264				 	
 Wrong Disambiguation	1	1643	8	NOU	Telefon	Telefone	56899	False	266				 	1417
 Wrong Disambiguation	1	1809	4	VER	können	kann	12879	False	293				 	
@@ -520,24 +520,24 @@ Wrong Disambiguation	1	1872	10	VER		überweisen	18121	False	303				 	99563
 Missing Concept	0	1904	14	NOU		Text-Adventure	117224	True	307				 	
 Wrong Disambiguation	1	1924	7	VER		spielen	166091	False	311				 	158429
 Wrong Disambiguation	0	1983	10	VER	vormachen	Vorgemacht	13298	False	322				 	165977
-Wrong Grammar	0	2090	2	PRE		zu	12562	False	339				 	
+Wrong Grammar	0	2090	2	PRE		zu	12562	False	339			CON	 	
 Wrong Disambiguation	1	2108	13	NPR	650 Millionen	650 Millionen	-1	False	343				 	
 Wrong Disambiguation	1	2160	15	NOU	Alltagsaufgabe	Alltagsaufgaben	100753877	True	348				 	
 Wrong Disambiguation	1	2176	7	VER	abnehmen	abnimmt	17975	False	349				 	18083
-Wrong Grammar	0	2255	10	ADV	erreichbar	erreichbar	-1	False	361				 	
+Wrong Grammar	0	2255	10	ADV	erreichbar	erreichbar	-1	False	361			ADJ	 	
 Wrong Disambiguation	1	2460	7	NOU		Telefon	56899	False	395				 	
 Wrong Disambiguation	0	2630	9	ADV		überhaupt	120405	False	423				 	99119
-Wrong Grammar	0	2678	7	ADJ		einfach	63207	False	431				 	
+Wrong Grammar	0	2678	7	ADJ		einfach	63207	False	431			ADV	 	
 Wrong Disambiguation	1	2751	4	VER	werden	wird	167036	False	445				 	
 Wrong Disambiguation	1	2757	6	VER		lassen	17365	False	447				 	
 Wrong Disambiguation	1	2783	7	NOU		Wechsel	166645	False	451				 	19147
 Wrong Disambiguation	1	2867	8	VER		eingehen	120980	False	462				 	132820
 Wrong Disambiguation	1	2888	2	ADV		so	130436	False	465				 	
 Wrong Disambiguation	1	2961	4	ADV		mehr	70026	False	480				 	
-Wrong Grammar	0	3072	2	ADV		je	142693	False	496				 	
+Wrong Grammar	0	3072	2	ADV		je	142693	False	496			PRE	 	
 Wrong Disambiguation	1	3080	6	NOU		Inhalt	728	False	498				 	
 Wrong Disambiguation	1	3175	5	VER	machen	macht	13039	False	512				 	
-Wrong Grammar	1	3236	3	PRO	ein	ein	-1	False	523				 	
+Wrong Grammar	1	3236	3	PRO	ein	ein	-1	False	523			ADJ	 	
 Wrong Disambiguation	1	3240	4	ADJ		paar	47019	False	524				 	
 Wrong Disambiguation	1	3320	8	VER		arbeiten	16920	False	537				 	16933
 Wrong Recognition	1	3374	7	VER	dringen	drängen	118719	False	546		drängen		 	
@@ -546,12 +546,12 @@ Wrong Recognition	1	3409	13	ADV		auf den Markt	600141	False	551				 
 Missing Entity	1	3470	6	NOU		Poncho	79052	False	561				 	
 Wrong Disambiguation	2	3524	6	NOU		Wetter	2650	False	573				 	
 Wrong Entity Type	0	3552	3	NPR	H&M	H&M	-1	False	578			COM	 	
-Wrong Grammar	1	3560	5	PRO	ein	einen		True	580				 	
+Wrong Grammar	1	3560	5	PRO	ein	einen		True	580			ART	 	
 Wrong Disambiguation	1	3639	5	VER	machen	macht	173810	False	590				 	
 Wrong Disambiguation	1	3694	7	VER		spielen	173579	False	602				 	
 Wrong Disambiguation	1	3703	6	ADV	gleich	Gleich	49260	False	604				 	138559
 Wrong Entity Type	0	3748	4	NPH		Resi	102793617	False	609				 	
 Missing Concept	1	3758	6	NOU		Dienst	100878070	False	612				 	
-Wrong Grammar	1	3778	12	PRO		irgendwelche		True	615				 	
+Wrong Grammar	1	3778	12	PRO		irgendwelche		True	615			ADJ	 	
 Wrong Disambiguation	0	3963	8	VER		bestehen	13082	False	642				 	13089
 Wrong Disambiguation	0	3984	7	ADJ	knapp	knappen	144942	False	645				 	117574

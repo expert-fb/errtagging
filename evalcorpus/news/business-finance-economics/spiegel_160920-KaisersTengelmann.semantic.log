@@ -807,7 +807,7 @@ Wrong Disambiguation	0	109	5	VER	drohen	droht	16516	False	0				 	16512
 Wrong Disambiguation	0	137	8	NOU		Hoffnung	2898	False	0				 	101362683
 Wrong Disambiguation	1	146	4	VER	ruhen	ruht	84597	False	0				 	101362683
 Wrong Disambiguation	1	226	7	NOU		Zukunft	2593	False	0				 	119197
-Wrong Grammar	1	234	3	PRO	der	der	-1	False	0				 	
+Wrong Grammar	1	234	3	PRO	der	der	-1	False	0			ART	 	
 Wrong Disambiguation	1	271	9	NOU		Überblick	118964	False	0				 	3751
 Wrong Disambiguation	0	319	9	NOU		Schicksal	86370	False	0				 	
 Wrong Entity Type	0	333	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
@@ -817,9 +817,9 @@ Wrong Disambiguation	1	524	7	VER	können	könnten	14354	False	0				 
 Wrong Disambiguation	0	551	4	NOU		Rest	4214	False	0				 	4217
 Wrong Disambiguation	0	564	10	NOU		Verwaltung	102920921	False	0				 	117436
 Wrong Disambiguation	1	614	9	VER	schicken	geschickt	15250	False	0				 	
-Wrong Grammar	1	641	4	ADJ		rund	34477	False	0				 	
+Wrong Grammar	1	641	4	ADJ		rund	34477	False	0			PRE	 	
 Wrong Disambiguation	1	711	10	ADV	eigentlich	Eigentlich	36198	False	0				 	
-Wrong Grammar	1	734	3	PRO	die	die	-1	False	0				 	
+Wrong Grammar	1	734	3	PRO	die	die	-1	False	0			ART	 	
 Wrong Recognition	1	738	4	ADV		mehr	70026	False	0				 	
 Wrong Recognition	2	751	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
 Wrong Entity Type	1	770	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
@@ -845,7 +845,7 @@ Wrong Recognition	1	218	3	VER	haben	hat	12561	False	0		in der Hand haben		 	1608
 Wrong Recognition	1	218	3	VER	haben	hat	12561	False	0				 	
 Wrong Recognition	1	1569	5	VER		haben	12561	False	0		in der Hand haben		 	16083
 Wrong Disambiguation	1	1579	7	NOU		Zukunft	2593	False	0				 	
-Wrong Grammar	1	1587	3	PRO	der	der	-1	False	0				 	
+Wrong Grammar	1	1587	3	PRO	der	der	-1	False	0			ART	 	
 Wrong Entity Form	1	1638	8	ORG	Kaiser's Tengelmann	Kaiser's	116334295	True	0				 	
 Wrong Disambiguation	1	1685	4	VER	gehen	geht	14248	False	0				 	117745
 Wrong Disambiguation	1	1798	4	VER	gehen	geht	15626	False	0				 	
@@ -859,16 +859,15 @@ Wrong Disambiguation	1	2005	4	NOU		Luft	107391292	False	0				 
 Wrong Disambiguation	1	2040	8	NOU		Geschäft	2967	False	0				 	
 Wrong Recognition	2	2136	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
 Wrong Entity Type	0	2170	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
-Wrong Grammar	1	2222	4	ADV		mehr	70026	False	0				 	
 Wrong Disambiguation	1	2259	6	VER	überlaufen	laufen	132740	False	0				 	162061
 Wrong Disambiguation	1	2300	5	VER	heißen	heißt	13738	False	0				 	
 Wrong Disambiguation	1	2425	5	VER	drohen	drohe	16517	False	0				 	16512
 Wrong Disambiguation	1	2431	17	VER	zusammenbrechen	zusammenzubrechen	140597	False	0				 	15918
 Wrong Disambiguation	1	2502	7	VER	rechnen	rechnet	14576	False	0				 	153429
 Wrong Disambiguation	1	2535	7	NOU		Verlust	16431	False	0				 	164536
-Wrong Grammar	1	2547	4	ADJ		rund	64689	False	0				 	
+Wrong Grammar	1	2547	4	ADJ		rund	64689	False	0			ADV	 	
 Missing Concept	0	2579	8	ADV	steigend	steigend	-1	False	0				 	
-Wrong Grammar	1	2589	5	ADV	damit	Damit	32147	False	0				 	
+Wrong Grammar	1	2589	5	ADV	damit	Damit	32147	False	0			CON	 	
 Wrong Disambiguation	1	2627	5	VER	stehen	steht	32369	False	0				 	
 Wrong Recognition	1	2691	7	PRE		bis auf	588603	False	0				 	
 Wrong Entity Type	1	2747	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
@@ -879,11 +878,11 @@ Wrong Disambiguation	1	2871	17	VER	zusammenbrechen	zusammengebrochen	140597	Fals
 Wrong Recognition	1	2904	7	ADJ	weit	weitere	40690	False	0		weiter		 	
 Missing Concept	0	2929	8	VER	bescheren	beschert	13846	False	0				 	
 Wrong Disambiguation	1	2948	3	VER	sein	ist	172056	False	0				 	
-Wrong Grammar	0	2967	4	CON	doch	doch	-1	False	0				 	
+Wrong Grammar	0	2967	4	CON	doch	doch	-1	False	0			ADV	 	
 Wrong Disambiguation	1	2989	6	ADJ		bereit	27288	False	0				 	
 Wrong Entity Type	1	3069	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
 Wrong Entity Type	1	3076	4	NPH	Rewe Märkte	Rewe	100215627	True	0			COM	 	
-Wrong Grammar	1	3103	6	NOU		Selbst	103236990	False	0				 	
+Wrong Grammar	1	3103	6	NOU		Selbst	103236990	False	0			ADV	 	
 Missing Concept	1	3159	3	ADJ		los	68197	False	0				 	
 Wrong Recognition	2	3180	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
 Wrong Disambiguation	1	3288	11	VER	abwickeln	abgewickelt	14203	False	0				 	147367
@@ -899,7 +898,7 @@ Missing Concept	0	3596	10	NOU	Edeka-Chef	Edeka-Chef	-1	False	0				 
 Missing Concept	0	3611	10	NOU	Edeka-Chef	Edeka-Chef	-1	False	0				 	
 Missing Concept	1	3631	8	NOU		Endspiel	5797	False	0				 	
 Wrong Entity Type	0	3643	19	ORG		Kaiser's Tengelmann	116334295	True	0			COM	 	
-Wrong Grammar	1	3663	9	VER	entspannen	entspannt		False	0				 	
+Wrong Grammar	1	3663	9	VER	entspannen	entspannt		False	0			ADV	 	
 Wrong Entity Type	1	3694	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
 Wrong Disambiguation	1	3716	3	ADV		nur	20252	False	0				 	
 Wrong Disambiguation	1	3730	11	ADV	schließlich	Schließlich	118835	False	0				 	118837
@@ -921,10 +920,10 @@ Missing Concept	1	4246	6	ADV		hinaus	55084	False	0		auf Jahre hinaus		 
 Wrong Recognition	1	4285	6	ADV		besser	27763	False	0		gut		 	
 Wrong Disambiguation	0	4314	6	VER	können	könnte	14354	False	0				 	
 Wrong Entity Type	1	4321	5	NPH	Edeka Tengelmann	Edeka	100215627	True	0			COM	 	
-Wrong Grammar	1	4330	4	PRO	all	alle		False	0				 	
+Wrong Grammar	1	4330	4	PRO	all	alle		False	0			ADJ	 	
 Wrong Disambiguation	0	4374	9	NOU	Standort	Standorte	482	False	0				 	118682
 Wrong Disambiguation	1	4384	8	VER		bekommen	13972	False	0				 	18053
-Wrong Grammar	1	4402	2	ADV		zu	168349	False	0				 	
+Wrong Grammar	1	4402	2	ADV		zu	168349	False	0			PRE	 	
 Wrong Disambiguation	1	4452	10	VER	vorsehen	vorgesehen	17401	False	0				 	166063
 Wrong Entity Type	0	4469	10	ORG		Tengelmann	116334295	True	0			COM	 	
 Wrong Disambiguation	1	4480	4	ADV		aber	74486	False	0				 	
@@ -942,7 +941,7 @@ Wrong Disambiguation	1	4720	6	VER		dienen	131098	False	0				 	131099
 Wrong Disambiguation	1	4765	9	NOU		Auflösung	121241	False	0				 	
 Wrong Disambiguation	1	4794	9	VER		verlangen	12745	False	0				 	
 Wrong Recognition	1	4825	16	NPH		Edeka Tengelmann	100215627	True	0			COM	 	
-Wrong Grammar	2	4870	3	ADV		bis	28941	False	0				 	
+Wrong Grammar	2	4870	3	ADV		bis	28941	False	0			PRE	 	
 Wrong Disambiguation	0	4902	9	NOU	Standort	Standorte	482	False	0				 	
 Missing Concept	0	4912	8	ADV	rentabel	rentabel	-1	False	0				 	
 Wrong Disambiguation	1	4921	4	VER	sein	sind	172056	False	0				 	
@@ -967,8 +966,8 @@ Wrong Entity Type	0	5653	12	ORG		Edeka-Gruppe	67204	True	0			COM	 
 Wrong Disambiguation	1	5666	6	VER		führen	136980	False	0				 	
 Wrong Disambiguation	1	5764	7	ADV		bereits	87685	False	0				 	156570
 Missing Concept	0	5830	9	NOU	Rewe-Chef	Rewe-Chef	-1	False	0				 	
-Wrong Grammar	0	5876	7	ADJ		ähnlich	19819	False	0				 	
-Wrong Grammar	0	5924	8	PRE	ungleich	ungleich	-1	False	0				 	
+Wrong Grammar	0	5876	7	ADJ		ähnlich	19819	False	0			ADV	 	
+Wrong Grammar	0	5924	8	PRE	ungleich	ungleich	-1	False	0			ADV	 	
 Missing Concept	0	5954	9	NOU	Rewe-Chef	Rewe-Chef	-1	False	0				 	
 Wrong Disambiguation	1	5975	4	ADV		noch	74484	False	0				 	
 Missing Concept	0	6000	10	NOU	Edeka-Chef	Edeka-Chef	-1	False	0				 	
@@ -982,11 +981,11 @@ Wrong Disambiguation	1	6326	4	ADV	noch	Noch	74484	False	0				 
 Wrong Disambiguation	1	6343	5	VER	machen	macht	14553	False	0				 	14422
 Wrong Disambiguation	1	6401	6	ADV		darauf	32207	False	0				 	
 Wrong Disambiguation	1	6471	7	VER		stellen	159360	False	0				 	
-Wrong Grammar	1	6516	7	ADJ	dritte	Dritter	117164	False	0				 	
+Wrong Grammar	1	6516	7	ADJ	dritte	Dritter	117164	False	0			NOU	 	
 Wrong Recognition	1	6528	6	NPH	Rewe Märkte	Märkte	100215627	True	0				 	
 Wrong Entity Type	0	6539	8	ORG	Kaiser's Tengelmann	Kaiser's	116334295	True	0			COM	 	
 Wrong Entity Type	0	6552	10	ORG		Tengelmann	116334295	True	0			COM	 	
-Wrong Grammar	1	6574	5	NOU	Lese	Lesen	100213753	False	0				 	
+Wrong Grammar	1	6574	5	NOU	Lese	Lesen	100213753	False	0			VER	 	
 Missing Entity	1	6613	7	NOU	Spiegel	SPIEGEL	561945	False	0				 	
 Wrong Disambiguation	0	6635	6	NOU	Wort	Worten	881	False	0				 	
 Missing Concept	0	6694	10	VER		entledigen	15866	False	0				 	

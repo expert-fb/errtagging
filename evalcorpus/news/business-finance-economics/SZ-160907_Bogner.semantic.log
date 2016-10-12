@@ -464,7 +464,7 @@
 SBJ=4:5;SBJ=11:12;SBJ=15:20;OBJ=18:20;SBJ=23:24;OBJ=25:24;SBJ=28:31;SBJ=28:33;SBJ=41:42;SBJ=44:48;OBJ=49:48;SBJ=61:56;CPL=63:56;SBJ=72:73;SBJ=77:76;OBJ=79:76;APH=87:84;SBJ=97:89;SBJ=29:94;OBJ=84:94;SBJ=103:102;OBJ=104:102;CPL=106:102;CPL=112:111;SBJ=116:118;SBJ=116:121;SBJ=124:125;SBJ=128:132;OBJ=135:132;OBJ=136:132;APH=140:138;SBJ=-49:149;OBJ=138:149;OBJ=141:149;OBJ=143:149;SBJ=151:152;SBJ=161:160;OBJ=163:160;APH=179:169;APH=225:170;CPL=170:176;SBJ=169:179;SBJ=186:182;OBJ=185:182;SBJ=186:190;SBJ=196:198;SBJ=201:200;OBJ=202:200;SBJ=206:205;SBJ=211:212;SBJ=211:219;CPL=228:223;SBJ=222:225;APH=230:228;SBJ=228:234;CPL=237:234;SBJ=239:244;OBJ=246:244;SBJ=254:258;SBJ=256:258;SBJ=264:266;OBJ=265:266;SBJ=268:271;SBJ=277:280;OBJ=278:280;SBJ=283:282;SBJ=290:291;SBJ=294:295;SBJ=299:300;SBJ=303:307;SBJ=311:312;SBJ=316:319;OBJ=316:321;SBJ=326:325;OBJ=328:325;SBJ=331:332;CPL=338:339;SBJ=337:342;SBJ=345:346;SBJ=345:350;APH=352:353;APH=355:353;SBJ=360:358;OBJ=364:358;APH=368:369;SBJ=366:370;SBJ=369:370;OBJ=369:370;SBJ=373:374;OBJ=375:374;SBJ=382:381;SBJ=382:387;SBJ=391:390;SBJ=-49:397;OBJ=398:397;OBJ=401:402;SBJ=-49:407;OBJ=408:407;APH=418:415;SBJ=412:416;SBJ=415:423;OBJ=421:423;APH=51:29;APH=57:29;APH=80:29;APH=88:29;APH=131:117;APH=148:117;APH=349:345;APH=422:356;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Wrong Entity Type	0	0	6	NPH	Willy Bogner	Bogner	100215627	True	1			COM	 	
-Wrong Grammar	1	224	3	ART	der	der	-1	False	37				 	
+Wrong Grammar	1	224	3	ART	der	der	-1	False	37			PRO	 	
 Wrong Entity Type	1	282	6	NPH	Willy Bogner	Bogner	100215627	True	45			COM	 	
 Wrong Disambiguation	1	289	3	VER	kommen	kam	13136	False	46				 	117798
 Wrong Disambiguation	0	294	12	VER		unterstützen	17001	False	48				 	14045
@@ -480,20 +480,20 @@ Wrong Disambiguation	1	751	11	NOU		Modelegende	2935	True	129				 	2943
 Wrong Recognition	1	775	5	ADV		jetzt	12562	False	133				 	
 Missing Concept	0	880	8	ADJ	wirkend	wirkende	35834	False	149				 	
 Wrong Disambiguation	1	989	5	NOU	Neue	Neuen	118119757	False	164				 	
-Wrong Grammar	1	996	3	ART	der	der	-1	False	166				 	
+Wrong Grammar	1	996	3	ART	der	der	-1	False	166			PRO	 	
 Wrong Disambiguation	1	1051	8	VER	kommen	gekommen	13136	False	173				 	
 Wrong Disambiguation	0	1082	12	VER		unterstützen	17001	False	180				 	
 Wrong Disambiguation	1	1178	11	VER	eintreten	eingetreten	16090	False	197				 	
-Wrong Grammar	1	1194	9	ADJ	bestimmt	bestimmte	27831	False	199				 	
-Wrong Grammar	1	1384	8	PRE	zunächst	zunächst	-1	False	228				 	
+Wrong Grammar	1	1194	9	ADJ	bestimmt	bestimmte	27831	False	199			VER	 	
+Wrong Grammar	1	1384	8	PRE	zunächst	zunächst	-1	False	228			ADV	 	
 Wrong Entity Form	1	1553	13	NPH		Willy Hermann	100215627	True	251				 	
 Wrong Disambiguation	1	1670	6	VER	gewinnen	gewann	32516	False	267				 	
 Wrong Entity Type	1	1725	6	NPR	Wengen	Wengen	-1	False	275				 	
-Wrong Grammar	1	1987	7	VER	berühmen	berühmt		True	321				 	
+Wrong Grammar	1	1987	7	VER	berühmen	berühmt		True	321			ADJ	 	
 Wrong Disambiguation	1	1995	7	VER	machen	gemacht	16211	False	322				 	14553
 Wrong Disambiguation	1	2024	3	ADV		nur	20252	False	328				 	150274
-Wrong Grammar	0	2108	4	ADJ		fest	91066	False	342				 	
-Wrong Grammar	2	2148	4	ADJ		galt	45860	False	350				 	
+Wrong Grammar	0	2108	4	ADJ		fest	91066	False	342			ADV	 	
+Wrong Grammar	2	2148	4	ADJ		galt	45860	False	350			VER	 	
 Wrong Entity Form	1	2240	5	NPH		James	560828	False	364				 	
 Missing Concept	0	2261	12	ADV	geschäftlich	Geschäftlich		True	368				 	
 Wrong Disambiguation	1	2274	4	VER	laufen	lief	15626	False	369				 	
@@ -502,7 +502,7 @@ Wrong Disambiguation	1	2401	6	VER	machen	machte	13039	False	391				 
 Wrong Disambiguation	1	2437	8	VER		schaffen	14085	False	398				 	
 Wrong Disambiguation	1	2451	4	NOU		Land	107703160	False	401				 	
 Wrong Disambiguation	1	2613	5	NOU		Reihe	153665	False	429				 	
-Wrong Grammar	1	2638	8	ADV		darunter	130511	False	433				 	
+Wrong Grammar	1	2638	8	ADV		darunter	130511	False	433			PRO	 	
 Wrong Disambiguation	1	2726	8	NOU		Geschäft	2967	False	448				 	
 Wrong Disambiguation	1	2735	7	VER	platzen	platzte	125093	False	449				 	
 Wrong Disambiguation	1	2885	6	ADJ	groß	großer	139010	False	476				 	
@@ -512,17 +512,16 @@ Wrong Entity Type	1	3135	6	GEO		Escada	13385093	False	521			COM	 
 Wrong Entity Type	1	3158	10	NPH		Jil Sander	100069066	False	525			COM	 	
 Wrong Disambiguation	2	3233	7	NOU	Bogner	Bogners	577406	False	536			NPH	 	
 Wrong Disambiguation	0	3241	10	NOU	Vertraute	Vertrauter	139312	False	537				 	165176
-Wrong Grammar	1	3298	6	ADJ	weit	weiter	166894	False	546				 	
+Wrong Grammar	1	3298	6	ADJ	weit	weiter	166894	False	546			ADV	 	
 Wrong Recognition	1	3347	7	ADJ	früh	frühere	45046	False	555				 	
 Wrong Disambiguation	2	3424	7	NOU	Bogner	Bogners	577406	False	564			NPH	 	
 Wrong Disambiguation	1	3443	9	VER		einziehen	132606	False	567				 	
-Wrong Grammar	1	3506	5	PRO	ein	einen		True	576				 	
-Wrong Grammar	1	3564	7	ADJ		einfach	63207	False	587				 	
-Wrong Grammar	1	3592	3	ART	die	die	-1	False	591				 	
-Wrong Grammar	1	3614	16	ADV	unvorhersehbar	unvorhersehbarer		True	594				 	
+Wrong Grammar	1	3564	7	ADJ		einfach	63207	False	587			ADV	 	
+Wrong Grammar	1	3592	3	ART	die	die	-1	False	591			PRO	 	
+Wrong Grammar	1	3614	16	ADV	unvorhersehbar	unvorhersehbarer		True	594			ADJ	 	
 Wrong Disambiguation	1	3631	3	VER	sein	ist	13136	False	595				 	
 Missing Entity	0	3661	7	NOU		Playboy	78637	False	602				 	
 Wrong Disambiguation	1	3685	5	NOU		Glück	709	False	608				 	
-Wrong Grammar	1	3730	17	ADJ	Unübersichtliches	Unübersichtliches	-1	False	618				 	
+Wrong Grammar	1	3730	17	ADJ	Unübersichtliches	Unübersichtliches	-1	False	618			NOU	 	
 Wrong Disambiguation	1	3867	4	NOU		Mann	100008441	False	642				 	
 Wrong Disambiguation	1	3876	8	NOU		Vorstand	106557	False	644				 	

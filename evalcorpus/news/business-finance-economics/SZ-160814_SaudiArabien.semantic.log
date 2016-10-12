@@ -365,24 +365,24 @@ Wrong Disambiguation	1	71	5	VER		lösen	16165	False	0				 
 Wrong Recognition	1	78	10	ADV	so oder so	So oder so	173552	False	0				 	
 Wrong Disambiguation	0	268	8	ADJ	schwer	schweres	88806	False	0				 	
 Wrong Disambiguation	1	320	4	VER	gehen	ging	14248	False	0				 	
-Wrong Grammar	1	355	4	ADJ		ganz	137319	False	0				 	
+Wrong Grammar	1	355	4	ADJ		ganz	137319	False	0			ADV	 	
 Wrong Recognition	2	368	4	NOU		Art.	741	False	0				 	
 Wrong Recognition	1	417	4	PRE		nach	562279	False	0				 	
 Wrong Disambiguation	1	437	3	PRO	Flugzeug	die	58	False	0				 	
 Wrong Disambiguation	1	517	5	VER		haben	125724	False	0				 	
-Wrong Grammar	1	536	5	PRO	ein	einem		False	0				 	
+Wrong Grammar	1	536	5	PRO	ein	einem		False	0			ART	 	
 Wrong Disambiguation	2	556	6	ORG		Länder	100043229	True	0				 	
 Missing Concept	0	613	7	NOU		Verfall	111243	False	0				 	
 Missing Concept	0	681	12	VER	wegbrechen	weggebrochen	16260	False	0				 	
-Wrong Grammar	1	841	9	ADJ	wenig	wenigsten	118578	False	0				 	
+Wrong Grammar	1	841	9	ADJ	wenig	wenigsten	118578	False	0			ADV	 	
 Wrong Disambiguation	1	862	5	NOU		Opfer	15668	False	0				 	
 Wrong Recognition	1	948	5	VER	machen	macht	13039	False	0		zu schaffen machen		 	16508
 Wrong Disambiguation	1	1007	11	ADJ	ökonomisch	ökonomische	118287	False	0				 	
 Wrong Disambiguation	1	1029	4	VER	geben	gibt	13134	False	0				 	15231
 Wrong Disambiguation	1	1057	6	ADJ		länger	66162	False	0				 	
 Wrong Disambiguation	1	1072	9	VER	fördern	gefördert	500569	False	0				 	
-Wrong Grammar	1	1154	6	ADJ	weit	weiter	30148	False	0				 	
-Wrong Grammar	2	1172	6	NOU		Gerade	3535	False	0				 	
+Wrong Grammar	1	1154	6	ADJ	weit	weiter	30148	False	0			ADV	 	
+Wrong Grammar	2	1172	6	NOU		Gerade	3535	False	0			ADV	 	
 Wrong Disambiguation	1	1179	2	ADV		so	100886	False	0				 	
 Wrong Disambiguation	1	1289	5	VER	holen	holte	14789	False	0				 	
 Wrong Disambiguation	1	1328	2	NOU		Öl	104739805	False	0				 	
@@ -392,7 +392,7 @@ Wrong Recognition	1	1406	12	NOU		Organisation	14596	False	0				 
 Wrong Disambiguation	1	1481	3	VER	sein	ist	13136	False	0				 	
 Missing Concept	0	1538	13	ADJ	zerstrittenen	zerstrittenen	-1	False	0				 	
 Wrong Disambiguation	1	1567	9	ADJ	mächtig	mächtigen	83735	False	0				 	
-Wrong Grammar	2	1613	7	PRO	einige	einigen		False	0				 	
+Wrong Grammar	2	1613	7	PRO	einige	einigen		False	0			VER	 	
 Wrong Disambiguation	1	1626	5	NOU		Menge	919	False	0				 	
 Wrong Disambiguation	1	1635	8	VER		drosseln	110309	False	0				 	
 Wrong Disambiguation	1	1645	4	VER	gelten	gilt	137903	False	0				 	
@@ -406,8 +406,8 @@ Wrong Disambiguation	1	2096	4	VER	gehen	geht	14248	False	0				 
 Wrong Disambiguation	1	2114	10	ADJ	schlecht	schlechter	58160	False	0				 	
 Wrong Disambiguation	1	2131	5	VER	zeigen	zeigt	15134	False	0				 	14279
 Wrong Recognition	1	2142	6	ADV		einmal	118174	False	0		einmal mehr		 	74486
-Wrong Grammar	1	2289	4	ADV		über	98894	False	0				 	
-Wrong Grammar	1	2294	5	PRO	ein	eines		False	0				 	
+Wrong Grammar	1	2289	4	ADV		über	98894	False	0			PRE	 	
+Wrong Grammar	1	2294	5	PRO	ein	eines		False	0			ART	 	
 Wrong Disambiguation	1	2304	7	ADJ	groß	größten	40624	False	0				 	
 Wrong Disambiguation	1	2312	9	NOU		Vorkommen	165910	False	0				 	
 Wrong Disambiguation	1	2331	7	VER	verfügen	verfügt	16081	False	0				 	
@@ -424,10 +424,10 @@ Wrong Disambiguation	1	2646	4	PRE		nach	562278	False	0				 
 Wrong Disambiguation	1	2675	6	ADV		wieder	74486	False	0				 	
 Wrong Disambiguation	1	2715	10	VER		aufsteigen	23808	False	0				 	
 Missing Concept	0	2861	11	ADJ	stillgelegt	stillgelegt	-1	False	0				 	
-Wrong Grammar	2	2978	4	NOU		Fest	100200538	False	0				 	
+Wrong Grammar	2	2978	4	NOU		Fest	100200538	False	0			ADJ	 	
 Wrong Recognition	1	2983	5	VER	stehen	steht	32369	False	0				 	
 Wrong Disambiguation	1	2995	7	ADJ	andere	anderer	20987	False	0				 	
 Wrong Disambiguation	1	3013	4	VER	können	kann	145386	False	0				 	14354
-Wrong Grammar	1	3199	3	ADJ		gut	29675	False	0				 	
+Wrong Grammar	1	3199	3	ADJ		gut	29675	False	0			ADV	 	
 Wrong Disambiguation	1	3203	7	ADJ		doppelt	34290	False	0				 	
 Wrong Disambiguation	1	3340	5	VER	liegen	liegt	16344	False	0				 	

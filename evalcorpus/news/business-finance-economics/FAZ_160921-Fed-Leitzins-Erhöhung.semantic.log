@@ -358,7 +358,7 @@
 
 SBJ=2:3;SBJ=11:8;OBJ=12:8;SBJ=14:15;OBJ=16:15;SBJ=23:24;SBJ=29:32;CPL=33:32;SBJ=39:43;OBJ=40:43;SBJ=45:46;OBJ=47:46;SBJ=51:57;OBJ=53:57;SBJ=65:66;SBJ=70:73;OBJ=71:73;CPL=78:77;SBJ=75:79;SBJ=84:82;CPL=81:82;APH=83:84;SBJ=89:88;SBJ=94:97;SBJ=99:104;SBJ=108:110;SBJ=125:124;SBJ=-49:128;OBJ=131:128;SBJ=134:136;SBJ=138:146;CPL=143:146;SBJ=-52:151;OBJ=154:157;SBJ=161:160;SBJ=-52:166;SBJ=174:177;SBJ=181:180;OBJ=183:180;SBJ=190:191;SBJ=201:200;CPL=203:200;SBJ=23:208;SBJ=215:218;OBJ=214:218;SBJ=223:225;SBJ=228:233;OBJ=231:233;SBJ=237:236;SBJ=241:242;SBJ=246:251;SBJ=247:251;CPL=250:251;CPL=256:251;SBJ=265:263;OBJ=261:263;SBJ=269:268;SBJ=273:274;SBJ=279:278;SBJ=285:292;OBJ=289:292;SBJ=285:295;SBJ=298:297;OBJ=303:307;SBJ=309:311;SBJ=321:320;OBJ=317:320;APH=207:23;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	1	128	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	128	3	PRO	der	des		False	0			ART	 	
 Missing Concept	0	156	7	VER	senden	sendete	15375	False	0				 	
 Wrong Disambiguation	1	274	5	VER	lassen	lässt	18010	False	0				 	
 Wrong Recognition	1	302	6	ADJ	weit	weiter	66152	False	0		weiter		 	
@@ -366,22 +366,22 @@ Wrong Disambiguation	1	309	6	ADJ	groß	größte	139010	False	0				 
 Wrong Disambiguation	1	354	6	ADJ	groß	größte	139010	False	0				 	
 Wrong Disambiguation	1	461	10	NOU		Offenmarkt	113033698	True	0				 	
 Missing Concept	0	556	7	VER	senden	sendete	15375	False	0				 	
-Wrong Grammar	0	571	8	ADJ		deutlich	33215	False	0				 	
+Wrong Grammar	0	571	8	ADJ		deutlich	33215	False	0			ADV	 	
 Wrong Disambiguation	1	671	6	ADV		leicht	591900	False	0				 	
 Wrong Disambiguation	1	864	5	VER	lassen	lässt	17308	False	0				 	17365
 Wrong Disambiguation	1	895	10	NOU		Offenmarkt	113033698	True	0				 	
 Wrong Disambiguation	1	918	5	VER	sein	waren	172056	False	0				 	
 Wrong Disambiguation	1	958	8	VER	stimmen	stimmten	120929	False	0				 	
-Wrong Grammar	2	1041	4	VER	einen	eine	14874	False	0				 	
+Wrong Grammar	2	1041	4	VER	einen	eine	14874	False	0			ART	 	
 Wrong Disambiguation	1	1078	5	ADV		dafür	39724	False	0				 	130317
 Missing Concept	1	1162	12	NOU		Zinsschraube	100011022	True	0				 	
-Wrong Grammar	0	1175	6	VER		drehen	131643	False	0				 	131650
+Wrong Disambiguation	0	1175	6	VER		drehen	131643	False	0				 	131650
 Wrong Disambiguation	0	1246	5	VER		geben	15231	False	0				 	15206
-Wrong Grammar	2	1298	5	VER	weichen	weich	15102	False	0				 	
+Wrong Grammar	2	1298	5	VER	weichen	weich	15102	False	0			ADJ	 	
 Missing Concept	0	1290	7	VER	bleiben	bleiben	-1	False	0				 	
 Wrong Recognition	1	1391	4	VER	abgeben	gebe	13199	False	0				 	
 Wrong Disambiguation	1	1450	6	ADV		wieder	74486	False	0				 	
-Wrong Grammar	0	1718	7	ADJ	wenig	weniger	118578	False	0				 	117574
+Wrong Disambiguation	0	1718	7	ADJ	wenig	weniger	118578	False	0				 	117574
 Wrong Disambiguation	1	1752	4	NOU		Wahl	119259	False	0				 	2864
 Wrong Disambiguation	1	1775	10	ADJ	gemischt	gemischten	47701	False	0				 	67747
 Wrong Entity Type	0	1901	7	WEB		UFX.com	100035127	True	0				 	
@@ -393,17 +393,17 @@ Wrong Disambiguation	1	2155	6	VER		warten	107549	False	0				 	173546
 Wrong Disambiguation	1	2215	8	NOU		Richtung	102151613	False	0				 	118289
 Wrong Disambiguation	1	2242	10	VER	entwickeln	entwickelt	14739	False	0				 	14633
 Wrong Disambiguation	1	2254	11	VER		verfestigen	164028	False	0				 	164030
-Wrong Grammar	1	2275	10	ADJ	reagiert	reagierten		False	0				 	
+Wrong Grammar	1	2275	10	ADJ	reagiert	reagierten		False	0			VER	 	
 Missing Entity	0	2422	7	NOU	Pelican	Pelican	-1	False	0				 	
 Wrong Disambiguation	1	2629	4	NOU		Kurs	15491	False	0				 	
 Wrong Disambiguation	1	2643	5	VER	zulegen	legte	13834	False	0				 	
 Wrong Disambiguation	0	2653	9	ADV		zeitweise	111036	False	0				 	167984
-Wrong Grammar	1	2663	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Grammar	1	2663	5	PRO	etwas	etwas	-1	False	0			ADV	 	
 Wrong Disambiguation	1	2730	5	VER	stehen	stand	32369	False	0				 	159246
-Wrong Grammar	1	2778	9	VER	verändern	verändert	14550	False	0				 	
+Wrong Grammar	1	2778	9	VER	verändern	verändert	14550	False	0			ADJ	 	
 Wrong Disambiguation	0	2859	3	ADV		nur	20252	False	0				 	150274
 Wrong Entity Type	0	2888	3	NPR	BoJ	BoJ	-1	False	0				 	
-Wrong Grammar	1	2920	5	PRO	ein	einem		False	0				 	
+Wrong Grammar	1	2920	5	PRO	ein	einem		False	0			ART	 	
 Wrong Disambiguation	1	2943	10	VER	überraschen	überrascht	119399	False	0				 	99298
 Wrong Disambiguation	1	3007	6	VER	setzen	setzte	157656	False	0				 	
 Wrong Recognition	2	3079	4	GEA	Zin	Zins	10291491	False	0				 	

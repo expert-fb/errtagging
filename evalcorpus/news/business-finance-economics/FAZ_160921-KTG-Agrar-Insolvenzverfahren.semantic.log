@@ -182,12 +182,12 @@ Wrong Recognition	2	318	4	GEO	Mau	Maus	11256473	False	0				 
 Wrong Disambiguation	1	352	9	ADJ	laufend	laufenden	173712	False	0				 	66449
 Wrong Entity Type	0	621	17	NPR	KTK Getreidelager	KTK Getreidelager	-1	False	0				 	
 Wrong Disambiguation	1	670	17	NOU		Finanzdrehscheibe	101128390	True	0				 	498895
-Wrong Grammar	1	692	3	ART	die	die	-1	False	0				 	
+Wrong Grammar	1	692	3	ART	die	die	-1	False	0			PRO	 	
 Wrong Disambiguation	0	700	4	ADV		etwa	100886	False	0				 	26861
 Wrong Recognition	1	717	13	NOU	hoher Preis	hohen Preisen	14506	False	0				 	
-Wrong Grammar	1	757	4	PRO	ein	eine		False	0				 	
+Wrong Grammar	1	757	4	PRO	ein	eine		False	0			ART	 	
 Missing Concept	1	784	9	VER	vertrauen	vertraute	14602	False	0				 	
-Wrong Grammar	0	843	9	VER	bestätigen	bestätigt	14450	False	106				 	16540
+Wrong Disambiguation	0	843	9	VER	bestätigen	bestätigt	14450	False	106				 	16540
 Wrong Disambiguation	1	933	5	VER	werden	wurde	14301	False	122				 	
 Wrong Disambiguation	1	985	5	COM	Agrarkonzern KTG Agrar	Agrar	104830453	True	132				 	
 Wrong Disambiguation	1	991	9	NOU	Standort	Standorts	46065	False	134				 	118682
@@ -196,11 +196,11 @@ Wrong Entity Form	1	1032	5	ADJ	aptus	aptus	-1	False	141				 
 Wrong Disambiguation	1	1078	3	VER	sein	war	12562	False	150				 	
 Wrong Grammar	0	1101	5	CON	damit	damit	-1	False	155			ADV	 	130383
 Wrong Disambiguation	1	1119	4	PRE		nach	562278	False	157				 	
-Wrong Grammar	0	1152	9	ADJ		gegründet	596833	False	162				 	
+Wrong Grammar	0	1152	9	ADJ		gegründet	596833	False	162			VER	 	
 Wrong Disambiguation	0	1162	6	VER	werden	worden	140981	False	163				 	
 Wrong Disambiguation	1	1199	12	NOU		Gesellschaft	100008425	False	168				 	
 Missing Concept	1	1237	20	NPR	Geschäftstätgikeiten	Geschäftstätgikeiten	-1	False	174				 	
-Wrong Grammar	1	1269	8	PRE	zunächst	zunächst	-1	False	178				 	
+Wrong Grammar	1	1269	8	PRE	zunächst	zunächst	-1	False	178			ADV	 	
 Wrong Disambiguation	1	1353	4	ADV		eben	106298	False	188				 	
 Wrong Grammar	1	1512	6	ADJ		allein	20202	False	209			ADV	 	123059
 Wrong Disambiguation	1	1524	9	NOU		Forderung	28977	False	211				 	
@@ -208,7 +208,7 @@ Wrong Disambiguation	1	1543	12	NOU		Gesellschaft	100008425	False	214				 
 Missing Concept	0	1556	4	ADV		über	98894	False	215				 	
 Wrong Recognition	1	1599	7	ADJ	weit	weitere	30148	False	221		weiter		 	
 Missing Concept	0	1607	4	PRE		über	98894	False	222				 	
-Wrong Grammar	0	1648	7	ADJ		ähnlich	19819	False	227				 	
-Wrong Grammar	1	1720	12	NOU	überteuerten	überteuerten	-1	False	241				 	
+Wrong Grammar	0	1648	7	ADJ		ähnlich	19819	False	227			ADV	 	
+Wrong Grammar	1	1720	12	NOU	überteuerten	überteuerten	-1	False	241			ADJ	 	
 Wrong Disambiguation	1	1751	6	VER	werden	worden	14301	False	245				 	
 Wrong Disambiguation	1	2028	13	VER	zurückziehen	zurückgezogen	168821	False	281				 	

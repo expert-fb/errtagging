@@ -436,14 +436,14 @@ Wrong Recognition	1	124	13	NOU	Energiespart	Energiesparte	3851	True	15				 
 Wrong Disambiguation	1	184	4	NOU		Kurs	4170	False	25				 	
 Wrong Disambiguation	1	199	6	VER	steigen	steigt	13128	False	28				 	
 Wrong Disambiguation	0	206	7	ADJ		kräftig	93060	False	29				 	53015
-Wrong Grammar	1	215	3	NOU		Gut	762	False	31				 	
+Wrong Grammar	1	215	3	NOU		Gut	762	False	31			ADV	 	
 Wrong Disambiguation	1	231	4	PRE		nach	562278	False	33				 	
 Wrong Recognition	1	424	11	ADJ	hoc-Meldung	hoc-Meldung	-1	False	62				 	
 Wrong Disambiguation	1	447	9	VER	übernehmen	übernimmt	162097	False	65				 	
 Wrong Disambiguation	1	497	13	NOU	Geschäft	Agrargeschäft	2967	False	71				 	
 Wrong Disambiguation	1	534	15	NOU		Mehrheitsanteil	592622	False	76				 	48186
 Wrong Disambiguation	1	579	6	ADJ	groß	großen	139008	False	82				 	
-Wrong Grammar	1	610	11	VER	ausnehmen	Ausgenommen	126599	False	87				 	
+Wrong Grammar	1	610	11	VER	ausnehmen	Ausgenommen	126599	False	87			ADJ	 	
 Wrong Disambiguation	1	630	8	NOU		Geschäft	2967	False	90				 	
 Wrong Disambiguation	1	639	4	VER	sein	sind	172056	False	91				 	
 Wrong Disambiguation	0	657	9	NOU	Standort	Standorte	482	False	94				 	118682
@@ -452,7 +452,7 @@ Wrong Entity Type	1	683	7	GEA		Quesitz	2718	True	98				 
 Wrong Disambiguation	1	743	7	VER		bleiben	129084	False	108				 	
 Missing Concept	1	769	5	ADV		außen	24891	False	112		außen vor		 	
 Wrong Disambiguation	1	795	22	NOU	Auslandsgesellschaft	Auslandsgesellschaften	100008425	True	118				 	104830453
-Wrong Grammar	2	858	5	VER		einen	14874	False	124				 	
+Wrong Grammar	2	858	5	VER		einen	14874	False	124			ART	 	
 Missing Entity	0	913	4	NOU	Zech	Zech	-1	False	133				 	
 Missing Concept	0	918	8	VER		wechseln	14716	False	134				 	
 Wrong Disambiguation	0	1009	6	VER		liegen	16340	False	145				 	16335
@@ -462,13 +462,13 @@ Wrong Disambiguation	1	1343	5	ADJ	groß	große	50456	False	196				 
 Wrong Grammar	1	1409	1	ADV		"		True	207				 	
 Wrong Disambiguation	1	1410	4	ADV		noch	74484	False	208				 	
 Wrong Disambiguation	1	1436	9	VER		ausfallen	15918	False	211				 	17200
-Wrong Grammar	1	1484	3	PRO	die	die	-1	False	220				 	
-Wrong Grammar	1	1488	3	CON	nun	nun	-1	False	221				 	
+Wrong Grammar	1	1484	3	PRO	die	die	-1	False	220			ART	 	
+Wrong Grammar	1	1488	3	CON	nun	nun	-1	False	221			ADV	 	
 Wrong Disambiguation	0	1544	3	ADJ		gut	29675	False	229				 	
 Wrong Disambiguation	1	1561	7	NOU	Kreis	Kreisen	102115792	False	231				 	
 Wrong Disambiguation	1	1569	3	VER	sein	ist	13082	False	232				 	
 Wrong Disambiguation	1	1616	4	NOU		Rede	10453	False	240				 	117268
-Wrong Grammar	1	1626	3	PRO	die	die	-1	False	243				 	
+Wrong Grammar	1	1626	3	PRO	die	die	-1	False	243			ART	 	
 Wrong Recognition	1	1651	9	NOU	Gläubige	Gläubiger	628	False	247		Gläubiger		 	100157165
 Missing Concept	0	1676	7	ADV		zuletzt	112262	False	252				 	
 Missing Concept	1	1730	5	VER	stehen	stand	32369	False	260		in der Kreide stehen		 	
@@ -482,28 +482,28 @@ Wrong Entity Type	0	1986	11	ORG		Zech-Gruppe	67204	True	305				 
 Wrong Disambiguation	1	2144	11	VER	beschäftigen	beschäftigt	14760	False	325				 	
 Wrong Disambiguation	1	2177	7	NOU	Wurzel	Wurzeln	2214	False	331				 	
 Wrong Disambiguation	1	2205	6	VER		liegen	16318	False	335				 	
-Wrong Grammar	1	2234	3	PRO	die	der		True	340				 	
+Wrong Grammar	1	2234	3	PRO	die	der		True	340			ART	 	
 Missing Entity	0	2320	4	NOU	Zech	Zech	-1	False	353				 	
 Wrong Recognition	1	2340	17	NOU	Deutschlandspart	Deutschlandsparte	3851	True	357				 	
-Wrong Grammar	1	2358	3	PRO	der	des		True	358				 	
+Wrong Grammar	1	2358	3	PRO	der	des		True	358			ART	 	
 Missing Entity	1	2386	6	NOU	Tech	Imtech	100598593	False	361				 	
 Wrong Recognition	1	2408	8	ADJ	getreten	getreten	-1	False	364		in Erscheinung treten		 	15357
 Wrong Recognition	1	2499	3	ADV		ein	36248	False	380		einkaufen		 	132907
-Wrong Grammar	0	2449	3	CON	nun	nun	-1	False	372				 	
+Wrong Grammar	0	2449	3	CON	nun	nun	-1	False	372			ADV	 	
 Wrong Disambiguation	1	2536	8	NOU		Geschäft	2967	False	390				 	
 Wrong Disambiguation	1	2577	9	VER		verzahnen	165386	False	395				 	
 Wrong Disambiguation	0	2594	4	ADV		dazu	141179	False	398				 	130588
-Wrong Grammar	0	2701	4	ADV		aber	74486	False	417				 	
+Wrong Grammar	0	2701	4	ADV		aber	74486	False	417			CON	 	
 Wrong Disambiguation	1	2718	5	ADV		genau	47735	False	419				 	19896
 Wrong Disambiguation	1	2894	4	PRE		nach	562279	False	447				 	
 Wrong Disambiguation	0	2915	16	NOU	Mehrheitsanteil	Mehrheitsanteils	592622	False	451				 	
 Wrong Entity Form	1	2940	7	NOU		Energie	100011379	False	454				 	
 Wrong Disambiguation	0	3030	6	ADJ		unklar	63812	False	466				 	86020
 Wrong Disambiguation	1	3048	9	VER	ermitteln	ermittelt	96508	False	470				 	
-Wrong Grammar	0	3100	14	ADV		verantwortlich	596300	False	476				 	
+Wrong Grammar	0	3100	14	ADV		verantwortlich	596300	False	476			ADJ	 	
 Wrong Disambiguation	1	3312	11	NOU	Forderung	Forderungen	28977	False	504				 	100328554
 Wrong Disambiguation	1	3355	7	ADJ	eigen	eigenen	80137	False	511				 	120216
-Wrong Grammar	1	3399	7	ADJ	dritte	Dritten	117164	False	515				 	
+Wrong Grammar	1	3399	7	ADJ	dritte	Dritten	117164	False	515			NOU	 	
 Missing Concept	1	3407	9	VER	aufbauen	aufgebaut	14987	False	516				 	15012
 Wrong Disambiguation	1	3530	13	VER	zurückziehen	zurückgezogen	168821	False	535				 	167207
 Wrong Entity Form	1	3571	7	NOU		Energie	100011379	False	542				 	
@@ -513,7 +513,7 @@ Wrong Disambiguation	1	3715	6	VER	können	könnte	14354	False	563				 
 Missing Concept	0	3759	11	ADJ	garantiert	garantierte		True	570				 	
 Wrong Disambiguation	0	3807	6	ADV		wieder	74486	False	574				 	167250
 Wrong Disambiguation	1	3842	4	NOU		Kurs	4170	False	579				 	
-Wrong Grammar	1	3918	2	CON	um	um	-1	False	590				 	
+Wrong Grammar	1	3918	2	CON	um	um	-1	False	590			PRE	 	
 Wrong Disambiguation	1	3994	4	NOU		Kurs	4170	False	603				 	
 Wrong Disambiguation	1	4043	4	NOU		Kurs	4170	False	612				 	
 Wrong Disambiguation	2	4072	5	VER	steigen	stieg	13128	False	617				 	

@@ -307,7 +307,7 @@ SBJ=0:3;SBJ=12:8;SBJ=23:21;SBJ=30:31;SBJ=-49:34;SBJ=42:41;SBJ=46:47;SBJ=52:50;CP
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Wrong Recognition	2	40	6	VER	erneuen	erneut	14966	False	0				 	
 Wrong Disambiguation	0	47	8	ADV		deutlich	596230	False	0				 	70390
-Wrong Grammar	1	56	11	ADJ	geschrumpft	geschrumpft	-1	False	0				 	
+Wrong Grammar	1	56	11	ADJ	geschrumpft	geschrumpft	-1	False	0			VER	 	
 Wrong Disambiguation	1	73	4	NOU		Wert	100169489	False	0				 	
 Missing Concept	1	90	3	VER	liegen	lag	16335	False	0				 	
 Wrong Grammar	0	170	5	CON	damit	damit	-1	False	0			ADV	 	130383
@@ -340,9 +340,9 @@ Missing Concept	0	1208	16	ADJ	veröffentlicht	veröffentlichten	588502	False	0		
 Wrong Disambiguation	0	1225	6	NOU	Zahl	Zahlen	309	False	0				 	
 Wrong Disambiguation	1	1258	6	ADJ	groß	größte	50386	False	0				 	
 Wrong Disambiguation	0	1314	4	NOU		Welt	100000002	False	0				 	
-Wrong Grammar	1	1319	6	ADJ	weit	weiter	20396	False	0				 	
+Wrong Grammar	1	1319	6	ADJ	weit	weiter	20396	False	0			ADV	 	
 Wrong Disambiguation	0	1507	9	ADJ		schwierig	33657	False	0				 	117739
-	0	1519	11	ADJ	schwach	Schwächeres	156974	False	0				 	
+Wrong Disambiguation	0	1519	11	ADJ	schwach	Schwächeres	156974	False	0				 	
 Wrong Disambiguation	1	1519	11	ADJ	schwach	Schwächeres	156974	False	0				 	120497
 Wrong Disambiguation	0	1583	7	VER	dürfen	dürften		False	0				 	132344
 Wrong Grammar	1	1616	6	ADJ	weit	weiter	43176	False	0			ADV	 	166901
@@ -361,7 +361,7 @@ Wrong Disambiguation	1	2107	7	VER		kämpfen	16575	False	0				 
 Wrong Disambiguation	0	2123	9	NOU		Industrie	100008148	False	0				 	5315
 Wrong Disambiguation	1	2184	12	ADJ	öffentlich	öffentlichen	75309	False	0				 	
 Wrong Disambiguation	0	2264	3	ADV		nur	66818	False	0				 	
-Wrong Grammar	1	2286	4	PRO	ein	Eine		False	0				 	
+Wrong Grammar	1	2286	4	PRO	ein	Eine		False	0			ART	 	
 Wrong Disambiguation	1	2380	11	ADJ	staatlich	staatlichen	119314	False	0				 	
 Wrong Disambiguation	1	2420	6	VER	zulegen	legten	15811	False	0				 	118726
 Missing Concept	1	2453	9	NOU		Zolldaten	100205892	True	0				 	

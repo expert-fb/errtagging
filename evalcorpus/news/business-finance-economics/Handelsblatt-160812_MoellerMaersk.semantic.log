@@ -307,7 +307,7 @@ Wrong Disambiguation	1	1138	6	ADV		schwer	589172	False	0				 
 Missing Concept	1	1145	19	VER	zu schaffen machen	zu schaffen gemacht	117706	False	0				 	
 Wrong Disambiguation	1	1170	8	ADJ	schwach	schwache	156974	False	0				 	
 Wrong Disambiguation	1	1227	7	VER		treffen	168969	False	0				 	
-Wrong Grammar	1	1256	4	ADJ		ganz	137314	False	0				 	
+Wrong Grammar	1	1256	4	ADJ		ganz	137314	False	0			ADV	 	
 Wrong Disambiguation	0	1261	13	ADJ	empfindlich	empfindlichen	38073	False	0				 	
 Wrong Disambiguation	1	1275	6	NOU		Stelle	1111	False	0				 	
 Wrong Disambiguation	2	1302	5	VER	stehen	steht	159252	False	0				 	
@@ -328,12 +328,12 @@ Wrong Disambiguation	0	1288	13	ORG		Møller-Maersk	116334295	True	0			COM	 
 Wrong Disambiguation	1	2081	9	NOU	Bereich	Bereichen	100082794	False	0				 	
 Wrong Disambiguation	0	2095	8	NOU		Rotstift	84325	False	0				 	
 Wrong Disambiguation	1	2132	9	NOU	Schwäche	Schwächen	120835	False	0				 	657
-Wrong Grammar	1	2146	5	PRO	ein	einen		False	0				 	
+Wrong Grammar	1	2146	5	PRO	ein	einen		False	0			ADJ	 	
 Wrong Disambiguation	1	2167	6	NOU		Stärke	3810	False	0				 	16747
 Wrong Disambiguation	1	2273	4	VER	gelten	gilt	137905	False	0				 	137902
 Wrong Disambiguation	1	2294	4	NPR	Søren Skou	Skou		False	0			NPH	 	
 Wrong Recognition	1	2299	6	ADJ	weit	weiter	66152	False	0				 	
-Wrong Grammar	1	2335	4	ADJ	tag_numero	erst		False	0				 	
+Wrong Grammar	1	2335	4	ADJ	tag_numero	erst		False	0			ADV	 	
 Wrong Disambiguation	1	2468	12	NOU	Alternative	Alternativen	20506	False	0				 	
 Wrong Disambiguation	1	2506	8	NOU	Option	Optionen	100187860	False	0				 	
 Wrong Recognition	1	2526	10	NOU		Sicherheit	110566551	False	0		mit Sicherheit	ADV	 	172999

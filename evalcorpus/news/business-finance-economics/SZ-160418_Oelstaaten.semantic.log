@@ -384,16 +384,16 @@ Wrong Disambiguation	1	483	9	VER	treffen	getroffen	13823	False	0				 	12905
 Wrong Disambiguation	1	498	4	VER	gelten	galt	137903	False	0				 	
 Missing Concept	0	659	9	ADJ	saudische	saudische	-1	False	0				 	
 Wrong Disambiguation	1	805	6	ADJ		andere	20987	False	0				 	
-Wrong Grammar	0	826	3	ADV	in-	in-	-1	False	0				 	
+Wrong Grammar	0	826	3	ADV	in-	in-	-1	False	0			PRE	 	
 Wrong Disambiguation	1	853	11	VER		anschließen	124024	False	0				 	
 Wrong Disambiguation	1	890	3	VER	sein	ist	13082	False	0				 	
-Wrong Grammar	0	894	3	CON	nun	nun	-1	False	0				 	
+Wrong Grammar	0	894	3	CON	nun	nun	-1	False	0			ADV	 	
 Wrong Recognition	1	901	6	ADJ	groß	großer	139010	False	0				 	
 Wrong Disambiguation	1	908	5	NOU		Runde	15077	False	0				 	
 Wrong Disambiguation	1	1048	5	VER	heißen	heißt	13738	False	0				 	
 Wrong Disambiguation	1	1233	3	GEO	Iran	dem	10128582	False	0				 	
 Wrong Recognition	1	1243	5	NOU		Folge	2885	False	0		Folge leisten	VER	 	136430
-Wrong Grammar	1	1341	4	ADJ	tag_numero	erst		False	0				 	
+Wrong Grammar	1	1341	4	ADJ	tag_numero	erst		False	0			ADV	 	
 Wrong Disambiguation	0	1425	10	ADJ	künstlich	künstliche	19663	False	0				 	119168
 Wrong Disambiguation	1	1689	5	VER		sehen	157378	False	275				 	
 Wrong Disambiguation	1	1704	14	NOU		Regionalmächte	118917	True	278				 	
@@ -405,7 +405,7 @@ Wrong Disambiguation	1	2021	7	VER	machen	gemacht	13039	False	320				 
 Wrong Disambiguation	1	2093	4	VER	sein	sind	172056	False	329				 	
 Wrong Disambiguation	1	2188	4	VER	heißen	hieß	13738	False	346				 	
 Wrong Disambiguation	1	2212	4	PRE		nach	562278	False	350				 	
-Wrong Grammar	1	2268	4	ADV		eins	36896	False	358				 	
+Wrong Grammar	1	2268	4	ADV		eins	36896	False	358			PRO	 	
 Wrong Disambiguation	1	2279	4	NOU		Zeit	100011471	False	361				 	
 Missing Concept	0	2306	9	ADJ	kriselnd	kriselnde		True	367				 	
 Wrong Disambiguation	0	2339	5	ADV	dabei	Dabei	130291	False	371				 	31973
@@ -425,13 +425,13 @@ Wrong Disambiguation	1	3083	9	VER	fördern	förderten	17689	False	487				 
 Wrong Disambiguation	2	3113	2	COM		Öl	104830453	True	490				 	
 Wrong Disambiguation	1	3147	6	VER		halten	14186	False	496				 	14136
 Missing Concept	1	3175	9	NOU	Förderer	Förderern	4245	False	502				 	
-Wrong Grammar	1	3185	2	PRE	zu	zu	-1	False	503				 	
-Wrong Grammar	1	3188	7	ADJ	schade	schaden		True	504				 	
+Wrong Grammar	1	3185	2	PRE	zu	zu	-1	False	503			ADV	 	565251
+Wrong Grammar	1	3188	7	ADJ	schade	schaden		True	504			VER	 	
 Wrong Disambiguation	1	3205	6	ADJ	hoch	höhere	39296	False	508				 	
 Wrong Recognition	1	3252	7	VER	brechen	brachen	15688	False	514		einbrechen		 	132639
 Wrong Disambiguation	1	3282	5	NOU		Mitte	118820	False	518				 	118821
-Wrong Grammar	1	3313	2	CON	um	um	-1	False	524				 	
-Wrong Grammar	2	3334	3	VER	einen	ein	14874	False	527				 	
+Wrong Grammar	1	3313	2	CON	um	um	-1	False	524			PRE	 	
+Wrong Grammar	2	3334	3	VER	einen	ein	14874	False	527			ADV	 	
 Wrong Disambiguation	1	3351	3	VER	hinzukommen	kam	55735	False	530				 	141916
 Wrong Disambiguation	1	3381	4	PRE		nach	562278	False	536				 	
 Wrong Disambiguation	2	3399	10	VER	zurückgehen	zurückging	13122	False	539				 	

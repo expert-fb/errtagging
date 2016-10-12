@@ -559,37 +559,37 @@ SBJ=0:1;SBJ=7:4;SBJ=14:16;OBJ=15:16;SBJ=19:20;OBJ=29:31;SBJ=41:48;OBJ=43:48;OBJ=
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Wrong Disambiguation	1	20	4	ADV		eins	36896	False	0				 	
 Wrong Disambiguation	1	31	5	ADV		immer	57736	False	0				 	142692
-Wrong Grammar	1	37	5	VER	nähern	näher	16863	False	0				 	
+Wrong Grammar	1	37	5	VER	nähern	näher	16863	False	0			ADJ	 	
 Wrong Disambiguation	1	56	6	VER	warten	wartet	121097	False	0				 	
-Wrong Grammar	1	150	11	ADJ	Italienerin	Italienerin	-1	False	0				 	
-Wrong Grammar	1	177	6	NOU		Selbst	103236990	False	0				 	
+Wrong Grammar	1	150	11	ADJ	Italienerin	Italienerin	-1	False	0			NOU	 	
+Wrong Grammar	1	177	6	NOU		Selbst	103236990	False	0			ADV	 	
 Wrong Disambiguation	1	294	6	NOU	Spiel	Spiels	100011410	False	0				 	
 Wrong Disambiguation	1	323	8	VER		scheinen	117664	False	0				 	
 Wrong Disambiguation	0	387	9	VER	begleiten	begleitet	15364	False	0				 	
 Wrong Disambiguation	1	405	9	ADJ	passend	passenden	580544	False	0				 	
 Missing Concept	0	460	12	ADJ	hochgezogen	hochgezogene		False	0				 	
-Wrong Grammar	1	500	4	VER	mehren	mehr	17763	False	0				 	
-Wrong Grammar	1	510	6	PRO	selbst	selbst	-1	False	78				 	
+Wrong Grammar	1	500	4	VER	mehren	mehr	17763	False	0			ADV	 	
+Wrong Grammar	1	510	6	PRO	selbst	selbst	-1	False	78			ADV	 	
 Missing Concept	0	554	11	ADJ	überfordert	überfordert	-1	False	85				 	
 Missing Concept	0	608	11	NOU	Nachdenken	Nachdenkens		True	93				 	
 Missing Concept	0	620	9	ADJ		auf Lager	67692	False	94				 	
 Wrong Disambiguation	0	751	6	NOU		Lösung	121241	False	116				 	
 Wrong Disambiguation	0	788	5	ADV		schon	87685	False	124				 	
-Wrong Grammar	1	794	12	PRO	ein bisschen	ein bisschen	-1	False	125				 	
+Wrong Grammar	1	794	12	PRO	ein bisschen	ein bisschen	-1	False	125			ADV	 	
 Wrong Disambiguation	0	936	7	ADV		dagegen	130327	False	138				 	
 Wrong Disambiguation	0	957	8	VER	verlassen	verlässt	119625	False	141				 	17849
 Wrong Disambiguation	1	1000	4	VER		sein	172056	False	150				 	
 Missing Concept	0	1025	8	NOU		Kurzform	65626	False	154				 	
 Wrong Disambiguation	1	1109	3	VER	sein	sei	172056	False	166				 	
-Wrong Grammar	1	1159	6	NOU		Selbst	103236990	False	175				 	
+Wrong Grammar	1	1159	6	NOU		Selbst	103236990	False	175			ADV	 	
 Wrong Recognition	1	1188	4	VER	gehen	gehe	117714	False	181		gut gehen		 	578773
 Wrong Disambiguation	0	1194	6	VER	spielen	spiele	158429	False	183				 	
 Wrong Disambiguation	0	1265	4	PRE		nach	562279	False	196				 	
 Wrong Disambiguation	1	1405	3	VER	sein	war	172056	False	216				 	
-Wrong Grammar	1	1410	12	ADV	Historisches	Historisches	-1	False	218				 	
+Wrong Grammar	1	1410	12	ADV	Historisches	Historisches	-1	False	218			NOU	 	
 Missing Entity	1	1457	8	NOU	Flushing	Flushing	-1	False	226				 	
 Wrong Disambiguation	0	1492	8	VER		gewinnen	15798	False	231				 	
-Wrong Grammar	1	1605	4	ADV	alle	Alle	123055	False	247				 	
+Wrong Grammar	1	1605	4	ADV	alle	Alle	123055	False	247			PRO	 	
 Missing Concept	1	1714	9	VER	wachsen	gewachsen	133489	False	263				 	
 Wrong Disambiguation	0	1730	4	ADV		dann	130436	False	266				 	
 Wrong Disambiguation	1	1735	10	VER	zerschneiden	zerschnitt	15915	False	267				 	174047
@@ -597,15 +597,15 @@ Wrong Disambiguation	0	1795	8	NPH	William	Williams	101553386	False	275				 
 Wrong Disambiguation	1	1835	5	VER	haben	hatte	125724	False	281				 	
 Wrong Disambiguation	1	1925	4	NOU		Last	107964839	False	297				 	1355
 Wrong Disambiguation	1	2048	7	VER	sein	gewesen	13082	False	318				 	
-Wrong Grammar	1	2151	10	NOU		New Yorker	8204	False	339				 	
+Wrong Grammar	1	2151	10	NOU		New Yorker	8204	False	339			ADJ	 	
 Wrong Disambiguation	0	2186	4	ADV		auch	23235	False	344				 	
 Wrong Disambiguation	0	2200	3	ADV		nun	37164	False	347				 	
 Wrong Disambiguation	1	2255	5	NOU		Sport	4155	False	358				 	4160
 Wrong Disambiguation	1	2261	6	ADJ	voll	voller	120598	False	359				 	165659
 Missing Concept	1	2295	6	VER	stecken	steckt	16417	False	363				 	
-Wrong Grammar	1	2308	4	ADV		dazu	98967	False	366				 	
+Wrong Grammar	1	2308	4	ADV		dazu	98967	False	366			PRO	 	
 Wrong Recognition	0	2387	11	NOU	Freund	Freundinnen	4235	False	381				 	
-Wrong Grammar	1	2445	6	ADJ	beide	beiden	169688	False	390				 	
+Wrong Grammar	1	2445	6	ADJ	beide	beiden	169688	False	390			PRO	 	
 Wrong Disambiguation	1	2532	7	VER	sein	gewesen	13111	False	402				 	
 Wrong Disambiguation	1	2585	6	VER	sprechen	sprach	12976	False	412				 	
 Wrong Disambiguation	1	2636	2	ADV		so	130436	False	421				 	
@@ -613,30 +613,30 @@ Wrong Disambiguation	1	2748	4	PRE		nach	562279	False	439				 
 Wrong Disambiguation	1	2785	5	NOU		Runde	12934	False	445				 	
 Wrong Disambiguation	1	2815	9	VER		verlassen	119623	False	450				 	
 Missing Concept	0	2845	7	VER	sein	gewesen		True	455				 	
-Wrong Grammar	1	2862	12	PRO	ein bisschen	ein bisschen	-1	False	459				 	
+Wrong Grammar	1	2862	12	PRO	ein bisschen	ein bisschen	-1	False	459			ADV	 	
 Wrong Disambiguation	1	2940	6	VER	gehören	gehört	137769	False	470				 	
 Wrong Disambiguation	1	3053	5	VER	stehen	stand	159252	False	494				 	
 Wrong Disambiguation	1	3206	5	NOU		Platz	146550	False	519				 	
 Wrong Disambiguation	1	3219	6	NOU		Spitze	607	False	522				 	
 Wrong Disambiguation	1	3239	7	VER		spielen	158429	False	525				 	
-Wrong Grammar	0	3280	7	ADJ		einfach	63207	False	533				 	
+Wrong Grammar	0	3280	7	ADJ		einfach	63207	False	533			ADV	 	
 Wrong Disambiguation	0	3298	4	PRE	nach	Nach	562279	False	535				 	
 Wrong Disambiguation	0	3363	5	VER	feststehen	steht	42423	False	547				 	118056
 Wrong Disambiguation	1	3564	6	ADJ	groß	großer	139010	False	579				 	
-Wrong Grammar	0	3618	7	ADJ		einfach	63207	False	588				 	
+Wrong Grammar	0	3618	7	ADJ		einfach	63207	False	588			ADV	 	
 Wrong Disambiguation	1	3641	6	ADJ	groß	größte	139010	False	592				 	
 Wrong Disambiguation	1	3823	4	VER	ausholen	holt	83029	False	622				 	
 Wrong Disambiguation	0	3850	5	VER	machen	macht	13619	False	628				 	
 Wrong Disambiguation	1	3888	5	NOU		Punkt	1328	False	635				 	
 Wrong Disambiguation	1	3952	9	NOU	Schwäche	Schwächen	120835	False	647				 	657
 Wrong Disambiguation	0	3962	7	VER	gehören	gehörte	137767	False	648				 	657
-Wrong Grammar	1	3991	16	PRO	alles andere als	alles andere als	-1	False	652				 	
-Wrong Grammar	1	4008	6	ADV	bombig	bombig	-1	False	653				 	
+Wrong Grammar	1	3991	16	PRO	alles andere als	alles andere als	-1	False	652			ADV	 	
+Wrong Grammar	1	4008	6	ADV	bombig	bombig	-1	False	653			ADJ	 	
 Wrong Disambiguation	1	4052	6	VER	finden	findet	14311	False	658				 	
-Wrong Grammar	1	4246	6	ADV		darauf	32207	False	689				 	
+Wrong Grammar	1	4246	6	ADV		darauf	32207	False	689			PRO	 	
 Wrong Disambiguation	1	4621	7	NOU		Element	3918	False	755				 	
-Wrong Grammar	0	4650	6	ADJ	weit	weiter	66152	False	760				 	
-Wrong Grammar	0	4662	6	ADJ	weit	weiter	66152	False	763				 	
+Wrong Grammar	0	4650	6	ADJ	weit	weiter	66152	False	760			ADV	 	
+Wrong Grammar	0	4662	6	ADJ	weit	weiter	66152	False	763			ADV	 	
 Wrong Disambiguation	0	4713	21	NOU	Auf-den-Punkt-Bringer	auf-den-Punkt-Bringer	129572	True	774				 	
-Wrong Grammar	0	4735	7	ADJ		einfach	63207	False	775				 	
+Wrong Grammar	0	4735	7	ADJ		einfach	63207	False	775			ADJ	 	
 Missing Concept	0	4743	11	ADJ	überfordert	überfordert	-1	False	776				 	

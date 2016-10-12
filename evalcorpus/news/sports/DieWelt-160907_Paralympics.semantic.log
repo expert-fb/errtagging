@@ -427,7 +427,7 @@ Wrong Disambiguation	1	92	11	NOU		Bewusstsein	120111	False	0				 
 Wrong Disambiguation	1	136	7	VER	sorgen	sorgten	119588	False	0				 	119589
 Wrong Disambiguation	1	257	7	VER	stören	störten	501170	False	0				 	159723
 Wrong Disambiguation	1	358	6	VER	stören	störte	501170	False	0				 	159723
-Wrong Grammar	1	371	3	PRO	der	die		False	0				 	
+Wrong Grammar	1	371	3	PRO	der	die		False	0			ART	 	
 Missing Concept	0	375	14	ADJ	fotografiert	fotografierten		False	0				 	
 Wrong Disambiguation	1	436	5	VER	haben	hatte	125724	False	0				 	
 Wrong Disambiguation	1	446	7	NOU		Magazin	2977	False	0				 	
@@ -444,17 +444,17 @@ Wrong Disambiguation	1	905	7	ADJ	eigen	eigenen	80137	False	0				 
 Wrong Disambiguation	1	967	8	NOU	Problem	Probleme	118482	False	0				 	12402
 Missing Concept	0	1032	18	ADJ	zusammengeflickt	zusammengeflickten		False	0				 	
 Wrong Disambiguation	1	1051	7	NOU	Spiel	Spielen	100011410	False	0				 	562226
-Wrong Grammar	1	1059	11	ADJ	überrascht	überraschte	581985	False	0				 	
-Wrong Grammar	1	1078	7	VER	bedingen	bedingt	14422	False	0				 	
+Wrong Grammar	1	1059	11	ADJ	überrascht	überraschte	581985	False	0			VER	 	
+Wrong Grammar	1	1078	7	VER	bedingen	bedingt	14422	False	0			ADV	 	
 Wrong Disambiguation	1	1096	5	NOU	Topf	Töpfe	100869381	False	0				 	161009
 Wrong Disambiguation	1	1199	7	VER		reichen	13280	False	0				 	47876
-Wrong Grammar	1	1233	6	NOU		Selbst	103236990	False	0				 	
+Wrong Grammar	1	1233	6	NOU		Selbst	103236990	False	0			ADV	 	
 Missing Entity	1	1273	15	ADJ	international	Internationalen	58786	False	0				 	
 Missing Entity	1	1314	3	NOU		IPC	100751436	False	0				 	
 Wrong Disambiguation	0	1377	6	NOU		Moment	784	False	0				 	117801
 Wrong Disambiguation	1	1404	10	NOU		Geschichte	119335	False	0				 	
 Wrong Recognition	1	1448	4	NOU		Höhe	100190200	False	0		in Höhe von	PRE	 	
-Wrong Grammar	1	1457	4	ADJ		rund	64689	False	0				 	
+Wrong Grammar	1	1457	4	ADJ		rund	64689	False	0			ADV	 	
 Wrong Disambiguation	0	1502	7	ADJ	letzte	letzten	106302	False	0				 	20278
 Wrong Disambiguation	1	1568	6	NOU	Geld	Gelder	101499526	False	0				 	
 Wrong Disambiguation	1	1587	4	ADV		doch	173057	False	0				 	
@@ -464,7 +464,7 @@ Wrong Disambiguation	1	1750	6	NOU	Loch	Löcher	100651050	False	0				 
 Wrong Disambiguation	0	1787	11	VER	vornehmen	vorgenommen	13040	False	0				 	
 Wrong Disambiguation	1	1837	5	VER	anziehen	zieht	14409	False	0				 	21718
 Wrong Recognition	1	1857	9	VER	schränken	schränkte	87807	False	0		einschränken		 	14554
-Wrong Grammar	1	1912	3	PRO	ein	ein	-1	False	0				 	
+Wrong Grammar	1	1912	3	PRO	ein	ein	-1	False	0			ADV	 	
 Missing Concept	0	1982	9	ADJ	angegeben	angegeben	-1	False	0				 	
 Wrong Disambiguation	1	2090	9	VER		ausmachen	122205	False	0				 	13116
 Wrong Disambiguation	1	2162	8	VER	kosten	kosteten	121074	False	0				 	
@@ -484,18 +484,18 @@ Wrong Disambiguation	1	2828	6	NOU	Rang	Rängen	3451	False	424				 
 Wrong Disambiguation	1	2873	5	VER	sein	waren	172056	False	431				 	
 Wrong Disambiguation	1	2879	6	ADV		gerade	90968	False	432				 	
 Wrong Disambiguation	1	2901	7	NOU	Ticket	Tickets	4494	False	435				 	
-Wrong Grammar	1	2986	9	PRO	ein wenig	ein wenig	-1	False	450				 	
+Wrong Grammar	1	2986	9	PRO	ein wenig	ein wenig	-1	False	450			ADJ	 	
 Missing Concept	0	2996	10	NOU		Rückenwind	84431	False	451				 	
 Wrong Disambiguation	1	3123	6	VER		kommen	596963	False	470				 	
 Wrong Disambiguation	1	3161	9	ADJ	bestimmt	bestimmte	47963	False	476				 	
 Wrong Disambiguation	1	3184	10	NOU	Zweikampf	Zweikämpfe	35007	False	479				 	
 Wrong Disambiguation	1	3300	3	PRE		vor	596943	False	495				 	
 Wrong Disambiguation	1	3364	9	NOU	Senkung	Senkungen	129209	False	505				 	
-Wrong Grammar	1	3430	6	ADJ	gerade	Gerade	138051	False	514				 	
+Wrong Grammar	1	3430	6	ADJ	gerade	Gerade	138051	False	514			ADV	 	
 Wrong Disambiguation	0	3453	9	VER	anlocken	angelockt	14420	False	517				 	
 Wrong Disambiguation	0	3471	5	ADV	schon	Schon	87685	False	520				 	
 Wrong Disambiguation	0	3574	6	VER		helfen	14056	False	535				 	
-Wrong Grammar	1	3601	12	ADV	filltheseats	filltheseats	-1	False	541				 	
+Wrong Grammar	1	3601	12	ADV	filltheseats	filltheseats	-1	False	541			NPR	 	
 Wrong Disambiguation	1	3614	6	VER		können	145388	False	542				 	
 Wrong Entity Type	1	3893	3	NOU		IPC	100751436	False	578				 	
 Wrong Entity Type	1	3939	3	NOU		RPC	100062270	False	583				 	

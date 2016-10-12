@@ -490,11 +490,11 @@ Wrong Disambiguation	1	87	5	VER	halten	hielt	13376	False	17				 	12739
 Wrong Disambiguation	0	106	9	HOU	18:48	18:48 Uhr	100025235	True	21				 	
 Wrong Disambiguation	0	135	4	NOU		Welt	100000002	False	26				 	1625
 Wrong Disambiguation	0	171	7	VER	schreiben	schrieb	156695	False	34				 	119266
-Wrong Grammar	0	192	7	NOU	Vleuten	Vleuten	-1	False	37				 	
+Missing Entity	0	192	7	NOU	Vleuten	Vleuten	-1	False	37			NPH	 	
 Wrong Disambiguation	0	233	4	ADV		noch	74484	False	46				 	150090
 Missing Concept	0	261	5	ADV		super	148036	False	53				 	
 Wrong Disambiguation	1	278	4	PRE		nach	562278	False	55				 	565265
-Wrong Recognition	1	383	3	GEO		Van	10295373	False	77				 	
+Wrong Recognition	1	383	3	GEO		Van	10295373	False	77		NPH		 	
 Wrong Recognition	0	387	7	NOU	Vleuten	Vleuten	-1	False	78			NPH	 	
 Wrong Disambiguation	1	403	7	ADJ	letzte	letzten	106302	False	83				 	67409
 Wrong Disambiguation	1	411	7	NOU		Anstieg	15816	False	84				 	93275
@@ -514,14 +514,14 @@ Wrong Grammar	0	858	7	NOU	Vleuten	Vleuten	-1	False	165			NPH	 
 Wrong Disambiguation	0	911	6	VER	erleiden	erlitt	13995	False	172				 	117423
 Wrong Disambiguation	0	991	6	NOU	Frage	Fragen	15785	False	187				 	15791
 Wrong Disambiguation	0	1063	9	ADV		überhaupt	119898	False	199				 	
-Wrong Grammar	1	1141	3	VER	haben	hat	125724	False	214				 	
-Wrong Grammar	1	1171	6	ADJ		gesagt	596904	False	219				 	
+Wrong Disambiguation	1	1141	3	VER	haben	hat	125724	False	214				 	
+Wrong Grammar	1	1171	6	ADJ		gesagt	596904	False	219			VER	 	
 Wrong Disambiguation	0	1226	6	VER	mitbringen	bringt	15363	False	229				 	117499
 Missing Concept	1	1242	9	NOU		Expertise	40602	False	231				 	
 Wrong Disambiguation	1	1267	9	ORG	FC Barcelona	Barcelona	100007156	False	237				 	
 Missing Concept	1	1277	7	NOU		Bahnrad	100000446	True	238				 	
-Wrong Grammar	0	1325	3	ADJ	van	van	-1	False	248				 	
-Wrong Grammar	0	1329	7	NOU	Vleuten	Vleuten	-1	False	249			NPH	 	
+Wrong Recognition	0	1325	3	ADJ	van	van	-1	False	248				 	
+Missing Entity	0	1329	7	NOU	Vleuten	Vleuten	-1	False	249			NPH	 	
 Wrong Disambiguation	1	1337	7	VER	stürzen	stürzte	160080	False	250				 	17182
 Wrong Disambiguation	1	1416	6	VER	sagen	gesagt	154792	False	267				 	126718
 Wrong Disambiguation	1	1433	6	VER	stürzen	stürzt	160080	False	271				 	17182
@@ -532,10 +532,10 @@ Missing Concept	1	1546	7	NOU		Bahnrad	100000446	True	292				 
 Wrong Disambiguation	1	1730	8	VER	stürzen	gestürzt	160080	False	323				 	17182
 Wrong Disambiguation	1	1758	7	ADJ	früh	frühere	45046	False	327		früher		 	35927
 Wrong Recognition	1	1766	21	NOU		Tour-de-France-Sieger	39359	True	328				 	
-Wrong Grammar	0	1809	3	ADJ	van	van	-1	False	332				 	
-Wrong Grammar	0	1813	7	NOU	Vleuten	Vleuten	-1	False	333				 	
-Wrong Grammar	0	1872	3	ADJ	van	van	-1	False	345				 	
-Wrong Grammar	0	1876	7	NOU	Vleuten	Vleuten	-1	False	346				 	
+Wrong Recognition	0	1809	3	ADJ	van	van	-1	False	332			NPH	 	
+Missing Entity	0	1813	7	NOU	Vleuten	Vleuten	-1	False	333			NPH	 	
+Wrong Recognition	0	1872	3	ADJ	van	van	-1	False	345			NPH	 	
+Missing Entity	0	1876	7	NOU	Vleuten	Vleuten	-1	False	346			NPH	 	
 Wrong Disambiguation	1	1884	7	VER	stürzen	stürzte	160080	False	347				 	17182
 Wrong Disambiguation	1	1902	7	NOU		Abfahrt	15571	False	351				 	15574
 Wrong Recognition	0	1942	5	NOU		Vista	105460	False	357			NPR	 	
@@ -546,8 +546,8 @@ Wrong Disambiguation	1	2204	5	VER	finden	finde	14311	False	407				 	12868
 Wrong Grammar	1	2214	11	ADV		schrecklich	24963	False	409			ADJ	 	
 Wrong Disambiguation	1	2240	6	VER	meinen	meinte	164549	False	415				 	120645
 Wrong Disambiguation	1	2329	4	NOU		Kurs	4170	False	433				 	15491
-Wrong Grammar	0	2406	3	ADJ	van	van	-1	False	446				 	
-Wrong Grammar	0	2410	7	NOU	Vleuten	Vleuten	-1	False	447				 	
+Wrong Recognition	0	2406	3	ADJ	van	van	-1	False	446			NPH	 	
+Missing Entity	0	2410	7	NOU	Vleuten	Vleuten	-1	False	447			NPH	 	
 Wrong Disambiguation	1	2500	8	VER	gewinnen	gewonnen	15798	False	460				 	138391
 Wrong Recognition	0	2565	5	VER	sehen	sehen	-1	False	471				 	
 Wrong Disambiguation	1	2593	4	ADV		mehr	70026	False	477				 	121258

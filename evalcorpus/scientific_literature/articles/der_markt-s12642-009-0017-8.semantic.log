@@ -586,7 +586,7 @@ Wrong Recognition	0	1879	12	NOU	Integrierte	Integrierten		True	265				 
 Wrong Disambiguation	1	1906	11	VER	eingehen	eingegangen	120980	False	267				 	
 Wrong Disambiguation	1	1930	9	NOU		Abschnitt	100011471	False	271				 	
 Wrong Disambiguation	1	1994	10	VER	beleuchten	beleuchtet	128132	False	278				 	15895
-Wrong Grammar	0	2006	5	ADV		wobei	109826	False	280				 	
+Wrong Grammar	0	2006	5	ADV		wobei	109826	False	280			CON	 	
 Wrong Disambiguation	1	2031	9	NOU		Abschnitt	100011471	False	284				 	
 Wrong Disambiguation	1	2054	5	NOU		Fokus	100190909	False	287				 	
 Wrong Disambiguation	0	2130	5	VER	liegen	liegt	16344	False	298				 	
@@ -620,7 +620,7 @@ Wrong Disambiguation	1	3436	8	ADJ	stabil	stabilen	26672	False	458				 
 Wrong Disambiguation	1	3481	5	VER	sehen	sieht	136398	False	462				 	
 Wrong Disambiguation	1	3537	5	ADV		heute	54750	False	468				 	
 Missing Concept	0	3562	11	ADJ	erschwert	erschwerter		True	472				 	
-Wrong Grammar	1	3600	12	VER	konfrontieren	konfrontiert	118429	False	474				 	
+Wrong Grammar	1	3600	12	VER	konfrontieren	konfrontiert	118429	False	474			ADJ	 	
 Wrong Disambiguation	0	3619	6	VER	äußern	äußert	12967	False	477				 	15331
 Missing Concept	0	3631	7	ADV	konkret	konkret	-1	False	479				 	
 Wrong Recognition	0	3787	2	CON	u.	u.	-1	False	499				 	
@@ -634,7 +634,7 @@ Wrong Disambiguation	0	4266	9	NOU		Steuerung	118891017	False	556				 
 Missing Concept	0	4279	23	NOU	Kommunikationsdefizit	Kommunikationsdefiziten	100444600	True	558				 	
 Wrong Disambiguation	1	4303	5	VER	führen	führt	136980	False	559				 	137003
 Missing Concept	0	4368	23	NOU	Kommunikationsdefizit	Kommunikationsdefiziten	100444600	True	572				 	
-Wrong Grammar	1	4397	9	VER	verstärken	verstärkt	120471	False	574				 	
+Wrong Grammar	1	4397	9	VER	verstärken	verstärkt	120471	False	574			ADV	 	
 Wrong Disambiguation	1	4477	8	VER	stellen	gestellt	16022	False	585				 	
 Wrong Disambiguation	0	4539	11	ADJ	intensiv	intensivere	120539	False	596				 	58692
 Wrong Disambiguation	1	4653	14	NOU	Bezugsobjekt	Bezugsobjektes	603488	False	609				 	
@@ -646,7 +646,7 @@ Wrong Disambiguation	1	4868	12	ADV	vielfältig	vielfältiger	596278	False	640			
 Wrong Recognition	1	4897	9	ADJ	kommend	kommenden	579509	False	644				 	
 Wrong Disambiguation	1	4907	25	NOU	Kommunikationsinstrument	Kommunikationsinstrumente	100034379	True	645				 	
 Wrong Disambiguation	1	4933	4	VER	sein	sind	13082	False	646				 	
-Wrong Grammar	1	5031	5	CON	damit	damit	-1	False	660				 	
+Wrong Grammar	1	5031	5	CON	damit	damit	-1	False	660			ADV	 	
 Missing Concept	0	5048	22	NOU	Kommunikationsdefizit	Kommunikationsdefizite	100444600	True	662				 	
 Wrong Disambiguation	1	5148	6	NOU	Form	Formen	146	False	679				 	
 Wrong Recognition	0	5159	12	NOU	Integrierte	Integrierten		True	681				 	
@@ -654,14 +654,14 @@ Wrong Disambiguation	1	5195	5	VER		haben	125724	False	685				 
 Wrong Disambiguation	0	5230	6	NOU		Praxis	102920982	False	690				 	119713
 Wrong Disambiguation	1	5272	8	NOU	Konzept	Konzepts	120748	False	696				 	
 Wrong Recognition	0	5285	12	NOU	Integrierte	Integrierten		True	698				 	
-Wrong Grammar	2	5312	7	PRO	einige	einigen		True	700				 	
+Wrong Grammar	2	5312	7	PRO	einige	einigen		True	700			VER	 	
 Wrong Recognition	2	5336	2	NOU		al	100101497	False	705				 	
-Wrong Grammar	1	5363	6	PRO	dies	Dieser		True	713				 	
+Wrong Grammar	1	5363	6	PRO	dies	Dieser		True	713			ADJ	 	
 Wrong Disambiguation	1	5440	4	PRE		über	98894	False	720				 	
 Wrong Disambiguation	1	5484	7	NOU	Kit	Kitchen	2297	False	728				 	
 Wrong Entity Type	1	5495	7	NPR		Schultz	591	True	730				 	
 Wrong Recognition	0	5524	4	NOU	Lock	Lock	-1	False	735				 	
-Wrong Grammar	1	5570	2	ADV		da	173213	False	747				 	
+Wrong Grammar	1	5570	2	ADV		da	173213	False	747			CON	 	
 Wrong Disambiguation	1	5594	11	NOU		Entwicklung	100001063	False	751				 	
 Missing Concept	0	5633	14	NPR	Messbarmachung	Messbarmachung	-1	False	757				 	
 Wrong Recognition	0	5666	12	NOU	Integrierten	Integrierten	-1	False	761				 	

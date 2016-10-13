@@ -431,8 +431,8 @@
 
 SBJ=17:18;SBJ=29:27;APH=32:29;SBJ=29:33;SBJ=40:43;SBJ=49:47;CPL=50:47;SBJ=65:55;CPL=70:55;SBJ=83:81;OBJ=85:81;SBJ=89:90;SBJ=99:101;SBJ=108:109;OBJ=110:109;SBJ=112:113;SBJ=131:130;SBJ=131:134;OBJ=138:139;SBJ=141:149;OBJ=147:149;SBJ=159:163;OBJ=164:163;CPL=182:175;SBJ=178:180;SBJ=190:194;OBJ=189:194;SBJ=203:206;SBJ=211:210;CPL=213:210;SBJ=226:221;SBJ=256:259;SBJ=267:266;SBJ=272:276;OBJ=282:276;SBJ=316:312;SBJ=329:326;OBJ=330:326;APH=333:330;OBJ=330:335;SBJ=337:339;SBJ=337:345;OBJ=337:347;SBJ=350:351;SBJ=350:357;SBJ=350:368;TRM=367:368;CPL=376:371;SBJ=372:373;SBJ=380:384;OBJ=382:384;SBJ=388:387;OBJ=391:387;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	2	47	21	NOU	Pränataldiagnostisch	Pränataldiagnostische	100014748	True	0				 	
-Wrong Grammar	1	96	3	PRO	die	die	-1	False	0				 	
+Wrong Grammar	2	47	21	NOU	Pränataldiagnostisch	Pränataldiagnostische	100014748	True	0			ADJ	 	
+Wrong Grammar	1	96	3	PRO	die	die	-1	False	0			ART	 	
 Wrong Disambiguation	1	210	6	ADV		hinaus	55084	False	0				 	55085
 Wrong Disambiguation	1	219	7	VER		gehören	137767	False	0				 	17653
 Wrong Disambiguation	1	258	11	NOU		Hintergrund	15407	False	0				 	15408
@@ -451,10 +451,11 @@ Wrong Recognition	1	779	4	NOU		Kind	4273	False	0				 	500683
 Wrong Disambiguation	1	1005	12	NOU		Hammerschlag	107278640	False	0				 	
 Wrong Disambiguation	1	1369	4	VER		sein	13082	False	0				 	
 Missing Concept	0	1396	11	ADJ	zunehmend	zunehmenden		False	0				 	
-Wrong Grammar	0	1492	9	ADV	hilfreich	hilfreich	-1	False	0				 	
-Wrong Grammar	1	1905	7	ADJ	tätig	Tätigen	19978	False	0				 	
+Wrong Grammar	0	1492	9	ADV	hilfreich	hilfreich	-1	False	0			ADJ	 	
+Wrong Grammar	1	1846	3	PRO	der	der	-1	False	0			ART	 	
+Wrong Grammar	1	1905	7	ADJ	tätig	Tätigen	19978	False	0			NOU	 	
 Wrong Entity Type	1	2063	5	NPR		SchKG	39936	True	0			DOC	 	
-Wrong Grammar	0	2029	32	NOU	Schwangerschaftskonfliktgesetz	Schwangerschaftskonfliktgesetzes	116849074	True	0				 	
+Wrong Disambiguation	0	2029	32	NOU	Schwangerschaftskonfliktgesetz	Schwangerschaftskonfliktgesetzes	116849074	True	0				 	
 Missing Concept	1	2178	19	NOU		Indikationsstellung	3451	True	0				 	
 Wrong Disambiguation	1	2268	5	PRO	all	allen		False	0				 	
 Wrong Recognition	0	2430	7	NOU		Wirkung	102995644	False	0		mit Wirkung zu/von	PRE	 	
@@ -464,22 +465,22 @@ Wrong Entity Type	1	3203	5	NPR		SchKG	39936	True	0			DOC	 
 Wrong Recognition	1	2494	6	VER		treten	16095	False	0		in Kraft treten		 	
 Wrong Disambiguation	1	2587	10	NOU		Aufklärung	125189	False	0				 	125192
 Wrong Disambiguation	1	2625	6	NOU	Fall	Fällen	16321	False	0				 	114944328
-Wrong Grammar	2	2658	9	ADV	Ärztinnen	Ärztinnen	-1	False	0				 	
+Wrong Grammar	2	2658	9	ADV	Ärztinnen	Ärztinnen	-1	False	0			NOU	 	
 Wrong Disambiguation	1	2745	4	ADV		dazu	98967	False	0				 	
-Wrong Grammar	1	2764	4	PRE		über	98894	False	0				 	
+Wrong Disambiguation	1	2764	4	PRE		über	98894	False	0				 	
 Wrong Disambiguation	1	2811	11	VER	aufklären	aufzuklären	17054	False	0				 	
 Missing Concept	0	2855	11	ADJ	vertiefend	vertiefende		False	0				 	
 Wrong Disambiguation	0	3023	6	NOU		Stelle	104164871	False	0				 	14305
 Missing Concept	1	3135	14	NOU		Verabschiedung	102597	False	0				 	
 Wrong Disambiguation	1	3187	7	VER	gehören	gehörte	137769	False	0				 	17653
-Wrong Grammar	1	3354	4	PRE		über	98894	False	0				 	
+Wrong Disambiguation	1	3354	4	PRE		über	98894	False	0				 	
 Wrong Disambiguation	1	3475	4	PRE		nach	562278	False	469				 	
 Missing Concept	0	3558	12	ADJ	geschädigt	geschädigten		True	481				 	
 Wrong Disambiguation	0	3571	6	NOU	Kind	Kindes	4273	False	482				 	118761
 Wrong Disambiguation	0	3688	5	CON	damit	damit	-1	False	497				 	
 Wrong Disambiguation	1	3923	4	PRE		nach	562278	False	524				 	
 Wrong Disambiguation	1	3963	4	PRE		nach	562278	False	528				 	
-Wrong Grammar	1	3979	5	PRO	ein	eines		True	531				 	
+Wrong Grammar	1	3979	5	PRO	ein	eines		True	531			ART	 	
 Wrong Disambiguation	1	3999	6	NOU	Kind	Kindes	500683	False	535				 	
 Wrong Disambiguation	1	4007	10	ADJ	betroffen	Betroffene	28052	False	537				 	
 Wrong Disambiguation	1	4031	4	PRE		nach	562278	False	540				 	

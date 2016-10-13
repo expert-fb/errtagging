@@ -203,7 +203,7 @@ Missing Concept	1	644	24	NOU	Spannungskonzentration	Spannungskonzentrationen	119
 Wrong Recognition	1	670	3	PRO	Klebeband	die	12203	False	0				 	
 Missing Concept	0	701	14	ADJ		fehlangepasste	21221	True	0				 	
 Wrong Disambiguation	0	716	11	NOU	Oberfläche	Oberflächen	650	False	0				 	717
-Wrong Grammar	1	864	10	ADV	verteilen.	verteilen.	-1	False	0				 	
+Wrong Grammar	1	864	10	ADV	verteilen.	verteilen.	-1	False	0			VER	 	
 Missing Concept	1	889	24	NOU	Spannungskonzentration	Spannungskonzentrationen	119771	True	0				 	
 Wrong Disambiguation	1	1013	5	NOU		Zelle	167993	False	0				 	
 Wrong Disambiguation	1	1019	6	VER		führen	136980	False	0				 	137003

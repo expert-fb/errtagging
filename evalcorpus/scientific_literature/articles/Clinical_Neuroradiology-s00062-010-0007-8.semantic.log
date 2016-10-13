@@ -380,7 +380,7 @@ Missing Concept	0	2256	10	NPR	Extubation	Extubation	-1	False	318				 
 Wrong Disambiguation	1	2267	11	VER	vornehmen	vorgenommen	12720	False	319				 	13039
 Wrong Disambiguation	1	2359	11	VER	eintreten	eingetreten	16090	False	329				 	13136
 Wrong Recognition	1	2419	7	VER	bleiben	blieben	129084	False	336		bestehen bleiben		 	14218
-Wrong Grammar	2	2466	4	VER	einen	eine	14874	False	343				 	
+Wrong Grammar	2	2466	4	VER	einen	eine	14874	False	343			ART	 	
 Wrong Disambiguation	1	2487	7	NOU		Aphasie	124383	False	345				 	100002836
 Wrong Recognition	1	2644	7	VER	stellen	stellte	16028	False	362		Antrag stellen		 	26294
 Wrong Disambiguation	1	2656	6	NOU		Antrag	22083	False	364				 	22082
@@ -391,9 +391,9 @@ Wrong Disambiguation	1	2880	14	VER	zurückführen	zurückzuführen	168672	False	
 Wrong Disambiguation	1	2895	3	VER	sein	sei	12562	False	393				 	13140
 Missing Concept	0	2904	18	ADJ	neuroradiologische	neuroradiologische	-1	False	396				 	
 Wrong Recognition	0	2949	8	ADJ	gegeben	gegebene	170481	False	402		in Auftrag geben		 	13769
-Wrong Grammar	1	2995	15	NPR	Stellung nehmen	Stellung nehmen	-1	False	408				 	
-Wrong Grammar	2	3015	3	NOU		Ist	59160	False	411				 	
-Wrong Grammar	2	3079	5	NOU	Ware	Waren	741	False	421				 	
+Wrong Grammar	1	2995	15	NPR	Stellung nehmen	Stellung nehmen	-1	False	408			VER	 	
+Wrong Grammar	2	3015	3	NOU		Ist	59160	False	411			VER	 	
+Wrong Grammar	2	3079	5	NOU	Ware	Waren	741	False	421			VER	 	
 Wrong Disambiguation	1	3108	4	PRE		nach	562278	False	425				 	
 Missing Concept	0	3139	10	ADV	regelrecht	regelrecht	-1	False	429				 	
 Wrong Disambiguation	0	3154	5	VER	werden	Wurde	167036	False	432				 	
@@ -403,7 +403,7 @@ Missing Concept	0	3378	13	ADJ	inzidenteller	inzidenteller	-1	False	469				 
 Wrong Disambiguation	1	3446	16	NOU	Gefäßverschluss	Gefäßverschlüsse	100266328	True	476				 	164801
 Wrong Disambiguation	1	3510	9	VER	angeben	angegeben	135715	False	486				 	
 Missing Concept	0	3561	11	ADJ	Ruptur	rupturierte		True	493				 	
-Wrong Grammar	1	3584	5	PRO	etwas	etwas	-1	False	495				 	
+Wrong Grammar	1	3584	5	PRO	etwas	etwas	-1	False	495			ADV	 	
 Wrong Disambiguation	0	3590	5	ADV	hoch	höher	38099	False	496				 	141973
 Missing Concept	0	3604	16	ADJ	nichtrupturierte	nichtrupturierte	-1	False	499				 	
 Missing Concept	0	3622	12	ADJ	inzidentelle	inzidentelle	-1	False	501				 	

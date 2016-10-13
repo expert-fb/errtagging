@@ -484,14 +484,14 @@
 
 SBJ=3:2;SBJ=26:21;OBJ=28:21;SBJ=37:39;OBJ=35:39;SBJ=43:45;OBJ=47:45;SBJ=82:93;OBJ=94:93;SBJ=98:99;OBJ=100:99;SBJ=114:115;SBJ=121:122;SBJ=125:126;SBJ=125:136;SBJ=155:145;APH=168:164;SBJ=164:166;SBJ=173:176;OBJ=175:176;SBJ=179:178;CPL=182:178;SBJ=179:185;CPL=190:185;SBJ=186:188;SBJ=199:201;SBJ=208:203;CPL=206:203;CPL=212:203;SBJ=214:215;SBJ=214:218;SBJ=222:221;OBJ=223:221;SBJ=241:256;OBJ=243:256;SBJ=258:265;SBJ=258:269;SBJ=258:273;SBJ=285:288;SBJ=294:291;OBJ=296:291;APH=299:297;SBJ=297:302;SBJ=304:307;SBJ=317:319;OBJ=316:319;OBJ=327:330;OBJ=329:330;SBJ=335:333;SBJ=-49:396;OBJ=394:396;SBJ=404:406;CPL=405:406;CPL=407:406;SBJ=419:421;SBJ=-49:426;OBJ=427:426;APH=204:106;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	2	20	3	VER	einen	ein	14874	False	0				 	
+Wrong Grammar	2	20	3	VER	einen	ein	14874	False	0			ART	 	
 Wrong Disambiguation	1	60	11	VER	eingehen	eingegangen	120980	False	9				 	132811
 Wrong Disambiguation	0	155	7	NOU		Beitrag	120068	False	22				 	2432
 Wrong Disambiguation	1	163	10	VER	beschreiben	beschreibt	119411	False	23				 	14778
 Wrong Entity Form	1	232	7	NPR	Tzvelev	Tzvelev	-1	False	32				 	
 Wrong Recognition	1	191	23	NPR		Steppenquecke Elytrigia	100008316	True	27				 	
-Wrong Grammar	1	244	3	PRO	die	der		True	34				 	
-Wrong Grammar	1	248	6	PRE	unter	untern		True	35				 	
+Wrong Grammar	1	244	3	PRO	die	der		True	34			ART	 	
+Wrong Grammar	1	248	6	PRE	unter	untern		True	35			ADJ	 	
 Wrong Recognition	1	255	9	NOU		Leventina	105109210	True	36				 	
 Wrong Disambiguation	1	287	3	NOU		Art	120732	False	44				 	1138
 Wrong Disambiguation	0	333	8	ADV		zufällig	104364	False	51				 	
@@ -500,7 +500,7 @@ Wrong Entity Form	1	428	9	NPR	Steppenquecke Elytrigia	Elytrigia	100008316	True	6
 Wrong Entity Form	1	464	3	ORG		Syn	101165188	True	70				 	
 Wrong Recognition	1	487	4	NOU		Host	11829	False	75				 	
 Wrong Recognition	1	493	8	NOU		Runemark	100016068	True	77				 	
-Wrong Grammar	1	503	5	ADV	subsp	subsp	-1	False	79				 	
+Wrong Grammar	1	503	5	ADV	subsp	subsp	-1	False	79			NOU	 	
 Wrong Entity Form	1	510	8	ADV	ponticus	ponticus	-1	False	81				 	
 Wrong Disambiguation	0	559	7	ADJ	klein	kleinen	62098	False	93				 	
 Wrong Disambiguation	1	567	7	NOU	Gruppe	Gruppen	550	False	94				 	
@@ -509,7 +509,7 @@ Wrong Disambiguation	0	593	8	VER	verteilen	verteilt	13801	False	98				 
 Missing Concept	0	603	9	ADJ	Ruder	ruderales		True	100				 	
 Wrong Entity Form	1	648	12	NOU	'350/136'900	'350/136'900	-1	False	109				 	
 Wrong Entity Form	1	662	5	GEO		Pozzo	103266850	True	111				 	
-Wrong Grammar	1	691	5	VER	testen	teste	117334	False	117				 	
+Wrong Grammar	1	691	5	VER	testen	teste	117334	False	117			NOU	 	
 Wrong Entity Type	1	697	9	DOC		H. Scholz	103150005	True	118				 	
 Missing Concept	0	784	12	ADV		systematisch	148583	False	130				 	
 Missing Concept	0	829	12	ADJ	vorkommend	vorkommenden		True	136				 	
@@ -525,11 +525,11 @@ Wrong Entity Form	1	1422	2	NPR	E. elongata	E.	6823	True	213				 
 Wrong Entity Form	1	1514	2	NPR	E. elongata	E.	6823	True	227				 	
 Wrong Disambiguation	0	1537	3	ADV		nur	20252	False	231				 	
 Missing Concept	0	1545	6	ADJ	blütig	blütig	-1	False	235				 	
-Wrong Grammar	1	1553	4	NPR	E. elongata	jene	6823	True	237				 	
+Wrong Grammar	1	1553	4	NPR	E. elongata	jene	6823	True	237			PRO	 	
 Wrong Entity Form	1	1562	2	NPR	E. elongata	E.	6823	True	239				 	
 Missing Concept	0	1580	6	ADJ	blütig	blütig	-1	False	244				 	
 Wrong Entity Form	1	1604	9	NPR	Steppenquecke Elytrigia	Elytrigia	100008316	True	249				 	
-Wrong Grammar	1	1690	3	PRO	die	der		True	262				 	
+Wrong Grammar	1	1690	3	PRO	die	der		True	262			ART	 	
 Missing Concept	0	1715	12	ADJ	vorkommend	vorkommenden		True	267				 	
 Missing Concept	0	1734	10	ADJ	Halophile	halophilen		True	269				 	
 Wrong Disambiguation	1	1745	11	NPR		E. elongata	6823	True	270				 	
@@ -537,12 +537,12 @@ Wrong Entity Form	1	1803	9	NPR	Steppenquecke Elytrigia	Elytrigia	100008316	True	
 Wrong Disambiguation	1	1991	4	VER	sein	sind	172056	False	303				 	
 Wrong Disambiguation	0	1997	5	VER	werden	wurde	14301	False	305				 	
 Wrong Disambiguation	0	2013	7	NOU		Bereich	100082794	False	308				 	
-Wrong Grammar	1	2054	12	ADV	durchbrochen	durchbrochen	-1	False	315				 	
+Wrong Grammar	1	2054	12	ADV	durchbrochen	durchbrochen	-1	False	315			VER	 	
 Wrong Disambiguation	1	2073	5	NOU	Art	Arten	120732	False	318				 	
 Wrong Disambiguation	1	2104	7	VER		kreuzen	146087	False	323				 	
 Wrong Disambiguation	1	2134	7	VER		gehören	137769	False	328				 	
 Wrong Disambiguation	1	2156	7	VER	stehen	standen	124179	False	331				 	
-Wrong Grammar	1	2164	4	PRO	all	alle		True	332				 	
+Wrong Grammar	1	2164	4	PRO	all	alle		True	332			ADJ	 	
 Wrong Disambiguation	1	2188	12	NOU	Queckenart	Queckenarten	120732	True	334				 	
 Wrong Entity Form	1	2231	5	NPH	Flora Helvetica	Flora	100215627	True	341				 	
 Wrong Entity Form	1	2247	5	NOU	Tutin	Tutin	-1	False	344				 	
@@ -555,8 +555,8 @@ Wrong Entity Form	1	2423	10	NOU		Hordelymus	101072892	True	379				 
 Wrong Entity Type	1	2467	15	NPH		Flora Helvetica	100215627	True	388				 	
 Wrong Entity Form	1	2484	6	NOU	Laub	Lauber	100882272	False	390				 	
 Wrong Disambiguation	1	2508	8	VER	übernehmen	übernahm	133950	False	395				 	
-Wrong Grammar	1	2606	4	VER	festen	fest	42350	False	410				 	
-Wrong Grammar	1	2612	4	ADJ	tag_numero	Erst		True	412				 	
+Wrong Grammar	1	2606	4	VER	festen	fest	42350	False	410			ADV	 	
+Wrong Grammar	1	2612	4	ADJ	tag_numero	Erst		True	412			ADV	 	
 Wrong Entity Type	1	2645	15	NPH		Flora Helvetica	100215627	True	418				 	
 Wrong Entity Form	1	2662	6	NOU	Laub	Lauber	100882272	False	420				 	
 Wrong Entity Type	1	2775	6	NPR	Valde	Valdes		True	440				 	
@@ -564,10 +564,10 @@ Wrong Entity Type	1	2786	6	NPR	H. Scholz	Scholz		True	442				 
 Wrong Recognition	1	2820	7	ADJ	weit	weitere	43176	False	449				 	
 Wrong Recognition	1	2914	6	VER	finden	findet	14311	False	463		Anwendung finden		 	
 Wrong Entity Form	1	3096	9	NPR	Steppenquecke Elytrigia	Elytrigia	100008316	True	491				 	
-Wrong Grammar	1	3136	8	NOU		Einzelne	569718	False	498				 	
+Wrong Disambiguation	0	3136	8	NOU		Einzelne	569718	False	498				 	
 Wrong Disambiguation	1	3145	5	ADV		davon	130559	False	499				 	
 Wrong Disambiguation	1	3151	5	VER	liegen	lagen	16318	False	500				 	
-Wrong Grammar	1	3199	8	VER	entfernen	entfernt	15105	False	507				 	
+Wrong Grammar	1	3199	8	VER	entfernen	entfernt	15105	False	507			ADV	 	
 Wrong Disambiguation	1	3250	4	PRE		über	596952	False	515				 	
 Wrong Disambiguation	1	3295	9	NOU	Gemeinde	Gemeinden	137931	False	525				 	
 Missing Entity	0	3322	8	NOU	Anzonico	Anzonico	-1	False	531				 	
@@ -590,4 +590,4 @@ Missing Entity	0	3876	13	NOU	Information	Informationen	24565	False	623				 
 Wrong Disambiguation	0	4000	13	NOU	Rückmeldung	Rückmeldungen	135454	False	643				 	
 Wrong Entity Type	0	4044	31	BLD	Naturhistorisches Museum Lugano	Naturhistorischen Museum Lugano	100033506	True	649				 	
 Wrong Entity Form	0	4077	2	NPR	N.	N.	-1	False	651				 	
-Wrong Grammar	1	4080	13	ADV	Schönenberger	Schönenberger	-1	False	652				 	
+Wrong Grammar	1	4080	13	ADV	Schönenberger	Schönenberger	-1	False	652			NPH	 	

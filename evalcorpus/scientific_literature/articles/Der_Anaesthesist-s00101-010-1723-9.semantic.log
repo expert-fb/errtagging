@@ -499,7 +499,7 @@ Missing Entity	0	119	3	NPR	LQT	LQT	-1	False	0				 
 Wrong Entity Type	0	174	2	NPR		QT	100422293	True	0				 	
 Wrong Entity Type	0	228	2	NPR		QT	100422293	True	0				 	
 Wrong Disambiguation	1	270	17	NOU		Routinebehandlung	120424	True	0				 	3242
-Wrong Grammar	1	299	3	PRO	das	Das		False	0				 	
+Wrong Grammar	1	299	3	PRO	das	Das		False	0			ART	 	
 Wrong Entity Type	1	307	7	NPR	Charbit	Charbit	-1	False	0				 	
 Wrong Recognition	1	318	2	NOU		al	100101497	False	0				 	
 Missing Concept	0	326	14	ADV	vorgeschlagen	vorgeschlagene		False	0				 	
@@ -514,9 +514,9 @@ Wrong Entity Form	1	596	8	ADJ	informed	informed	-1	False	0				 
 Wrong Recognition	1	614	5	VER	liegen	liegt	16318	False	0		vorliegen		 	165973
 Missing Concept	0	641	10	ADJ	erworben	erworbenem	588859	False	0				 	
 Missing Entity	0	652	3	NPR	LQT	LQT	-1	False	0				 	
-Wrong Grammar	0	706	12	ADV	engmaschig	engmaschiges		False	0				 	
+Wrong Grammar	0	706	12	ADV	engmaschig	engmaschiges		False	0			ADJ	 	
 Wrong Disambiguation	0	723	4	PRE		über	98894	False	0				 	
-Wrong Grammar	1	765	7	ADJ		einfach	56999	False	0				 	
+Wrong Grammar	1	765	7	ADJ		einfach	56999	False	0			ADV	 	
 Missing Concept	0	773	16	ADJ	durchzuführend	durchzuführendes		False	0				 	
 Wrong Entity Type	0	805	2	NPR		QT	100422293	True	0				 	
 Wrong Disambiguation	1	819	10	VER	einsetzen	eingesetzt	16415	False	0				 	16416
@@ -541,7 +541,7 @@ Wrong Disambiguation	1	1265	3	VER	sein	ist	12562	False	0				 	13140
 Wrong Disambiguation	1	1386	6	NOU	Form	Formen	146	False	0				 	
 Wrong Entity Type	0	1426	2	NPR		QT	100422293	True	0				 	
 Wrong Recognition	1	1468	5	VER	liegen	liegt	16338	False	0		zugrunde liegen		 	13121
-Wrong Grammar	1	1474	4	PRO	ein	eine		False	0				 	
+Wrong Grammar	1	1474	4	PRO	ein	eine		False	0			ART	 	
 Missing Concept	0	1503	13	ADJ	ventrikulärer	ventrikulärer	-1	False	0				 	
 Missing Concept	0	1597	13	ADJ	ventrikulärer	ventrikulärer	-1	False	0				 	
 Wrong Entity Type	0	1651	3	NPR		TdP	101190554	True	0				 	
@@ -555,7 +555,7 @@ Missing Concept	0	2081	10	NOU		Management	68994	False	362				 
 Missing Entity	0	2110	3	NPR	LQT	LQT	-1	False	366				 	
 Wrong Disambiguation	0	2122	6	VER	darstellen	stellt	14778	False	369				 	
 Missing Concept	0	2275	7	NOU	TdP-Typ	TdP-Typ	-1	False	389				 	
-Wrong Grammar	1	2326	4	PRO	kein	kein	-1	False	398				 	
+Wrong Grammar	1	2326	4	PRO	kein	kein	-1	False	398			ADJ	 	
 Missing Concept	0	2453	12	ADJ	ventrikuläre	ventrikuläre	-1	False	418				 	
 Missing Concept	0	2482	7	NOU	TdP-Typ	TdP-Typ	-1	False	421				 	
 Missing Concept	0	2550	11	NOU	Management	Managements	68994	False	436				 	
@@ -569,7 +569,7 @@ Missing Concept	0	2871	7	NOU	TdP-Typ	TdP-Typ	-1	False	473				 
 Missing Entity	0	2896	28	NOU	Implantierbares-Kardioverter	Implantierbares-Kardioverter	-1	False	477				 	
 Wrong Disambiguation	2	2946	16	NOU		Zweikammersystem	100189445	False	484				 	
 Wrong Entity Type	0	2981	3	NPR		TdP	101190554	True	488				 	
-Wrong Grammar	2	3144	3	VER	einen	ein	14874	False	510				 	
+Wrong Grammar	2	3144	3	VER	einen	ein	14874	False	510			ART	 	
 Missing Concept	1	3243	17	NOU		Metoprololtartrat	1652	True	522				 	
 Wrong Disambiguation	1	3324	6	NOU		System	100058778	False	536				 	2786
 Wrong Disambiguation	1	3366	4	ADJ	alt	alte	123120	False	542				 	123122
@@ -579,7 +579,7 @@ Wrong Disambiguation	1	3433	18	NOU		Lendenwirbelkörper	15050	True	552				 
 Missing Concept	1	3466	13	NOU		Dekompression	32753	False	558				 	
 Wrong Disambiguation	0	3558	13	ADJ	schizophren	schizophrenen	155747	False	568				 	155746
 Wrong Entity Type	0	3710	2	NPR		QT	100422293	True	587				 	
-Wrong Grammar	1	3728	9	ADJ		bestanden	123120	False	592				 	
+Wrong Grammar	1	3728	9	ADJ		bestanden	123120	False	592			VER	 	
 Wrong Disambiguation	1	3862	15	NOU		Serumkaliumwert	2493	True	611				 	
 Wrong Entity Form	1	3906	3	ADV	4,2	4,2	-1	False	616				 	
 Missing Concept	0	3993	14	ADJ	interskalenäre	interskalenäre	-1	False	633				 	
@@ -590,18 +590,18 @@ Missing Concept	0	4146	12	ADJ	balanciert	balancierter		True	651				 
 Wrong Disambiguation	1	4179	9	VER	behandeln	behandelt	14780	False	653				 	
 Wrong Disambiguation	1	4206	9	VER	erhalten	erhielten	13881	False	657				 	
 Wrong Disambiguation	1	4301	17	NOU		Narkoseeinleitung	17713	True	670				 	
-Wrong Grammar	2	4319	3	ADV		bis	28941	False	671				 	
+Wrong Grammar	2	4319	3	ADV		bis	28941	False	671			PRE	 	
 Wrong Disambiguation	1	4327	9	NOU		Verlegung	103806	False	673				 	
 Wrong Disambiguation	1	4375	21	NOU	Kanal-EKG-Ableitung	Kanal-EKG-Ableitungen	501031	True	680				 	
 Wrong Disambiguation	1	4412	9	ADV	hierdurch	Hierdurch	54847	False	683				 	
-Wrong Grammar	1	4438	3	PRO	die	die	-1	False	688				 	
+Wrong Grammar	1	4438	3	PRO	die	die	-1	False	688			ART	 	
 Missing Concept	0	4465	15	ADJ	implementiert	implementierten		True	692				 	
 Wrong Disambiguation	1	4523	2	COM		GE	175700	False	698				 	
 Wrong Entity Type	0	4573	2	NPR		QT	100422293	True	709				 	
-Wrong Grammar	1	4592	5	PRO	sein	seine		True	713				 	
-Wrong Grammar	1	4610	19	VER	Frequenzkorrigieren	frequenzkorrigierte	14897	True	716				 	
-Wrong Grammar	1	4672	2	PRE	zu	zu	-1	False	726				 	
-Wrong Grammar	2	4675	10	ADJ	überwach	überwachen	99544	False	727				 	
+Wrong Grammar	1	4592	5	PRO	sein	seine		True	713			ADJ	 	
+Wrong Grammar	1	4610	19	VER	Frequenzkorrigieren	frequenzkorrigierte	14897	True	716			ADJ	 	
+Wrong Grammar	1	4672	2	PRE	zu	zu	-1	False	726			CON	 	
+Wrong Grammar	2	4675	10	ADJ	überwach	überwachen	99544	False	727			VER	 	
 Wrong Disambiguation	1	4690	5	VER	werden	wurde	167036	False	730				 	
 Missing Concept	0	4700	12	NPR	Normothermie	Normothermie	-1	False	732				 	
 Missing Concept	0	4807	7	NOU	QT-Zeit	QT-Zeit	-1	False	749				 	

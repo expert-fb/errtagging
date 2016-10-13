@@ -403,28 +403,28 @@ Wrong Entity Form	1	524	5	NOU		Union	118656	False	84				 
 Wrong Entity Type	1	563	4	WRK		UICC	1954	True	90				 	
 Missing Concept	1	590	12	ADJ	regelmäßig	regelmäßigen	82518	False	95				 	98793
 Wrong Disambiguation	1	603	9	NOU	Abstand	Abständen	2317	False	96				 	
-Wrong Grammar	1	668	9	ADJ		angepasst	21221	False	105				 	
+Wrong Grammar	1	668	9	ADJ		angepasst	21221	False	105			VER	 	
 Wrong Entity Type	1	689	4	WRK		UICC	1954	True	109				 	
 Wrong Disambiguation	1	706	3	NPR		TNM	100034770	True	113				 	
 Wrong Disambiguation	1	710	14	NOU		Klassifikation	101744628	False	115				 	
 Wrong Disambiguation	1	736	13	VER	herausgeben	herausgegeben	84528	False	118				 	
 Wrong Entity Form	1	791	8	NOU	American	American	-1	False	128				 	
-Wrong Grammar	1	861	6	PRO	dies	dieser		True	140				 	
+Wrong Grammar	1	861	6	PRO	dies	dieser		True	140			ADJ	 	
 Wrong Disambiguation	1	966	3	NPR		TNM	100034770	True	153				 	
 Missing Concept	1	991	12	NOU		Goldstandard	100173509	False	158				 	
 Wrong Disambiguation	1	1057	14	NOU		Klassifikation	101744628	False	167				 	
 Wrong Disambiguation	1	1112	8	VER	bestimmen	bestimmt	135715	False	173				 	16083
-Wrong Grammar	1	1121	3	PRO	die	die	-1	False	174				 	
-Wrong Grammar	1	1248	14	NOU	überarbeiteten	überarbeiteten	-1	False	193				 	
+Wrong Grammar	1	1121	3	PRO	die	die	-1	False	174			ART	 	
+Wrong Grammar	1	1248	14	NOU	überarbeiteten	überarbeiteten	-1	False	193			ADJ	 	
 Wrong Disambiguation	1	1263	7	NOU		Fassung	135372	False	194				 	
 Wrong Disambiguation	1	1413	7	ADJ	gut	bessere	29675	False	219				 	
 Wrong Disambiguation	1	1502	10	NOU	Vergleich	Vergleiche	100199714	False	230				 	
-Wrong Grammar	1	1720	4	VER	weiten	weit	16113	False	257				 	
+Wrong Grammar	1	1720	4	VER	weiten	weit	16113	False	257			ADV	 	
 Wrong Disambiguation	1	1734	3	NPR		TNM	100034770	True	260				 	
 Wrong Disambiguation	1	1738	14	NOU		Klassifikation	101744628	False	262				 	
 Missing Concept	0	1789	16	ADJ	Stadien	stadiengerechten		True	270				 	
 Wrong Disambiguation	1	1845	3	PRO	Therapie	die	3242	False	277				 	
-Wrong Grammar	0	1944	8	PRE	zunächst	zunächst	-1	False	289				 	
+Wrong Grammar	0	1944	8	PRE	zunächst	zunächst	-1	False	289			ADV	 	
 Wrong Disambiguation	1	1966	7	NOU		Schritt	117316	False	292				 	172991
 Wrong Disambiguation	1	1974	8	ADV		vorwärts	166177	False	293				 	
 Wrong Disambiguation	1	2025	3	VER	sein	ist	12562	False	300				 	
@@ -438,7 +438,7 @@ Wrong Disambiguation	1	2193	14	NOU		Klassifikation	101744628	False	332				 
 Wrong Disambiguation	1	2286	4	ADV		wohl	100886	False	342				 	
 Missing Concept	0	2311	19	NOU		Patientenpopulation	152064	True	346				 	
 Wrong Disambiguation	1	2402	16	NOU		Prognosestellung	3451	True	362				 	
-Wrong Grammar	1	2550	2	CON		zu	565251	False	383				 	
+Wrong Grammar	1	2550	2	CON		zu	565251	False	383			PRE	 	
 Wrong Recognition	1	2586	6	VER	fahren	führen	17536	False	387				 	
 Wrong Disambiguation	1	2586	6	VER		führen	136980	False	387				 	137003
 Wrong Disambiguation	1	2629	3	NPR		TNM	100034770	True	394				 	
@@ -448,7 +448,7 @@ Wrong Disambiguation	0	2976	6	NOU	Frage	Fragen	15785	False	443				 
 Wrong Disambiguation	1	3108	9	NOU		Abkürzung	9555	False	460				 	121968
 Wrong Disambiguation	1	3306	8	VER		eingehen	132811	False	487				 	132808
 Wrong Disambiguation	1	3327	14	NOU		Klassifikation	101744628	False	491				 	
-Wrong Grammar	1	3448	9	ADJ	erfordert	erfordert	-1	False	505				 	
+Wrong Grammar	1	3448	9	ADJ	erfordert	erfordert	-1	False	505			VER	 	
 Wrong Disambiguation	1	3480	9	NOU		Erfahrung	39542	False	509				 	
 Wrong Disambiguation	1	3505	8	VER	bedeuten	bedeutet	14805	False	513				 	14815
 Wrong Disambiguation	1	3523	14	NOU		Klassifikation	101744628	False	516				 	

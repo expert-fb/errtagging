@@ -195,7 +195,7 @@ Missing Concept	0	44	11	ADJ	verwendend	verwendende		False	0				 
 Wrong Disambiguation	1	128	9	NOU		Erfindung	4782	False	0				 	
 Wrong Recognition	1	138	6	VER	stellen	stellt	16028	False	0				 	
 Missing Concept	0	199	11	ADJ	verwendend	verwendende		False	0				 	
-Wrong Grammar	1	270	6	VER	bereiten	bereit	17520	False	0				 	
+Wrong Grammar	1	270	6	VER	bereiten	bereit	17520	False	0			ADV	 	
 Wrong Entity Type	1	416	14	ORG		Sensibilisator	116334295	True	0				 	
 Wrong Entity Type	1	436	14	ORG		Sensibilisator	116334295	True	0				 	
 Wrong Disambiguation	1	451	5	VER	zeigen	zeigt	15134	False	0				 	
@@ -205,7 +205,7 @@ Wrong Disambiguation	1	660	7	VER	bestehen	besteht	13082	False	0				 
 Missing Concept	0	677	14	ADJ	substituiert	substituierten		False	0				 	
 Missing Concept	0	710	9	ADJ	verknüpft	verknüpft	-1	False	0				 	
 Wrong Disambiguation	1	753	7	VER	umfassen	umfasst	130655	False	0				 	
-Wrong Grammar	2	776	3	VER	einen	ein	14874	False	0				 	
+Wrong Grammar	2	776	3	VER	einen	ein	14874	False	0			ART	 	
 Wrong Disambiguation	1	802	8	ADJ		parallel	49347	False	0				 	
 Missing Concept	0	822	10	ADJ	angeordnet	angeordnet	-1	False	0				 	
 Wrong Disambiguation	1	934	10	VER	anordnen	angeordnet	16081	False	0				 	
@@ -216,4 +216,4 @@ Wrong Disambiguation	1	1016	6	ADJ	stark	starke	28260	False	0				 
 Wrong Entity Type	1	1085	8	PHO	300 380 	300-380 	100214995	True	0				 	
 Wrong Disambiguation	0	1096	8	VER	aufweisen	aufweist	23894	False	0				 	
 Wrong Disambiguation	2	1233	15	NOU		Absorptionsband	100215380	True	0				 	
-Wrong Grammar	1	1297	4	PRO	ein	eine		False	0				 	
+Wrong Grammar	1	1297	4	PRO	ein	eine		False	0			ART	 	

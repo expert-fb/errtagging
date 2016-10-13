@@ -525,13 +525,13 @@
 SBJ=14:15;SBJ=18:23;SBJ=20:23;OBJ=20:23;SBJ=27:26;OBJ=28:26;SBJ=31:32;OBJ=35:32;OBJ=40:43;SBJ=45:46;SBJ=49:54;OBJ=53:54;SBJ=62:57;CPL=82:57;SBJ=105:106;SBJ=108:113;CPL=109:113;SBJ=121:120;SBJ=121:128;SBJ=138:137;OBJ=157:158;SBJ=162:165;OBJ=188:190;SBJ=192:196;OBJ=193:196;OBJ=200:202;OBJ=209:210;SBJ=213:216;OBJ=212:216;SBJ=219:218;SBJ=223:224;SBJ=249:247;OBJ=251:247;OBJ=252:247;OBJ=254:247;SBJ=266:270;OBJ=274:270;CPL=275:270;SBJ=296:297;SBJ=304:305;OBJ=306:305;SBJ=309:313;SBJ=309:315;SBJ=317:318;OBJ=317:319;SBJ=322:324;OBJ=323:324;SBJ=333:334;SBJ=337:336;APH=344:339;SBJ=337:341;OBJ=339:341;SBJ=342:347;SBJ=352:351;CPL=359:351;SBJ=362:367;SBJ=364:367;OBJ=368:371;SBJ=374:376;OBJ=375:376;SBJ=388:389;SBJ=394:403;OBJ=402:403;OBJ=402:413;OBJ=416:417;SBJ=419:420;OBJ=422:420;SBJ=434:437;SBJ=402:443;OBJ=442:443;OBJ=402:451;SBJ=455:460;OBJ=459:460;SBJ=462:463;SBJ=466:465;CPL=469:465;SBJ=471:474;OBJ=472:474;OBJ=476:479;APH=206:148;APH=311:296;APH=411:402;APH=425:402;APH=440:402;APH=445:402;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Wrong Recognition	1	0	22	NPR	Prämedikationsqualität	Prämedikationsqualität	-1	False	0				 	
-Wrong Grammar	1	107	13	NPR		Anxiolytische	222	True	0				 	
+Wrong Grammar	1	107	13	NPR		Anxiolytische	222	True	0			ADJ	 	
 Missing Concept	0	218	13	ADJ	anxiolytische	anxiolytische	-1	False	0				 	
 Missing Concept	0	311	13	ADJ	anxiolytische	anxiolytische	-1	False	0				 	
 Wrong Disambiguation	1	392	6	NOU		Arbeit	3643	False	0				 	100386724
 Wrong Entity Type	1	403	5	GEO		Paris	12974450	False	0				 	
 Wrong Recognition	1	412	2	NOU		al	100101497	False	0				 	
-Wrong Grammar	1	457	3	PRO	die	der		False	0				 	
+Wrong Grammar	1	457	3	PRO	die	der		False	0			ART	 	
 Wrong Disambiguation	1	487	13	NOU		Placebogruppe	8214	True	0				 	
 Wrong Disambiguation	1	501	8	VER	finden	gefunden	12868	False	0				 	
 Wrong Disambiguation	1	596	3	ADV		nur	20252	False	0				 	
@@ -550,7 +550,7 @@ Wrong Entity Type	1	1427	5	GEO		Paris	12974450	False	0				 
 Wrong Recognition	1	1436	2	NOU		al	100101497	False	0				 	
 Wrong Entity Type	1	1585	5	GEO		Paris	12974450	False	0				 	
 Wrong Recognition	1	1594	2	NOU		al	100101497	False	0				 	
-Wrong Grammar	1	1617	4	ADV		noch	74484	False	0				 	
+Wrong Grammar	1	1617	4	ADV		noch	74484	False	0			CON	 	
 Wrong Recognition	1	1714	5	VER	kommen	kommt	596963	False	0		hinzukommen		 	141916
 Missing Concept	0	1874	13	NOU		Halbwertszeit	100047270	False	0				 	
 Missing Concept	0	2069	10	ADJ	sedierend	sedierende		True	342				 	
@@ -560,34 +560,34 @@ Wrong Disambiguation	0	2203	7	ADJ	gewiss	gewisse	120473	False	361				 	48818
 Wrong Disambiguation	1	2220	6	ADV		darauf	32207	False	363				 	
 Wrong Disambiguation	1	2247	13	ADJ		dosisabhängig	95000	True	368				 	
 Wrong Disambiguation	1	2304	7	VER	scheinen	scheint	117664	False	388				 	
-Wrong Grammar	1	2325	7	NOU	alters-	alters-	-1	False	391				 	
+Wrong Grammar	1	2325	7	NOU	alters-	alters-	-1	False	391			ADJ	 	
 Wrong Disambiguation	1	2389	8	VER		bekommen	13972	False	398				 	18053
 Wrong Recognition	1	2642	7	ADJ	eng	engeren	158268	False	437		im engeren Sinn(e)	ADV	 	
-Wrong Grammar	1	2689	3	PRO	der	des		True	445				 	
+Wrong Grammar	1	2689	3	PRO	der	des		True	445			ART	 	
 Wrong Recognition	1	2694	8	ADJ	educated	educated	-1	False	447				 	
-Wrong Grammar	1	2772	8	PRO	viel	mehreren		True	458				 	
+Wrong Grammar	1	2772	8	PRO	viel	mehreren		True	458			ADJ	 	
 Wrong Disambiguation	1	2781	7	ADJ	eigen	eigenen	80137	False	459				 	
 Missing Concept	0	2839	10	ADJ	sedierend	Sedierende		True	474				 	
-Wrong Grammar	0	2878	9	ADJ	stark	stärksten	93060	False	480				 	
+Wrong Grammar	0	2878	9	ADJ	stark	stärksten	93060	False	480			ADV	 	
 Missing Concept	0	2966	10	ADJ	sedierend	sedierende		True	493				 	
 Missing Concept	0	3000	10	ADJ	sedierend	sedierende		True	498				 	
 Wrong Disambiguation	1	3082	6	ADJ		unklar	63812	False	509				 	35074
 Wrong Disambiguation	1	3093	3	VER	sein	ist	172056	False	512				 	
 Wrong Disambiguation	1	3097	10	VER	annehmen	anzunehmen	133950	False	513				 	
 Wrong Disambiguation	1	3133	7	ADJ	gewiss	gewisse	120475	False	519				 	120473
-Wrong Grammar	1	3167	14	NPR	Hämodynamische	Hämodynamische	-1	False	523				 	
+Wrong Grammar	1	3167	14	NPR	Hämodynamische	Hämodynamische	-1	False	523			ADJ	 	
 Wrong Disambiguation	1	3228	7	NOU	Gruppe	Gruppen	8214	False	531				 	
 Missing Concept	0	3253	14	ADJ	hämodynamische	hämodynamische	-1	False	533				 	
 Wrong Disambiguation	1	3287	3	VER	kommen	kam	596963	False	537				 	13136
-Wrong Grammar	2	3318	3	VER	garen	gar	17447	False	543				 	
+Wrong Grammar	2	3318	3	VER	garen	gar	17447	False	543			ADV	 	
 Wrong Disambiguation	1	3322	5	ADJ		vital	42619	False	544				 	165594
 Wrong Disambiguation	1	3386	10	NOU		Vasoaktiva	100046737	True	553				 	
-Wrong Grammar	1	3421	6	PRO	sein	seiner		True	557				 	
+Wrong Grammar	1	3421	6	PRO	sein	seiner		True	557			ADJ	 	
 Missing Concept	1	3435	15	ADJ		atemdepressiven	130898	True	559				 	
 Wrong Recognition	0	3473	15	NPR	Midazolamgruppe	Midazolamgruppe	-1	False	565				 	
 Wrong Disambiguation	1	3489	4	PRE		nach	562278	False	566				 	
-Wrong Grammar	1	3515	5	PRO	ein	einem		True	570				 	
-Wrong Grammar	0	3558	8	ADJ		klinisch	62308	False	576				 	
+Wrong Grammar	1	3515	5	PRO	ein	einem		True	570			ART	 	
+Wrong Grammar	0	3558	8	ADJ		klinisch	62308	False	576			ADV	 	
 Wrong Disambiguation	1	3580	6	NOU		Abfall	562172	False	578				 	499329
 Wrong Disambiguation	1	3591	25	NOU	Sauerstoffsättigungswert	Sauerstoffsättigungswerte	13523	True	580				 	
 Wrong Disambiguation	1	3655	6	NOU		Abfall	562172	False	587				 	
@@ -602,7 +602,6 @@ Wrong Entity Type	1	3937	4	PRD		PONV	100412221	True	636				 
 Wrong Disambiguation	0	4062	4	ADV	auch	Auch	173912	False	661				 	
 Missing Concept	1	4140	2	NOU		vs	102409	False	670				 	
 Wrong Disambiguation	0	4189	7	ADJ	breit	breiten	30148	False	678				 	30158
-Wrong Grammar	1	4220	3	PRO	der	dem		True	682				 	
 Missing Concept	0	4228	16	ADJ	kardioprotektive	kardioprotektive	-1	False	684				 	
 Missing Concept	0	4263	7	NPR	Outcome	Outcome	-1	False	687				 	
 Wrong Disambiguation	1	4286	5	VER	stehen	steht	124179	False	690				 	
@@ -611,6 +610,6 @@ Wrong Disambiguation	0	4330	12	ADJ	unschlagbar	unschlagbare	100538	False	696				
 Wrong Disambiguation	0	4470	3	ADV		nur	20252	False	717				 	
 Wrong Recognition	2	4516	3	NOU		Fuß	100015807	False	724				 	
 Missing Concept	0	4656	13	ADJ	anxiolytische	anxiolytische	-1	False	743				 	
-Wrong Grammar	1	4682	3	PRO	der	die		True	746				 	
+Wrong Grammar	1	4682	3	PRO	der	die		True	746				 	ART
 Wrong Disambiguation	1	4731	10	NOU		Hauptrolle	139914	False	751				 	100947546
 Wrong Disambiguation	1	4745	7	VER		spielen	173579	False	753				 	

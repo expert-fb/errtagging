@@ -521,10 +521,10 @@ Missing Concept	0	55	19	NOU	Wassereinlagerung	Wassereinlagerungen	122942	True	0	
 Wrong Disambiguation	1	327	13	ADJ	geschwollen	geschwollenes	29646	False	66				 	
 Wrong Disambiguation	1	382	6	NOU		Gewebe	173412	False	73				 	100040397
 Wrong Disambiguation	1	476	6	VER		können	12879	False	91				 	
-Wrong Grammar	1	483	2	ADV		je	59451	False	92				 	
+Wrong Grammar	1	483	2	ADV		je	59451	False	92			PRE	 	
 Wrong Disambiguation	1	590	7	ADJ	leicht	Leichte	67034	False	104				 	119442
 Wrong Disambiguation	1	617	6	VER		lassen	17365	False	106				 	146725
-Wrong Grammar	0	670	5	ADV	alt	alten		True	113				 	
+Wrong Grammar	0	670	5	ADV	alt	alten		True	113			ADJ	 	
 Wrong Disambiguation	1	708	10	VER		entwässern	95132	False	118				 	134127
 Wrong Disambiguation	1	817	9	VER		verlieren	173478	False	137				 	
 Missing Concept	0	903	19	NOU	Wassereinlagerung	Wassereinlagerungen	122942	True	150				 	
@@ -534,10 +534,10 @@ Wrong Disambiguation	1	990	6	NOU		Gewebe	1858	False	162				 
 Wrong Disambiguation	1	1037	3	PRO	Herz	was	2234	False	170				 	
 Wrong Disambiguation	0	1128	6	ADJ	lang	langes	66152	False	187				 	
 Wrong Recognition	1	1135	6	NOU	Sitz	Sitzen	812	False	188				 	
-Wrong Grammar	1	1162	2	PRE	zu	zu	-1	False	192				 	
+Wrong Grammar	1	1162	2	PRE	zu	zu	-1	False	192			ADV	 	
 Wrong Disambiguation	1	1215	5	ADJ	hoch	hohen	141976	False	202				 	
 Wrong Disambiguation	0	1232	8	NOU		Diabetes	33312	False	205				 	
-Wrong Grammar	1	1278	3	CON	als	Als		True	212				 	
+Wrong Grammar	1	1278	3	CON	als	Als		True	212			PRE	 	
 Missing Concept	0	1499	19	NOU	Wassereinlagerung	Wassereinlagerungen	122942	True	240				 	
 Missing Concept	1	1564	17	ADJ		zugrundeliegenden	26488	True	249				 	
 Wrong Disambiguation	1	1582	11	NOU	Beschwerde	Beschwerden	118542	False	250				 	
@@ -550,7 +550,7 @@ Missing Concept	1	1955	13	ADJ	entsprechend	entsprechende	30064	False	305				 	83
 Missing Concept	0	2068	19	NOU	Wassereinlagerung	Wassereinlagerungen	122942	True	320				 	
 Wrong Disambiguation	0	2136	7	NOU	Körper	Körpers	15052	False	332				 	
 Wrong Disambiguation	1	2145	5	VER	helfen	hilft	14056	False	334				 	
-Wrong Grammar	1	2155	5	PRO	etwas	etwas	-1	False	337				 	
+Wrong Grammar	1	2155	5	PRO	etwas	etwas	-1	False	337			ADJ	 	
 Wrong Disambiguation	1	2303	12	NOU		Entwässerung	60355	False	358				 	
 Wrong Disambiguation	1	2401	9	VER	behandeln	behandelt	14781	False	375				 	
 Wrong Disambiguation	1	2416	5	VER	einnehmen	nimmt	14122	False	378				 	
@@ -574,9 +574,9 @@ Wrong Disambiguation	1	3149	8	ADJ	leicht	leichten	67034	False	490				 
 Wrong Disambiguation	0	3231	9	ADV		natürlich	89692	False	500				 	
 Wrong Disambiguation	0	2895	9	ADV		natürlich	89692	False	450				 	
 Wrong Disambiguation	1	3241	6	VER		heilen	15573	False	501				 	
-Wrong Grammar	1	3267	4	PRO	ein	Eine		True	506				 	
-Wrong Grammar	1	3273	14	ADV	professionell	professionelle		True	508				 	
-Wrong Grammar	1	3324	2	PRE	um	um	-1	False	517				 	
+Wrong Grammar	1	3267	4	PRO	ein	Eine		True	506			ART	 	
+Wrong Grammar	1	3273	14	ADV	professionell	professionelle		True	508			ADJ	 	
+Wrong Grammar	1	3324	2	PRE	um	um	-1	False	517			CON	 	
 Wrong Disambiguation	1	3353	9	VER		behandeln	14116	False	522				 	
 Wrong Disambiguation	1	3413	5	ADV		sanft	592189	False	531				 	
 Missing Concept	0	3422	10	ADJ	kreisend	kreisenden		True	533				 	

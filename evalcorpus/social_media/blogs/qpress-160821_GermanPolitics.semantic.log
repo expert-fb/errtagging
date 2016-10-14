@@ -382,10 +382,10 @@
 
 SBJ=0:1;SBJ=9:14;OBJ=12:14;CPL=13:14;TRM=11:14;SBJ=17:16;OBJ=22:16;SBJ=26:29;OBJ=27:29;SBJ=26:36;SBJ=37:38;SBJ=26:44;SBJ=50:51;SBJ=54:58;SBJ=66:67;OBJ=70:67;SBJ=72:75;OBJ=74:75;SBJ=89:88;SBJ=100:101;CPL=107:108;SBJ=95:113;OBJ=111:113;SBJ=119:120;SBJ=127:128;OBJ=129:128;APH=132:129;SBJ=129:135;CPL=139:135;SBJ=145:143;SBJ=151:153;APH=159:156;SBJ=-49:164;OBJ=162:164;SBJ=168:170;SBJ=-52:179;SBJ=186:185;OBJ=187:185;SBJ=197:200;OBJ=194:200;SBJ=207:206;OBJ=210:206;APH=214:212;SBJ=212:216;OBJ=215:216;SBJ=222:223;SBJ=-52:240;SBJ=246:251;OBJ=249:251;SBJ=253:254;SBJ=253:258;SBJ=-52:267;SBJ=271:272;SBJ=271:276;SBJ=286:288;CPL=287:288;SBJ=290:291;SBJ=294:295;SBJ=302:304;CPL=303:304;SBJ=309:308;OBJ=315:308;CPL=323:321;SBJ=320:327;SBJ=333:334;OBJ=332:334;SBJ=343:340;OBJ=344:340;SBJ=349:352;OBJ=350:352;APH=112:95;APH=269:212;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	1	10	6	VER	sichern	sicher	120275	False	0				 	
-Wrong Grammar	1	36	7	ADJ		maximal	52730	False	0				 	
+Wrong Grammar	1	10	6	VER	sichern	sicher	120275	False	0			ADJ	 	
+Wrong Grammar	1	36	7	ADJ		maximal	52730	False	0			ADV	 	
 Wrong Disambiguation	0	133	10	VER		vermitteln	164567	False	0				 	
-Wrong Grammar	1	172	2	ADV		zu	168349	False	0				 	
+Wrong Grammar	1	172	2	ADV		zu	168349	False	0			PRE	 	
 Wrong Recognition	1	196	19	NOU	Schindluder treiben	Schindluder treiben	-1	False	0				 	
 Wrong Disambiguation	1	383	5	ADV		dafür	39724	False	0				 	
 Wrong Disambiguation	1	445	3	VER	haben	hat	125724	False	0				 	14364
@@ -403,11 +403,11 @@ Missing Concept	1	1467	7	VER		anlegen	14628	False	0				 
 Missing Entity	0	1478	4	NOU		N-TV	100000289	True	0				 	
 Wrong Disambiguation	1	1485	3	PRO	N-TV	was	100000289	True	0				 	
 Wrong Disambiguation	1	1511	8	VER		bedeuten	14833	False	0				 	
-Wrong Grammar	1	1562	5	NOU	Rede	Reden	10453	False	0				 	
+Wrong Grammar	1	1562	5	NOU	Rede	Reden	10453	False	0			VER	 	
 Wrong Recognition	1	1605	9	PRE		im Innern	588977	False	0				 	
 Missing Concept	0	1620	8	VER	zitieren	zitieren	-1	False	0				 	
-Wrong Grammar	2	1629	3	VER	malen	mal	147899	False	0				 	
-Wrong Grammar	1	1650	4	ADV	laut	Laut	596261	False	0				 	
+Wrong Grammar	2	1629	3	VER	malen	mal	147899	False	0			ADV	 	
+Wrong Grammar	1	1650	4	ADV	laut	Laut	596261	False	0			PRE	 	
 Missing Entity	2	1656	3	VER	fasen	FAS	41559	False	0				 	
 Wrong Disambiguation	1	1661	7	VER	handeln	handelt	15281	False	0				 	15327
 Missing Concept	1	1827	7	VER	geben	gegeben	13201	False	0		in Auftrag geben		 	
@@ -415,7 +415,7 @@ Wrong Disambiguation	1	1853	6	NOU	Seite	Seiten	1979	False	0				 
 Wrong Disambiguation	0	1860	6	ADJ	lang	langen	139010	False	0				 	
 Wrong Disambiguation	1	1937	3	GEO	Deutschland	der	12907079	False	0				 	
 Missing Concept	0	2104	16	ADJ	auszuschließend	auszuschließende		False	0				 	
-Wrong Grammar	1	2296	7	ADV	andere	anderes		False	0				 	
+Wrong Grammar	1	2296	7	ADV	andere	anderes		False	0			PRO	 	
 Wrong Disambiguation	1	2322	8	NOU		Programm	2988	False	0				 	
 Wrong Disambiguation	0	2408	5	NOU		Frage	15785	False	395				 	
 Wrong Disambiguation	0	2435	4	ADV		noch	74484	False	401				 	
@@ -424,8 +424,8 @@ Wrong Disambiguation	1	2590	8	ADJ		kritisch	64966	False	429				 
 Missing Concept	0	2665	10	ADJ	garantiert	garantiert	-1	False	442				 	
 Wrong Disambiguation	0	2732	2	ADV		so	130436	False	452				 	
 Wrong Disambiguation	1	2754	8	VER	werden	geworden	167036	False	455				 	
-Wrong Grammar	1	2814	5	PRO	ein	einem		True	465				 	
-Wrong Grammar	0	2821	11	ADJ		ausländisch	25124	False	467				 	
+Wrong Grammar	1	2814	5	PRO	ein	einem		True	465			ART	 	
+Wrong Grammar	0	2821	11	ADJ		ausländisch	25124	False	467			ADV	 	
 Wrong Disambiguation	0	2860	4	ADV		eben	90968	False	472				 	
 Wrong Recognition	1	2871	11	NOU		Bankensturm	100012518	True	474				 	
 Wrong Disambiguation	0	2907	10	NOU		Volkssturm	105714	False	480				 	
@@ -433,8 +433,8 @@ Wrong Disambiguation	2	2926	6	NOU	Bank	Banken	4373	False	483				 
 Wrong Disambiguation	1	2980	14	NOU		Notstandsgrund	1651	True	491				 	
 Wrong Entity Type	1	3023	8	NPR	Schäuble	Schäuble	-1	False	495				 	
 Wrong Disambiguation	1	3039	8	VER	arbeiten	arbeitet	16920	False	497				 	
-Wrong Grammar	1	3061	8	VER	vermehren	vermehrt	17763	False	501				 	
-Wrong Grammar	1	3137	9	PRO	dieselbe	dieselben		True	513				 	
+Wrong Grammar	1	3061	8	VER	vermehren	vermehrt	17763	False	501			ADV	 	
+Wrong Grammar	1	3137	9	PRO	dieselbe	dieselben		True	513			ADJ	 	
 Wrong Disambiguation	1	3147	10	ADJ	schlecht	schlechten	102107	False	514				 	
 Wrong Disambiguation	1	3191	4	NOU		Fall	14928	False	519				 	
 Wrong Disambiguation	1	3223	7	VER		fressen	136786	False	525				 	

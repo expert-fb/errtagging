@@ -214,10 +214,10 @@ SBJ=9:13;SBJ=15:18;OBJ=16:18;SBJ=27:22;SBJ=15:24;SBJ=30:32;OBJ=35:32;SBJ=38:43;S
 Wrong Recognition	0	45	14	ADJ		Vorrausgesetzt	562337	True	9				 	12745
 Wrong Disambiguation	1	94	7	NOU		Artikel	741	False	16				 	
 Wrong Disambiguation	1	180	6	NOU		Gebiet	100082794	False	26				 	
-Wrong Grammar	0	102	10	VER	andeuten	angedeutet	123356	False	17				 	
+Wrong Grammar	0	102	10	VER	andeuten	angedeutet	123356	False	17			ADJ	 	
 Wrong Disambiguation	0	76	3	VER	sein	ist		True	12				 	
-Wrong Grammar	0	225	9	NOU	Bimo	Bimodalen		True	34				 	
-Wrong Grammar	1	279	4	ADV		dann	98967	False	41				 	
+Wrong Grammar	0	225	9	NOU	Bimo	Bimodalen		True	34			ADJ	 	
+Wrong Grammar	1	279	4	ADV		dann	98967	False	41			CON	 	
 Wrong Disambiguation	1	284	4	VER	sein	wäre	172056	False	42				 	
 Wrong Disambiguation	0	404	12	NOU	Abweichung	Abweichungen	122633	False	63				 	16020
 Wrong Disambiguation	0	533	4	ADJ		weit	30148	False	80				 	66152
@@ -229,19 +229,19 @@ Wrong Disambiguation	1	724	4	ADJ		viel	173024	False	109				 	173025
 Wrong Disambiguation	1	811	8	PRD		Precrime	100011460	True	123				 	400
 Missing Entity	0	894	8	ADV	razzefaz	razzefaz	-1	False	136				 	
 Wrong Disambiguation	1	963	4	ADV		mehr	70026	False	145				 	
-Wrong Grammar	1	986	4	ADV		dann	98967	False	149				 	
+Wrong Grammar	1	986	4	ADV		dann	98967	False	149			CON	 	
 Missing Concept	0	1004	16	NOU	Super-Recognizer	Super-Recognizer	-1	False	153				 	
 Wrong Disambiguation	1	1034	4	NOU		Welt	100000002	False	158				 	
-Wrong Grammar	1	1069	3	NOU		Gut	762	False	164				 	
-Wrong Grammar	1	1189	4	CON	doch	doch	-1	False	183				 	
-Wrong Grammar	1	1200	13	NPR	1,6 Millionen	1,6 Millionen	-1	False	186				 	
+Wrong Grammar	1	1069	3	NOU		Gut	762	False	164			ADJ	 	
+Wrong Grammar	1	1189	4	CON	doch	doch	-1	False	183			ADV	 	
+Wrong Grammar	1	1200	13	NPR	1,6 Millionen	1,6 Millionen	-1	False	186	ADJ			 	
 Wrong Disambiguation	1	1223	7	NOU	Talent	Talente	1981	False	188				 	
 Wrong Disambiguation	1	1270	6	VER		werden	167036	False	195				 	
 Wrong Disambiguation	1	1285	6	VER	sollen	sollte	148995	False	198				 	
 Wrong Disambiguation	1	1330	6	ADV		wieder	74486	False	203				 	
 Wrong Disambiguation	1	1359	7	VER		berufen	128768	False	207				 	
 Wrong Disambiguation	1	1472	3	VER	sein	bin	172056	False	225				 	
-Wrong Grammar	0	1529	10	ADV	allerdings	Allerdings	107105	False	234				 	
+Wrong Disambiguation	0	1529	10	ADV	allerdings	Allerdings	107105	False	234				 	10252
 Wrong Recognition	1	1582	6	ADV		schwer	590460	False	244		schwer tun	VER	 	18079
 Wrong Disambiguation	1	1646	4	VER	gehen	geht	14248	False	256				 	
 Wrong Disambiguation	1	1668	9	VER		verlieren	164493	False	260				 	

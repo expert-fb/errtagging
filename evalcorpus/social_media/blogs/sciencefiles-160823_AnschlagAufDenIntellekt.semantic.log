@@ -475,7 +475,7 @@ Wrong Entity Form	1	372	18	MMD		Kölner Zeitschrift	12538	True	55				 
 Wrong Entity Type	0	429	5	NPR		KfZSS	100008192	True	61				 	
 Wrong Disambiguation	1	436	9	VER	treffen	getroffen	161325	False	63				 	13955
 Wrong Disambiguation	1	581	5	NOU		Organ	744	False	89				 	
-Wrong Grammar	1	587	3	PRO	der	der	-1	False	90				 	
+Wrong Grammar	1	587	3	PRO	der	der	-1	False	90			ART	 	
 Wrong Recognition	1	591	4	NOU		Junk	100060168	False	91				 	
 Wrong Disambiguation	1	620	7	VER	scheinen	scheint	117664	False	95				 	
 Wrong Recognition	1	704	8	ADJ	weit	weiterer	20396	False	112				 	
@@ -511,18 +511,18 @@ Wrong Disambiguation	1	1934	4	VER	geben	gibt	13134	False	306				 	15231
 Wrong Disambiguation	1	1960	8	VER	aussehen	aussieht	24093	False	313				 	
 Wrong Disambiguation	1	2026	10	VER	hervorgehen	hervorgeht	140979	False	327				 	
 Wrong Disambiguation	1	2092	7	NOU		Bereich	100082794	False	343				 	14176
-Wrong Grammar	0	2100	11	ADV	unbezahlt	unbezahlter		True	344				 	
+Wrong Grammar	0	2100	11	ADV	unbezahlt	unbezahlter		True	344			ADJ	 	
 Wrong Disambiguation	1	2135	8	NPR		Hinweise	14258	True	348			NOU	 	10468
 Wrong Disambiguation	1	2180	4	VER	geben	gibt	13134	False	354				 	15231
-Wrong Grammar	1	2187	5	NOU	Habe	Haben	17334	False	357				 	
-Wrong Grammar	1	2226	4	ADV		auch	23235	False	366				 	
+Wrong Grammar	1	2187	5	NOU	Habe	Haben	17334	False	357			VER	 	
+Wrong Grammar	1	2226	4	ADV		auch	23235	False	366			NOU	 	
 Wrong Disambiguation	1	2277	5	VER		haben	125724	False	376				 	
 Wrong Disambiguation	1	2298	6	VER	haben	hätten	125724	False	380				 	
 Wrong Disambiguation	0	2326	6	NOU		Stelle	482	False	384				 	
 Wrong Disambiguation	1	2337	7	NOU		Lektüre	67366	False	386				 	67281
 Wrong Disambiguation	1	2387	7	VER		gehören	137767	False	393				 	17653
 Wrong Disambiguation	1	2498	9	VER		behaupten	14136	False	412				 	13479
-Wrong Grammar	1	2509	4	ADV		dann	98967	False	414				 	
+Wrong Grammar	1	2509	4	ADV		dann	98967	False	414			CON	 	
 Wrong Disambiguation	1	2535	3	NOU		Tür	100036794	False	419				 	119300
 Wrong Disambiguation	1	2542	12	ADJ	öffentlich	öffentlicher	75309	False	421				 	
 Wrong Disambiguation	1	2577	3	VER	haben	hat	125724	False	426				 	
@@ -531,23 +531,22 @@ Wrong Disambiguation	2	2671	14	NOU		Duisburg-Essen	100746549	True	444				 
 Wrong Entity Type	0	2710	5	NPR		KfZSS	100008192	True	450				 	
 Wrong Disambiguation	1	2739	5	VER	haben	hatte	13090	False	454				 	
 Wrong Disambiguation	1	2778	3	VER		tun	13039	False	460				 	
-Wrong Grammar	1	2857	3	ART	das	das	-1	False	473				 	
+Wrong Grammar	1	2857	3	ART	das	das	-1	False	473			PRO	 	
 Wrong Entity Type	1	2861	10	NPR		Dr. habil.	1981	True	474				 	
 Wrong Disambiguation	1	2894	6	VER		denken	12707	False	478				 	13006
 Wrong Disambiguation	0	2920	4	ADV		aber	575123	False	485				 	
-Wrong Grammar	1	3197	5	PRO	welche	deren		True	529				 	
-Wrong Grammar	1	3254	7	VER	rechen	gerecht	52203	False	534				 	
+Wrong Grammar	1	3254	7	VER	rechen	gerecht	52203	False	534			ADJ	 	
 Wrong Disambiguation	1	3412	3	VER	haben	hat	13090	False	559				 	
 Wrong Disambiguation	1	3457	3	VER		tun	134573	False	566				 	
 Wrong Disambiguation	1	3653	7	ADJ	gut	bessere	139254	False	595				 	
-Wrong Grammar	1	3700	2	PRE	um	um	-1	False	602				 	
-Wrong Grammar	1	3703	8	PRO	dieselbe	dieselbe	-1	False	603				 	
-Wrong Grammar	1	3754	4	ADV		dann	98967	False	613				 	
-Wrong Grammar	1	3809	3	ART	die	die	-1	False	623				 	
+Wrong Grammar	1	3700	2	PRE	um	um	-1	False	602			CON	 	
+Wrong Grammar	1	3703	8	PRO	dieselbe	dieselbe	-1	False	603			ADJ	 	
+Wrong Grammar	1	3754	4	ADV		dann	98967	False	613			CON	 	
+Wrong Grammar	1	3809	3	ART	die	die	-1	False	623			PRO	 	
 Wrong Disambiguation	1	3841	8	NOU	Beitrag	Beiträge	120068	False	626				 	2432
 Wrong Entity Type	0	3857	5	NPR		KfZSS	100008192	True	629				 	
 Wrong Disambiguation	1	3884	4	NOU		Band	100857421	False	634				 	
 Missing Entity	0	3906	4	NOU	Saka	Saka	-1	False	638				 	
-Wrong Grammar	1	3946	4	ADV		dann	98967	False	643				 	
-Wrong Grammar	1	3960	4	PRO	ein	eine		True	646				 	
+Wrong Grammar	1	3946	4	ADV		dann	98967	False	643			CON	 	
+Wrong Grammar	1	3960	4	PRO	ein	eine		True	646			ART	 	
 Wrong Disambiguation	1	3986	4	NOU		Form	146	False	649				 	

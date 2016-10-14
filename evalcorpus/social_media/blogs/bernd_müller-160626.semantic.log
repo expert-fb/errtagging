@@ -372,13 +372,13 @@ Wrong Disambiguation	0	1212	3	ADV		nur	66818	False	195				 
 Wrong Disambiguation	1	1216	6	ADJ		schwer	88806	False	196				 	21930
 Wrong Disambiguation	1	1228	12	VER	festhalten	festzuhalten	14670	False	199				 	
 Wrong Disambiguation	1	1304	10	VER	strampeln	strampelte	54221	False	211				 	
-Wrong Grammar	1	1335	5	ADV		wobei	109826	False	217				 	
+Wrong Grammar	1	1335	5	ADV		wobei	109826	False	217			CON	 	
 Wrong Disambiguation	1	1370	4	VER	treffen	traf	168969	False	223				 	
 Wrong Disambiguation	1	1383	4	VER	davontragen	trug	125419	False	226				 	128037
 Wrong Disambiguation	1	1463	6	VER	ausführen	führte	13039	False	239				 	14778
 Wrong Disambiguation	1	1579	5	VER	werden	werde	167036	False	255				 	14301
-Wrong Grammar	1	1585	22	PRE		in diesem Zusammenhang	588888	False	256				 	
-Wrong Grammar	1	1706	4	PRO	kein	kein	-1	False	276				 	
+Wrong Grammar	1	1585	22	PRE		in diesem Zusammenhang	588888	False	256			ADV	 	
+Wrong Grammar	1	1706	4	PRO	kein	kein	-1	False	276			ADJ	 	
 Wrong Disambiguation	1	2043	3	NOU		Weg	102151613	False	326				 	
 Wrong Disambiguation	1	2047	12	VER	feststellen	festgestellt	12682	False	327				 	12822
 Wrong Disambiguation	1	2188	7	VER	verraten	verriet	164647	False	352				 	162031
@@ -392,7 +392,7 @@ Wrong Disambiguation	0	2350	3	PRO	Erwachsenenstrafrecht	was	566162	False	382				
 Wrong Disambiguation	0	2362	4	NOU		Höhe	100208826	False	385				 	
 Wrong Recognition	1	2418	3	VER	liegen	lag	16318	False	395				 	
 Wrong Disambiguation	1	2426	5	NOU		Sache	1248	False	397				 	
-Wrong Grammar	1	2432	4	VER	aufklaren	klar	125154	False	398				 	
+Wrong Grammar	1	2432	4	VER	aufklaren	klar	125154	False	398			ADV	 	
 Wrong Disambiguation	0	2563	4	ADV		auch	23235	False	424				 	
 Wrong Disambiguation	1	2616	8	VER		ausgehen	14621	False	432				 	
 Missing Concept	0	2672	6	ADV		gerade	90968	False	440				 	

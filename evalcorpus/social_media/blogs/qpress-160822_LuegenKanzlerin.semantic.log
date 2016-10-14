@@ -419,25 +419,25 @@
 SBJ=11:9;OBJ=14:9;APH=18:11;SBJ=11:19;OBJ=22:19;SBJ=32:33;OBJ=31:33;SBJ=35:36;OBJ=40:48;SBJ=54:55;SBJ=62:64;SBJ=72:73;SBJ=-52:79;OBJ=80:79;SBJ=84:83;SBJ=84:87;OBJ=86:87;SBJ=94:91;SBJ=96:97;SBJ=112:115;SBJ=112:118;SBJ=122:125;OBJ=124:125;SBJ=128:130;SBJ=-52:136;OBJ=139:136;SBJ=142:143;OBJ=145:143;APH=150:148;SBJ=148:151;OBJ=148:151;SBJ=148:153;CPL=155:153;APH=158:156;SBJ=156:161;OBJ=159:161;SBJ=165:166;SBJ=169:172;OBJ=170:172;SBJ=169:177;SBJ=169:178;SBJ=180:181;SBJ=186:188;SBJ=200:203;SBJ=202:203;OBJ=202:203;SBJ=200:205;SBJ=202:205;SBJ=208:210;OBJ=209:210;OBJ=213:214;SBJ=218:219;SBJ=223:224;SBJ=227:234;OBJ=229:234;SBJ=236:237;OBJ=238:237;APH=240:238;SBJ=238:243;OBJ=241:243;SBJ=238:244;SBJ=246:250;SBJ=257:261;OBJ=260:261;SBJ=257:267;SBJ=270:273;SBJ=281:283;SBJ=-52:285;OBJ=292:285;SBJ=296:295;CPL=298:295;SBJ=304:306;OBJ=305:306;SBJ=308:309;CPL=312:309;SBJ=324:326;SBJ=-52:330;SBJ=331:333;SBJ=337:338;SBJ=341:342;SBJ=-49:345;OBJ=346:345;SBJ=349:354;SBJ=353:354;OBJ=350:354;SBJ=349:356;SBJ=353:356;OBJ=355:356;SBJ=358:363;OBJ=360:363;SBJ=370:372;SBJ=376:375;SBJ=376:381;SBJ=385:386;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Missing Entity	1	16	6	NOU	Merkel	Merkel	-1	False	2				 	
-Wrong Grammar	1	27	4	PRO	ihr	ihre		True	4				 	
+Wrong Grammar	1	27	4	PRO	ihr	ihre		True	4			ADJ	 	
 Wrong Disambiguation	1	103	12	VER	konfrontieren	konfrontiert	63374	False	13				 	118429
 Wrong Disambiguation	0	144	6	NOU	Zahl	Zahlen	309	False	19				 	14331
 Wrong Disambiguation	1	170	8	ADJ	edel	edelsten	35727	False	24				 	
-Wrong Grammar	1	226	3	PRO	der	der	-1	False	32				 	
+Wrong Grammar	1	226	3	PRO	der	der	-1	False	32			ART	 	
 Wrong Recognition	1	302	8	ADJ	weit	weiteren	40690	False	41		weiter		 	19517
-Wrong Grammar	1	459	6	PRO	dies	dieser		True	62				 	
+Wrong Grammar	1	459	6	PRO	dies	dieser		True	62			ADJ	 	
 Wrong Entity Type	1	507	6	ORG		Merkel	3842	True	67				 	
 Wrong Disambiguation	0	621	7	NOU		Theorie	100017737	False	85				 	
-Wrong Grammar	1	659	9	PRO	ein wenig	ein wenig	-1	False	91				 	
+Wrong Grammar	1	659	9	PRO	ein wenig	ein wenig	-1	False	91			ADV	 	
 Wrong Disambiguation	1	746	9	VER		zutreffen	117841	False	102				 	120929
 Wrong Disambiguation	1	807	4	ADV		eher	35935	False	112				 	
 Wrong Disambiguation	1	828	6	VER	stecken	steckt	93215	False	117				 	
-Wrong Grammar	1	893	3	PRO	der	dem		True	127				 	
+Wrong Grammar	1	893	3	PRO	der	dem		True	127			ART	 	
 Wrong Disambiguation	1	902	8	VER		schaffen	14085	False	130				 	
 Wrong Disambiguation	1	933	4	VER	geben	gibt	13134	False	137				 	
-Wrong Grammar	1	941	7	PRO	viel	mehrere		True	139				 	
+Wrong Grammar	1	941	7	PRO	viel	mehrere		True	139			ADJ	 	
 Wrong Disambiguation	1	1022	8	VER		scheiden	15855	False	152				 	
-Wrong Grammar	1	1036	7	PRE		am Ende	597325	False	154				 	
+Wrong Grammar	1	1036	7	PRE		am Ende	597325	False	154			ADV	 	
 Wrong Disambiguation	1	1065	7	NOU	Geist	Geister	562025	False	158				 	
 Wrong Recognition	1	1255	6	ADJ	weit	weiter	30148	False	188				 	
 Wrong Disambiguation	1	1312	11	VER		realisieren	12699	False	196				 	13125
@@ -452,7 +452,7 @@ Wrong Disambiguation	1	1813	6	VER		lassen	18010	False	282				 
 Wrong Disambiguation	1	1864	14	ADJ		wirtschaftlich	119537	False	292				 	
 Wrong Disambiguation	1	1898	5	VER	zählen	zählt	23917	False	296				 	14832
 Wrong Disambiguation	0	1922	6	NOU		System	100058778	False	300				 	
-Wrong Grammar	1	1930	3	CON	als	Als		True	302				 	
+Wrong Grammar	1	1930	3	CON	als	Als		True	302			PRE	 	
 Wrong Recognition	1	1934	7	ADJ	weit	weitere	43176	False	303				 	
 Wrong Disambiguation	1	1959	10	NOU		Altersberg	100008502	True	307				 	
 Wrong Disambiguation	1	2007	15	NOU		Rentnerschwemme	100212198	True	315				 	
@@ -464,7 +464,7 @@ Wrong Disambiguation	1	2331	12	ADJ	signifikant	signifikante	39296	False	369				 
 Wrong Disambiguation	1	2373	6	NOU	Ebene	Ebenen	976	False	376				 	
 Wrong Disambiguation	1	2383	8	VER		schätzen	17239	False	378				 	
 Missing Concept	1	2392	4	VER	wissen	weiß	12920	False	379				 	
-Wrong Grammar	1	2434	7	PRE		am Ende	597325	False	384				 	
+Wrong Grammar	1	2434	7	PRE		am Ende	597325	False	384			ADV	 	
 Missing Concept	0	2604	9	ADV	annehmbar	annehmbar	-1	False	409				 	
 Wrong Disambiguation	0	2683	5	VER	sehen	siehe	157372	False	421				 	
 Wrong Disambiguation	0	2729	2	ADV		so	130436	False	429				 	
@@ -472,21 +472,21 @@ Wrong Recognition	1	2736	3	VER	tun	tut	13039	False	431				 
 Missing Concept	1	2741	7	VER		bringen	14085	False	433				 	
 Wrong Disambiguation	0	2807	2	ADV		da	54831	False	445				 	
 Wrong Disambiguation	1	2848	9	VER	absehen	Abgesehen	122330	False	453				 	
-Wrong Grammar	0	2858	5	ADV		davon	130559	False	454				 	
+Wrong Grammar	0	2858	5	ADV		davon	130559	False	454			ADV	 	
 Wrong Disambiguation	0	2876	10	ADV		vielleicht	100886	False	458				 	
 Wrong Disambiguation	0	2895	10	VER		ausdrücken	12967	False	461				 	
 Wrong Disambiguation	1	2927	12	NOU		Klassenfrage	15785	True	465				 	15791
 Missing Entity	0	2943	10	ADJ	kritisch	Kritisches	119877	False	468				 	
-Wrong Grammar	1	2965	22	PRE		in diesem Zusammenhang	588888	False	472				 	
+Wrong Grammar	1	2965	22	PRE		in diesem Zusammenhang	588888	False	472			ADV	 	
 Missing Concept	1	3007	2	NPR	Ok	Ok	-1	False	477				 	
-Wrong Grammar	1	3131	3	VER	malen	mal	147899	False	498				 	
+Wrong Grammar	1	3131	3	VER	malen	mal	147899	False	498			ADV	 	
 Wrong Disambiguation	1	3161	2	ADV		so	130436	False	504				 	
 Wrong Disambiguation	1	3209	4	NOU		Welt	5448	False	511				 	
-Wrong Grammar	1	3251	5	NOU	Habe	Haben	17334	False	520				 	
+Wrong Grammar	1	3251	5	NOU	Habe	Haben	17334	False	520			VER	 	
 Wrong Disambiguation	0	3369	8	VER		erwarten	13969	False	541				 	
 Wrong Disambiguation	1	3415	4	VER	gehen	geht	14248	False	549				 	
 Missing Concept	0	3476	8	ADJ	aktuell	aktuelle	110907	False	561				 	
 Wrong Disambiguation	1	3485	9	NOU		Bezahlung	2209	False	562				 	
 Wrong Recognition	1	3499	7	ADJ	spät	spätere	118208	False	564				 	
-Wrong Grammar	1	3592	6	PRO	dies	dieser		True	578				 	
-Wrong Grammar	1	3642	4	ADV		klar	89692	False	582				 	
+Wrong Grammar	1	3592	6	PRO	dies	dieser		True	578			ADJ	 	
+Wrong Grammar	1	3642	4	ADV		klar	89692	False	582			ADJ	 	

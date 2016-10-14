@@ -634,14 +634,14 @@ Missing Entity	1	247	9	NOU	Airberlin	AirBerlin	12936154	True	35				 
 Wrong Recognition	1	276	4	NPH	Ijob	Jobs	100179962	False	39				 	
 Wrong Disambiguation	1	281	9	VER		streichen	159839	False	40				 	
 Wrong Entity Type	0	302	2	MMD	Süddeutsche Zeitung	SZ	100158870	False	45				 	
-Wrong Grammar	0	380	4	ADJ	fürn	fürn	-1	False	52				 	
+Wrong Grammar	0	380	4	ADJ	fürn	fürn	-1	False	52			PRE	 	
 Missing Entity	1	456	9	NOU	Airberlin	AirBerlin	12936154	True	65				 	
 Missing Concept	0	482	10	NOU	Stewardess	Stewardess	-1	False	69				 	
 Missing Entity	1	498	9	NOU	Airberlin	AirBerlin	12936154	True	72				 	
 Wrong Disambiguation	1	509	3	PRO	Airberlin	die	12936154	True	74				 	
 Wrong Disambiguation	1	532	3	PRO	Namensschild	die	149670	False	78				 	
-Wrong Grammar	1	591	6	NOU		Schade	116152	False	88				 	
-Wrong Grammar	1	598	2	CON	um	um	-1	False	89				 	
+Wrong Grammar	1	591	6	NOU		Schade	116152	False	88			ADV	 	
+Wrong Grammar	1	598	2	CON	um	um	-1	False	89			PRE	 	
 Missing Entity	1	602	9	NOU	Airberlin	AirBerlin	12936154	True	91				 	
 Wrong Disambiguation	1	707	3	VER	sein	bin	172056	False	96				 	
 Wrong Entity Form	1	723	6	NPR	Member	Member	-1	False	99				 	
@@ -650,7 +650,7 @@ Wrong Disambiguation	1	751	8	VER	fliegen	geflogen	136212	False	104				 
 Missing Entity	1	801	9	NOU	Airberlin	AirBerlin	12936154	True	116				 	
 Missing Entity	1	814	9	NOU		Airberlin	12936154	True	119				 	
 Missing Entity	1	871	9	NOU	Airberlin	AirBerlin	12936154	True	129				 	
-Wrong Grammar	0	963	6	ADJ	eilig	Eilige	43654	False	146				 	
+Wrong Grammar	0	963	6	ADJ	eilig	Eilige	43654	False	146			NOU	 	
 Wrong Disambiguation	1	991	4	VER	werden	wird	140981	False	152				 	
 Missing Entity	1	1022	9	NOU	Airberlin	airberlin	12936154	True	156				 	
 Missing Entity	1	1033	6	ADV	banken	banken	-1	False	158				 	
@@ -659,7 +659,6 @@ Missing Concept	0	1058	8	VER	halbieren	halbiert		True	163				 
 Missing Entity	1	1098	9	NOU	Airberlin	AirBerlin	12936154	True	173				 	
 Wrong Disambiguation	1	1154	10	NOU		Schokoherz	2234	True	182				 	
 Missing Entity	1	1169	9	NOU	Airberlin	AirBerlin	12936154	True	186				 	
-Wrong Grammar	1	1194	5	ADV	dabei	Dabei	130289	False	190				 	
 Wrong Disambiguation	1	1239	9	ADJ	einarmig	einarmige	132586	False	199				 	
 Missing Concept	0	1249	12	NOU	Stewardessen	Stewardessen	-1	False	200				 	
 Wrong Disambiguation	0	1262	10	VER	einsetzen	eingesetzt	16416	False	201				 	
@@ -669,11 +668,11 @@ Wrong Disambiguation	1	1335	4	NOU	Job	Jobs	3643	False	213				 
 Missing Concept	0	1379	14	ADJ	angeschlagen	angeschlagener	34413	False	221				 	
 Missing Entity	1	1412	9	NOU	Airberlin	AirBerlin	12936154	True	224				 	
 Wrong Disambiguation	1	1422	6	VER		sollen	148995	False	225				 	
-Wrong Grammar	1	1429	4	ADJ		laut	66515	False	226				 	
+Wrong Grammar	1	1429	4	ADJ		laut	66515	False	226			PRE	 	
 Wrong Disambiguation	1	1452	7	NOU	Stelle	Stellen	1111	False	232				 	
 Wrong Disambiguation	1	1460	10	VER	streichen	gestrichen	159839	False	233				 	
 Missing Entity	1	1557	9	NOU	Airberlin	airberlin	12936154	True	238				 	
-Wrong Grammar	1	1569	5	NOU		Jetzt	100193168	False	240				 	
+Wrong Grammar	1	1569	5	NOU		Jetzt	100193168	False	240			ADV	 	
 Wrong Disambiguation	1	1575	4	VER	geben	gibt	13134	False	241				 	
 Missing Entity	1	1592	9	NOU	Airberlin	airberlin	12936154	True	246				 	
 Wrong Disambiguation	1	1635	4	ADV		mehr	70026	False	252				 	
@@ -681,23 +680,23 @@ Wrong Disambiguation	1	1673	12	NOU	Schokoherz	Schokoherzen	2243	True	260				 	22
 Wrong Recognition	2	1753	6	VER	einen lassen	lassen	117711	False	275				 	
 Missing Entity	1	1790	9	NOU	Airberlin	AirBerlin	12936154	True	285				 	
 Missing Entity	1	1803	9	NOU	Airberlin	AirBerlin	12936154	True	288				 	
-Wrong Grammar	1	1822	4	VER	lauten	laut	120581	False	291				 	
+Wrong Grammar	1	1822	4	VER	lauten	laut	120581	False	291			ADV	 	
 Missing Concept	0	1827	7	ADV	heulend	heulend	-1	False	292				 	
 Missing Entity	1	1933	9	NOU	Airberlin	airberlin	12936154	True	305				 	
 Wrong Recognition	1	1943	5	VER	einfahren	führt	132718	False	306				 	
 Missing Concept	0	2018	5	ADJ	Kras	Krass		True	325				 	
 Missing Concept	0	2067	8	NOU	Anstehen	Anstehen	-1	False	335				 	
 Missing Entity	1	2080	13	NOU	Flughafenköln	flughafenköln	12872319	True	338				 	
-Wrong Grammar	1	2105	2	ADV	ne	ne	-1	False	342				 	
+Wrong Grammar	1	2105	2	ADV	ne	ne	-1	False	342			ART	 	
 Wrong Entity Form	1	2126	4	ADV	fast	Fast	26795	False	346				 	
 Wrong Disambiguation	1	2144	4	VER	geben	gibt	13134	False	349				 	15231
 Missing Entity	1	2157	9	NOU	Airberlin	airberlin	12936154	True	353				 	
 Wrong Recognition	2	2184	6	NOU	Wart	Warten	107540	False	357				 	
-Wrong Grammar	1	2202	5	NOU		Jetzt	100193168	False	363				 	
+Wrong Grammar	1	2202	5	NOU		Jetzt	100193168	False	363			ADV	 	
 Wrong Disambiguation	1	2208	4	VER	gehen	geht	117714	False	364				 	
 Missing Entity	1	2220	9	NOU	Airberlin	airberlin	12936154	True	368				 	
 Wrong Disambiguation	1	2265	4	ADV		noch	74484	False	375				 	150091
-Wrong Grammar	1	2280	2	CON		zu	565251	False	377				 	
+Wrong Grammar	1	2280	2	CON		zu	565251	False	377			PRE	 	
 Missing Entity	1	2348	9	NOU	Airberlin	AirBerlin	12936154	True	388				 	
 Missing Concept	1	2366	4	MMD		FAIL	100035127	True	390				 	
 Missing Entity	1	2394	9	NOU	Airberlin	airberlin	12936154	True	394				 	
@@ -720,11 +719,11 @@ Missing Entity	1	2859	3	ADV	txl	txl	-1	False	483				 
 Missing Entity	1	2864	3	ADV	scn	scn	-1	False	485				 	
 Missing Entity	1	2869	9	NOU	Airberlin	airberlin	12936154	True	487				 	
 Missing Entity	1	2924	9	NOU	Airberlin	airberlin	12936154	True	492				 	
-Wrong Grammar	0	2939	6	ADJ		pleite	25781	False	494				 	
+Wrong Grammar	0	2939	6	ADJ		pleite	25781	False	494			NOU	 	
 Wrong Disambiguation	0	2946	9	ADV		unterwegs	101916	False	495				 	101917
 Missing Entity	1	2961	6	ADV	merkel	merkel	-1	False	499				 	
 Missing Concept	0	2972	8	ADV	boomend	boomende		True	501				 	
-Wrong Grammar	1	2981	10	VER	wirtschaften	wirtschaft	167472	False	502				 	
+Wrong Grammar	1	2981	10	VER	wirtschaften	wirtschaft	167472	False	502			NOU	 	
 Wrong Entity Form	1	2992	4	WEB		http	100035127	True	503				 	
 Missing Entity	1	3122	3	ADV	cdu	cdu	-1	False	518				 	
 Missing Entity	1	3127	3	ADV	csu	csu	-1	False	520				 	
@@ -741,7 +740,7 @@ Wrong Disambiguation	1	3275	7	NOU		Rettung	100180481	False	549				 
 Wrong Disambiguation	1	3300	6	VER		laufen	15819	False	553				 	
 Missing Entity	1	3323	9	NOU		Airberlin	12936154	True	558				 	
 Wrong Disambiguation	1	3333	11	NOU		Bordmagazin	100181623	True	559				 	
-Wrong Grammar	1	3345	5	ADV	gibts	gibts	-1	False	560				 	
+Wrong Grammar	1	3345	5	ADV	gibts	gibts	-1	False	560			VER	 	
 Missing Entity	1	3373	11	VER	Gewinnspielen	gewinnspiel	158429	True	565				 	
 Missing Entity	1	3390	9	ADV	veggiepur	veggiepur	-1	False	568				 	
 Missing Entity	1	3403	6	VER	urlauben	urlaub	102281	False	571				 	

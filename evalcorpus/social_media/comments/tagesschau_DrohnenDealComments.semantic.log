@@ -1190,7 +1190,7 @@
 
 SBJ=20:19;SBJ=23:24;OBJ=26:24;SBJ=29:30;SBJ=38:37;SBJ=42:44;OBJ=43:44;SBJ=65:67;SBJ=75:76;SBJ=75:83;SBJ=86:85;APH=88:86;SBJ=-49:90;OBJ=89:90;SBJ=96:94;SBJ=98:99;SBJ=98:104;SBJ=106:107;SBJ=117:118;APH=124:120;SBJ=120:122;OBJ=120:122;SBJ=126:127;SBJ=148:150;OBJ=149:150;SBJ=-52:157;OBJ=158:157;SBJ=-52:167;OBJ=165:167;OBJ=174:176;SBJ=186:187;OBJ=189:187;SBJ=-52:198;OBJ=197:198;SBJ=-52:200;SBJ=207:210;OBJ=208:210;SBJ=-49:223;OBJ=222:223;SBJ=-49:225;SBJ=-52:232;OBJ=239:240;SBJ=245:244;CPL=246:244;SBJ=248:249;CPL=250:249;CPL=252:249;SBJ=259:260;SBJ=270:271;SBJ=-49:283;SBJ=290:292;SBJ=-52:304;OBJ=303:304;SBJ=310:311;SBJ=314:313;CPL=316:313;CPL=317:313;SBJ=327:326;OBJ=325:326;SBJ=327:329;SBJ=335:336;SBJ=344:349;OBJ=347:349;OBJ=353:357;SBJ=359:360;SBJ=363:362;SBJ=363:365;SBJ=368:369;SBJ=377:381;OBJ=351:381;SBJ=-53:393;SBJ=-49:400;SBJ=409:407;SBJ=426:427;SBJ=435:438;SBJ=435:442;OBJ=440:442;CPL=441:442;APH=450:445;SBJ=445:448;SBJ=445:454;OBJ=451:454;SBJ=477:476;SBJ=487:489;OBJ=488:489;OBJ=495:496;SBJ=514:517;SBJ=520:522;OBJ=521:522;SBJ=530:533;OBJ=531:533;OBJ=551:554;OBJ=563:564;SBJ=578:579;SBJ=588:589;CPL=590:589;SBJ=598:594;OBJ=613:610;OBJ=616:617;SBJ=621:620;OBJ=622:620;SBJ=630:629;OBJ=626:629;SBJ=641:642;SBJ=641:648;SBJ=651:652;SBJ=654:657;OBJ=656:657;SBJ=654:658;SBJ=-52:664;OBJ=661:664;SBJ=-52:684;SBJ=692:693;CPL=710:702;SBJ=703:704;SBJ=714:719;SBJ=716:719;SBJ=726:732;CPL=731:732;SBJ=630:736;OBJ=734:736;SBJ=739:742;SBJ=745:746;SBJ=751:750;OBJ=749:750;SBJ=761:762;OBJ=764:762;SBJ=780:779;SBJ=787:786;SBJ=796:794;OBJ=793:794;SBJ=804:805;SBJ=-49:811;OBJ=812:811;CPL=813:811;SBJ=816:819;OBJ=817:819;SBJ=824:823;OBJ=825:823;SBJ=831:832;OBJ=817:832;SBJ=-49:835;SBJ=837:838;SBJ=-49:861;SBJ=868:870;SBJ=-52:882;OBJ=881:882;SBJ=892:893;SBJ=899:902;OBJ=900:902;SBJ=910:911;SBJ=921:922;SBJ=-49:927;SBJ=-49:928;SBJ=-49:939;SBJ=-49:946;SBJ=947:948;SBJ=952:951;SBJ=-49:956;SBJ=959:961;SBJ=-49:966;SBJ=979:980;SBJ=-52:983;SBJ=984:988;OBJ=985:988;SBJ=-52:992;OBJ=993:992;APH=995:993;SBJ=993:1000;OBJ=999:1000;SBJ=-49:1008;OBJ=1009:1008;CPL=1010:1008;SBJ=1014:1016;SBJ=1014:1019;SBJ=1021:1023;OBJ=1022:1023;SBJ=-52:1038;SBJ=1047:1048;SBJ=1047:1053;CPL=1052:1053;SBJ=1049:1055;APH=378:351;APH=735:630;APH=818:791;APH=829:817;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	1	46	9	ADJ	corigallo	corigallo	-1	False	7				 	
+Wrong Grammar	1	46	9	ADJ	corigallo	corigallo	-1	False	7			NOU	 	
 Wrong Entity Type	1	56	4	ORG		TTIP	116334295	True	8				 	
 Wrong Recognition	1	95	5	VER	unterziehen	zieht	126453	False	17				 	
 Wrong Disambiguation	1	104	3	PRE		vor	596943	False	19				 	
@@ -1201,9 +1201,9 @@ Wrong Disambiguation	1	206	5	NOU		König	7248	False	40				 
 Wrong Entity Form	1	248	5	ADJ	willi	willi	-1	False	47				 	
 Wrong Disambiguation	0	266	10	ADV		vielleicht	100886	False	50				 	
 Wrong Disambiguation	1	289	4	PRE		über	98894	False	54				 	
-Wrong Grammar	1	299	8	ADJ	ablösung	ablösung	-1	False	56				 	
-Wrong Grammar	1	308	6	PRO	dies	dieser		True	57				 	
-Wrong Grammar	1	389	6	VER	posten	posten	-1	False	69				 	
+Wrong Grammar	1	299	8	ADJ	ablösung	ablösung	-1	False	56			NOU	 	
+Wrong Grammar	1	308	6	PRO	dies	dieser		True	57			ADJ	 	
+Wrong Grammar	1	389	6	VER	posten	posten	-1	False	69			NOU	 	
 Wrong Entity Form	1	476	5	PRD		Leyen	64	True	82				 	
 Wrong Disambiguation	1	482	7	VER	wandeln	wandelt	14551	False	83				 	
 Missing Entity	1	494	7	NOU	Merkels	Merkels	-1	False	85				 	
@@ -1228,10 +1228,10 @@ Missing Concept	1	1160	7	NOU	Drohn	Drohnen	100650665	False	204				 
 Wrong Disambiguation	0	1243	5	VER		haben	125724	False	217				 	
 Wrong Disambiguation	1	1300	4	ADV		eher	35935	False	231				 	
 Wrong Disambiguation	1	1366	2	ADV		so	130436	False	244				 	
-Wrong Grammar	1	1420	4	ADV		eins	36896	False	254				 	
+Wrong Grammar	1	1420	4	ADV		eins	36896	False	254			PRO	 	
 Wrong Disambiguation	0	1428	9	NOU		Blödmarkt	113033698	True	256				 	
 Wrong Disambiguation	1	1470	4	VER	geben	gibt	13134	False	263				 	
-Wrong Grammar	1	1477	6	VER	sichern	sicher	120275	False	265				 	
+Wrong Grammar	1	1477	6	VER	sichern	sicher	120275	False	265			ADV	 	
 Wrong Disambiguation	1	1630	5	VER		sehen	16457	False	295				 	
 Wrong Disambiguation	1	1662	4	PRE		nach	562278	False	301				 	
 Wrong Disambiguation	1	1695	6	VER		führen	136980	False	305				 	
@@ -1239,24 +1239,24 @@ Wrong Disambiguation	1	1780	4	VER	weißen	weiß	108346	False	321				 
 Wrong Entity Type	1	1859	4	ORG		TTIP	116334295	True	338				 	
 Wrong Disambiguation	1	1952	7	ADJ		gläsern	49134	False	354				 	49135
 Missing Concept	0	1978	10	ADV	erpressbar	erpressbar	-1	False	358				 	
-Wrong Grammar	1	2009	7	ADJ	googeln	googeln	-1	False	364				 	
-Wrong Grammar	1	2021	3	VER	malen	mal	147899	False	366				 	
+Wrong Grammar	1	2009	7	ADJ	googeln	googeln	-1	False	364			VER	 	
+Wrong Grammar	1	2021	3	VER	malen	mal	147899	False	366			ADV	 	
 Missing Concept	0	2156	21	ADJ	Wettbewerbsrecht	wettbewerbsrechtliche		True	392				 	
 Wrong Disambiguation	1	2184	4	VER	gehen	geht	14248	False	394				 	
 Wrong Disambiguation	1	2281	12	PRD		Killerrohnen	100012140	True	411				 	
 Wrong Entity Form	1	2311	5	NOU	Heron	Heron	-1	False	415				 	
-Wrong Grammar	1	2359	7	PRO	solch	solchen		True	425				 	
+Wrong Grammar	1	2359	7	PRO	solch	solchen		True	425			ADJ	 	
 Wrong Disambiguation	1	2402	9	VER		mitmachen	15665	False	428				 	
 Wrong Disambiguation	1	2437	3	VER	sein	ist	172056	False	437				 	
-Wrong Grammar	1	2452	4	PRO	ein	eine		True	440				 	
+Wrong Grammar	1	2452	4	PRO	ein	eine		True	440			ART	 	
 Wrong Disambiguation	1	2457	4	PRE		nach	562278	False	441				 	
 Wrong Disambiguation	1	2462	7	NOU		Artikel	741	False	442				 	
 Wrong Disambiguation	1	2577	7	NOU		Artikel	741	False	459				 	
-Wrong Grammar	1	2756	7	NOU	NIEMALS	NIEMALS	-1	False	486				 	
+Wrong Grammar	1	2756	7	NOU	NIEMALS	NIEMALS	-1	False	486			ADV	 	
 Missing Concept	1	2792	4	NOU		Hand	100033767	False	491				 	
-Wrong Grammar	1	2859	3	PRO	ein	ein	-1	False	501				 	
+Wrong Grammar	1	2859	3	PRO	ein	ein	-1	False	501			ART	 	
 Wrong Disambiguation	1	2912	3	VER	sein	ist	13136	False	511				 	
-Wrong Grammar	1	2996	6	PRO	unser	unsere		True	528				 	
+Wrong Grammar	1	2996	6	PRO	unser	unsere		True	528			ADJ	 	
 Wrong Disambiguation	1	3057	7	VER	denken	gedacht	13006	False	537				 	
 Wrong Disambiguation	0	3121	4	NPR	Fage	Fage	-1	False	547				 	
 Wrong Disambiguation	1	3142	6	VER	halten	haltet	13376	False	553				 	
@@ -1264,13 +1264,13 @@ Wrong Disambiguation	1	3232	4	VER	halten	hält	14280	False	574				 
 Wrong Disambiguation	1	3307	12	ADJ	ordentlich	ordentliches	75894	False	593				 	
 Wrong Disambiguation	1	3344	12	ADJ	ordentlich	ordentliches	75894	False	597				 	
 Wrong Disambiguation	1	3378	12	ADJ	ordentlich	ordentliches	75894	False	601				 	
-Wrong Grammar	1	3414	3	PRO	der	den		True	604				 	
+Wrong Grammar	1	3414	3	PRO	der	den		True	604			ART	 	
 Wrong Disambiguation	1	3439	7	NOU		Gericht	1594	False	609				 	
 Wrong Disambiguation	1	3644	4	VER	halten	hält	117679	False	640				 	
 Missing Concept	1	3673	6	NOU	Fuß	Fueßen	100015807	False	646				 	
-Wrong Grammar	0	3753	10	ADJ	karwandler	karwandler	-1	False	659				 	
+Wrong Grammar	0	3753	10	ADJ	karwandler	karwandler	-1	False	659			NOU	 	
 Missing Concept	0	3764	2	NOU		re	100023690	False	660				 	
-Wrong Grammar	0	3767	9	ADV	corigallo	corigallo	-1	False	661				 	
+Wrong Grammar	0	3767	9	ADV	corigallo	corigallo	-1	False	661			NOU	 	
 Wrong Recognition	1	3802	5	VER	unterziehen	zieht	126453	False	668				 	
 Wrong Disambiguation	1	3836	3	VER	sein	ist	172056	False	675				 	
 Wrong Entity Type	1	3844	4	ORG		TTIP	116334295	True	677				 	
@@ -1288,11 +1288,11 @@ Wrong Disambiguation	1	4253	6	VER	angehen	angeht	14184	False	738				 
 Wrong Disambiguation	1	4265	16	NOU	Industriekreis	Industriekreisen	596148	True	741				 	
 Wrong Recognition	1	4407	7	NPR	Benzin-	Benzin-	-1	False	761				 	
 Wrong Disambiguation	1	4439	12	VER	austauschen	ausgetauscht	121113	False	765				 	
-Wrong Grammar	0	4558	6	ADJ	dadmit	dadmit	-1	False	783				 	
-Wrong Grammar	1	4603	7	VER		sondern	15850	False	791				 	
+Wrong Grammar	0	4558	6	ADJ	dadmit	dadmit	-1	False	783			PRO	 	
+Wrong Grammar	1	4603	7	VER		sondern	15850	False	791			CON	 	
 Wrong Disambiguation	1	4754	7	NOU	Drohn	Drohnen	100650665	False	810				 	
 Wrong Entity Type	1	4816	4	NPR	EADS	EADS	-1	False	817				 	
-Wrong Grammar	1	4821	7	ADV	gebaut	gebaute		True	818				 	
+Wrong Grammar	1	4821	7	ADV	gebaut	gebaute		True	818			ADJ	 	
 Wrong Entity Type	1	4880	4	ORG	Islamischer Staat	ISIS	102429253	False	827				 	
 Wrong Recognition	1	4885	6	VER	durchfliegen	fliegt	131991	False	828				 	
 Wrong Disambiguation	1	5002	3	VER	sein	ist	13136	False	846				 	
@@ -1300,7 +1300,7 @@ Missing Concept	0	5017	14	NOU	Ausspionierung	Ausspionierung	-1	False	849				 
 Wrong Disambiguation	1	5068	7	NOU		Schluss	606	False	855				 	
 Wrong Disambiguation	1	5218	5	NOU		Grund	1651	False	878				 	
 Wrong Entity Form	0	5235	5	NOU	Heron	Heron	-1	False	882				 	
-Wrong Grammar	1	5347	3	NOU	Ist	IST	59160	False	900				 	
+Wrong Grammar	1	5347	3	NOU	Ist	IST	59160	False	900			VER	 	
 Missing Concept	1	5351	4	NOU	Viel	VIEL	582305	False	901				 	
 Wrong Entity Form	0	5413	5	NOU	Heron	Heron	-1	False	911				 	
 Wrong Entity Form	1	5487	7	NOU		General	100083460	False	924				 	
@@ -1330,7 +1330,7 @@ Wrong Disambiguation	1	6907	4	ADV		mehr	70026	False	1157				 
 Wrong Disambiguation	1	6980	5	VER	finden	finde	13881	False	1171				 	
 Wrong Disambiguation	1	6998	5	ADJ		krass	18499	False	1174				 	
 Wrong Disambiguation	1	7045	22	COM		Rüstungsentscheidungen	104830453	True	1180				 	
-Wrong Grammar	1	7110	6	PRO	selbst	selbst	-1	False	1189				 	
+Wrong Grammar	1	7110	6	PRO	selbst	selbst	-1	False	1189			ADV	 	
 Wrong Disambiguation	1	7117	4	VER	gelten	gilt	137907	False	1190				 	
 Wrong Entity Form	0	7126	3	NOU	Buy	Buy	-1	False	1192				 	
 Wrong Recognition	1	7190	4	ADV		raus	55084	False	1203				 	
@@ -1344,25 +1344,25 @@ Missing Concept	0	7359	21	ADJ	Wettbewerbsrecht	wettbewerbsrechtliche		True	1236	
 Wrong Disambiguation	1	7387	4	VER	gehen	geht	14248	False	1238				 	
 Wrong Entity Form	0	7514	5	NOU	Heron	Heron	-1	False	1259				 	
 Wrong Disambiguation	1	7605	9	VER		mitmachen	15665	False	1272				 	
-Wrong Grammar	1	7618	6	NOU		Können	63503	False	1276				 	
+Wrong Grammar	1	7618	6	NOU		Können	63503	False	1276			VER	 	
 Wrong Recognition	1	7742	8	VER	dareinsetzen	einsetzt	32272	False	1297				 	
 Wrong Entity Form	0	7841	5	ADJ	willi	willi	-1	False	1314				 	
-Wrong Grammar	1	7872	10	VER	Bundesabwehren	bundeswehr	13785	True	1320				 	
-Wrong Grammar	1	7901	4	ADJ	lage	lage	-1	False	1325				 	
+Wrong Grammar	1	7872	10	VER	Bundesabwehren	bundeswehr	13785	True	1320			NOU	 	
+Wrong Grammar	1	7901	4	ADJ	lage	lage	-1	False	1325			NOU	 	
 Wrong Disambiguation	1	7906	4	VER		sein	172056	False	1326				 	
-Wrong Grammar	1	7912	9	VER	Angreaneifern	angreifer	15441	True	1328				 	
-Wrong Grammar	1	7955	6	ADJ	truppe	truppe	-1	False	1335				 	
+Wrong Grammar	1	7912	9	VER	Angreaneifern	angreifer	15441	True	1328			NOU	 	
+Wrong Grammar	1	7955	6	ADJ	truppe	truppe	-1	False	1335			NOU	 	
 Wrong Disambiguation	0	8004	4	ADV		eher	35935	False	1344				 	
-Wrong Grammar	1	8014	6	PRO	unser	unsere		True	1347				 	
-Wrong Grammar	1	8021	5	ADV	jungs	jungs	-1	False	1348				 	
-Wrong Grammar	1	8027	6	ADJ	mädels	mädels	-1	False	1350				 	
-Wrong Grammar	1	8037	9	VER	Ernstabfallen	ernstfall	15225	True	1352				 	
-Wrong Grammar	1	8051	11	ADJ	Seelsorger	seelsorgern		True	1354				 	
-Wrong Grammar	1	8117	11	VER	Deutschanlanden	deutschland	17314	True	1365				 	
-Wrong Grammar	1	8133	5	ADJ	insel	insel	-1	False	1367				 	
+Wrong Grammar	1	8014	6	PRO	unser	unsere		True	1347			ADJ	 	
+Wrong Grammar	1	8021	5	ADV	jungs	jungs	-1	False	1348			NOU	 	
+Wrong Grammar	1	8027	6	ADJ	mädels	mädels	-1	False	1350			NOU	 	
+Wrong Grammar	1	8037	9	VER	Ernstabfallen	ernstfall	15225	True	1352			NOU	 	
+Wrong Grammar	1	8051	11	ADJ	Seelsorger	seelsorgern		True	1354			NOU	 	
+Wrong Grammar	1	8117	11	VER	Deutschanlanden	deutschland	17314	True	1365			GEO	 	
+Wrong Grammar	1	8133	5	ADJ	insel	insel	-1	False	1367			NOU	 	
 Wrong Disambiguation	0	8143	13	NOU	Glückseeliga	glückseeligen	7196	True	1369				 	
-Wrong Grammar	1	8157	5	PRO	kein	keine		True	1370				 	
-Wrong Grammar	1	8163	6	ADJ	feind	feinde	41871	False	1371				 	
+Wrong Grammar	1	8157	5	PRO	kein	keine		True	1370			ADJ	 	
+Wrong Grammar	1	8163	6	ADJ	feind	feinde	41871	False	1371			NOU	 	
 Missing Entity	0	8211	8	VER	denk-abmalen	denk-mal	18722	True	1378				 	
 Wrong Disambiguation	1	8325	4	ADV		noch	74484	False	1400				 	
 Missing Concept	0	8344	7	VER	fassen	gefasst		True	1403				 	

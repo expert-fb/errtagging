@@ -466,8 +466,8 @@ Missing Entity	0	26	4	ADJ	pur	Pure	120106	False	0				 
 Wrong Disambiguation	0	77	5	VER	schwachwerden	werde	116228	False	0				 	
 Missing Entity	0	147	4	NOU	Pure	Pure	-1	False	0				 	
 Wrong Disambiguation	1	195	16	NOU	Universalmodell	Universalmodells	114915751	True	0				 	
-Wrong Grammar	1	238	16	NOU		Praktischerweise	1704	True	0				 	
-Wrong Grammar	1	319	6	VER	radeln	Radeln	81431	False	0				 	
+Wrong Grammar	1	238	16	NOU		Praktischerweise	1704	True	0			ADV	 	
+Wrong Grammar	1	319	6	VER	radeln	Radeln	81431	False	0			NOU	 	
 Wrong Disambiguation	1	340	5	VER	ergeben	ergab	12972	False	0				 	
 Wrong Disambiguation	0	372	4	NOU		Bike	100034493	False	0				 	100011442
 Wrong Recognition	0	381	4	NOU		Herz	2234	False	0		auf Herz und Nieren	ADV	 	
@@ -478,8 +478,8 @@ Missing Entity	0	527	5	NOU	Sibbo	Sibbo	-1	False	0				 
 Wrong Disambiguation	1	536	8	VER		erfahren	13972	False	0				 	12932
 Wrong Disambiguation	1	587	5	ADJ		flach	65605	False	0				 	43160
 Wrong Disambiguation	1	593	6	VER	zugehen	zugeht	16864	False	0				 	168475
-Wrong Grammar	1	755	3	PRO	das	das	-1	False	0				 	
-Wrong Grammar	1	759	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Grammar	1	755	3	PRO	das	das	-1	False	0			ART	 	
+Wrong Grammar	1	759	5	PRO	etwas	etwas	-1	False	0			ADV	 	
 Wrong Disambiguation	1	765	11	ADJ	angestaubt	angestaubte	99137	False	0				 	21239
 Wrong Disambiguation	0	777	4	NOU		Bike	100034493	False	0				 	
 Wrong Disambiguation	1	855	10	VER	schießen	geschossen	16295	False	0				 	18461
@@ -501,7 +501,7 @@ Wrong Entity Type	1	1122	10	NOU		Grand Prix	49975	False	0				 
 Wrong Entity Type	1	1133	7	NOU	4Season	4Season	-1	False	0				 	
 Wrong Disambiguation	1	1141	6	NPH	Bianca Reifen	Reifen	100215627	True	0				 	
 Wrong Disambiguation	1	1196	7	NOU		Testrad	100000446	True	0				 	
-Wrong Grammar	0	1317	5	ADJ		recht	83676	False	0				 	
+Wrong Grammar	0	1317	5	ADJ		recht	83676	False	0			ADV	 	
 Wrong Disambiguation	1	1345	5	VER	kommen	kamen	117806	False	0				 	
 Wrong Entity Form	1	1356	5	GEA	Celle	Selle	13013869	False	0				 	
 Wrong Disambiguation	1	1362	22	DEV		An-Atomica Ledersattel	151203	True	0				 	
@@ -544,20 +544,20 @@ Wrong Entity Form	1	2632	12	ORG		Mavic Aksium	116334295	True	0				 
 Wrong Disambiguation	1	2645	10	NOU	Laufrad	Laufrädern	100595658	False	0				 	
 Wrong Disambiguation	1	2694	5	VER	machen	macht	16219	False	0				 	
 Wrong Disambiguation	0	2704	4	NOU		Bike	100034493	False	0				 	
-Wrong Grammar	1	2715	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	2715	3	PRO	der	des		False	0			ART	 	
 Wrong Disambiguation	1	2777	11	NOU		Rahmengröße	139028	True	0				 	
 Missing Concept	0	2886	6	NOU		Vorbau	781	False	0				 	
 Wrong Recognition	1	2911	7	VER	passen	passten	117728	False	0		anpassen		 	14860
 Missing Concept	1	2981	9	NOU		Geometrie	100008087	False	0				 	
 Missing Concept	0	3036	13	NOU	Ketten	Kettenstreben		False	0				 	
-Wrong Grammar	1	3050	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Grammar	1	3050	5	PRO	etwas	etwas	-1	False	0			ADV	 	
 Missing Entity	0	3077	6	NOU	Pelago	Pelago	-1	False	0				 	
 Missing Entity	0	3084	5	NOU	Sibbo	Sibbo	-1	False	0				 	
 Wrong Disambiguation	1	3117	15	VER	bemerkbar machen	bemerkbar macht	117303	False	0				 	117304
-Wrong Grammar	1	3147	5	PRO	etwas	etwas	-1	False	0				 	
-Wrong Grammar	0	3153	10	ADV	spritzig	spritziger		False	0				 	
+Wrong Grammar	1	3147	5	PRO	etwas	etwas	-1	False	0			ADV	 	
+Wrong Grammar	0	3153	10	ADV	spritzig	spritziger		False	0			ADJ	 	
 Wrong Entity Form	0	3179	4	NOU	Pure	Pure	-1	False	0				 	
-Wrong Grammar	1	3189	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Grammar	1	3189	5	PRO	etwas	etwas	-1	False	0			ADV	 	
 Wrong Disambiguation	0	3212	5	ADV		träge	605054	False	0				 	
 Wrong Disambiguation	1	3248	9	ADJ	breit	breiteren	129504	False	0				 	30148
 Wrong Disambiguation	1	3258	6	NPH	Bianca Reifen	Reifen	100215627	True	0				 	
@@ -568,11 +568,11 @@ Wrong Disambiguation	1	3322	10	VER	aufziehen	aufgezogen	125057	False	0				 
 Wrong Recognition	1	3358	5	VER	machen	macht	16211	False	0		bemerkbar machen		 	117304
 Wrong Disambiguation	0	3404	10	ADJ	schlecht	schlechtem	155900	False	0				 	58160
 Wrong Entity Form	0	3512	4	NOU	Pure	Pure	-1	False	0				 	
-Wrong Grammar	1	3583	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Grammar	1	3583	5	PRO	etwas	etwas	-1	False	0			ADV	 	
 Wrong Disambiguation	0	3701	3	ADV		gut	596240	False	0				 	
 Wrong Disambiguation	1	3716	6	ADJ		stabil	26672	False	0				 	
 Missing Entity	0	3765	5	NOU	Sibbo	Sibbo	-1	False	0				 	
-Wrong Grammar	1	3775	5	PRO	etwas	etwas	-1	False	0				 	
+Wrong Grammar	1	3775	5	PRO	etwas	etwas	-1	False	0			ADV	 	
 Wrong Disambiguation	0	3781	11	ADJ	sportlich	sportlicher	92253	False	0				 	
 Wrong Disambiguation	0	3558	9	ADJ		sportlich	92253	False	0				 	
 Wrong Disambiguation	1	3819	5	NOU		Sicht	16569	False	0				 	

@@ -1862,7 +1862,7 @@ Wrong Entity Form	1	16	6	NOU		Würfel	100045089	False	2				 
 Wrong Disambiguation	1	97	5	VER	aufhelfen	hilft	500459	False	15				 	23464
 Wrong Disambiguation	1	113	5	ADV	dafür	Dafür	130588	False	20				 	130318
 Wrong Disambiguation	1	154	6	VER		wählen	120505	False	27				 	
-Wrong Grammar	0	188	4	NPH	Ralf Mann	Mann	100215627	True	36				 	
+Wrong Disambiguation	0	188	4	NPH	Ralf Mann	Mann	100215627	True	36			NOU	 	
 Wrong Disambiguation	1	198	3	VER	sein	bin	172056	False	39				 	
 Wrong Disambiguation	1	309	6	VER	stimmen	stimmt	120930	False	57				 	
 Wrong Disambiguation	1	354	4	NOU		Volk	165625	False	65				 	
@@ -1870,7 +1870,7 @@ Wrong Disambiguation	0	408	8	NOU		Mehrheit	100095581	False	73				 
 Wrong Disambiguation	1	425	7	VER		stimmen	120930	False	76				 	
 Wrong Entity Type	0	447	5	NPR	Siggi	Siggi	-1	False	81				 	
 Wrong Disambiguation	1	506	9	ADJ	schlecht	schlechte	58160	False	88				 	
-Wrong Grammar	1	516	10	NPR	Nachricht.	Nachricht.	-1	False	89				 	
+Wrong Recognition	1	516	10	NPR	Nachricht.	Nachricht.	-1	False	89			NOU	 	
 Wrong Entity Type	1	573	4	NPH		CETA	100215627	True	100				 	
 Wrong Disambiguation	1	578	5	VER	helfen	hilft	14056	False	101				 	
 Wrong Disambiguation	1	617	6	NOU	Bauer	Bauern	26087	False	108				 	
@@ -1878,19 +1878,19 @@ Wrong Entity Form	1	778	6	GEO		Selcuk	10298496	False	133				 
 Missing Concept	0	857	6	ADJ	schade	schade	-1	False	150				 	
 Wrong Disambiguation	1	899	5	VER	stehen	steht	32369	False	159				 	
 Wrong Disambiguation	1	960	8	VER		verraten	134590	False	172				 	
-Wrong Grammar	2	1031	3	VER	malen	mal	500931	False	183				 	
+Wrong Grammar	2	1031	3	VER	malen	mal	500931	False	183			ADV	 	
 Wrong Disambiguation	1	1078	6	ADV		vorbei	106033	False	190				 	
 Wrong Entity Form	1	1158	5	NOU		Kalle	114915751	False	200				 	
-Wrong Grammar	1	1178	4	VER	enden	ende	15917	False	204				 	
-Wrong Grammar	1	1187	4	VER	enden	ende	15917	False	206				 	
+Wrong Grammar	1	1178	4	VER	enden	ende	15917	False	204			NOU	 	
+Wrong Grammar	1	1187	4	VER	enden	ende	15917	False	206			NOU	 	
 Wrong Recognition	1	1202	9	ADJ	ehemalig	ehemalige	35927	False	209				 	
 Wrong Disambiguation	1	1370	5	VER	haben	hätte	125724	False	234				 	
 Wrong Disambiguation	1	1546	4	VER	gehen	geht	14248	False	264				 	
 Wrong Disambiguation	1	1656	8	VER	verlieren	verloren	164493	False	284				 	164497
 Wrong Entity Form	0	1743	8	NOU		Tasskaff	143640	True	298				 	
-Wrong Grammar	1	1775	4	ADJ	lied	lied	-1	False	304				 	
+Wrong Grammar	1	1775	4	ADJ	lied	lied	-1	False	304			NOU	 	
 Wrong Disambiguation	1	1875	8	VER	gewinnen	gewonnen	32516	False	323				 	
-Wrong Grammar	1	1893	6	PRE	gleich	gleich	-1	False	327				 	
+Wrong Grammar	1	1893	6	PRE	gleich	gleich	-1	False	327			ADV	 	
 Wrong Disambiguation	1	1924	5	NOU		Kreuz	100040843	False	333				 	
 Wrong Grammar	0	1975	1	PRE	a	a	-1	False	344				 	
 Wrong Disambiguation	0	1977	1	NOU		c	117758	False	345				 	
@@ -1900,7 +1900,7 @@ Wrong Disambiguation	1	2090	7	VER		bleiben	129080	False	365				 	14281
 Wrong Disambiguation	1	2111	13	VER	ausplaudern	ausgeplaudert	126611	False	369				 	134590
 Wrong Entity Form	1	2147	4	NOU		Zahn	2489	False	374				 	
 Wrong Disambiguation	1	2156	5	VER	wählen	wählt	13051	False	376				 	
-Wrong Grammar	1	2167	6	ADJ		gleich	22392	False	378				 	
+Wrong Grammar	1	2167	6	ADJ		gleich	22392	False	378			ADV	 	
 Wrong Disambiguation	1	2369	6	ADV		vorbei	106033	False	409				 	
 Wrong Disambiguation	1	2400	4	ADV		voll	165665	False	414				 	
 Wrong Grammar	1	2416	4	VER	gellen	Gell	87957	False	417				 	
@@ -1916,31 +1916,31 @@ Wrong Entity Type	1	3067	4	NPH		CETA	100215627	True	537				 
 Wrong Disambiguation	1	3072	4	VER	sein	sind	172056	False	538				 	
 Wrong Disambiguation	0	3078	6	VER		wählen	13051	False	540				 	
 Wrong Disambiguation	1	3098	5	NOU		Grüne	7033	False	544				 	
-Wrong Grammar	1	3117	5	ADJ	link	LINKE	28062	False	548				 	
+Wrong Grammar	1	3117	5	ADJ	link	LINKE	28062	False	548			ORG	 	
 Wrong Disambiguation	1	3191	3	VER	haben	hat	125724	False	564				 	
 Wrong Recognition	1	3229	9	ADJ	wählbar	unwählbar	166327	False	570				 	
 Wrong Disambiguation	1	3239	7	VER	machen	gemacht	16224	False	571				 	
-Wrong Grammar	1	3248	6	NOU		Schade	116152	False	573				 	
-Wrong Grammar	1	3264	4	ADJ		weiß	108331	False	577				 	
+Wrong Grammar	1	3248	6	NOU		Schade	116152	False	573			ADV	 	
+Wrong Grammar	1	3264	4	ADJ		weiß	108331	False	577			VER	 	
 Wrong Disambiguation	1	3274	4	ADV		echt	153491	False	579				 	82526
 Wrong Entity Form	1	3312	7	NPR	Vörckel	Vörckel	-1	False	588				 	
 Wrong Disambiguation	1	3402	4	VER	können	kann	12879	False	602				 	
 Wrong Disambiguation	1	3427	4	NOU		Wahl	2865	False	606				 	2864
 Wrong Disambiguation	1	3457	7	VER		kämpfen	16575	False	613				 	
 Wrong Disambiguation	0	3495	6	NOU	Wille	Willen	563173	False	620				 	
-Wrong Grammar	0	3531	4	ADJ	viel	mehr	173024	False	627				 	
+Wrong Grammar	0	3531	4	ADJ	viel	mehr	173024	False	627			ADV	 	
 Wrong Recognition	1	3536	12	NOU		Wert-Tschüss	19553	True	628				 	
 Wrong Disambiguation	1	3673	9	VER	rechnen	gerechnet	14576	False	649				 	
 Missing Concept	1	3746	10	NOU	Hochtour	Hochtouren	56212	False	661				 	
 Missing Concept	0	3830	6	ADV	intern	intern	-1	False	676				 	
 Wrong Disambiguation	1	3849	9	VER	rechnen	gerechnet	14576	False	680				 	
-Wrong Grammar	0	3947	3	PRO	das	das	-1	False	696				 	
+Wrong Grammar	0	3947	3	PRO	das	das	-1	False	696			CON	 	
 Wrong Disambiguation	1	4028	5	VER	stehen	steht	124179	False	711				 	
 Wrong Disambiguation	1	4038	5	NOU		Linke	566361	False	713				 	
 Wrong Disambiguation	1	4101	8	NOU	Konvent	Konvents	101128397	False	725				 	
 Wrong Disambiguation	1	4124	8	NOU		Mehrheit	119461	False	729				 	
 Wrong Disambiguation	1	4197	7	NOU		Konvent	101128397	False	741				 	
-Wrong Grammar	1	4217	9	VER		überlegen	54247	False	743				 	
+Wrong Grammar	1	4217	9	VER		überlegen	54247	False	743			ADJ	 	
 Wrong Disambiguation	1	4275	4	VER	leben	lebt	14637	False	752				 	
 Missing Concept	0	4335	16	ADJ	genmanipuliertem	genmanipuliertem	-1	False	766				 	
 Wrong Disambiguation	1	4375	6	VER	stimmen	stimmt	14875	False	772				 	
@@ -1957,7 +1957,7 @@ Wrong Disambiguation	1	4997	5	NOU		Linke	566361	False	886				 
 Missing Concept	0	5120	6	VER	hängen	hängen	-1	False	909				 	
 Wrong Disambiguation	1	5127	6	VER	bleiben	bleibt	129080	False	910				 	
 Wrong Disambiguation	1	5186	5	VER	stehen	steht	159252	False	917				 	
-Wrong Grammar	1	5202	2	CON	um	um	-1	False	920				 	
+Wrong Grammar	1	5202	2	CON	um	um	-1	False	920			PRE	 	
 Wrong Disambiguation	1	5277	3	ADV		gar	46001	False	932				 	
 Wrong Disambiguation	1	5304	4	ADV		dazu	98967	False	938				 	
 Wrong Disambiguation	1	5334	3	VER	geben	gab	13134	False	941				 	15231
@@ -1966,12 +1966,12 @@ Wrong Recognition	1	5384	4	ADJ		paar	47019	False	951				 
 Wrong Disambiguation	1	5483	10	ADV		eigentlich	36198	False	968				 	
 Wrong Disambiguation	1	5494	4	VER		sein	172056	False	969				 	
 Wrong Entity Form	1	5500	3	NPH		Tim	496594	False	971				 	
-Wrong Grammar	0	5557	6	NPR	Tja...	Tja...	-1	False	981				 	
-Wrong Grammar	1	5577	17	ADV	rückgängig machen	rückgängig machen	-1	False	985				 	
+Wrong Grammar	0	5557	6	NPR	Tja...	Tja...	-1	False	981			ADV	 	
+Wrong Recognition	1	5577	17	ADV	rückgängig machen	rückgängig machen	-1	False	985			VER	 	
 Wrong Disambiguation	1	5568	4	VER	können	kann	145390	False	983				 	
 Wrong Entity Type	1	5596	4	NPH	CETA	Ceta	100215627	True	987				 	
 Wrong Disambiguation	1	5655	6	VER		drehen	54175	False	1000				 	
-Wrong Grammar	1	5739	8	ADJ	wunderts	wunderts	-1	False	1016				 	
+Wrong Grammar	1	5739	8	ADJ	wunderts	wunderts	-1	False	1016			VER	 	
 Wrong Disambiguation	1	5786	10	VER	sprechen	gesprochen	12975	False	1025				 	
 Wrong Recognition	2	5824	4	VER	weißen	weiß	108346	False	1030				 	
 Wrong Disambiguation	1	5852	6	VER		stehen	32369	False	1036				 	
@@ -1984,7 +1984,7 @@ Wrong Disambiguation	1	6039	6	VER	angehen	angeht	13816	False	1071				 
 Wrong Disambiguation	1	6063	8	NOU	Belang	Belangen	2491	False	1076				 	
 Wrong Disambiguation	1	6135	8	NOU		Eindruck	4441	False	1087				 	
 Wrong Disambiguation	1	6243	8	VER	klammern	klammert	144603	False	1106				 	
-Wrong Grammar	1	6284	9	ADJ	irgendwas	irgendwas	-1	False	1112				 	
+Wrong Grammar	1	6284	9	ADJ	irgendwas	irgendwas	-1	False	1112			PRO	 	
 Wrong Disambiguation	1	6366	4	VER	sein	sind	13136	False	1123				 	
 Wrong Disambiguation	1	6426	8	VER		abfallen	16245	False	1135				 	
 Wrong Entity Type	0	6443	5	NPR	Siggi	Siggi	-1	False	1138				 	
@@ -1996,17 +1996,17 @@ Wrong Entity Type	0	6663	5	NPR	Siggi	Siggi	-1	False	1182				 
 Wrong Disambiguation	1	7072	4	ADV		mehr	70026	False	1247				 	
 Wrong Disambiguation	1	7101	3	VER	üben	übt	161841	False	1252				 	161849
 Wrong Entity Form	1	7265	6	NPR	Befeld	Befeld	-1	False	1280				 	
-Wrong Grammar	2	7277	2	NOU		Na	100000658	False	1282				 	
+Wrong Grammar	2	7277	2	NOU		Na	100000658	False	1282			ADV	 	
 Wrong Grammar	1	7285	6	NPR	Tschüß	Tschüß	-1	False	1284				 	
 Missing Concept	0	7323	5	VER	fragen	fragt		True	1290				 	
-Wrong Grammar	1	7329	8	VER	Schonabmalen	schonmal	18722	True	1291				 	
-Wrong Grammar	1	7338	4	PRE		nach	562278	False	1292				 	
+Wrong Grammar	1	7329	8	VER	Schonabmalen	schonmal	18722	True	1291			ADV	 	
+Wrong Grammar	1	7338	4	PRE		nach	562278	False	1292			ADV	 	
 Wrong Recognition	1	7364	4	NOU	Hau	Haus	2711	False	1296				 	
 Wrong Disambiguation	0	7379	2	ADV		so	130436	False	1299				 	
 Wrong Disambiguation	1	7401	6	VER	bringen	bringt	14085	False	1302				 	
-Wrong Grammar	1	7446	6	PRO	sein	seiner		True	1308				 	
+Wrong Grammar	1	7446	6	PRO	sein	seiner		True	1308			ADJ	 	
 Wrong Disambiguation	1	7489	5	NOU		Dicke	33446	False	1313				 	
-Wrong Grammar	1	7631	5	ADJ	link	LINKE	28062	False	1341				 	
+Wrong Grammar	1	7631	5	ADJ	link	LINKE	28062	False	1341			ORG	 	
 Wrong Disambiguation	1	7637	7	VER		wandern	17104	False	1342				 	
 Wrong Disambiguation	1	7675	15	DOC		Volksverstehern	103150005	True	1349				 	
 Wrong Disambiguation	1	7708	8	VER		brauchen	14079	False	1354				 	
@@ -2017,19 +2017,19 @@ Wrong Disambiguation	1	7811	5	VER	liegen	liegt	16342	False	1373				 
 Wrong Disambiguation	1	7840	8	VER		brauchen	14079	False	1379				 	12747
 Wrong Disambiguation	1	7870	4	ADV		mehr	70026	False	1384				 	
 Wrong Disambiguation	1	8002	8	VER	verlieren	verloren	164502	False	1406				 	
-Wrong Grammar	1	8026	4	NOU		Weiß	100023444	False	1409				 	
+Wrong Grammar	1	8026	4	NOU		Weiß	100023444	False	1409			VER	 	
 Wrong Entity Type	1	8068	4	NPH		CETA	100215627	True	1418				 	
 Wrong Disambiguation	1	8095	3	VER	sein	ist	172056	False	1423				 	
 Wrong Disambiguation	1	8171	8	NOU		Mehrheit	119461	False	1436				 	
 Missing Concept	0	8202	6	VER	wissen	wissen	-1	False	1441				 	
-Wrong Grammar	1	8236	4	ADJ		ganz	45972	False	1447				 	
-Wrong Grammar	1	8293	7	CON	so weit	So weit		True	1454				 	
+Wrong Grammar	1	8236	4	ADJ		ganz	45972	False	1447			ADV	 	
+Wrong Grammar	1	8293	7	CON	so weit	So weit		True	1454			ADV	 	
 Missing Concept	0	8346	8	ADJ	gekommen	gekommen	-1	False	1461				 	
-Wrong Grammar	1	8360	5	PRO	mein	meine		True	1464				 	
-Wrong Grammar	1	8470	5	PRO	mein	meine		True	1482				 	
+Wrong Grammar	1	8360	5	PRO	mein	meine		True	1464			VER	 	
+Wrong Grammar	1	8470	5	PRO	mein	meine		True	1482			VER	 	
 Wrong Disambiguation	1	8505	3	PRE		vor	596945	False	1488				 	
 Wrong Recognition	1	8509	6	ADJ	laut	lauter	66515	False	1489				 	
-Wrong Grammar	1	8619	5	CON	damit	damit	-1	False	1503				 	
+Wrong Grammar	1	8619	5	CON	damit	damit	-1	False	1503			PRO	 	
 Wrong Disambiguation	1	8653	5	NOU		Grund	1651	False	1507				 	
 Wrong Disambiguation	1	8662	7	VER		liefern	117418	False	1509				 	
 Wrong Disambiguation	0	8720	8	VER	vertreten	vertritt	13722	False	1520				 	
@@ -2039,59 +2039,59 @@ Wrong Disambiguation	1	8955	8	NOU		Quittung	100190581	False	1567				 
 Wrong Disambiguation	1	8981	4	NOU		Wahl	119259	False	1571				 	
 Wrong Recognition	0	9073	9	ADV	schon mal	Schon mal	58986	False	1584				 	
 Wrong Disambiguation	1	9106	8	VER	zugehören	zugehört	173276	False	1586				 	
-Wrong Grammar	1	9157	3	PRO	der	dem		True	1593				 	
+Wrong Grammar	1	9157	3	PRO	der	dem		True	1593			ART	 	
 Wrong Recognition	1	9161	7	NOU	Letzt	Letzten	16627	False	1594				 	
 Wrong Entity Type	0	9189	3	NPR	sPD	sPD	-1	False	1600				 	
 Wrong Disambiguation	1	9226	4	ADV		mehr	70026	False	1604				 	
 Wrong Disambiguation	1	9231	3	VER	sein	ist	172056	False	1605				 	
 Wrong Disambiguation	1	9279	4	ADV		noch	74484	False	1611				 	
 Wrong Disambiguation	1	9295	8	VER	stoppen	gestoppt	29149	False	1615				 	
-Wrong Grammar	1	9321	8	ADJ		wirklich	82526	False	1620				 	
+Wrong Grammar	1	9321	8	ADJ		wirklich	82526	False	1620			ADV	 	
 Wrong Entity Type	0	9350	3	NPR	sPD	sPD	-1	False	1625				 	
 Wrong Recognition	1	9394	10	ADV		zur Linken	67810	False	1635				 	
 Wrong Entity Form	1	9429	5	NOU		Kreis	1915	False	1640				 	
 Wrong Entity Form	1	9477	4	PRD		Siri	100582159	False	1649				 	
 Wrong Disambiguation	0	9491	5	VER	fragen	frage	14345	False	1652				 	14351
-Wrong Grammar	1	9552	3	ADJ	ihr	ihr	-1	False	1664				 	
+Wrong Grammar	1	9552	3	ADJ	ihr	ihr	-1	False	1664			PRO	 	
 Wrong Disambiguation	1	9583	9	VER	wandern	gewandert	132313	False	1671				 	
 Wrong Disambiguation	1	9602	4	PRE		über	596948	False	1674				 	
 Wrong Disambiguation	1	9618	3	NOU		See	100023397	False	1676				 	100000165
 Missing Concept	0	9622	8	ADJ	gerudert	gerudert	-1	False	1677				 	
-Wrong Grammar	1	9689	4	ADV	alle	Alle	123055	False	1691				 	
+Wrong Grammar	1	9689	4	ADV	alle	Alle	123055	False	1691			PRO	 	
 Wrong Recognition	0	9778	10	NPR	Bildschrim	Bildschrim	-1	False	1707				 	
 Wrong Disambiguation	0	9807	4	ADV		dann	130436	False	1712				 	
 Wrong Recognition	1	9835	6	ADJ	laut	lauter	66515	False	1719				 	
 Missing Concept	1	9913	6	NOU		Rücken	4721	False	1735				 	
 Wrong Disambiguation	1	9920	6	VER		fallen	17179	False	1736				 	
-Wrong Grammar	1	9967	5	NOU	Habe	Haben	17334	False	1743				 	
-Wrong Grammar	0	10060	3	PRO	der	den		True	1759				 	
+Wrong Grammar	1	9967	5	NOU	Habe	Haben	17334	False	1743			VER	 	
+Wrong Grammar	0	10060	3	PRO	der	den		True	1759			ADV	 	
 Wrong Disambiguation	1	10073	8	VER	passieren	passiere	500965	False	1762				 	
-Wrong Grammar	1	10088	12	NPR	15 Millionen	15 Millionen	-1	False	1765				 	
+Wrong Grammar	1	10088	12	NPR	15 Millionen	15 Millionen	-1	False	1765			ADJ	 	
 Wrong Disambiguation	1	10139	6	VER		machen	14422	False	1771				 	13039
 Missing Concept	0	10285	5	NOU	Dank	Danke	32229	False	1797				 	
 Wrong Disambiguation	1	10491	8	VER		schicken	15250	False	1829				 	13616
-Wrong Grammar	1	10518	7	ADJ		langsam	47589	False	1835				 	
+Wrong Grammar	1	10518	7	ADJ		langsam	47589	False	1835			ADV	 	
 Wrong Recognition	1	10526	13	NOU	Sorgen machen	Sorgen machen	-1	False	1836				 	
-Wrong Grammar	1	10540	2	CON	um	um	-1	False	1837				 	
+Wrong Grammar	1	10540	2	CON	um	um	-1	False	1837			PRE	 	
 Wrong Grammar	1	10590	4	ADJ	ganz	Ganz	137314	False	1843			ADV	 	137315
-Wrong Grammar	1	10595	4	ADJ		ganz	137314	False	1844				 	
-Wrong Grammar	0	10664	3	PRO	das	das	-1	False	1854				 	
+Wrong Grammar	1	10595	4	ADJ		ganz	137314	False	1844			ADV	 	
+Wrong Grammar	0	10664	3	PRO	das	das	-1	False	1854			CON	 	
 Wrong Disambiguation	1	10751	4	VER	gehen	geht	14248	False	1871				 	
 Wrong Disambiguation	1	10905	5	VER		haben	14364	False	1897				 	
-Wrong Grammar	1	11067	6	PRO	wer	Wessen		True	1921				 	
+Wrong Grammar	1	11067	6	PRO	wer	Wessen		True	1921			ADJ	 	
 Wrong Disambiguation	0	11085	8	VER	vertreten	vertritt	165184	False	1923				 	165183
 Wrong Disambiguation	0	11119	6	ADJ		sozial	63087	False	1930				 	
-Wrong Grammar	1	11126	4	ADV		noch	74484	False	1931				 	
+Wrong Grammar	1	11126	4	ADV		noch	74484	False	1931			CON	 	
 Wrong Disambiguation	1	11131	12	ADJ		demokratisch	118572	False	1932				 	
-Wrong Grammar	1	11226	10	ADV	kanadisch	kanadische		True	1944				 	
+Wrong Grammar	1	11226	10	ADV	kanadisch	kanadische		True	1944			ADJ	 	
 Missing Concept	0	11319	11	ADJ	entgangen	entgangenen		True	1956				 	
 Wrong Disambiguation	1	11380	7	NOU	Umweltbestimmung	Umwelt-	33195	True	1966				 	
 Wrong Disambiguation	1	11393	29	NOU	Verbraucherschutzbestimmung	Verbraucherschutzbestimmungen	128562	True	1968				 	
 Wrong Disambiguation	1	11433	8	NOU		Geschäft	2967	False	1971				 	
 Wrong Disambiguation	1	11458	5	VER		sagen	154792	False	1975				 	
-Wrong Grammar	1	11482	3	PRO	die	die	-1	False	1980				 	
+Wrong Grammar	1	11482	3	PRO	die	die	-1	False	1980			ART	 	
 Wrong Disambiguation	1	11693	13	ADJ		abgeschlossen	562508	False	2010				 	42300
-Wrong Grammar	0	11736	19	NOU	Neo-Kapitalistische	Neo-Kapitalistische	-1	False	2019				 	
+Wrong Grammar	0	11736	19	NOU	Neo-Kapitalistische	Neo-Kapitalistische	-1	False	2019			ADJ	 	
 Wrong Disambiguation	1	11803	4	PRE		nach	562278	False	2027				 	
 Wrong Disambiguation	1	11936	9	VER	abhängen	abgehängt	16343	False	2050				 	
 Wrong Recognition	1	11950	6	ADJ	weit	weiter	30148	False	2052		weiter	ADV	 	
@@ -2099,13 +2099,13 @@ Wrong Disambiguation	1	11983	8	VER	drängen	gedrängt	118719	False	2057				 
 Wrong Disambiguation	1	12008	4	ADV		noch	74484	False	2062				 	
 Wrong Disambiguation	1	12065	4	ADV		noch	74484	False	2071				 	
 Wrong Disambiguation	1	12107	5	VER		gehen	117714	False	2077				 	
-Wrong Grammar	1	12119	3	PRO	die	die	-1	False	2079				 	
+Wrong Grammar	1	12119	3	PRO	die	die	-1	False	2079			ART	 	
 Wrong Disambiguation	0	12151	6	NOU		Straße	100034442	False	2083				 	117896
 Wrong Disambiguation	1	12231	10	NOU		Wirtschaft	14673	False	2101				 	
 Wrong Disambiguation	0	12261	5	VER	fragen	frage	14345	False	2106				 	14351
 Wrong Disambiguation	1	12294	8	ADJ	sozial	sozialen	63087	False	2113				 	91427
 Wrong Disambiguation	1	12303	7	NOU	Friede	Frieden	3434	False	2114				 	
-Wrong Grammar	0	12396	3	PRO	das	das	-1	False	2127				 	
+Wrong Grammar	0	12396	3	PRO	das	das	-1	False	2127			CON	 	
 Wrong Disambiguation	1	12457	6	VER		machen	13039	False	2135				 	14553
 Wrong Disambiguation	1	12505	5	VER	lassen	lässt	17365	False	2143				 	146722
 Wrong Disambiguation	1	12548	6	ADV	sozial	Sozial	596400	False	2151				 	91427

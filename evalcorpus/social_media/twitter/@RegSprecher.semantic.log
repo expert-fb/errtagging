@@ -873,7 +873,7 @@
 
 SBJ=30:31;CPL=42:44;SBJ=40:46;SBJ=62:64;OBJ=62:69;SBJ=107:109;OBJ=114:116;SBJ=121:122;OBJ=123:122;SBJ=126:128;OBJ=127:128;SBJ=-52:134;SBJ=149:142;SBJ=-52:155;OBJ=157:155;TRM=156:155;SBJ=166:168;SBJ=190:189;OBJ=188:189;SBJ=199:200;SBJ=204:209;OBJ=207:209;SBJ=237:238;SBJ=248:253;OBJ=250:253;SBJ=270:269;OBJ=273:269;SBJ=276:277;SBJ=282:283;SBJ=294:291;SBJ=298:297;OBJ=299:297;SBJ=311:308;SBJ=349:350;SBJ=368:369;SBJ=373:372;OBJ=370:372;APH=375:373;SBJ=-52:378;OBJ=376:378;SBJ=381:382;OBJ=383:382;SBJ=393:394;OBJ=396:394;SBJ=412:413;CPL=414:413;SBJ=425:426;OBJ=427:426;SBJ=451:452;OBJ=506:507;SBJ=546:547;OBJ=548:547;SBJ=-52:612;CPL=613:612;SBJ=628:629;OBJ=631:629;SBJ=628:634;OBJ=633:634;SBJ=628:639;SBJ=628:640;SBJ=666:667;OBJ=669:667;SBJ=673:676;SBJ=-52:688;OBJ=689:688;SBJ=692:694;OBJ=693:694;SBJ=696:697;SBJ=708:709;SBJ=712:715;SBJ=714:715;APH=730:727;SBJ=-52:728;OBJ=727:728;SBJ=727:731;SBJ=-52:738;SBJ=754:755;SBJ=754:762;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	1	0	4	NOU	Gut	Gute	762	False	0				 	
+Wrong Grammar	1	0	4	NOU	Gut	Gute	762	False	0			ADJ	 	
 Wrong Entity Type	1	160	7	GEA		Schmidt	12110216	False	0				 	
 Wrong Entity Type	1	170	4	NOU		Kohl	4431	False	0				 	
 Wrong Disambiguation	1	214	4	VER	gehen	geht	14248	False	0				 	117714
@@ -881,7 +881,7 @@ Wrong Disambiguation	1	242	4	NOU		Haus	173232	False	0				 	1053
 Wrong Disambiguation	1	251	10	NOU		Geschichte	119335	False	0				 	
 Missing Entity	1	263	10	ADV	hdg_museen	hdg_museen	-1	False	0				 	
 Missing Concept	0	274	12	NOU	Begleitung	Begleitungen	47547	False	0				 	137014
-Wrong Grammar	1	307	1	NOU		u	98878	False	0				 	
+Wrong Grammar	1	307	1	NOU		u	98878	False	0			CON	 	
 Wrong Recognition	2	309	13	NOU		Kabinettssaal	11247	True	0				 	
 Wrong Disambiguation	1	355	4	VER	sein	sind	172056	False	0				 	
 Wrong Disambiguation	1	457	4	VER		sein	13136	False	0				 	
@@ -902,31 +902,31 @@ Wrong Disambiguation	1	1107	8	VER		schulden	15058	False	190				 	15056
 Missing Concept	0	1199	6	ADJ	stellv	stellv	-1	False	208				 	
 Wrong Disambiguation	0	1337	9	VER		entdecken	13095	False	231				 	174027
 Missing Concept	0	1421	18	NOU	Westbalkan-Treffen	Westbalkan-Treffen	-1	False	243				 	
-Wrong Grammar	1	1491	1	NOU		u	98878	False	251				 	
+Wrong Grammar	1	1491	1	NOU		u	98878	False	251			CON	 	
 Wrong Entity Type	1	1537	5	NPH		Syria	496459	False	257				 	
 Wrong Disambiguation	1	1558	6	NOU		Symbol	2103	False	260				 	100080071
 Wrong Disambiguation	1	1591	8	NOU		Tragödie	4872	False	265				 	4876
 Wrong Disambiguation	1	1618	8	ADJ	hoch	Höchsten	141978	False	269				 	
 Wrong Disambiguation	1	1653	12	ADJ	alternativ	alternativen	20503	False	274				 	123165
 Wrong Disambiguation	1	1723	15	VER		zusammenbringen	13229	False	284				 	168865
-Wrong Grammar	0	1770	4	NOU		Eins	100000199	False	292				 	
+Wrong Grammar	0	1770	4	NOU		Eins	100000199	False	292			ADJ	 	
 Wrong Disambiguation	1	1893	6	VER		machen	13039	False	309				 	
 Missing Entity	1	1922	7	ADV	marhaba	marhaba	-1	False	316				 	
 Missing Entity	1	1931	5	ADV	ntvde	ntvde	-1	False	318				 	
 Missing Entity	1	1962	10	NOU		Steinmeier	51126	True	323				 	
 Missing Entity	0	2021	7	ADV	2019/20	2019/20	-1	False	330				 	
-Wrong Grammar	1	2093	4	ADV		denn	130440	False	344				 	
-Wrong Grammar	1	2098	2	PRE	wichtig	je		True	345				 	
+Wrong Grammar	1	2093	4	ADV		denn	130440	False	344			CON	 	
+Wrong Grammar	1	2098	2	PRE	wichtig	je		True	345			ADV	 	
 Wrong Disambiguation	1	2119	4	VER	geben	gibt	13446	False	350				 	15231
 Wrong Recognition	1	2190	5	VER	unterziehen	zieht	163447	False	362				 	
 Missing Concept	0	2362	9	ADJ	Deutsche	Deutschen		True	385				 	
 Wrong Recognition	1	2399	6	ADJ	weit	weiter	30148	False	389		weiter		 	
-Wrong Grammar	1	2499	4	NOU	Gut	Gute	762	False	401				 	
+Wrong Grammar	1	2499	4	NOU	Gut	Gute	762	False	401			ADJ	 	
 Wrong Entity Form	1	2623	1	NOU		ü	98879	False	414				 	
 Missing Entity	1	2627	10	NOU		Steinmeier	51126	True	416				 	
 Wrong Recognition	2	2698	10	ADR		Müssen Weg	500604	True	428				 	
 Missing Entity	1	2744	10	NOU		Steinmeier	51126	True	436				 	
-Wrong Grammar	2	2849	4	VER	einen	eine	14874	False	453				 	
+Wrong Grammar	2	2849	4	VER	einen	eine	14874	False	453			ART	 	
 Wrong Disambiguation	1	2890	14	ADJ		Allerschärfste	85972	True	461				 	85974
 Wrong Disambiguation	1	2905	11	VER		verurteilen	17770	False	462				 	117558
 Missing Entity	1	2930	10	NOU		Steinmeier	51126	True	467				 	
@@ -934,23 +934,23 @@ Wrong Disambiguation	1	2970	20	NOU		Unterstützungsgruppe	8214	True	474				 
 Missing Entity	1	3008	14	NOU	Pascalstichler	pascalstichler	93692	True	481				 	
 Wrong Disambiguation	1	3039	5	VER	sehen	sieht	136398	False	483				 	
 Wrong Recognition	1	3105	7	ADJ	weit	weitere	66152	False	493		weiter		 	
-Wrong Grammar	1	3159	3	PRO	das	das	-1	False	502				 	
+Wrong Grammar	1	3159	3	PRO	das	das	-1	False	502			ART	 	
 Wrong Recognition	1	3199	4	NPR	Parl	Parl	-1	False	509				 	
 Wrong Disambiguation	1	3297	3	VER	haben	hat	12561	False	521				 	
-Wrong Grammar	0	3305	9	ADV	retweetet	retweetet	-1	False	523				 	
+Wrong Grammar	0	3305	9	ADV	retweetet	retweetet	-1	False	523			VER	 	
 Wrong Disambiguation	1	3373	7	ADJ	stark	starken	92981	False	534				 	
 Wrong Disambiguation	1	3429	4	NOU		Bild	868	False	540				 	
 Wrong Disambiguation	1	3569	8	VER	schwärmen	schwärmt	119601	False	565				 	119602
 Wrong Recognition	0	3579	2	NPR	XV	XV	-1	False	567				 	
 Wrong Disambiguation	1	3828	4	PRE		nach	562279	False	607				 	
 Wrong Disambiguation	1	3854	4	VER	gehen	geht	14248	False	613				 	
-Wrong Grammar	1	3865	5	ADV		darum	33073	False	615				 	
+Wrong Grammar	1	3865	5	ADV		darum	33073	False	615			PRO	 	
 Wrong Disambiguation	1	3872	5	NOU	Tat	Taten	400	False	617				 	
 Wrong Disambiguation	0	3881	6	VER		zeigen	15134	False	619				 	
 Wrong Recognition	1	4024	4	NOU	Prä	Präs	79357	False	640				 	
 Missing Entity	1	4031	9	ADV	fhollande	fhollande	-1	False	643				 	
 Wrong Disambiguation	1	4041	4	PRE		nach	562278	False	644				 	
-Wrong Grammar	1	4101	3	PRO	das	Das		True	652				 	
+Wrong Grammar	1	4101	3	PRO	das	Das		True	652			ART	 	
 Wrong Recognition	1	4110	8	VER	zeichnen	zeichnet	167931	False	655				 	
 Wrong Recognition	1	4131	5	ADV		innen	118849	False	658				 	
 Wrong Entity Type	1	4278	3	COM	Deutsche Bundesbank	BBK	100162222	False	674				 	

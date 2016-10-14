@@ -209,30 +209,30 @@ Wrong Entity Type	1	240	13	EVN		Turkish Forum	120381	True	0				 
 Wrong Entity Form	1	256	1	NOU	e	E	117238	False	0				 	
 Wrong Recognition	1	274	4	NPR	Betr	Betr	-1	False	0				 	
 Wrong Grammar	1	309	7	ADV	18/8613	18/8613	-1	False	34				 	
-Wrong Grammar	0	317	4	ADJ	bzgl	bzgl	-1	False	35				 	
+Wrong Grammar	0	317	4	ADJ	bzgl	bzgl	-1	False	35			ADV	 	
 Wrong Recognition	1	348	15	NPH		Beschlussfasung	100215627	True	41				 	
 Wrong Grammar	1	476	7	ADV	18/8613	18/8613	-1	False	58				 	
-Wrong Grammar	0	484	3	ADJ	bzg	bzg	-1	False	59				 	
+Wrong Grammar	0	484	3	ADJ	bzg	bzg	-1	False	59			ADV	 	
 Wrong Recognition	1	514	15	NPH		Beschlussfasung	100215627	True	65				 	
 Missing Concept	0	648	10	NOU	Fraktion	Fraktionen	92783	False	84				 	
 Wrong Disambiguation	1	736	12	VER	feststellen	festgestellt	12838	False	98				 	
-Wrong Grammar	1	796	3	PRO	der	des		True	108				 	
+Wrong Grammar	1	796	3	PRO	der	des		True	108			ART	 	
 Wrong Disambiguation	1	902	4	PRE		über	98894	False	122				 	
 Wrong Disambiguation	1	966	5	NOU		Bezug	107540866	False	135				 	
 Wrong Disambiguation	1	999	8	NOU		Aufnahme	100125191	False	140				 	
-Wrong Grammar	0	1132	3	CON	als	als	-1	False	159				 	
-Wrong Grammar	1	1143	3	PRO	der	des		True	161				 	
+Wrong Grammar	0	1132	3	CON	als	als	-1	False	159			PRE	 	
+Wrong Grammar	1	1143	3	PRO	der	des		True	161			ART	 	
 Wrong Disambiguation	1	1221	4	VER	halten	hält	13376	False	171				 	
 Wrong Disambiguation	1	1264	5	VER	legen	legte	16323	False	177				 	
-Wrong Grammar	1	1332	3	PRO	ein	ein	-1	False	185				 	
+Wrong Grammar	1	1332	3	PRO	ein	ein	-1	False	185			ADV	 	
 Wrong Disambiguation	1	1340	8	VER	auffordern	forderte	17500	False	187				 	
 Wrong Recognition	1	1470	8	ADJ	weit	weiteren	43176	False	206		weiter		 	
-Wrong Grammar	1	1519	5	NOU		Jetzt	100193168	False	213				 	
+Wrong Grammar	1	1519	5	NOU		Jetzt	100193168	False	213			ADV	 	
 Missing Concept	0	1604	17	ADJ		gesetzeskonformen	22392	True	226				 	
 Wrong Disambiguation	1	1722	6	ADV		wieder	74486	False	241				 	167250
 Wrong Disambiguation	1	1753	3	VER	sein	ist	172056	False	245				 	
 Wrong Disambiguation	0	1808	10	NOU		Behandlung	120424	False	254				 	
 Wrong Recognition	0	1857	6	ADV		zurück	121160	False	260		zurückverweisen		 	112519
 Wrong Recognition	1	1908	5	VER		fügen	136961	False	268				 	
-Wrong Grammar	1	1964	6	VER	erneuen	erneut	14970	False	277				 	
+Wrong Grammar	1	1964	6	VER	erneuen	erneut	14970	False	277			ADV	 	
 Wrong Disambiguation	0	2016	3	NOU		Dr.	100039631	False	285				 	131410

@@ -795,15 +795,15 @@ Wrong Disambiguation	0	93	10	NOU		Farbaufbau	40191	True	14				 	124861
 Wrong Disambiguation	1	112	14	NOU	Druckzylinder	Druckzylindern	100110304	True	17				 	
 Wrong Disambiguation	0	127	4	PRE		nach	562278	False	18				 	
 Wrong Disambiguation	1	136	16	NOU		Wendeeinrichtung	15324	True	20				 	
-Wrong Grammar	1	178	6	ADJ	Schöndruck	Schön-		True	27				 	
-Wrong Grammar	1	220	6	NOU	Acht	Achten	100023355	False	34				 	
+Wrong Grammar	1	178	6	ADJ	Schöndruck	Schön-		True	27			NOU	 	
+Wrong Grammar	1	220	6	NOU	Acht	Achten	100023355	False	34			VER	 	
 Wrong Disambiguation	1	239	8	ADJ	richtig	richtige	36197	False	38				 	
 Wrong Disambiguation	1	268	13	NOU	Feuchtmittel	Feuchtmittels	843	True	41				 	
-Wrong Grammar	1	285	6	NOU	Halt	Halten	3757	False	44				 	
-Wrong Grammar	1	326	4	VER	nahen	nahe	140324	False	50				 	
-Wrong Grammar	1	378	8	NOU	Arbeit	Arbeiten	541	False	61				 	
+Wrong Grammar	1	285	6	NOU	Halt	Halten	3757	False	44			VER	 	
+Wrong Grammar	1	326	4	VER	nahen	nahe	140324	False	50			ADJ	 	
+Wrong Grammar	1	378	8	NOU	Arbeit	Arbeiten	541	False	61			VER	 	
 Wrong Disambiguation	1	592	11	NOU		Abschmieren	599005	False	91				 	
-Wrong Grammar	1	618	6	ADJ	achte	achten	118892	False	95				 	
+Wrong Grammar	1	618	6	ADJ	achte	achten	118892	False	95			VER	 	
 Wrong Disambiguation	1	642	6	NOU	Punkt	Punkte	1334	False	99				 	
 Wrong Disambiguation	1	650	7	NOU		Anleger	21531	False	101				 	
 Wrong Disambiguation	1	664	11	NOU		Greiferrand	4124	True	104				 	
@@ -827,7 +827,7 @@ Wrong Disambiguation	1	1212	12	NOU	Vordermarke	Vordermarken	13159187	True	189			
 Wrong Disambiguation	1	1244	14	NOU		Seitenanschlag	120742	True	194				 	
 Wrong Disambiguation	1	1263	9	NOU		Ziehmarke	43015	True	196				 	
 Wrong Disambiguation	1	1299	12	NOU	Vordermarke	Vordermarken	13159187	True	201				 	
-Wrong Grammar	1	1333	6	ADJ	achte	achten	118892	False	206				 	
+Wrong Grammar	1	1333	6	ADJ	achte	achten	118892	False	206			VER	 	
 Wrong Disambiguation	1	1360	14	NOU		Zuführzylinder	100110304	True	212				 	
 Missing Concept	0	1375	10	ADV	Falte	faltenfrei		True	213				 	
 Wrong Disambiguation	0	1386	10	VER	übernehmen	übernommen	117023	False	214				 	
@@ -854,7 +854,7 @@ Wrong Disambiguation	1	1832	10	NOU		Farbresten	4218	True	0				 
 Wrong Disambiguation	1	1847	13	NOU	Schmutzrest	Schmutzresten	4218	True	0				 	
 Wrong Disambiguation	1	1869	20	NOU	Druckschwierigkeit	Druckschwierigkeiten	14809	True	0				 	
 Wrong Disambiguation	1	1932	8	ADV	scharf	scharfen	596366	False	0				 	19745
-Wrong Grammar	1	1942	8	NOU	ätzenden	ätzenden	-1	False	0				 	
+Wrong Grammar	1	1942	8	NOU	ätzenden	ätzenden	-1	False	0			ADJ	 	
 Wrong Disambiguation	1	2001	9	VER		angreifen	15787	False	0				 	16844
 Wrong Disambiguation	1	2012	14	NOU	Umführtrommel	Umführtrommeln	3365	True	0				 	
 Wrong Disambiguation	1	2036	16	NOU		Wendeeinrichtung	15324	True	0				 	
@@ -865,10 +865,10 @@ Wrong Disambiguation	2	2305	5	NOU		Dicke	131076	False	0				 
 Wrong Disambiguation	1	2330	14	NOU	Umführtrommel	Umführtrommeln	3365	True	0				 	
 Wrong Disambiguation	2	2360	6	NOU	Messe	Messen	100288514	False	0				 	
 Wrong Recognition	1	2380	6	VER	fahren	führen	17536	False	0				 	
-Wrong Grammar	1	2410	6	VER		dicken	36342	False	0				 	
+Wrong Grammar	1	2410	6	VER		dicken	36342	False	0			ADJ	 	
 Wrong Disambiguation	1	2467	13	NOU		Druckzylinder	100110304	True	0				 	
 Wrong Disambiguation	1	2485	13	NOU		Umführtrommel	3365	True	0				 	
-Wrong Grammar	2	2499	3	VER	einen	ein	14874	False	0				 	
+Wrong Grammar	2	2499	3	VER	einen	ein	14874	False	0			ADV	 	
 Wrong Disambiguation	1	2506	13	NOU		Umführtrommel	3365	True	0				 	
 Wrong Disambiguation	1	2528	15	NOU		Speichertrommel	3365	True	0				 	
 Wrong Disambiguation	1	2569	15	NOU		Speichertrommel	3365	True	0				 	
@@ -896,10 +896,10 @@ Wrong Disambiguation	1	3795	7	NOU		Wechsel	166645	False	573				 	19147
 Wrong Disambiguation	1	3807	7	ADJ	dick	dickere	33457	False	575				 	33459
 Wrong Disambiguation	1	4136	2	ADV		so	130436	False	622				 	
 Wrong Recognition	2	4243	10	NOU	Saugband	Saugbänder	100215380	True	640				 	
-Wrong Grammar	1	4268	4	NPR	Evtl	Evtl	-1	False	644				 	
+Wrong Grammar	1	4268	4	NPR	Evtl	Evtl	-1	False	644			ADV	 	
 Wrong Recognition	1	4278	19	NOU	Papierträgerstang	Papierträgerstangen	100237169	True	647				 	
 Wrong Recognition	1	4312	9	VER	dareinsetzen	einsetzen	32272	False	650		einsetzen		 	16412
-Wrong Grammar	1	4329	6	ADJ	Schöndruck	Schön-		True	654				 	
+Wrong Grammar	1	4329	6	ADJ	Schöndruck	Schön-		True	654			NOU	 	
 Missing Concept	0	4355	14	NPR	Bogenentroller	Bogenentroller	-1	False	658				 	
 Wrong Disambiguation	1	4370	9	VER		abstellen	16021	False	659				 	17810
 Wrong Disambiguation	1	4478	9	VER		abstellen	16021	False	675				 	17810
@@ -912,11 +912,11 @@ Wrong Disambiguation	1	4741	6	ADV		wieder	74486	False	714				 
 Wrong Disambiguation	1	4748	9	VER	abziehen	abgezogen	117933	False	715				 	
 Wrong Disambiguation	1	4793	9	NOU		Belastung	28338	False	721				 	
 Wrong Disambiguation	1	4835	12	NOU		Bogenhaftung	101404417	True	728				 	
-Wrong Grammar	1	4954	5	NOU		Ideal	57535	False	744				 	
+Wrong Grammar	1	4954	5	NOU		Ideal	57535	False	744			ADJ	 	
 Wrong Disambiguation	1	4969	4	NOU		Höhe	142141	False	747				 	
 Wrong Disambiguation	1	5033	17	NOU		Gummituchzylinder	100110304	True	758				 	
 Wrong Disambiguation	1	5055	13	NOU		Druckzylinder	100110304	True	760				 	
-Wrong Grammar	1	5159	6	ADV	kurz	kürzer	65656	False	776				 	
+Wrong Grammar	1	5159	6	ADV	kurz	kürzer	65656	False	776			ADJ	 	
 Wrong Disambiguation	1	5196	12	ADJ	eingestellt	eingestellte	36493	False	783				 	
 Wrong Disambiguation	1	5220	16	NOU		Wendeeinrichtung	15324	True	786				 	
 Wrong Disambiguation	1	5262	6	NOU		Papier	3387	False	791				 	
@@ -937,6 +937,6 @@ Wrong Disambiguation	1	5976	18	NOU		Grobumfangregister	102210505	True	900				 
 Wrong Disambiguation	1	5999	5	NOU		Stand	17380	False	902				 	
 Wrong Disambiguation	1	6026	10	VER		einstellen	16022	False	905				 	
 Wrong Disambiguation	1	6038	7	NOU		Hinweis	10468	False	907				 	
-Wrong Grammar	1	6046	7	NOU	Stelle	Stellen	3451	False	908				 	
+Wrong Grammar	1	6046	7	NOU	Stelle	Stellen	3451	False	908				 	VER
 Wrong Disambiguation	1	6080	18	NOU		Grobumfangregister	102210505	True	913				 	
 Wrong Disambiguation	1	6099	6	ADV		wieder	74486	False	914				 	

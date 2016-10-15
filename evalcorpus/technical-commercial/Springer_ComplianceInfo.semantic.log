@@ -549,14 +549,14 @@ Wrong Disambiguation	1	190	5	NOU		Recht	100780687	False	0				 	100007748
 Missing Entity	1	298	8	NOU		Springer	120914	False	0				 	
 Wrong Disambiguation	1	339	11	VER	einhalten	eingehalten	14219	False	0				 	
 Wrong Grammar	1	358	1	ADV		"		False	0				 	
-Wrong Grammar	1	360	10	ADJ	compliance	compliance	-1	False	0				 	
+Wrong Grammar	1	360	10	ADJ	compliance	compliance	-1	False	0			NOU	 	
 Wrong Disambiguation	1	372	5	VER	stehen	steht	32369	False	0				 	
 Missing Concept	0	400	9	NOU	Einhalten	Einhalten	-1	False	0				 	
 Missing Concept	0	453	4	NOU		Fünf	105121080	False	0				 	
 Wrong Disambiguation	1	471	7	VER	bestehen	besteht	13082	False	0				 	
 Wrong Disambiguation	1	487	15	NOU		Compliance-Büro	1712	True	0				 	100182060
 Missing Entity	1	554	8	NOU		Springer	120914	False	0				 	
-Wrong Grammar	1	566	7	NOU		Interne	58796	False	0				 	
+Wrong Grammar	1	566	7	NOU		Interne	58796	False	0			ADJ	 	
 Wrong Disambiguation	1	626	18	NOU		Compliance-Prüfung	1355	True	0				 	
 Missing Concept	0	704	4	NOU		Fünf	105121080	False	0				 	
 Wrong Disambiguation	1	728	4	ADV		dazu	98967	False	0				 	
@@ -564,7 +564,7 @@ Wrong Disambiguation	1	794	7	NOU	Schade	Schäden	119743	False	0				 
 Wrong Disambiguation	1	811	3	PRE		vor	596943	False	0				 	
 Wrong Disambiguation	1	829	7	NOU	Schade	Schäden	119743	False	0				 	
 Wrong Recognition	1	850	7	ADJ	weit	Weitere	30148	False	0				 	
-Wrong Grammar	1	962	13	ADV	übrig bleiben	Übrig bleiben		False	0				 	
+Wrong Grammar	1	962	13	ADV	übrig bleiben	Übrig bleiben		False	0			VER	 	
 Wrong Disambiguation	1	981	6	ADJ		allein	20202	False	0				 	
 Wrong Disambiguation	1	1037	12	ADJ	menschlich	menschliches	70333	False	0				 	
 Wrong Disambiguation	1	1092	15	NOU		Compliance-Büro	1712	True	0				 	
@@ -583,7 +583,7 @@ Wrong Disambiguation	1	1643	5	VER	sorgen	sorgt	119414	False	0				 
 Wrong Disambiguation	0	1820	11	NOU		Möglichkeit	119815	False	0				 	4320
 Wrong Disambiguation	0	1954	3	NOU		Dr.	100039631	False	0				 	
 Wrong Disambiguation	1	2060	9	VER		behandeln	14780	False	0				 	14116
-Wrong Grammar	1	2071	2	PRE	um	Um		False	0				 	
+Wrong Grammar	1	2071	2	PRE	um	Um		False	0			CON	 	
 Wrong Recognition	1	2129	6	ADJ	weit	weiter	43176	False	0				 	
 Wrong Disambiguation	0	2139	7	VER		stärken	16364	False	0				 	501153
 Missing Entity	1	2157	8	NOU		Springer	120914	False	0				 	
@@ -595,7 +595,7 @@ Wrong Entity Type	0	2304	4	NPR		BKMS	222	True	0				 
 Wrong Disambiguation	1	2309	6	NOU		Portal	152076	False	0				 	
 Wrong Disambiguation	1	2368	5	VER	stehen	steht	32369	False	0				 	
 Missing Entity	1	2419	8	NOU		Springer	120914	False	0				 	
-Wrong Grammar	1	2443	2	PRE	um	um	-1	False	0				 	
+Wrong Grammar	1	2443	2	PRE	um	um	-1	False	0			CON	 	
 Wrong Disambiguation	1	2476	11	VER		adressieren	122804	False	0				 	
 Wrong Disambiguation	1	2545	13	NOU	Information	Informationen	24565	False	0				 	
 Wrong Disambiguation	0	2559	6	VER		können	14354	False	0				 	
@@ -609,7 +609,7 @@ Missing Concept	0	2865	13	NOU	übergeordnete	übergeordnete	-1	False	0				 
 Wrong Disambiguation	1	2981	6	ADJ		gültig	27271	False	0				 	
 Wrong Disambiguation	0	3097	14	ADJ	zugeschnitten	zugeschnittene	69606	False	0				 	
 Wrong Disambiguation	1	3150	6	VER		finden	16122	False	0				 	
-Wrong Grammar	1	3212	7	NOU		Interne	58796	False	0				 	
+Wrong Grammar	1	3212	7	NOU		Interne	58796	False	0			ADJ	 	
 Missing Entity	1	3247	8	NOU		Springer	120914	False	0				 	
 Wrong Disambiguation	1	3285	4	PRE		über	596948	False	0				 	
 Wrong Disambiguation	1	3344	6	NOU	Kanal	Kanäle	5238	False	0				 	
@@ -624,14 +624,14 @@ Missing Entity	1	3825	8	NOU		Springer	120914	False	0				 
 Wrong Disambiguation	1	3844	6	NOU		Inhalt	728	False	0				 	
 Wrong Disambiguation	1	3893	18	NOU		Compliance-Prüfung	1355	True	0				 	
 Missing Entity	1	3937	8	NOU		Springer	120914	False	0				 	
-Wrong Grammar	1	3972	3	ART	die	der		False	0				 	
+Wrong Grammar	1	3972	3	ART	die	der		False	0			PRO	 	
 Wrong Disambiguation	1	4076	4	VER	geben	gibt	13134	False	0				 	
 Missing Entity	1	4102	8	NOU		Springer	120914	False	0				 	
-Wrong Grammar	1	4139	8	NOU		Springer	120914	False	0				 	
+Wrong Entity	1	4139	8	NOU		Springer	120914	False	0				 	
 Wrong Disambiguation	2	4159	5	NOU		Board	100178131	False	0				 	
 Wrong Disambiguation	1	4230	4	VER	werden	wird	14301	False	0				 	
 Missing Entity	1	4357	8	NOU		Springer	120914	False	0				 	
-Wrong Grammar	1	4430	19	NPR	Schritt für Schritt	Schritt für Schritt	-1	False	0				 	
+Wrong Grammar	1	4430	19	NPR	Schritt für Schritt	Schritt für Schritt	-1	False	0			ADV	 	
 Wrong Disambiguation	1	4470	11	NOU	Instrument	Instrumente	100034379	False	0				 	
 Missing Entity	1	4552	8	NOU		Springer	120914	False	0				 	
 Wrong Disambiguation	1	4628	9	VER	schärfen	geschärft	155308	False	0				 	15801

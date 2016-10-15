@@ -412,10 +412,10 @@ Wrong Disambiguation	1	196	6	VER		bieten	13302	False	22				 	13273
 Wrong Disambiguation	1	226	8	ADJ	einzeln	einzelne	39679	False	27				 	37349
 Wrong Disambiguation	1	235	19	NOU	Produktionsschritt	Produktionsschritte	16168	True	28				 	37349
 Missing Concept	0	264	13	ADV	technologisch	technologisch	-1	False	31				 	
-Wrong Grammar	1	297	10	VER	optimieren	optimierte	75800	False	34				 	
+Wrong Grammar	1	297	10	VER	optimieren	optimierte	75800	False	34			ADJ	 	
 Wrong Disambiguation	0	308	8	NOU	Lösung	Lösungen	121241	False	35				 	565232
 Wrong Disambiguation	1	346	8	VER		schaffen	13188	False	41				 	
-Wrong Grammar	1	355	5	CON	damit	damit	-1	False	42				 	
+Wrong Grammar	1	355	5	CON	damit	damit	-1	False	42			PRO	 	
 Wrong Disambiguation	0	361	6	ADJ	echt	echten	25192	False	43				 	82526
 Wrong Disambiguation	1	402	4	NOU		Ziel	4118	False	50				 	
 Wrong Disambiguation	1	455	11	ADJ	organisch	organisches	150698	False	58				 	139746
@@ -423,15 +423,15 @@ Missing Concept	0	534	6	VER	umsetzen	setzen	16442	False	69				 	13125
 Wrong Disambiguation	1	569	4	ADJ	hoch	hohe	88257	False	75				 	
 Wrong Disambiguation	0	595	7	VER		stellen	118429	False	80				 	
 Wrong Disambiguation	1	624	11	NOU		Mittelpunkt	101645406	False	85				 	501331
-Wrong Grammar	1	636	7	PRO	unser	unserer		True	86				 	
+Wrong Grammar	1	636	7	PRO	unser	unserer		True	86			ADJ	 	
 Wrong Disambiguation	1	811	7	NOU	Markt	Marktes	113033698	False	109				 	
 Missing Concept	0	904	8	NOU	Handeln	Handelns		True	121				 	
 Wrong Recognition	1	960	5	VER		gehen	14248	False	130				 	
-Wrong Grammar	1	981	9	NOU	standort-	standort-	-1	False	133				 	
+Wrong Grammar	1	981	9	NOU	standort-	standort-	-1	False	133			ADJ	 	
 Wrong Disambiguation	1	1020	15	NOU	Partnerschaft	Partnerschaften	590415	False	136				 	
 Wrong Disambiguation	1	1039	11	NOU		Entwicklung	100001063	False	138				 	
 Wrong Disambiguation	1	1055	8	NOU		Vertrieb	103522	False	140				 	
-Wrong Grammar	1	1185	12	ADV	akademisch	akademischen		True	158				 	
+Wrong Grammar	1	1185	12	ADV	akademisch	akademischen		True	158			ADJ	 	
 Wrong Disambiguation	1	1209	7	VER	bestehen	besteht	13089	False	160				 	
 Wrong Disambiguation	1	1253	9	NOU		Austausch	25133	False	165				 	25054
 Wrong Disambiguation	1	1303	6	VER		setzen	16022	False	171				 	
@@ -439,13 +439,13 @@ Wrong Disambiguation	1	1411	9	COM	Allianz	Allianzen	177795	False	182				 
 Wrong Recognition	1	1507	5	VER	hängen	hängt	139667	False	195		abhängen		 	16343
 Wrong Disambiguation	1	1645	6	ADV		hinweg	118286	False	214				 	55688
 Wrong Disambiguation	1	1652	6	VER	darstellen	stellt	14778	False	215				 	14805
-Wrong Grammar	1	1673	5	PRO	unser	unser	-1	False	219				 	
+Wrong Grammar	1	1673	5	PRO	unser	unser	-1	False	219			ADJ	 	
 Wrong Recognition	1	1748	6	VER		nehmen	12747	False	229		einnehmen		 	15989
-Wrong Grammar	1	1864	3	VER	einen	ein	14874	False	242				 	
+Wrong Grammar	1	1864	3	VER	einen	ein	14874	False	242			ADV	 	
 Wrong Disambiguation	1	1906	18	NOU	Unternehmenswert	Unternehmenswerten	101748	False	250				 	2493
 Wrong Disambiguation	1	1876	8	VER	spiegeln	spiegelt	91964	False	245				 	13304
 Wrong Disambiguation	1	1995	4	NOU		Ziel	4118	False	267				 	4116
-Wrong Grammar	1	2114	8	PRO	gesamt	gesamten		True	285				 	
+Wrong Grammar	1	2114	8	PRO	gesamt	gesamten		True	285			ADJ	 	
 Wrong Disambiguation	1	2123	12	NOU		Gesellschaft	104830453	False	286				 	
 Missing Concept	0	2149	13	ADJ	wertschaffend	wertschaffend	-1	False	289				 	
 Wrong Disambiguation	0	2196	8	VER		gewinnen	32516	False	296				 	13811
@@ -453,16 +453,16 @@ Wrong Disambiguation	1	2223	7	NOU		Partner	13084	False	300				 
 Wrong Disambiguation	0	2247	11	NOU	Bedürfnis	Bedürfnisse	1604	False	304				 	146917
 Wrong Disambiguation	0	2260	10	VER		entwickeln	14725	False	306				 	14739
 Wrong Recognition	1	2284	7	VER		stellen	118429	False	309		sicherstellen		 	48642
-Wrong Grammar	1	2292	5	CON	damit	damit	-1	False	310				 	
+Wrong Grammar	1	2292	5	CON	damit	damit	-1	False	310			ADV	 	
 Wrong Disambiguation	1	2329	13	VER		qualifizieren	120133	False	316				 	120131
-Wrong Grammar	0	2462	16	ADV	qualitätsbewusst	qualitätsbewusst	-1	False	333				 	
+Wrong Grammar	0	2462	16	ADV	qualitätsbewusst	qualitätsbewusst	-1	False	333			ADJ	 	
 Wrong Disambiguation	1	2479	7	VER		agieren	48542	False	334				 	14264
 Wrong Recognition	1	2513	6	NOU		Umwelt	15711	False	339				 	
 Wrong Entity Type	1	2572	3	ORG		EHS	1035	True	346				 	
 Wrong Disambiguation	1	2761	12	NOU		Gesellschaft	104830453	False	372				 	
 Wrong Recognition	1	2837	6	VER		halten	12739	False	382				 	
 Wrong Disambiguation	0	2942	7	VER		sichern	120275	False	398				 	48642
-Wrong Grammar	1	2950	7	PRO	unser	unseren		True	399				 	
+Wrong Grammar	1	2950	7	PRO	unser	unseren		True	399			ADJ	 	
 Wrong Recognition	0	3075	7	COM		Pharma-	104830453	True	416				 	
 Wrong Entity Form	1	3118	30	COM		Segmenten Bioprocess Solutions	104830453	True	422				 	
 Missing Concept	0	3272	9	ADJ	Göttinger	Göttinger	-1	False	441				 	

@@ -819,7 +819,7 @@
 SBJ=2:3;SBJ=2:19;SBJ=22:24;OBJ=22:25;OBJ=112:117;OBJ=121:125;SBJ=128:132;SBJ=143:145;OBJ=139:145;SBJ=150:155;OBJ=154:155;SBJ=159:161;SBJ=171:172;OBJ=164:172;SBJ=174:178;SBJ=181:183;SBJ=187:188;SBJ=190:197;CPL=191:197;OBJ=190:198;SBJ=204:206;SBJ=210:211;OBJ=210:213;SBJ=219:222;OBJ=220:222;OBJ=227:234;SBJ=236:237;OBJ=236:242;SBJ=252:255;CPL=271:255;SBJ=289:288;OBJ=289:293;SBJ=308:309;OBJ=311:309;SBJ=318:320;CPL=321:320;SBJ=324:326;CPL=327:326;APH=329:327;OBJ=327:340;SBJ=342:344;OBJ=342:350;SBJ=354:353;SBJ=358:359;OBJ=364:366;SBJ=368:369;OBJ=374:379;CPL=386:385;SBJ=384:390;CPL=396:395;SBJ=394:398;CPL=410:409;SBJ=408:412;CPL=434:433;SBJ=430:435;SBJ=440:444;OBJ=459:461;SBJ=466:469;CPL=470:469;CPL=472:469;SBJ=532:538;SBJ=543:545;SBJ=585:578;OBJ=586:578;SBJ=591:594;SBJ=607:608;OBJ=614:616;SBJ=623:624;OBJ=635:636;SBJ=640:641;OBJ=649:650;SBJ=653:654;SBJ=659:660;CPL=661:660;SBJ=666:665;SBJ=693:696;OBJ=692:696;SBJ=700:702;SBJ=707:709;SBJ=717:719;SBJ=727:729;APH=485:284;APH=546:284;APH=595:284;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
 Wrong Disambiguation	1	298	9	VER		erreichen	14005	False	36				 	
-Wrong Grammar	1	376	3	PRO	die	der		True	47				 	
+Wrong Grammar	1	376	3	PRO	die	der		True	47			ART	 	
 Wrong Disambiguation	1	383	7	NOU		Prüfung	117851	False	49				 	500971
 Wrong Disambiguation	1	395	7	NOU	Antrag	Anträge	22083	False	51				 	22082
 Wrong Disambiguation	0	423	11	NOU		Genehmigung	3453	False	55				 	22082
@@ -834,7 +834,7 @@ Wrong Disambiguation	1	630	4	NOU		Abs.	122344	False	91				 
 Wrong Entity Type	1	637	7	COM		BImSchG	104830453	True	93				 	
 Wrong Disambiguation	1	650	7	NOU		Prüfung	117851	False	97				 	
 Wrong Disambiguation	1	662	7	NOU	Antrag	Anträge	22083	False	99				 	
-Wrong Grammar	1	745	3	PRO	der	des		True	110				 	
+Wrong Grammar	1	745	3	PRO	der	des		True	110			ART	 	
 Wrong Entity Type	1	782	7	COM		BImSchG	104830453	True	119				 	
 Wrong Disambiguation	1	795	7	NOU		Prüfung	117851	False	123				 	
 Wrong Disambiguation	1	807	25	NOU		Genehmigungsbedürftigkeit	22793	True	125				 	
@@ -854,7 +854,7 @@ Wrong Entity Type	1	1133	7	COM		BImSchG	104830453	True	175				 
 Wrong Disambiguation	1	1147	6	NOU		Schutz	3163	False	0				 	
 Wrong Disambiguation	1	1154	3	PRE		vor	596945	False	0				 	
 Wrong Disambiguation	1	1257	8	VER	regeln	geregelt	16023	False	0				 	
-Wrong Grammar	1	1267	7	ADV		dagegen	130327	False	0				 	
+Wrong Grammar	1	1267	7	ADV		dagegen	130327	False	0			CON	 	
 Wrong Disambiguation	1	1385	8	VER	regeln	geregelt	16023	False	0				 	
 Wrong Disambiguation	1	1399	13	NOU	Anforderung	Anforderungen	105380723	False	0				 	
 Wrong Disambiguation	1	1454	22	ADJ		genehmigungsbedürftige	26423	True	0				 	
@@ -870,14 +870,14 @@ Wrong Disambiguation	1	1991	12	VER	heranziehen	herangezogen	14234	False	0				 	1
 Wrong Recognition	1	2031	20	NOU	Immissionskenngröße	Immissionskenngrößen	2491	True	0				 	61282
 Wrong Disambiguation	1	2057	6	NOU		Nummer	14339	False	0				 	
 Wrong Disambiguation	0	2093	7	NOU		Prüfung	117851	False	0				 	500971
-Wrong Grammar	1	2132	5	CON	damit	damit	-1	False	0				 	
+Wrong Grammar	1	2132	5	CON	damit	damit	-1	False	0			PRO	 	
 Wrong Disambiguation	0	2149	7	NOU		Aufwand	113516686	False	0				 	119336
-Wrong Grammar	1	2181	6	NOU	Trage	Tragen	161140	False	0				 	
+Wrong Grammar	1	2181	6	NOU	Trage	Tragen	161140	False	0			VER	 	
 Wrong Disambiguation	1	2194	22	ADJ		genehmigungsbedürftige	26423	True	0				 	
 Wrong Disambiguation	1	2217	7	NOU	Anlage	Anlagen	31102	False	0				 	
 Wrong Disambiguation	1	2295	3	VER	sein	ist	12562	False	0				 	
 Wrong Disambiguation	1	2302	6	VER		prüfen	13159	False	0				 	13153
-Wrong Grammar	1	2313	3	PRO	die	die	-1	False	0				 	
+Wrong Grammar	1	2313	3	PRO	die	die	-1	False	0			ART	 	
 Wrong Disambiguation	1	2326	5	NOU		Stand	17380	False	0				 	
 Wrong Disambiguation	0	2354	13	NOU	Möglichkeit	Möglichkeiten	119815	False	0				 	4320
 Wrong Disambiguation	1	2416	5	NOU		Stand	17380	False	0				 	
@@ -887,7 +887,7 @@ Wrong Disambiguation	1	2568	4	NOU		Nrn.	14339	False	0				 
 Wrong Entity Type	1	2581	7	COM		BImSchG	104830453	True	0				 	
 Wrong Disambiguation	1	2613	22	ADJ		genehmigungsbedürftige	26423	True	0				 	
 Wrong Disambiguation	1	2636	7	NOU	Anlage	Anlagen	31102	False	0				 	
-Wrong Grammar	1	2682	3	PRO	der	die		False	0				 	
+Wrong Grammar	1	2682	3	PRO	der	die		False	0			ART	 	
 Wrong Disambiguation	1	2689	6	NOU		Nummer	309	False	0				 	
 Wrong Disambiguation	1	2702	22	ADJ		genehmigungsbedürftige	26423	True	0				 	
 Wrong Disambiguation	1	2725	7	NOU	Anlage	Anlagen	31102	False	0				 	
@@ -979,10 +979,10 @@ Wrong Entity Form	1	5841	5	ADJ	101,3	101,3	-1	False	0				 
 Wrong Disambiguation	1	5866	15	NOU	Feuchtegehalt	Feuchtegehaltes	119306	True	0				 	
 Missing Concept	0	5911	11	ADJ	emittiert	emittierten		False	0				 	
 Wrong Disambiguation	1	5948	7	VER	beziehen	bezogen	119588	False	0				 	
-Wrong Grammar	1	6029	3	PRO	die	die	-1	False	0				 	
+Wrong Grammar	1	6029	3	PRO	die	die	-1	False	0			ART	 	
 Wrong Disambiguation	1	6085	7	NOU		Betrieb	104830453	False	0				 	
 Wrong Disambiguation	1	6099	6	NOU		Anlage	31102	False	0				 	
-Wrong Grammar	1	6112	3	PRO	der	den		False	0				 	
+Wrong Grammar	1	6112	3	PRO	der	den		False	0			ART	 	
 Wrong Disambiguation	1	6208	6	NOU		Anlage	31102	False	0				 	
 Missing Concept	0	6230	11	ADJ	emittiert	emittierten		False	0				 	
 Wrong Disambiguation	1	6249	7	VER	beziehen	bezogen	119588	False	0				 	
@@ -997,10 +997,10 @@ Wrong Disambiguation	1	6465	5	NOU		Masse	4973	False	0				 
 Wrong Disambiguation	1	6490	13	ADJ	verarbeitet	verarbeiteten	562574	False	0				 	163692
 Wrong Disambiguation	1	6562	16	NOU		Massenverhältnis	100223642	True	0				 	
 Wrong Disambiguation	1	6579	4	VER	eingehen	geht	120980	False	0				 	
-Wrong Grammar	1	6584	3	PRO	die	die	-1	False	0				 	
+Wrong Grammar	1	6584	3	PRO	die	die	-1	False	0			ART	 	
 Wrong Disambiguation	1	6631	7	NOU		Betrieb	104830453	False	0				 	
 Wrong Disambiguation	1	6645	6	NOU		Anlage	31102	False	0				 	
-Wrong Grammar	1	6658	3	PRO	der	den		False	0				 	
+Wrong Grammar	1	6658	3	PRO	der	den		False	0			ART	 	
 Wrong Disambiguation	1	6754	6	NOU		Anlage	31102	False	0				 	
 Wrong Disambiguation	1	6780	16	NOU	Geruchseinheit	Geruchseinheiten	118557	True	0				 	100047574
 Missing Concept	0	6801	11	ADJ	emittiert	emittierten		False	0				 	
@@ -1011,12 +1011,12 @@ Wrong Disambiguation	1	6930	15	NOU	Feuchtegehalt	Feuchtegehaltes	119306	True	0		
 Missing Concept	0	7000	15	ADJ	olfaktometrisch	olfaktometrisch	-1	False	0				 	
 Wrong Disambiguation	1	7016	9	ADJ	gemessen	gemessene	19897	False	0				 	
 Wrong Disambiguation	1	7076	10	NOU		Abgasprobe	14276	True	0				 	
-Wrong Grammar	2	7103	3	ADV		bis	28941	False	0				 	
+Wrong Grammar	2	7103	3	ADV		bis	28941	False	0			PRE	 	
 Wrong Disambiguation	1	7111	14	NOU		Geruchschwelle	100774145	True	0				 	
 Wrong Disambiguation	1	7156	15	NOU		Geruchsschwelle	100774145	True	0				 	
 Missing Concept	0	7265	11	ADJ	emittiert	emittierten		False	0				 	
 Missing Concept	0	7289	20	ADJ	luftverunreinigenden	luftverunreinigenden	-1	False	0				 	
-Wrong Grammar	1	7321	3	PRO	die	der		False	0				 	
+Wrong Grammar	1	7321	3	PRO	die	der		False	0			ART	 	
 Wrong Disambiguation	1	7345	14	NOU	Einsatzstoff	Einsatzstoffen	100028823	True	0				 	
 Wrong Disambiguation	1	7372	5	NOU		Masse	4973	False	0				 	
 Wrong Disambiguation	1	7387	9	VER	angeben	angegeben	135715	False	0				 	13715
@@ -1030,7 +1030,7 @@ Missing Concept	0	7859	14	ADV	festzulegenden	festzulegenden	-1	False	0				 
 Wrong Disambiguation	1	7920	21	NOU	Massenkonzentration	Massenkonzentrationen	119771	True	0				 	
 Wrong Disambiguation	1	8045	13	NOU		Konzentration	119771	False	0				 	
 Wrong Recognition	1	8077	22	NOU	Halbstundenmittelwert	Halbstundenmittelwerte	13523	True	0				 	71360
-Wrong Grammar	1	8100	3	PRO	das	das	-1	False	0				 	
+Wrong Grammar	1	8100	3	PRO	das	das	-1	False	0			ART	 	
 Wrong Disambiguation	1	8128	13	NOU		Konzentration	119771	False	0				 	
 Wrong Disambiguation	1	8190	7	VER	beziehen	bezogen	119588	False	0				 	
 Wrong Disambiguation	1	8237	18	NOU	Massenverhältnis	Massenverhältnisse	100223642	True	0				 	

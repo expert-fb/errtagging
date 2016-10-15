@@ -522,7 +522,7 @@ Wrong Entity Form	1	195	5	NOU		Super	95166	False	30				 
 Missing Concept	0	201	14	NOU	AMOLED-Display	AMOLED-Display	-1	False	31				 	
 Wrong Entity Form	0	220	15	NPR	Galaxy Tab S2 9	Galaxy Tab S2 9	-1	False	33				 	
 Missing Entity	0	245	7	NOU	SM-T813	SM-T813	-1	False	38				 	
-Wrong Grammar	1	258	5	PRO	ein	einer		True	41				 	
+Wrong Grammar	1	258	5	PRO	ein	einer		True	41			ART	 	
 Wrong Recognition	1	430	11	NPR	Seherlebni	Seherlebnis	222	True	65				 	
 Wrong Disambiguation	1	491	11	NOU		Darstellung	2142	False	76				 	561956
 Wrong Disambiguation	1	537	10	NOU	Dokument	Dokumenten	103150005	False	83				 	100086920
@@ -536,7 +536,7 @@ Wrong Disambiguation	1	935	4	PRE		über	596948	False	0				 
 Wrong Disambiguation	1	985	3	VER	sein	ist	172056	False	0				 	
 Wrong Disambiguation	1	1028	7	ADJ	dunkel	dunklen	35074	False	0				 	131827
 Wrong Disambiguation	1	1103	4	VER	können	kann	12879	False	0				 	
-Wrong Grammar	1	1164	2	CON	um	um	-1	False	0				 	
+Wrong Grammar	1	1164	2	CON	um	um	-1	False	0			PRE	 	
 Missing Concept	0	1252	8	NOU	Auflegen	Auflegen	-1	False	0				 	
 Wrong Disambiguation	1	1281	4	DEV		Home	3652	True	0				 	
 Wrong Entity Form	0	1384	23	DEV		Samsung Galaxy Tab S2 9	100493064	True	0				 	
@@ -546,7 +546,7 @@ Wrong Disambiguation	1	1473	9	NOU		Mobilität	498668	False	0				 
 Wrong Disambiguation	0	1487	4	VER	können	kann	14354	False	217				 	
 Wrong Entity Form	1	1512	17	PRD		Microsoft Office®	100011255	True	220				 	
 Wrong Disambiguation	1	1557	19	NOU	Business-Dokument	Business-Dokumenten	103150005	True	225				 	
-Wrong Grammar	1	1603	3	PRO	die	der		True	230				 	
+Wrong Grammar	1	1603	3	PRO	die	der		True	230			ART	 	
 Wrong Disambiguation	0	1619	9	ADJ	schlank	schlanken	41904	False	232				 	86777
 Wrong Disambiguation	1	1655	7	NOU		Gewicht	138372	False	237				 	
 Wrong Disambiguation	1	1681	3	VER	sein	ist	172056	False	241				 	
@@ -576,7 +576,7 @@ Wrong Entity Form	0	2581	23	DEV		Samsung Galaxy Tab S2 9	100493064	True	380				 
 Wrong Recognition	0	2630	3	ART		ein	12562	False	388				 	
 Wrong Disambiguation	0	2634	9	ADJ	optisch	optisches	75812	False	389				 	150617
 Wrong Entity Form	1	2675	5	NOU		Super	95166	False	394				 	
-Wrong Grammar	1	2696	7	NOU		Erleben	39542	False	396				 	
+Wrong Grammar	1	2696	7	NOU		Erleben	39542	False	396			VER	 	
 Wrong Entity Form	1	2757	5	NOU		Super	95166	False	408				 	
 Wrong Entity Form	0	2782	23	DEV		Samsung Galaxy Tab S2 9	100493064	True	411				 	
 Missing Entity	0	2815	7	NOU	SM-T813	SM-T813	-1	False	416				 	
@@ -593,10 +593,10 @@ Wrong Recognition	1	3277	5	NOU	Lese	Lesen	100213753	False	487				 
 Wrong Disambiguation	1	3320	4	VER	können	kann	145388	False	493				 	
 Missing Concept	1	3357	6	NOU		Balken	4253	False	498				 	
 Wrong Entity Type	1	3378	4	HOU	16:09	16:9	100025235	True	502				 	
-Wrong Grammar	1	3462	6	NOU		Nutzen	106591	False	516				 	
+Wrong Grammar	1	3462	6	NOU		Nutzen	106591	False	516			VER	 	
 Wrong Disambiguation	0	3537	2	ADV		so	130436	False	528				 	
 Wrong Disambiguation	1	3648	6	VER	aufnehmen	Nehmen	13852	False	545				 	13871
-Wrong Grammar	1	3708	6	PRO	Video	selbst	100193977	False	556				 	
+Wrong Grammar	1	3708	6	PRO	Video	selbst	100193977	False	556			ADV	 	
 Wrong Recognition	1	3785	5	VER	machen	macht	16208	False	572		möglich machen		 	39598
 Wrong Entity Form	0	3838	23	DEV		Samsung Galaxy Tab S2 9	100493064	True	582				 	
 Missing Entity	0	3871	7	NOU	SM-T813	SM-T813	-1	False	587				 	
@@ -605,7 +605,7 @@ Wrong Disambiguation	0	3901	7	NOU		Öffnung	4135	False	594				 	1358
 Wrong Disambiguation	0	3975	8	VER	erfreuen	Erfreuen	18042	False	606				 	44724
 Wrong Disambiguation	1	4043	4	PRE		über	596948	False	618				 	
 Wrong Disambiguation	1	4084	9	NOU		Auflösung	18864	False	625				 	125308
-Wrong Grammar	1	4172	6	ADV	best	besten		True	639				 	
+Wrong Grammar	1	4172	6	ADV	best	besten		True	639			ADJ	 	
 Wrong Entity Form	0	4188	23	DEV		Samsung Galaxy Tab S2 9	100493064	True	643				 	
 Missing Entity	0	4221	7	NOU	SM-T813	SM-T813	-1	False	648				 	
 Wrong Disambiguation	1	4230	13	ADJ	aufgenommen	aufgenommenen	596908	False	650				 	
@@ -615,17 +615,17 @@ Wrong Disambiguation	1	4353	7	ADV		einfach	565253	False	668				 	591900
 Wrong Entity Form	0	4382	23	DEV		Samsung Galaxy Tab S2 9	100493064	True	673				 	
 Missing Entity	0	4415	7	NOU	SM-T813	SM-T813	-1	False	678				 	
 Wrong Disambiguation	1	4424	6	VER	stecken	steckt	16417	False	680				 	
-Wrong Grammar	1	4471	6	ADJ		gleich	22392	False	687				 	
+Wrong Grammar	1	4471	6	ADJ		gleich	22392	False	687			ADV	 	
 Missing Entity	0	4519	3	ADJ	1,8	1,8	-1	False	692				 	
 Missing Entity	0	4531	3	ADJ	1,4	1,4	-1	False	695				 	
 Wrong Disambiguation	1	4607	5	VER	stehen	steht	32369	False	708				 	
 Wrong Disambiguation	1	4690	9	NOU		Anwendung	22156	False	722				 	
 Wrong Disambiguation	1	4755	16	NOU		Adventure-Spiele	100005389	True	730				 	
-Wrong Grammar	2	4798	3	VER	einen	ein	14874	False	735				 	
+Wrong Grammar	2	4798	3	VER	einen	ein	14874	False	735			ART	 	
 Wrong Disambiguation	1	4802	9	ADJ	flüssig	flüssiges	27276	False	736				 	
 Wrong Disambiguation	0	4972	4	ADV		auch	23235	False	760				 	
 Wrong Disambiguation	0	5011	4	VER	ruhen	ruht	84597	False	766				 	
 Wrong Disambiguation	0	5026	11	NOU		Hintergrund	15406	False	769				 	
-Wrong Grammar	1	5042	3	PRO	der	der	-1	False	771				 	
+Wrong Grammar	1	5042	3	PRO	der	der	-1	False	771			ART	 	
 Wrong Entity Form	0	5135	23	DEV		Samsung Galaxy Tab S2 9	100493064	True	782				 	
 Missing Entity	0	5168	7	NOU	SM-T813	SM-T813	-1	False	787				 	

@@ -666,12 +666,12 @@ Wrong Entity Type	0	661	10	GEO		Heidelberg	12893961	False	0				 
 Missing Concept	0	706	19	NPR	Sicherheitshinweise	Sicherheitshinweise	-1	False	0				 	
 Wrong Disambiguation	1	821	4	PRE		über	596952	False	0				 	
 Wrong Disambiguation	1	928	11	NOU	Sicherheit	Sicherheits	1534	False	0				 	
-Wrong Grammar	1	1019	11	NOU	übertragene	übertragene	-1	False	0				 	
+Wrong Grammar	1	1019	11	NOU	übertragene	übertragene	-1	False	0			ADJ	 	
 Missing Concept	1	1044	12	NOU	Facharbeit	Facharbeiten	497554	False	0				 	
-Wrong Grammar	1	1057	6	VER	sichern	sicher	120277	False	0				 	
-Wrong Grammar	1	1108	3	PRO	Fähigkeit	die	117769	False	0				 	
+Wrong Grammar	1	1057	6	VER	sichern	sicher	120277	False	0			ADJ	 	
+Wrong Grammar	1	1108	3	PRO	Fähigkeit	die	117769	False	0			ART	 	
 Missing Concept	1	1124	12	NOU	Facharbeit	Facharbeiten	497554	False	0				 	
-Wrong Grammar	1	1137	12	ADV	auftretend	auftretenden		False	0				 	
+Wrong Grammar	1	1137	12	ADV	auftretend	auftretenden		False	0			ADJ	 	
 Wrong Disambiguation	1	1151	4	NOU		Rest	4214	False	0				 	
 Missing Concept	0	1671	7	NOU	Bewegen	Bewegen	-1	False	0				 	
 Wrong Disambiguation	1	1889	11	VER	einhalten	eingehalten	132848	False	0				 	
@@ -713,7 +713,7 @@ Wrong Entity Type	1	4159	3	DOC		ESD	100163727	True	547				 
 Wrong Disambiguation	1	4163	11	NOU		Erdungsband	2782	True	549				 	
 Wrong Disambiguation	1	4176	8	VER		ableiten	12706	False	551				 	
 Missing Concept	1	4188	20	NOU	Elektronikbaugruppe	Elektronikbaugruppen	8214	True	554				 	
-Wrong Grammar	1	4220	4	ADJ	ein-	ein-	-1	False	556				 	
+Wrong Grammar	1	4220	4	ADJ	ein-	ein-	-1	False	556			VER	 	
 Wrong Disambiguation	1	4229	8	VER		ausbauen	14724	False	558				 	
 Missing Concept	1	4245	19	NOU		Elektronikbaugruppe	26087	True	562				 	
 Wrong Entity Type	1	4283	3	DOC		ESD	100163727	True	566				 	
@@ -731,9 +731,9 @@ Wrong Disambiguation	1	4639	4	PRE	nach	Nach	562278	False	619				 
 Missing Concept	0	4648	10	NOU	Abschalten	Abschalten	-1	False	621				 	
 Wrong Disambiguation	1	4709	25	NOU	Kondensatorleistungsteil	Kondensatorleistungsteile	172311	True	629				 	
 Wrong Disambiguation	1	4739	21	NOU		Zwischenkreisspannung	100009503	True	631				 	
-Wrong Grammar	1	4790	9	NOU		Besondere	658	False	639				 	
+Wrong Grammar	1	4790	9	NOU		Besondere	658	False	639			ADJ	 	
 Wrong Disambiguation	1	4847	6	NOU	Farbe	Farben	100001075	False	648				 	563142
-Wrong Grammar	1	4867	7	NOU	Blick	Blicken	105177967	False	652				 	
+Wrong Grammar	1	4867	7	NOU	Blick	Blicken	105177967	False	652			VER	 	
 Missing Concept	0	4935	12	ADJ	demontiert	demontierten		True	666				 	
 Wrong Recognition	0	4968	9	ADJ		notwendig	12562	False	668				 	
 Wrong Recognition	1	5031	2	ADV	z.	z.	-1	False	676				 	

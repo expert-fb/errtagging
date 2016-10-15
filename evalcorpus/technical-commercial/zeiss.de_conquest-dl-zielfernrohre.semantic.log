@@ -1088,8 +1088,8 @@ Wrong Entity Type	1	171	5	PRD	ZEISS CONQUEST DL	ZEISS	59	True	0				 
 Missing Concept	0	178	13	ADV	kompromisslos	Kompromisslos		False	0				 	
 Wrong Disambiguation	1	247	25	NOU		Preis-Leistungsverhältnis	575794	True	0				 	13953
 Wrong Disambiguation	1	311	11	NOU		Performance	77381	False	0				 	151308
-Wrong Grammar	1	341	3	PRO	die	die	-1	False	0				 	
-Wrong Grammar	1	363	12	ADJ		Zielfernrohe	83997	True	0				 	
+Wrong Grammar	1	341	3	PRO	die	die	-1	False	0			ART	 	
+Wrong Grammar	1	363	12	ADJ		Zielfernrohe	83997	True	0			NOU	 	
 Missing Concept	1	380	2	COM		HD	497128	False	0				 	
 Wrong Disambiguation	1	438	9	VER		verbinden	13260	False	0				 	13229
 Wrong Entity Type	1	466	5	PRD	ZEISS CONQUEST DL	ZEISS	59	True	0				 	
@@ -1108,14 +1108,14 @@ Missing Concept	1	838	22	NOU	Mehrschichtvergütung	Mehrschichtvergütungen	50021
 Missing Concept	0	869	7	NOU	Absehen	Absehen	-1	False	0				 	
 Missing Concept	0	906	8	ADJ	minimal	minimale	100425	False	0				 	
 Missing Concept	1	915	15	NOU	Zielabdeckung	Zielabdeckungen	121638	True	0				 	
-Wrong Grammar	2	937	4	VER	einen	eine	14874	False	0				 	
+Wrong Grammar	2	937	4	VER	einen	eine	14874	False	0			ART	 	
 Wrong Disambiguation	1	1048	8	NOU		Qualität	133	False	0				 	
 Wrong Disambiguation	1	1088	5	NOU		Optik	1756	False	0				 	
 Wrong Disambiguation	1	1212	5	ADV		drauf	130455	False	0				 	
 Wrong Disambiguation	1	1218	7	VER	ankommen	ankommt	16343	False	0				 	14832
 Wrong Disambiguation	1	1234	6	VER		sorgen	119414	False	0				 	
-Wrong Grammar	1	1241	4	PRO	ein	eine		False	0				 	
-Wrong Grammar	1	1276	3	PRO	die	die	-1	False	0				 	
+Wrong Grammar	1	1241	4	PRO	ein	eine		False	0			ART	 	
+Wrong Grammar	1	1276	3	PRO	die	die	-1	False	0			ART	 	
 Wrong Disambiguation	1	1301	8	NOU		Mechanik	100041217	False	0				 	
 Wrong Disambiguation	1	1323	8	NOU		Funktion	5241	False	0				 	16024
 Wrong Disambiguation	1	1347	11	NOU	Bedingung	Bedingungen	125241	False	0				 	119224
@@ -1125,11 +1125,11 @@ Missing Concept	0	1388	13	ADJ	gewährleistet	gewährleistet	-1	False	0				 
 Missing Concept	0	1520	10	ADJ	gummiert	gummierten		False	0				 	
 Wrong Disambiguation	1	1546	7	VER		sichern	120277	False	0				 	48642
 Wrong Disambiguation	1	1564	9	ADJ	souverän	souveräne	54060	False	0				 	119591
-Wrong Grammar	1	1606	3	PRO	der	der	-1	False	0				 	
+Wrong Grammar	1	1606	3	PRO	der	der	-1	False	0			ART	 	
 Missing Concept	0	1618	9	ADJ	eloxiert	eloxierte		False	0				 	
 Wrong Disambiguation	1	1628	6	NOU		Körper	15050	False	0				 	2379
 Missing Concept	0	1680	9	ADJ	gefertigt	gefertigt	-1	False	0				 	
-Wrong Grammar	1	1703	6	VER	sichern	sicher	48642	False	0				 	
+Wrong Grammar	1	1703	6	VER	sichern	sicher	48642	False	0			ADV	 	
 Missing Concept	0	1710	9	ADV	bedienbar	bedienbar	-1	False	0				 	
 Missing Concept	1	1757	25	NOU		Absehenschnellverstellung	148157	True	0				 	
 Wrong Disambiguation	0	1838	6	VER		halten	13376	False	0				 	13377
@@ -1137,11 +1137,11 @@ Wrong Disambiguation	0	1892	6	NPR		ASV DL	32724	True	0				 
 Wrong Entity Form	1	1921	4	NOU	8x42	8x42	-1	False	0				 	
 Wrong Entity Form	1	1932	5	NOU	12x50	12x50	-1	False	0				 	
 Missing Concept	0	1938	8	ADV	optional	optional	-1	False	0				 	
-Wrong Grammar	1	1964	6	PRO	sein	seiner		False	0				 	
+Wrong Grammar	1	1964	6	PRO	sein	seiner		False	0			ADJ	 	
 Wrong Disambiguation	1	2000	4	NOU		Form	17106	False	0				 	146
-Wrong Grammar	1	2016	3	PRO	das	das	-1	False	0				 	
+Wrong Grammar	1	2016	3	PRO	das	das	-1	False	0			ART	 	
 Missing Concept	1	2091	22	NOU	Vergrößerungswechsler	Vergrößerungswechslers	107890	True	0				 	
-Wrong Grammar	1	2116	6	PRO	Vergrößerungswechsler	selbst	107890	True	0				 	
+Wrong Grammar	1	2116	6	PRO	Vergrößerungswechsler	selbst	107890	True	0			ADV	 	
 Wrong Disambiguation	1	2159	6	VER		können	12879	False	0				 	
 Wrong Disambiguation	1	2170	4	PRE		über	596948	False	0				 	
 Missing Concept	0	2189	9	ADJ	gummiert	gummierte		False	0				 	
@@ -1154,24 +1154,23 @@ Missing Concept	1	2286	13	NOU		Zielabdeckung	121638	True	0				 
 Missing Entity	1	2300	11	ADV	CONQUEST DL	CONQUEST DL	-1	False	0				 	
 Missing Concept	1	2354	7	NOU	Absehen	Absehen	-1	False	0				 	
 Missing Concept	0	2372	20	ADJ	Tageslicht	tageslichttauglichen		False	0				 	
-Wrong Grammar	1	2393	13	VER		Leuchtabsehen	122330	True	0				 	
+Wrong Grammar	1	2393	13	VER		Leuchtabsehen	122330	True	0			NOU	 	
 Wrong Disambiguation	1	2427	9	VER		bestechen	27796	False	0				 	
 Missing Concept	0	2441	9	ADJ	minimal	minimaler	100425	False	0				 	
 Missing Concept	1	2451	13	NOU		Zielabdeckung	121638	True	0				 	
-Wrong Grammar	1	2467	3	PRO	das	das	-1	False	0				 	
-Wrong Grammar	1	2471	13	VER		Leuchtabsehen	122330	True	0				 	
-Wrong Grammar	1	2528	4	VER	danken	dank	15051	False	0				 	
+Wrong Grammar	1	2467	3	PRO	das	das	-1	False	0			ART	 	
+Wrong Grammar	1	2471	13	VER		Leuchtabsehen	122330	True	0		NOU		 	
+Wrong Grammar	1	2528	4	VER	danken	dank	15051	False	0			PRE	 	
 Missing Concept	1	2671	7	NOU	Absehen	Absehen	-1	False	0				 	
 Wrong Disambiguation	1	2679	9	VER		verlassen	17849	False	0				 	
 Wrong Disambiguation	1	2729	8	VER		wechseln	121117	False	0				 	14716
 Wrong Disambiguation	1	2755	7	ADJ	scharf	scharfe	85972	False	0				 	
 Wrong Disambiguation	1	2864	5	VER	sorgen	sorgt	119588	False	0				 	119589
-Wrong Grammar	1	2870	5	ADV		dafür	130588	False	0				 	
 Missing Concept	0	2929	13	ADV	Rückstand	rückstandslos		False	0				 	
 Wrong Disambiguation	1	2957	7	ADV		einfach	565253	False	0				 	591900
 Missing Concept	1	2995	22	NOU	Mehrschichtvergütung	Mehrschichtvergütungen	500211	True	0				 	
 Wrong Disambiguation	1	3095	13	NOU		Zielauflösung	18864	True	0				 	
-Wrong Grammar	0	3143	9	ADJ	kompakt	Kompakten	63144	False	0				 	
+Wrong Grammar	0	3143	9	ADJ	kompakt	Kompakten	63144	False	0			NOU	 	
 Wrong Disambiguation	1	3166	7	NOU		Gewicht	138372	False	0				 	138371
 Wrong Disambiguation	1	3477	7	NOU		Gewicht	138372	False	0				 	138371
 Wrong Disambiguation	1	3178	6	ADJ	weit	weitem	40690	False	0				 	30148
@@ -1184,15 +1183,15 @@ Wrong Entity Form	1	3538	4	NOU	5x36	5x36	-1	False	0				 
 Wrong Disambiguation	1	3250	13	NOU		Zielerfassung	117955	True	0				 	39340
 Wrong Disambiguation	1	3583	13	NOU		Zielerfassung	117955	True	0				 	39340
 Wrong Disambiguation	1	3294	5	VER	lassen	lässt	17365	False	0				 	
-Wrong Grammar	1	3312	6	PRO	sein	seiner		False	0				 	
-Wrong Grammar	2	3328	6	VER		fachen	15450	False	0				 	
+Wrong Grammar	1	3312	6	PRO	sein	seiner		False	0			ADJ	 	
+Wrong Grammar	2	3328	6	VER		fachen	15450	False	0			ADJ	 	
 Missing Concept	0	3391	12	ADV	hervorragend	hervorragend	-1	False	0				 	
 Wrong Recognition	1	3404	9	VER	dareinsetzen	einsetzen	32272	False	0				 	16416
 Wrong Disambiguation	1	3627	5	VER	lassen	lässt	17365	False	0				 	
 Missing Concept	0	3683	5	ADV	ideal	ideal	-1	False	0				 	
 Wrong Recognition	1	3735	9	VER	dareinsetzen	einsetzen	32272	False	542				 	16416
-Wrong Grammar	0	3766	7	ADJ		einfach	86934	False	547				 	
-Wrong Grammar	1	3796	6	PRO	Leuchtpunkt	selbst	1328	True	552				 	
+Wrong Grammar	0	3766	7	ADJ		einfach	86934	False	547			ADV	 	
+Wrong Grammar	1	3796	6	PRO	Leuchtpunkt	selbst	1328	True	552			ADV	 	
 Wrong Entity Form	1	3431	4	NOU	5x36	5x36	-1	False	498				 	
 Wrong Entity Form	1	3834	4	NOU	8x42	8x42	-1	False	559				 	
 Missing Concept	0	3854	7	ADV	schlank	Schlank		True	562				 	
@@ -1202,33 +1201,33 @@ Wrong Disambiguation	1	3963	6	NOU		Revier	78914	False	581				 	101678262
 Wrong Entity Form	1	4005	4	NOU	8x42	8x42	-1	False	591				 	
 Wrong Disambiguation	1	4018	6	NPR		ASV DL	32724	True	594				 	
 Wrong Disambiguation	1	4088	3	VER	sein	ist	172056	False	602				 	
-Wrong Grammar	1	4095	3	PRO	ein	ein	-1	False	604				 	
+Wrong Grammar	1	4095	3	PRO	ein	ein	-1	False	604			ART	 	
 Wrong Disambiguation	0	4099	10	ADV		vielseitig	30149	False	605				 	165514
 Missing Concept	0	4190	7	NOU		Gelände	114524493	False	616				 	
 Wrong Entity Form	1	4213	4	NOU	8x42	8x42	-1	False	621				 	
-	1	4236	10	NOU		Allrounder	96135	False	626				 	
+Missing Entity	1	4236	10	NOU		Allrounder	96135	False	626				 	
 Wrong Disambiguation	1	4236	10	NOU		Allrounder	96135	False	626				 	499198
 Wrong Disambiguation	1	3843	10	NOU		Allrounder	96135	False	561				 	499198
 Missing Concept	0	4247	7	ADV	schlank	Schlank		True	627				 	
-Wrong Grammar	0	4268	10	ADV		vielseitig	30149	False	631				 	
+Wrong Grammar	0	4268	10	ADV		vielseitig	30149	False	631			ADJ	 	
 Wrong Entity Form	1	3923	4	NOU	8x42	8x42	-1	False	574				 	
 Wrong Entity Form	1	4316	4	NOU	8x42	8x42	-1	False	639				 	
 Wrong Disambiguation	1	4372	6	NOU		Revier	78914	False	648				 	
 Wrong Entity Form	1	4414	4	NOU	8x42	8x42	-1	False	658				 	
 Wrong Disambiguation	1	4427	6	NPR		ASV DL	32724	True	661				 	
 Wrong Disambiguation	1	4497	3	VER	sein	ist	172056	False	669				 	
-Wrong Grammar	1	4504	3	PRO	ein	ein	-1	False	671				 	
+Wrong Grammar	1	4504	3	PRO	ein	ein	-1	False	671			ART	 	
 Wrong Disambiguation	0	4508	10	ADV		vielseitig	30149	False	672				 	
 Missing Concept	0	4599	7	NOU		Gelände	114524493	False	683				 	
 Wrong Disambiguation	1	4628	7	ADJ		einfach	86934	False	688				 	63207
 Wrong Disambiguation	1	4640	6	ADV		sicher	172999	False	690				 	157630
-Wrong Grammar	1	4658	6	PRO	Leuchtpunkt	selbst	1328	True	693				 	
+Wrong Grammar	1	4658	6	PRO	Leuchtpunkt	selbst	1328	True	693			ADV	 	
 Wrong Entity Form	1	4696	5	NOU	12x50	12x50	-1	False	700				 	
 Missing Concept	0	4706	12	NOU	Spezialist	Spezialisten	1237	False	702				 	
 Wrong Disambiguation	1	4736	5	NOU		Optik	874	False	705				 	75117
 Wrong Disambiguation	1	4750	5	ADJ	hoch	hohen	88257	False	708				 	
 Wrong Disambiguation	1	4756	20	NOU		Vergrößerungsbereich	100082794	True	709				 	22153
-Wrong Grammar	1	4781	3	PRO	das	das	-1	False	711				 	
+Wrong Grammar	1	4781	3	PRO	das	das	-1	False	711			ART	 	
 Wrong Entity Form	1	4805	5	NOU	12x50	12x50	-1	False	715				 	
 Wrong Disambiguation	0	4860	9	NOU	Distanz	Distanzen	131341	False	723				 	2317
 Wrong Disambiguation	1	4886	3	NOU		Tag	105019497	False	728				 	100052643
@@ -1239,7 +1238,7 @@ Wrong Entity Form	1	5007	5	PRD	ZEISS CONQUEST DL	ZEISS	59	True	746				 
 Missing Entity	1	5013	11	ADJ	CONQUEST DL	CONQUEST DL	-1	False	747				 	
 Wrong Disambiguation	0	5034	6	NPR		ASV DL	32724	True	750				 	
 Wrong Disambiguation	1	5051	8	VER	erwerben	erworben	16206	False	753				 	13834
-Wrong Grammar	1	5082	3	PRO	der	dem		True	759				 	
+Wrong Grammar	1	5082	3	PRO	der	dem		True	759			ART	 	
 Wrong Disambiguation	1	5086	6	ADJ	groß	großen	50456	False	760				 	
 Missing Concept	0	5117	18	NOU	Weitschussexperte	Weitschussexperten	1237	True	763				 	
 Wrong Entity Form	1	5151	5	NOU	12x50	12x50	-1	False	768				 	
@@ -1247,7 +1246,7 @@ Missing Concept	0	5175	12	NOU	Spezialist	Spezialisten	1237	False	773				 
 Wrong Disambiguation	1	5205	5	NOU		Optik	874	False	776				 	
 Wrong Disambiguation	1	5219	5	ADJ	hoch	hohen	88257	False	779				 	
 Wrong Disambiguation	1	5225	20	NOU		Vergrößerungsbereich	100082794	True	780				 	
-Wrong Grammar	1	5250	3	PRO	das	das	-1	False	782				 	
+Wrong Grammar	1	5250	3	PRO	das	das	-1	False	782			ART	 	
 Wrong Entity Form	1	5274	5	NOU	12x50	12x50	-1	False	786				 	
 Wrong Disambiguation	0	5329	9	NOU	Distanz	Distanzen	131341	False	794				 	
 Wrong Disambiguation	1	5355	3	NOU		Tag	105019497	False	799				 	
@@ -1258,33 +1257,33 @@ Wrong Entity Form	1	5476	5	PRD	ZEISS CONQUEST DL	ZEISS	59	True	817				 
 Missing Entity	1	5482	11	ADJ	CONQUEST DL	CONQUEST DL	-1	False	818				 	
 Wrong Disambiguation	0	5503	6	NPR		ASV DL	32724	True	821				 	
 Wrong Disambiguation	1	5520	8	VER	erwerben	erworben	16206	False	824				 	
-Wrong Grammar	1	5551	3	PRO	der	dem		True	830				 	
+Wrong Grammar	1	5551	3	PRO	der	dem		True	830			ART	 	
 Wrong Disambiguation	1	5555	6	ADJ	groß	großen	50456	False	831				 	
 Missing Concept	0	5586	18	NOU	Weitschussexperte	Weitschussexperten	1237	True	834				 	
-Wrong Grammar	1	5606	7	VER	absehen	Absehen	122330	False	836				 	
+Wrong Grammar	1	5606	7	VER	absehen	Absehen	122330	False	836			NOU	 	
 Missing Concept	0	5620	7	NOU	Absehen	Absehen	-1	False	838				 	
 Missing Entity	1	5648	11	ADV	CONQUEST DL	CONQUEST DL	-1	False	843				 	
 Missing Concept	0	5702	7	NOU	Absehen	Absehen	-1	False	849				 	
-Wrong Grammar	1	5740	13	VER		Leuchtabsehen	122330	True	854				 	
+Wrong Grammar	1	5740	13	VER		Leuchtabsehen	122330	True	854			NOU	 	
 Wrong Disambiguation	1	5789	5	VER	liegen	liegt	16318	False	861				 	16335
 Missing Concept	0	5799	7	NOU	Absehen	Absehen	-1	False	863				 	
 Wrong Disambiguation	0	5864	20	NOU		Vergrößerungsbereich	100082794	True	875				 	22153
-Wrong Grammar	1	5889	3	PRO	ein	ein	-1	False	877				 	
+Wrong Grammar	1	5889	3	PRO	ein	ein	-1	False	877			ART	 	
 Missing Concept	0	5909	7	NOU	Absehen	Absehen	-1	False	880				 	
 Wrong Disambiguation	1	5917	9	VER		verlassen	17849	False	881				 	
 Wrong Disambiguation	0	5967	8	VER		wechseln	121117	False	887				 	14716
-Wrong Grammar	1	5977	7	VER	absehen	Absehen	122330	False	889				 	
-Wrong Grammar	1	6004	10	VER	beleuchten	beleuchtet	128132	False	893				 	
+Wrong Grammar	1	5977	7	VER	absehen	Absehen	122330	False	889			NOU	 	
+Wrong Grammar	1	6004	10	VER	beleuchten	beleuchtet	128132	False	893			ADJ	 	
 Missing Concept	0	6026	19	ADJ	Tageslicht	tageslichttaugliche		True	897				 	
 Missing Concept	0	6073	11	ADV	zuschaltbar	zuschaltbar	-1	False	902				 	
-Wrong Grammar	1	6089	9	ADJ		überzeugt	562504	False	904				 	
+Wrong Grammar	1	6089	9	ADJ		überzeugt	562504	False	904			VER	 	
 Wrong Disambiguation	1	6103	5	ADJ	hoch	hoher	88257	False	906				 	
 Missing Concept	0	6139	7	ADJ	dimmen	dimmbar		True	912				 	
 Wrong Disambiguation	1	6197	4	NOU		Lage	130	False	922				 	
 Missing Concept	0	6239	8	ADJ	minimal	minimale	100425	False	929				 	
 Missing Concept	1	6248	13	NOU		Zielabdeckung	121638	True	930				 	
 Wrong Recognition	0	6268	2	ADJ	12	12	-1	False	933				 	
-Wrong Grammar	1	6313	7	VER	absehen	Absehen	122330	False	942				 	
+Wrong Grammar	1	6313	7	VER	absehen	Absehen	122330	False	942			NOU	 	
 Missing Concept	0	6354	7	NOU	Absehen	Absehen	-1	False	947				 	
 Wrong Disambiguation	1	6364	5	VER	liegen	liegt	16318	False	949				 	
 Wrong Disambiguation	1	6403	20	NOU		Vergrößerungswechsel	19147	True	957				 	
@@ -1292,13 +1291,13 @@ Wrong Disambiguation	1	6512	3	VER	sein	ist	172056	False	969				 
 Missing Concept	0	6520	7	NOU	Absehen	Absehen	-1	False	971				 	
 Wrong Disambiguation	0	6543	8	ADJ		sichtbar	21830	False	974				 	
 Wrong Disambiguation	1	6576	6	VER	bleiben	bleibt	129080	False	979				 	
-Wrong Grammar	2	6591	4	VER	feien	fein	41837	False	982				 	
+Wrong Grammar	2	6591	4	VER	feien	fein	41837	False	982			ADJ	 	
 Wrong Disambiguation	1	6613	4	NOU		Ziel	4116	False	986				 	4114
 Missing Entity	1	6665	11	ADJ	CONQUEST DL	CONQUEST DL	-1	False	994				 	
 Wrong Entity Type	1	6699	7	DOC		VICTORY	103150005	True	998				 	
 Missing Concept	1	6719	7	ADJ		günstig	43958	False	1001				 	
 Wrong Entity Type	1	6732	11	ADJ	CONQUEST DL	CONQUEST DL	-1	False	1004				 	
-Wrong Grammar	1	6758	15	NOU	kostenoptimiert	kostenoptimiert	-1	False	1007				 	
+Wrong Grammar	1	6758	15	NOU	kostenoptimiert	kostenoptimiert	-1	False	1007			ADV	 	
 Wrong Disambiguation	1	6774	10	VER	entwickeln	entwickelt	14720	False	1008				 	14739
 Wrong Disambiguation	1	6826	4	NOU		Werk	14258	False	1015				 	
 Wrong Disambiguation	1	6891	9	ADJ	einfach	einfacher	56999	False	1026				 	
@@ -1312,8 +1311,8 @@ Wrong Disambiguation	1	7050	7	NOU		Auswahl	24205	False	1050				 
 Wrong Disambiguation	1	7065	7	NOU		Schiene	37457	False	1053				 	
 Missing Concept	0	7082	12	ADJ	vereinfacht	vereinfachte		True	1056				 	
 Wrong Disambiguation	0	7177	7	VER	machen	gemacht	14422	False	1067				 	13039
-Wrong Grammar	1	7186	6	NOU		Können	63503	False	1069				 	
-	1	7259	13	ADJ	nachträglich	nachträgliche	41627	False	1081				 	596440
+Wrong Grammar	1	7186	6	NOU		Können	63503	False	1069			VER	 	
+Wrong Disambiguation	1	7259	13	ADJ	nachträglich	nachträgliche	41627	False	1081				 	596440
 Missing Entity	1	7288	11	ADJ	CONQUEST DL	CONQUEST DL	-1	False	1084				 	
 Wrong Disambiguation	1	7326	7	ADJ		möglich	40256	False	1089				 	79324
 Wrong Disambiguation	1	7339	6	VER	mögen	möchte	17995	False	1092				 	
@@ -1325,9 +1324,9 @@ Wrong Disambiguation	1	7483	9	VER	reduzieren	reduziert	15617	False	1115				 
 Wrong Disambiguation	1	7545	8	NOU	Lösung	Lösungen	121241	False	1124				 	565232
 Wrong Disambiguation	1	7592	25	NOU		Absehenschnellverstellung	148157	True	1133				 	
 Wrong Entity Form	1	7633	7	NOU		Control	100423813	False	1137				 	
-	0	7646	4	ADV		auch	23235	False	1139				 	
+Wrong Disambiguation	0	7646	4	ADV		auch	23235	False	1139				 	173912
 Wrong Disambiguation	0	7646	4	ADV		auch	23235	False	1139				 	
-Wrong Grammar	1	7661	17	VER		Weitschussabsehen	122330	True	1141				 	
+Wrong Grammar	1	7661	17	VER		Weitschussabsehen	122330	True	1141			NOU	 	
 Missing Concept	1	7679	5	VER	haben	haben	-1	False	1142				 	
 Wrong Entity Type	1	7740	7	DOC		VICTORY	103150005	True	1152				 	
 Wrong Disambiguation	1	7748	5	NOU		Linie	4179	False	1154				 	
@@ -1379,7 +1378,7 @@ Missing Concept	0	8912	15	NOU	Dachkant	Dachkantprismen		True	1314				 
 Wrong Disambiguation	1	8949	9	NOU		Auflösung	121241	False	1320				 	125308
 Wrong Disambiguation	1	8963	8	ADJ	fein	feinsten	120540	False	1322				 	135522
 Wrong Disambiguation	1	8989	5	VER	sorgen	sorgt	119588	False	1324				 	119589
-Wrong Grammar	1	8996	4	PRO	all	Alle		True	1326				 	
+Wrong Grammar	1	8996	4	PRO	all	Alle		True	1326			ADJ	 	
 Wrong Entity Type	1	9001	5	PRD	ZEISS CONQUEST DL	ZEISS	59	True	1327				 	
 Missing Concept	0	9022	15	NOU	Dachkant	Dachkantprismen		True	1330				 	
 Wrong Disambiguation	1	9054	5	NOU		Belag	128070	False	1333				 	
@@ -1408,7 +1407,7 @@ Wrong Disambiguation	1	9550	9	NOU		Auflösung	18864	False	1405				 
 Wrong Entity Form	1	9563	4	ADJ	high	High	54907	False	1407				 	
 Wrong Disambiguation	1	9583	6	NOU	Glas	Gläser	2143	False	1410				 	
 Missing Entity	1	9594	6	NOU		Schott	87776	False	1412				 	
-Wrong Grammar	1	9602	3	ART	die	die	-1	False	1414				 	
+Wrong Grammar	1	9602	3	ART	die	die	-1	False	1414			PRO	 	
 Missing Entity	1	9653	2	NOU		SF	8792	False	1420				 	
 Wrong Entity Form	1	9656	5	VCL		Smart	497225	False	1421				 	
 Wrong Disambiguation	1	9708	11	NOU	Umdrehung	Umdrehungen	14851	False	1428				 	99790

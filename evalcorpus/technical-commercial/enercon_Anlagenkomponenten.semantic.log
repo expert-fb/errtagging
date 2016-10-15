@@ -429,21 +429,21 @@ Wrong Entity Form	0	61	26	NPR	ENERCON Anlagenkomponenten	ENERCON Anlagenkomponen
 Wrong Disambiguation	1	88	11	VER		unterliegen	65674	False	0				 	
 Wrong Disambiguation	1	242	7	ADJ	global	Globale	49425	False	0				 	108744
 Wrong Disambiguation	1	269	6	VER		stehen	32369	False	0				 	
-Wrong Grammar	1	395	12	NOU	Installierte	Installierte	-1	False	43				 	
-Wrong Grammar	1	487	12	NOU	Installierte	Installierte	-1	False	52				 	
+Wrong Grammar	1	395	12	NOU	Installierte	Installierte	-1	False	43			ADJ	 	
+Wrong Grammar	1	487	12	NOU	Installierte	Installierte	-1	False	52			ADJ	 	
 Wrong Disambiguation	1	500	8	NOU		Leistung	119959	False	53				 	119962
 Missing Concept	0	556	9	ADV	bestehend	bestehend	-1	False	61				 	
 Wrong Entity Form	0	619	22	DEV	ENERCON Anlagendesign	ENERCON Anlagendesigns	100130760	True	71				 	
-Wrong Grammar	2	682	5	VER		einen	14874	False	80				 	
+Wrong Grammar	2	682	5	VER		einen	14874	False	80			ART	 	
 Wrong Disambiguation	1	731	8	ADJ	niedrig	niedrige	65605	False	87				 	120703
 Wrong Recognition	1	864	13	VER	Fremderabregen	fremderregten	14946	True	104				 	
 Wrong Recognition	1	1097	24	NPR	Vorteile & Eigenschaften	Vorteile & Eigenschaften	-1	False	134				 	
-Wrong Grammar	1	1123	8	VER	bewähren	bewährte	15140	False	136				 	
+Wrong Grammar	1	1123	8	VER	bewähren	bewährte	15140	False	136			ADJ	 	
 Missing Concept	0	1132	12	ADJ	Getriebe	getriebelose		True	137				 	
 Wrong Disambiguation	1	1165	9	ADJ	niedrig	niedriger	65605	False	139				 	120703
 Wrong Disambiguation	1	1228	15	NOU		Maschinenlasten	110558	True	146				 	
 Wrong Disambiguation	1	1250	4	ADJ	hoch	hohe	88257	False	148				 	
-Wrong Grammar	1	1276	17	VER	Ertragsoptimieren	ertragsoptimierte	75800	True	150				 	
+Wrong Grammar	1	1276	17	VER	Ertragsoptimieren	ertragsoptimierte	75800	True	150			ADJ	 	
 Wrong Disambiguation	1	1304	4	ADJ	hoch	hohe	88257	False	152				 	
 Wrong Disambiguation	1	1402	13	ADJ	feststehend	feststehenden	588612	False	162				 	
 Missing Concept	0	1432	6	NOU		Gondel	4904	False	165				 	
@@ -458,7 +458,7 @@ Wrong Disambiguation	0	1702	6	VER		sorgen	119588	False	198				 	119589
 Missing Concept	0	1747	6	NOU		Gondel	4904	False	204				 	
 Wrong Disambiguation	1	1767	16	NOU	Anlagenbetrieb	Anlagenbetriebes	104830453	True	208				 	
 Missing Concept	0	1793	6	NOU		Gondel	4904	False	211				 	
-Wrong Grammar	0	1882	2	ADV	je	Je	59451	False	225				 	
+Wrong Grammar	0	1882	2	ADV	je	Je	59451	False	225			PRE	 	
 Wrong Disambiguation	1	1885	4	PRE		nach	562278	False	226				 	
 Wrong Disambiguation	1	1901	8	VER	variieren	variiert	122608	False	228				 	15747
 Wrong Disambiguation	1	1987	7	NOU		Turmfuß	137137	True	241				 	100191360
@@ -500,7 +500,7 @@ Wrong Disambiguation	1	3779	10	ADJ	streng	strengsten	94446	False	450				 	94508
 Wrong Recognition	1	3815	7	ADJ	spät	spätere	118208	False	454				 	
 Wrong Disambiguation	1	3884	2	ADV	je	Je	59451	False	463				 	
 Wrong Disambiguation	1	3916	4	VER	sein	sind	172056	False	468				 	
-Wrong Grammar	1	4058	9	PRO		sämtliche		True	489				 	
+Wrong Grammar	1	4058	9	PRO		sämtliche		True	489				 	ADJ
 Wrong Disambiguation	1	4082	10	ADJ	dynamisch	dynamische	132379	False	492				 	35663
 Wrong Entity Form	1	4130	24	NPR	ENERCON Fundamentkonzept	ENERCON Fundamentkonzept	-1	False	499				 	
 Wrong Disambiguation	1	4155	6	VER	anbieten	bietet	14458	False	500				 	

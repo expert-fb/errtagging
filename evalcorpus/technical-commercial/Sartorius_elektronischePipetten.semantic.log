@@ -216,7 +216,7 @@ Missing Concept	1	118	6	ADJ	liquid	Liquid	28119	False	0				 
 Wrong Recognition	1	139	7	VER		stellen	159348	False	0		sicherstellen		 	48642
 Wrong Disambiguation	1	147	7	ADJ	hoch	höchste	88257	False	0				 	
 Wrong Disambiguation	1	173	10	NOU	Ergebnis	Ergebnisse	117958	False	0				 	101350376
-Wrong Grammar	1	229	6	VER	sichern	sicher	120277	False	0				 	
+Wrong Grammar	1	229	6	VER	sichern	sicher	120277	False	0			ADV	 	
 Missing Concept	0	259	11	ADJ	gesteuert	gesteuerten		False	0				 	
 Wrong Disambiguation	0	294	19	ADJ		benutzerunabhängige	25267	True	0				 	
 Wrong Disambiguation	1	314	10	NOU	Ergebnis	Ergebnisse	117958	False	0				 	101350376
@@ -233,7 +233,7 @@ Wrong Disambiguation	0	534	12	ADJ	mechanisch	mechanischen	148140	False	0				 	14
 Wrong Disambiguation	1	736	7	ADJ	hoch	Höchste	88257	False	0				 	
 Wrong Disambiguation	0	827	15	ADJ	ausgefeilt	ausgefeiltesten	33168	False	0				 	121043
 Wrong Disambiguation	0	932	8	ADJ	leicht	leichten	63207	False	0				 	
-Wrong Grammar	1	970	4	PRO	Ihr	Ihre		False	0				 	
+Wrong Grammar	1	970	4	PRO	Ihr	Ihre		False	0			ADJ	 	
 Wrong Entity Form	1	1056	10	ADJ	repetitiv	Repetitive	46450	False	0				 	
 Wrong Disambiguation	0	1099	7	ADJ	leicht	leichte	63207	False	0				 	
 Wrong Disambiguation	1	1216	10	NOU	Ergebnis	Ergebnisse	117958	False	0				 	
@@ -241,7 +241,7 @@ Wrong Disambiguation	1	1231	5	ADJ	hoch	hoher	88257	False	0				 
 Wrong Disambiguation	1	1237	11	NOU		Genauigkeit	101298969	False	0				 	14646
 Wrong Disambiguation	1	1376	11	VER	unterstützen	unterstützt	14057	False	0				 	14045
 Wrong Disambiguation	1	1445	10	NOU		Sicherheit	1534	False	0				 	
-Wrong Grammar	1	1478	6	ADJ		streng	72176	False	0				 	
+Wrong Grammar	1	1478	6	ADJ		streng	72176	False	0			ADV	 	
 Missing Concept	0	1485	11	ADJ	reguliert	regulierten		False	0				 	
 Wrong Disambiguation	1	1633	9	ADV		praktisch	79462	False	0				 	580695
 Missing Concept	0	1643	12	ADJ	angeordnet	angeordneter		False	0				 	
@@ -262,6 +262,6 @@ Wrong Disambiguation	1	2190	4	NOU		Zahl	309	False	0				 	7
 Wrong Disambiguation	1	2219	8	VER		erlauben	14287	False	0				 	
 Wrong Disambiguation	0	2238	8	ADV		deutlich	596230	False	0				 	
 Wrong Disambiguation	0	2282	12	ADJ	mechanisch	mechanischen	148140	False	0				 	
-Wrong Grammar	0	2308	4	ADJ		voll	120598	False	0				 	
+Wrong Grammar	0	2308	4	ADJ		voll	120598	False	0			ADV	 	
 Missing Concept	0	2326	10	ADJ	gesteuert	gesteuerte		False	0				 	
 Wrong Disambiguation	0	2422	6	VER	bieten	bietet	13297	False	0				 	13273

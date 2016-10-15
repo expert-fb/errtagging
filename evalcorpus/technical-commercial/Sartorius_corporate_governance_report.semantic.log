@@ -484,7 +484,7 @@ Missing Concept	0	265	9	ADJ	Deutsche	Deutschen		False	0				 
 Wrong Disambiguation	1	302	4	PRE		über	98894	False	0				 	
 Wrong Disambiguation	1	350	8	NOU		Vorstand	106557	False	0				 	
 Wrong Disambiguation	1	363	12	NOU		Aufsichtsrat	101072363	False	0				 	
-Wrong Grammar	1	391	3	PRO	der	den		False	0				 	
+Wrong Grammar	1	391	3	PRO	der	den		False	0			ART	 	
 Wrong Disambiguation	1	431	9	ADJ	amtlich	amtlichen	20780	False	0				 	
 Wrong Disambiguation	1	489	9	ADJ	gemacht	gemachten	565212	False	0				 	
 Wrong Disambiguation	1	583	7	NOU		Fassung	135372	False	0				 	
@@ -494,9 +494,9 @@ Wrong Disambiguation	1	674	21	NOU		Entsprechenserklärung	1568	True	0				 
 Wrong Disambiguation	1	760	7	NOU		Fassung	135372	False	0				 	
 Wrong Disambiguation	1	785	8	NOU		Vorstand	106557	False	0				 	
 Wrong Disambiguation	1	802	12	NOU		Aufsichtsrat	101072363	False	0				 	
-Wrong Grammar	1	850	14	NOU	überarbeiteten	überarbeiteten	-1	False	0				 	
+Wrong Grammar	1	850	14	NOU	überarbeiteten	überarbeiteten	-1	False	0			ADJ	 	
 Wrong Disambiguation	1	865	7	NOU		Fassung	135372	False	0				 	
-Wrong Grammar	1	873	3	PRO	der	des		False	0				 	
+Wrong Grammar	1	873	3	PRO	der	des		False	0			ART	 	
 Missing Concept	0	877	9	ADJ	Deutsche	Deutschen		False	0				 	
 Wrong Disambiguation	1	964	7	VER	beziehen	bezogen	119588	False	0				 	
 Wrong Disambiguation	1	1057	12	NOU		Aufsichtsrat	101072363	False	0				 	
@@ -514,7 +514,7 @@ Wrong Disambiguation	1	2103	4	NOU		Wahl	119259	False	0				 
 Wrong Disambiguation	1	2148	9	NOU		Interesse	119726	False	0				 	
 Missing Concept	0	2175	10	ADV	zweckmäßig	zweckmäßig	-1	False	0				 	
 Wrong Disambiguation	1	2186	9	VER	erscheinen	erscheint	15360	False	0				 	
-Wrong Grammar	1	2300	3	PRO	das	das	-1	False	0				 	
+Wrong Grammar	1	2300	3	PRO	das	das	-1	False	0			ART	 	
 Missing Concept	0	2329	9	ADJ	getreten	getretene		False	0				 	
 Wrong Disambiguation	1	2397	7	NOU	Mann	Männern	963	False	0				 	
 Missing Concept	0	2479	7	ADV	obsolet	obsolet	-1	False	0				 	

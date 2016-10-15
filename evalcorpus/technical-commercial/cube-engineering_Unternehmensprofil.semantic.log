@@ -269,7 +269,7 @@
 
 SBJ=0:4;SBJ=2:4;SBJ=8:11;OBJ=10:11;SBJ=21:20;SBJ=27:28;OBJ=26:28;SBJ=30:31;CPL=33:31;SBJ=44:45;CPL=52:45;SBJ=-52:56;OBJ=59:56;SBJ=-52:69;SBJ=72:78;SBJ=80:84;SBJ=80:90;SBJ=93:97;OBJ=96:97;SBJ=93:103;SBJ=-52:107;SBJ=-52:112;SBJ=120:127;SBJ=132:130;OBJ=135:130;SBJ=132:141;SBJ=-52:149;OBJ=165:149;SBJ=-52:174;SBJ=189:190;SBJ=-52:192;SBJ=208:209;SBJ=226:222;OBJ=228:222;SBJ=231:232;OBJ=233:232;SBJ=-52:237;OBJ=240:237;SBJ=-52:243;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	2	179	5	VER		einen	14874	False	0				 	
+Wrong Grammar	2	179	5	VER		einen	14874	False	0			ART	 	
 Wrong Disambiguation	1	201	6	NOU		Anteil	48186	False	0				 	501414
 Wrong Disambiguation	1	233	7	NOU	Markt	Märkten	100180846	False	0				 	
 Missing Concept	0	261	12	ADV	essentiell	essentieller		False	0				 	
@@ -282,14 +282,14 @@ Wrong Disambiguation	0	527	15	NOU		Herausforderung	80499	False	0				 	120504
 Wrong Disambiguation	1	603	11	ADJ	technisch	technischen	52034	False	0				 	
 Wrong Disambiguation	1	660	11	ADJ	nachhaltig	nachhaltige	51612	False	0				 	118195
 Wrong Grammar	1	700	4	ADJ	eben	Eben	43160	False	0				 	
-Wrong Disambiguation	1	728	7	VER		stellen	16022	False	0				 	
-Wrong Grammar	1	736	3	PRO	wir	wir	-1	False	0				 	
+Wrong Disambiguation	1	728	7	VER		stellen	16022	False	0		ADV		 	
+Wrong Grammar	1	736	3	PRO	wir	wir	-1	False	0			ADJ	 	
 Wrong Entity Form	1	760	4	NPH		CUBE	100215627	True	0				 	
 Wrong Recognition	1	931	6	ADJ	weit	weiter	166894	False	0		weiter	ADV	 	166901
 Wrong Entity Form	1	946	4	NPH		CUBE	100215627	True	0				 	
 Wrong Disambiguation	1	1015	12	VER	verschreiben	verschrieben	164843	False	0				 	12972
 Wrong Disambiguation	0	1036	11	NOU		Entwicklung	100001063	False	0				 	15813
-Wrong Grammar	2	1179	4	VER	einen	eine	14874	False	0				 	
+Wrong Grammar	2	1179	4	VER	einen	eine	14874	False	0			ART	 	
 Wrong Disambiguation	1	1282	9	VER		verfolgen	164058	False	0				 	17486
 Wrong Disambiguation	1	1500	7	NOU		Bereich	100082794	False	0				 	22153
 Wrong Entity Form	1	1556	4	NPH		CUBE	100215627	True	0				 	
@@ -300,7 +300,7 @@ Wrong Disambiguation	1	2204	8	NOU		Geschäft	2967	False	0				 
 Wrong Entity Type	1	2377	4	NPH		CUBE	100215627	True	0				 	
 Wrong Disambiguation	0	2382	6	VER	gehören	gehört	137767	False	0				 	17653
 Wrong Disambiguation	1	2513	6	VER	gehören	gehört	137769	False	0				 	17653
-Wrong Grammar	1	2520	3	PRO	das	das	-1	False	0				 	
+Wrong Grammar	1	2520	3	PRO	das	das	-1	False	0			ART	 	
 Wrong Disambiguation	1	2642	16	NOU		Geschäftsbereich	20773	False	0				 	48190
 Wrong Entity Type	1	2731	7	ORG	Ramboll-Gruppe	Ramboll	67204	True	0				 	
 Missing Concept	1	2829	9	NOU		Expertise	40602	False	0				 	

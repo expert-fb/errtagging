@@ -384,12 +384,12 @@
 
 SBJ=3:2;SBJ=6:7;SBJ=12:13;SBJ=-52:19;OBJ=20:19;SBJ=27:25;SBJ=27:30;SBJ=32:33;OBJ=36:33;SBJ=43:42;OBJ=44:42;SBJ=46:47;SBJ=46:53;SBJ=46:56;SBJ=59:60;OBJ=61:60;SBJ=67:68;OBJ=82:84;SBJ=94:95;SBJ=94:100;OBJ=98:100;SBJ=117:118;SBJ=305:306;SBJ=-49:318;APH=282:226;
 #ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
-Wrong Grammar	1	75	6	ADV	andere	andere	-1	False	0				 	
+Wrong Grammar	1	75	6	ADV	andere	andere	-1	False	0			ADJ	 	
 Wrong Disambiguation	0	82	6	ADV		zurück	121160	False	0				 	
 Wrong Disambiguation	1	113	3	ADV		gar	46001	False	0				 	
 Wrong Entity Type	1	147	8	NPH	Julius Springer	Springer	100215627	True	0				 	
-Wrong Grammar	0	170	4	ADJ		ganz	137314	False	0				 	
-Wrong Grammar	1	188	4	ADJ	weit	Weit	30148	False	0				 	
+Wrong Grammar	0	170	4	ADJ		ganz	137314	False	0			ADV	 	
+Wrong Grammar	1	188	4	ADJ	weit	Weit	30148	False	0			ADV	 	
 Wrong Disambiguation	1	193	4	PRE		über	596956	False	0				 	
 Wrong Disambiguation	1	219	5	VER		haben	125724	False	0				 	
 Wrong Entity Type	1	229	8	NPH	Julius Springer	Springer	100215627	True	0				 	
@@ -397,7 +397,7 @@ Wrong Entity Type	1	397	8	NPH	Julius Springer	Springer	100215627	True	0				 
 Wrong Disambiguation	1	406	4	VER	gelten	gilt	137905	False	0				 	
 Missing Entity	1	423	7	NOU	E-First	e-first	117254	True	0				 	
 Wrong Disambiguation	1	589	10	VER		verbreiten	125911	False	0				 	
-Wrong Grammar	1	601	6	PRO	unser	Unsere		False	0				 	
+Wrong Grammar	1	601	6	PRO	unser	Unsere		False	0			ADJ	 	
 Wrong Disambiguation	1	656	9	NOU		Forschung	100042240	False	0				 	119347
 Wrong Disambiguation	1	712	6	VER		sorgen	119414	False	0				 	
 Wrong Disambiguation	1	770	15	NOU	Laborprotokoll	Laborprotokolle	120764	True	0				 	
@@ -424,7 +424,7 @@ Wrong Entity Type	1	2203	11	PRD		Open Access	497428	True	0				 
 Wrong Disambiguation	1	2239	4	PRE		über	596948	False	0				 	
 Wrong Entity Type	1	2248	11	PRD		Open Access	497428	True	0				 	
 Missing Concept	0	2412	18	ADJ	englisch-sprachige	englisch-sprachige	-1	False	0				 	
-Wrong Grammar	1	2493	4	VER	weiten	weit	16113	False	0				 	
+Wrong Grammar	1	2493	4	VER	weiten	weit	16113	False	0			ADV	 	
 Missing Concept	0	2618	10	ADJ	zunehmend	Zunehmende		False	0				 	
 Missing Entity	0	2657	12	NOU	Springerlink	SpringerLink	142524	True	0				 	
 Wrong Disambiguation	1	2690	20	NOU	Wissenschaftsportal	Wissenschaftsportale	152076	True	0				 	100186165
@@ -439,12 +439,12 @@ Wrong Entity Form	1	3051	14	COM		BioMed Central	102085381	True	0				 
 Wrong Disambiguation	0	3086	8	ADV	darunter	Darunter	130511	False	0				 	130514
 Wrong Entity Type	1	3250	14	COM		Medizin-Verlag	104830453	True	439				 	
 Missing Entity	1	3337	10	ADV	e.Akademie	e.Akademie	-1	False	449				 	
-Wrong Grammar	1	3371	8	NOU		Führende	158576	False	452				 	
+Wrong Grammar	1	3371	8	NOU		Führende	158576	False	452			ADJ	 	
 Wrong Recognition	2	3389	13	NOU		Verlagsmarken	13159187	True	454				 	
 Wrong Entity Form	1	3439	8	NPH	Julius Springer	Springer	100215627	True	461				 	
 Wrong Entity Form	1	3459	8	NPH	Julius Springer	Springer	100215627	True	464				 	
 Wrong Entity Type	1	3475	8	NPH	Julius Springer	Springer	100215627	True	466				 	
 Wrong Disambiguation	1	3497	5	ADJ		tätig	119904	False	469				 	19978
 Wrong Entity Type	1	3734	9	GEA		Südafrika	118179	False	510				 	
-Wrong Grammar	1	3843	4	VER	abdachen	DACH	18302	False	527				 	
+Wrong Grammar	1	3843	4	VER	abdachen	DACH	18302	False	527			NOU	 	
 Wrong Entity Type	1	3904	4	NOU		Nord	103479010	False	536				 	

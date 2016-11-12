@@ -1,0 +1,513 @@
+﻿[GN=GEO:"Wien".#12747807;]
+[PN=VER:"ist"."sein".#12562;=ART:"die"."die".#-1;=NOU:"Bundeshauptstadt".#30758;]
+[GP=PRE:"von"."von".#-1;=GEO:"Österreich".#12768485;]
+[CN=CON:"und"."und".#-1;]
+[GV=ADV:"zugleich".#118469;]
+[GP=PRO:"eines"."ein";]
+[GR=PRO:"der"."der".#-1;]
+[GN=ADJ:"neun".#171511;=ADJ:"österreichischen"."österreichisch".#76117;=NOU:"Bundesländer"."Bundesland".#6221;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Mit"."mit";=ADJ:"über".#118344;=NPR:"1,8 Millionen"."1,8 Millionen".#-1;=NOU:"Einwohnern"."Einwohner".#108;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=GEO:"Wien".#12747807;]
+[PN=ART:"die"."die".#-1;=ADJ:"bevölkerungsreichste"."bevölkerungsreich".#28173;=NOU:"Großstadt".#6281;]
+[GP=GEO:"Österreichs"."Österreich".#12768485;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"die"."die".#-1;=ADJ:"zweitgrößte"."zweitgrößt".#113061;]
+[GP=PRE:"im"."in";=ADJ:"deutschen"."deutsch".#33218;=NOU:"Sprachraum".#92321;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GN=ART:"die"."die".#-1;=ADJ:"siebentgrößte".$50386;=NOU:"Stadt".#100000515;]
+[GP=ART:"der"."die";=ORG:"Europäischen Union"."Europäische Union".#40262;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=NOU:"Großraum".#50548;=GEO:"Wien".#12747807;]
+[PV=VER:"leben".#14644;]
+[GN=ADV:"etwa".#100886;=NPR:"2,6 Millionen"."2,6 Millionen".#-1;=NOU:"Menschen"."Mensch".#70284;]
+[??=PNT:"-"."-".#-1;]
+[GN=PRO:"das"."das".#-1;]
+[PV=VER:"entspricht"."entsprechen".#120469;]
+[GV=ADV:"rund".#100886;]
+[GP=ART:"einem"."ein";=NOU:"Viertel".#100123705;]
+[GN=ART:"der"."der".#-1;=ADJ:"österreichischen"."österreichisch".#76117;=NOU:"Gesamtbevölkerung".#48122;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[PN=ADJ:"Architektonisch"."architektonisch".#22657;=VER:"ist"."sein".#12562;]
+[GN=GEO:"Wien".#12747807;]
+[GV=ADV:"bis heute".#28957;]
+[GV=ADV:"vor allem".#58485;]
+[GP=PRE:"von"."von".#-1;=ART:"den"."die";=NOU:"Bauwerken"."Bauwerk".#100811430;]
+[GP=PRE:"um"."um".#-1;=ART:"die"."die".#-1;=ADJ:"Wiener".#109334;=NOU:"Ringstraße".#83824;]
+[GP=PRE:"aus"."aus".#-1;=ART:"der"."die";=NOU:"Gründerzeit".#50690;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"aber"."aber".#-1;]
+[GV=ADV:"auch".#23235;]
+[GP=PRE:"vom"."von";=NOU:"Barock".#5882;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Jugendstil".#59688;]
+[PV=VER:"geprägt"."prägen".#17412;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Durch"."durch";=ADJ:"ihre"."ihr";=NOU:"Rolle".#15652;]
+[GP=PRE:"als"."als".#-1;=ADJ:"kaiserliche"."kaiserlich".#60000;=NOU:"Reichshaupt-"."Reichshauptstadt".#571333;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Residenzstadt".#153933;]
+[GP=ART:"des"."das";=NOU:"Kaisertums"."Kaisertum".#100048349;=GEO:"Österreich".#12768485;]
+[GP=PRE:"ab"."ab".#-1;=DAT:"1804".$100205892;]
+[PV=VER:"wurde"."werden".#167036;]
+[GN=GEO:"Wien".#12747807;]
+[GP=PRE:"im"."in";=DAT:"19. Jahrhundert"."1801-1900".$100011471;]
+[GP=PRE:"zu"."zu".#-1;=ART:"einem"."ein";=ADJ:"kulturellen"."kulturell".#65232;]
+[CN=CON:"und"."und".#-1;]
+[GP=ADJ:"politischen"."politisch".#78882;=BLD:"Zentrum Europas"."Zentrum Europa".$118784;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CN=CON:"Als"."als";]
+[GN=ADJ:"fünftgrößte".$50386;=NOU:"Stadt".#2586;]
+[GP=ART:"der"."die";=NOU:"Welt".#100000002;]
+[PV=VER:"zählte"."zählen".#23917;]
+[GN=ART:"die"."die".#-1;=NOU:"Stadt".#100000515;]
+[GP=PRE:"um"."um".#-1;=ART:"das"."das".#-1;=NOU:"Jahr".#561863;=DAT:"1910".$100205892;]
+[GP=PRE:"über".#596956;=ADJ:"zwei Millionen"."zwei Millionen".#-1;=NOU:"Einwohner".#108;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=ADJ:"Historische"."historisch".#120513;=NOU:"Zentrum".#118784;]
+[GP=PRE:"von"."von".#-1;=GEO:"Wien".#12747807;]
+[CN=CON:"sowie"."sowie".#-1;]
+[GN=ART:"das"."das".#-1;=BLD:"Schloss Schönbrunn"."Schönbrunn".#589254;]
+[PV=VER:"gehören".#137769;]
+[GV=ADV:"heute".#54750;]
+[GP=PRE:"zum"."zu";=ORG:"UNESCO".#100007809;=PNT:"-"."-".#-1;=NOU:"Weltkulturerbe".#108677;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Mit"."mit";=ADV:"jährlich".#588876;=ADJ:"mehr"."viel".#173024;]
+[GP=PRE:"als"."als".#-1;=ADJ:"fünf Millionen"."fünf Millionen".#-1;=NOU:"Touristen"."Tourist".#173800;]
+[GP=PRE:"aus"."aus".#-1;=ART:"dem"."das";=NOU:"Ausland".#110932292;]
+[PV=VER:"zählt"."zählen".#153432;]
+[GN=GEO:"Wien".#12747807;]
+[GP=PRE:"zu"."zu".#-1;=ART:"den"."die";=ADJ:"zehn".#172702;=ADJ:"meistbesuchten"."besucht".#596843;=NOU:"Städten"."Stadt".#100000515;]
+[GP=GEA:"Europas"."Europa".#16226411;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GV=ADV:"Bereits"."bereits".#87685;]
+[GP=PRE:"beim"."bei";=EVN:"Wiener Kongress".#563587;]
+[GV=ADV:"1814/15"."1814/15".#-1;]
+[PV=VER:"spielte"."spielen".#173579;]
+[GN=ART:"die"."die".#-1;=NOU:"Stadt".#100000515;]
+[GN=ART:"eine"."ein";=ADJ:"bedeutende"."bedeutend".#57864;=NOU:"Rolle".#101707847;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=ADJ:"internationalen"."international".#95224;=NOU:"Diplomatie".#14240;]
+[??=PNT:",".",".#-1;]
+[GR=PRO:"die"."Diplomatie".#14240;]
+[GN=PRO:"sie"."sie".#-1;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"in"."in".#-1;=ART:"die"."die".#-1;=NOU:"Gegenwart".#100193168;]
+[PV=VER:"beibehalten".#14219;=VER:"hat"."haben";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"So"."so".#100886;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=GEO:"Wien".#12747807;]
+[GV=ADV:"heute".#54750;]
+[GP=PRE:"als"."als".#-1;=ADJ:"internationaler"."international".#95224;=NOU:"Kongress-"."Kongressort".$100000515;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Tagungsort".#95675;=NOU:"Sitz".#157880;]
+[GV=PRE:"von"."von".#-1;]
+[GP=PRE:"über".#596956;=ADJ:"30"."30".#-1;=NOU:"internationalen Organisationen"."internationale Organisation".#100484652;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"wie"."wie".#-1;]
+[GV=ADV:"beispielsweise".#26861;]
+[GN=ART:"der"."der".#-1;=ORG:"OPEC"."Organisation der Erdöl exportierenden Länder".#100007795;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"der"."der".#-1;=ORG:"IAEO"."Internationale Atomenergieorganisation".#100041984;]
+[CN=CON:"und"."und".#-1;]
+[GN=ART:"der"."der".#-1;=ORG:"OSZE"."Organisation für Sicherheit und Zusammenarbeit in Europa".#76173;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"und"."und".#-1;]
+[PV=VER:"zählt"."zählen".#167818;]
+[GV=ADV:"damit".#32147;]
+[GP=PRE:"zu"."zu".#-1;=ART:"den"."die";=NOU:"Weltstädten"."Weltstadt".#6281;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Das"."das";=NOU:"Büro".#100182060;]
+[GP=ART:"der"."die";=ORG:"Vereinten Nationen"."Vereinte Nationen".#8583;]
+[GP=PRE:"in"."in".#-1;=GEO:"Wien".#12747807;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"UNOV"."UNOV".#-1;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"beherbergt"."beherbergen".#127857;]
+[GP=PRE:"im"."in";=BLD:"Vienna International Centre".$118784;=PNT:"("."(".#-1;=BLD:"VIC"."Vienna International Centre".$118784;=PNT:")".")".#-1;]
+[GN=PRO:"einen"."ein";=ART:"der"."die";=ADJ:"vier".#172533;=NOU:"Amtssitze"."Amtssitz".#2401;]
+[GN=ART:"der"."der".#-1;=ORG:"UNO"."Vereinte Nationen".#8583;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"im"."in";=NOU:"Volksmund".#102532094;]
+[GV=ADV:"meist".#70140;]
+[GP=PRE:"als"."als".#-1;=ORG:"UNO"."Vereinte Nationen".#8583;=PNT:"-"."-".#-1;=NOU:"City".#100738570;]
+[PV=VER:"bezeichnet"."bezeichnen".#120878;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Zudem"."zudem".#98967;]
+[PV=VER:"gilt"."gelten".#137903;]
+[GN=GEO:"Wien".#12747807;]
+[GP=PRE:"als"."als".#-1;=NOU:"Stadt".#100000515;]
+[GP=PRE:"mit"."mit".#-1;=ADV:"sehr".#46001;=ADJ:"hoher"."hoch".#141978;=NOU:"Lebensqualität".#66712;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"In"."in";=ART:"der"."die";=ADJ:"internationalen"."international".#95224;=NPH:"Mercer".$100215627;=PNT:"-"."-".#-1;=NOU:"Studie".#117991;]
+[GA=DAT:"2016".$100205892;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"in"."in".#-1;=PRO:"der"."die";]
+[GN=ART:"die"."die".#-1;=NOU:"Lebensqualität".#66712;]
+[GV=PRE:"anhand"."anhand".#-1;]
+[GP=PRE:"von"."von".#-1;=ADJ:"39"."39".#-1;=NOU:"Kriterien"."Kriterium".#28146;]
+[GP=PRE:"wie"."wie".#-1;=ADJ:"politische"."politisch".#78882;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"wirtschaftliche"."wirtschaftlich".#596238;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"soziale"."sozial".#596400;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Umweltfaktoren"."Umweltfaktor".#102142347;]
+[GP=PRE:"in"."in".#-1;=ADJ:"230"."230".#-1;=NOU:"Großstädten"."Großstadt".#6281;]
+[PV=ADV:"weltweit".#588931;=VER:"verglichen"."vergleichen".#16146;=VER:"wurde"."werden";]
+[??=PNT:",".",".#-1;]
+[PV=VER:"belegte"."belegen".#128108;]
+[GN=GEO:"Wien".#12747807;]
+[GP=PRE:"zum"."zu";=ADJ:"achten"."achte".#118892;=NOU:"Mal".#117184;]
+[GV=ADV:"in Folge".#117559;]
+[GN=ART:"den"."der";=ADJ:"ersten"."erste".#170216;=NOU:"Rang".#3451;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Eine"."ein";=NOU:"Studie".#117991;]
+[GP=ART:"der"."die";=ORG:"Vereinten Nationen"."Vereinte Nationen".#8583;]
+[PV=VER:"sah"."sehen".#157372;]
+[GN=GEO:"Wien".#12747807;]
+[GN=DAT:"2012".$100205892;]
+[GP=PRE:"als"."als".#-1;=ADJ:"wohlhabendste"."wohlhabendste".#-1;=NOU:"Stadt".#2586;]
+[GP=ART:"der"."die";=NOU:"Welt".#100000002;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=GEO:"Wien".#12747807;]
+[PV=VER:"liegt"."liegen".#16335;]
+[GP=PRE:"am"."an";=NOU:"Ostrand".#76156;]
+[GN=ART:"der"."der".#-1;=GEA:"Alpen"."Alpe".#12648990;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"am"."an";=NOU:"Übergang".#100008010;]
+[GP=PRE:"zum"."zu";=NOU:"Alpenvorland".#20443;]
+[GP=PRE:"im"."in";=GEA:"Osten"."Osteuropa".#115745;]
+[??=PNT:",".",".#-1;]
+[GR=GEA:"das"."Osteuropa".#115745;]
+[GV=PRE:"zur"."zu";]
+[PV=VER:"Pannonischen"."Pannonismitmachen".$119855;]
+[GN=NOU:"Tiefebene".#112183361;]
+[PV=VER:"leitet"."leiten".#119971;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Der"."der";=NOU:"Stadtkern".#100738570;]
+[PV=VER:"erstreckt"."erstrecken".#117732;=PRO:"sich"."er";]
+[GV=ADV:"schon".#87685;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Ebene".#976;]
+[GP=PRE:"an"."an".#-1;=ART:"der"."die";=GEA:"Donau".#10787364;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"die"."die".#-1;=ADJ:"westlichen"."westlich".#108995;=NOU:"Stadtteile"."Stadtteil".#100123705;]
+[GP=PRE:"im"."in";=GEA:"Wienerwald".#12588988;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"der"."der".#-1;=ADJ:"östlichsten"."östlich".#76147;=NOU:"Gebirgsgruppe".#100046831;]
+[GP=ART:"der"."die";=NOU:"Nordalpen".$17190;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Vom"."von";=ADJ:"Wiener".#109334;=NOU:"Stadtgebiet".#1941;]
+[PN=VER:"ist"."sein".#12562;]
+[GV=ADV:"nur".#66818;]
+[GN=ART:"ein"."ein".#-1;=ADV:"relativ".#103340;=ADJ:"kleiner"."klein".#62098;=NOU:"Anteil".#501414;]
+[PN=ADJ:"verbaut".#589020;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Etwa"."etwa".#100886;]
+[GN=ART:"die"."die".#-1;=NOU:"Hälfte".#118415;]
+[GP=GEO:"Wiens"."Wien".#12747807;]
+[PN=VER:"ist"."sein".#12562;]
+[GN=NOU:"Grünland".#50834;]
+[??=PNT:",".",".#-1;]
+[GN=ADJ:"größere"."groß".#50386;=NOU:"Teile"."Teil".#100223557;]
+[PV=VER:"werden"."werden".#-1;]
+[PV=ADV:"auch".#23235;=ADJ:"landwirtschaftlich".#19780;=VER:"genutzt"."nutzen".#16870;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=GEO:"Wien".#12747807;]
+[PV=VER:"erhebt"."erheben".#16379;=PRO:"sich"."er";]
+[GP=PRE:"von"."von".#-1;=MEA:"151 m"."151 Meter".$11710;]
+[GV=ADV:"ü. A."."ü. A.".#-1;]
+[GP=PRE:"in"."in".#-1;=ART:"der"."die";=NOU:"Lobau"."Lobau".#-1;]
+[GP=PRE:"bis zu".#599983;=ART:"einer"."eine";=NOU:"Höhe".#100208826;]
+[GP=PRE:"von"."von".#-1;=MEA:"542 m"."542 Meter".$11710;]
+[GV=ADV:"ü. A."."ü. A.".#-1;]
+[GP=PRE:"auf"."auf".#-1;=ART:"dem"."der";=NOU:"Hermannskogel".$27341;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=NOU:"Nordwesten"."Nordwest".#74615;]
+[??=PNT:",".",".#-1;]
+[GN=NOU:"Westen".#100000679;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Südwesten".#102381698;]
+[GP=GEO:"Wiens"."Wien".#12747807;]
+[PV=VER:"reicht"."reichen".#23844;]
+[GN=ART:"der"."der".#-1;=GEA:"Wienerwald".#12588988;]
+[GP=PRE:"mit"."mit".#-1;=ADJ:"seinen"."sein";=NOU:"Höhen"."Höhe".#100208826;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Leopoldsberg".$100008502;]
+[??=PNT:",".",".#-1;]
+[GN=GEA:"Kahlenberg".#18007823;]
+[??=PNT:")".")".#-1;]
+[CN=CON:"und"."und".#-1;]
+[GP=NOU:"Wäldern"."Wald".#1414;]
+[GV=ADV:"bis".#28941;]
+[GP=PRE:"ins"."in";=NOU:"Stadtgebiet".#1941;]
+[GV=ADV:"hinein".#55204;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=GEA:"Donau".#10787364;]
+[PV=VER:"tritt"."treten".#161397;]
+[GP=PRE:"durch"."durch".#-1;=ART:"die"."die".#-1;=ADJ:"Wiener".#109334;=NOU:"Pforte".#151540;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"eine"."ein";=NOU:"Enge".#82035;]
+[GP=PRE:"zwischen"."zwischen".#-1;=ART:"dem"."der";=ADJ:"rechtsufrigen"."rechtsufrigen".#-1;=NOU:"Leopoldsberg".$100008502;]
+[CN=CON:"und"."und".#-1;]
+[GP=ART:"dem"."der";=ADJ:"linksufrigen"."linksufrigen".#-1;=NOU:"Bisamberg".$100008502;]
+[??=PNT:",".",".#-1;]
+[GP=PRE:"nach".#562278;=GEO:"Wien".#12747807;]
+[GV=ADV:"ein".#36248;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Aus"."aus";=ART:"dem"."der";=GEA:"Wienerwald".#12588988;]
+[PV=VER:"fließen".#14140;]
+[GN=ADV:"außerdem".#98967;=ADJ:"zahlreiche"."zahlreich".#101047;=ADJ:"kleine"."klein".#62098;=NOU:"Flüsse"."Fluss".#100004022;]
+[GP=PRE:"in"."in".#-1;=ART:"die"."die".#-1;=NOU:"Stadt".#100000515;]
+[??=PNT:",".",".#-1;]
+[GN=ART:"der"."der".#-1;=ADJ:"bekannteste"."bekannt".#26936;]
+[GV=ADV:"davon".#130559;]
+[PV=VER:"ist"."sein".#172056;]
+[GN=ART:"der"."der".#-1;=NOU:"Wienfluss".$100004022;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GN=ART:"Die"."die";=NOU:"Berge"."Berg".#100008502;]
+[GP=PRE:"im"."in";=NOU:"Westen".#100000679;]
+[PV=VER:"werden".#140981;]
+[GP=PRE:"im"."in";=NOU:"Süden".#2382;]
+[GP=PRE:"von"."von".#-1;=ADJ:"eiszeitlichen"."eiszeitlich".#37623;=NOU:"Terrassen"."Terrasse".#4297;]
+[??=PNT:"("."(".#-1;]
+[GN=NOU:"Wienerberg".$100008502;=CON:"und"."und".#-1;=ADJ:"Laaer"."Laa";=NOU:"Berg".#100008502;]
+[??=PNT:")".")".#-1;]
+[PV=VER:"fortgesetzt"."fortsetzen".#15119;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRO:"Dieses"."dies";]
+[GN=PRO:"gesamte"."gesamt";]
+[GN=NOU:"Gebiet".#100082794;]
+[PV=VER:"wird"."werden";]
+[GP=PRE:"zum"."zu";=NOU:"Weinbau".#82171;]
+[PV=VER:"genutzt"."nutzen".#16870;]
+[??=PNT:",".",".#-1;]
+[GN=PRO:"es"."es".#-1;]
+[PV=VER:"bildet"."bilden".#14987;]
+[GN=ART:"die"."die".#-1;=NOU:"Weinbauregion".#572042;=GEO:"Wien".#12747807;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Der"."der";=NOU:"Osten".#119683;]
+[GP=ART:"der"."die";=NOU:"Stadt".#100000515;]
+[PN=VER:"ist"."sein".#12562;=ADJ:"geprägt".#562569;]
+[GP=PRE:"vom"."von";=ADJ:"Wiener".#109334;=NOU:"Anteil".#501414;]
+[GP=PRE:"am"."an";=ADJ:"flachen"."flach".#43160;=GEA:"Marchfeld".#12758371;]
+[??=PNT:",".",".#-1;]
+[GR=GEA:"der"."Marchfeld".#12758371;]
+[GP=ART:"der"."die";=NOU:"Landwirtschaft".#2777;]
+[PV=VER:"dient"."dienen".#131099;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"aber"."aber".#-1;]
+[PV=ADV:"zunehmend".#112306;=VER:"verbaut"."verbauen".#163729;=VER:"wird"."werden";]
+[??=PNT:".".".".#-1;]
+[CL]
+[GP=PRE:"Im"."in";=NOU:"Südosten"."Südost".#95046;]
+[PV=VER:"findet"."finden".#16122;=PRO:"sich"."er";]
+[GN=ART:"die"."die".#-1;=NOU:"Lobau"."Lobau".#-1;]
+[GP=PRE:"als"."als".#-1;=ADJ:"Wiener".#109334;=NOU:"Anteil".#501414;]
+[GP=PRE:"am"."an";=NOU:"Nationalpark".#149717;]
+[GN=NOU:"Donauauen".#577797;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GR=PRE:"Angesichts"."angesichts";=PRO:"der"."die";]
+[??=PNT:"("."(".#-1;]
+[CN=CON:"wie"."wie".#-1;]
+[GP=PRE:"bei"."bei".#-1;=ADJ:"vielen"."viel".#173024;=NOU:"europäischen Städten"."europäische Stadt".#5998;]
+[??=PNT:")".")".#-1;]
+[GN=ADJ:"vorwiegenden"."vorwiegend";=NOU:"Westwinde"."Westwind".#10229;]
+[PV=VER:"befinden".#14668;=PRO:"sich"."er";]
+[GN=ART:"die"."die".#-1;=ADJ:"gehobenen"."gehoben".#562656;=NOU:"Wohngegenden"."Wohngegend".#52671;]
+[GV=ADV:"eher".#35935;]
+[GP=PRE:"am"."an";=ADJ:"westlichen"."westlich".#108995;=NOU:"Stadtrand".#9158;]
+[??=PNT:",".",".#-1;]
+[CN=CON:"wo"."wo".#-1;]
+[GV=ADV:"unter anderem".#588695;]
+[GN=ART:"die"."die".#-1;=NOU:"Luft".#10208;]
+[PN=ADV:"noch".#74484;=ADJ:"sauberer"."sauber".#85484;=VER:"ist"."sein".#12562;]
+[??=PNT:",".",".#-1;]
+[GV=ADV:"während"."während".#-1;]
+[GN=ART:"die"."die".#-1;=ADJ:"alten"."alt".#123121;=NOU:"Industriegebiete"."Industriegebiet".#58087;]
+[GV=ADV:"eher".#35935;]
+[GP=PRE:"am"."an";=ADJ:"südöstlichen"."südöstlich".#95044;=NOU:"Rand".#15445;]
+[GP=ART:"der"."die";=NOU:"Stadt".#100000515;]
+[PV=VER:"liegen".#16334;]
+[??=PNT:".".".".#-1;]
+[CL]
+[CR]
+[GN=ART:"Die"."die";=NOU:"Lagegunst".$15289;]
+[GV=ADV:"auch".#23235;]
+[GP=PRE:"in Bezug auf".#113414;=ART:"die"."die".#-1;=ADJ:"historischen"."historisch".#120513;=NOU:"Nachbarländer"."Nachbarland".#72740;]
+[GN=GEA:"Mähren".#13056105;]
+[CN=CON:"und"."und".#-1;]
+[GN=NOU:"Königreich".#9239;]
+[GN=GEO:"Ungarn".#10715658;]
+[CN=CON:"und"."und".#-1;]
+[GN=ART:"die"."die".#-1;=NOU:"Routen"."Route".#500099;=NOU:"Richtung".#118289;=GEO:"Steiermark".#12751010;=PNT:",".",".#-1;=GEA:"Krain".$100082794;=CON:"und"."und".#-1;=GEA:"Adriaküste".#592266;]
+[PV=VER:"trugen"."beitragen".#26879;]
+[GV=ADV:"entscheidend".#596263;]
+[GV=ADV:"dazu".#98967;]
+[GV=ADV:"bei"."beitragen";]
+[??=PNT:",".",".#-1;]
+[CN=CON:"dass"."dass".#-1;]
+[GN=PRO:"sich"."er";]
+[GN=GEO:"Wien".#12747807;]
+[GV=ADV:"auf Dauer".#117993;]
+[GP=PRE:"als"."als".#-1;=NOU:"Monarchenresidenz".$120825;]
+[PV=VER:"durchsetzte"."durchsetzen".#15992;]
+[??=PNT:".".".".#-1;]
+[CL]
+[GV=ADV:"Etwa"."etwa".#100886;]
+[GP=PRE:"von"."von".#-1;=DAT:"1840".$100205892;]
+[PV=PRE:"an"."an".#-1;=VER:"führte"."führen".#136980;]
+[GN=PRO:"dies"."dies".#-1;]
+[GV=ADV:"auch".#23235;]
+[GP=PRE:"zur"."zu";=NOU:"Errichtung".#124861;]
+[GP=ART:"eines"."ein";]
+[GP=PRE:"von"."von".#-1;=GEO:"Wien".#12747807;]
+[GN=ADJ:"sternförmig".#93542;=ADJ:"ausstrahlenden"."ausstrahlend".#597981;=NOU:"Eisenbahnnetzes"."Eisenbahnnetz".#25539;]
+[??=PNT:".".".".#-1;]
+
+SBJ=6:1;CPL=15:10;CPL=18:10;SBJ=11:12;SBJ=25:26;OBJ=29:26;SBJ=33:32;SBJ=33:45;SBJ=54:53;SBJ=61:63;OBJ=54:63;SBJ=80:79;SBJ=80:88;OBJ=90:88;APH=93:91;SBJ=91:97;OBJ=94:97;SBJ=113:100;CPL=115:100;SBJ=113:118;SBJ=130:128;OBJ=131:128;SBJ=130:136;SBJ=140:139;SBJ=150:159;OBJ=148:159;SBJ=162:161;OBJ=165:161;SBJ=167:169;OBJ=170:169;SBJ=176:177;APH=185:183;SBJ=-52:187;OBJ=183:187;SBJ=188:189;SBJ=197:192;SBJ=206:207;SBJ=210:212;CPL=213:212;OBJ=215:217;SBJ=220:221;SBJ=234:236;OBJ=237:236;SBJ=250:251;OBJ=254:251;SBJ=264:263;SBJ=267:269;SBJ=270:269;SBJ=272:274;OBJ=276:280;OBJ=283:287;SBJ=289:290;OBJ=291:290;SBJ=294:296;APH=300:298;SBJ=298:302;SBJ=298:305;SBJ=309:308;SBJ=314:320;SBJ=327:328;SBJ=331:335;SBJ=-52:347;OBJ=341:347;OBJ=343:347;SBJ=354:357;OBJ=353:357;SBJ=362:361;APH=64:54;APH=89:80;APH=141:140;APH=265:259;APH=278:242;APH=284:262;APH=295:291;APH=334:291;
+#ERRORS#	gravity	pos	len	pos	lem	occ	syn	vir	abs	occcorr	lemcorr	poscorr	vircorr	syncorr
+Wrong Grammar	1	108	4	ADJ		über	118344	False	16				 	
+Wrong Entity Type	1	113	13	NPR	1,8 Millionen	1,8 Millionen	-1	False	17				 	
+Wrong Disambiguation	1	142	4	GEO		Wien	12747807	False	20				 	
+Wrong Disambiguation	1	0	4	GEO		Wien	12747807	False	1				 	
+Wrong Disambiguation	1	306	5	VER		leben	14644	False	41				 	
+Wrong Entity Type	1	317	13	NPR	2,6 Millionen	2,6 Millionen	-1	False	43				 	
+Wrong Disambiguation	1	331	8	NOU	Mensch	Menschen	70284	False	44				 	
+Wrong Grammar	0	342	3	PRO	das	das	-1	False	46				 	
+Wrong Disambiguation	1	346	10	VER	entsprechen	entspricht	120469	False	47				 	
+Wrong Disambiguation	0	368	7	NOU		Viertel	100123705	False	50				 	
+Wrong Disambiguation	1	436	4	GEO		Wien	12747807	False	57				 	
+Wrong Disambiguation	1	581	5	NOU		Rolle	15652	False	81				 	
+Wrong Disambiguation	1	674	4	GEO		Wien	12747807	False	93				 	
+Wrong Entity Form	1	735	15	BLD	Zentrum Europa	Zentrum Europas	118784	True	101				 	
+Wrong Disambiguation	1	768	5	NOU		Stadt	2586	False	105				 	
+Wrong Disambiguation	0	778	4	NOU		Welt	100000002	False	107				 	
+Wrong Disambiguation	1	783	6	VER	zählen	zählte	23917	False	108				 	
+Wrong Disambiguation	1	807	4	NOU		Jahr	561863	False	113				 	
+Wrong Disambiguation	1	817	4	PRE		über	596956	False	115				 	
+Wrong Disambiguation	0	852	11	ADJ	historisch	Historische	120513	False	120				 	
+Wrong Disambiguation	1	864	7	NOU		Zentrum	118784	False	121				 	
+Wrong Disambiguation	1	910	7	VER		gehören	137769	False	127				 	
+Wrong Disambiguation	0	918	5	ADV		heute	54750	False	128				 	
+Wrong Disambiguation	1	964	4	ADJ	viel	mehr	173024	False	136				 	
+Wrong Disambiguation	1	1020	4	GEO		Wien	12747807	False	144				 	
+Wrong Entity Type	1	1098	7	ADV	1814/15	1814/15	-1	False	155				 	
+Wrong Disambiguation	1	1106	7	VER	spielen	spielte	173579	False	156				 	
+Wrong Disambiguation	1	1140	5	NOU		Rolle	101707847	False	161				 	
+Wrong Disambiguation	2	1189	3	ADV		bis	28941	False	169				 	
+Wrong Disambiguation	1	1227	2	ADV	so	So	100886	False	176				 	
+Wrong Disambiguation	1	1234	4	GEO		Wien	12747807	False	178				 	
+Wrong Disambiguation	0	1239	5	ADV		heute	54750	False	179				 	
+Wrong Recognition	1	1265	9	NOU	Kongressort	Kongress-	100000515	True	182				 	
+Wrong Disambiguation	1	1290	4	NOU		Sitz	157880	False	185				 	
+Wrong Disambiguation	1	1299	4	PRE		über	596956	False	187				 	
+Wrong Disambiguation	1	1395	5	VER	zählen	zählt	167818	False	203				 	
+Wrong Disambiguation	1	1462	4	GEO		Wien	12747807	False	214				 	
+Missing Concept	0	1468	4	NOU	UNOV	UNOV	-1	False	216				 	
+Wrong Entity Form	0	1583	4	NOU		City	100738570	False	237				 	
+Wrong Disambiguation	0	1588	10	VER	bezeichnen	bezeichnet	120878	False	238				 	
+Wrong Disambiguation	0	1606	4	VER	gelten	gilt	137903	False	241				 	
+Wrong Disambiguation	1	1611	4	GEO		Wien	12747807	False	242				 	
+Wrong Disambiguation	1	1635	5	ADJ	hoch	hoher	141978	False	247				 	
+Wrong Entity Form	0	1687	6	NOU		Studie	117991	False	255				 	
+Wrong Grammar	1	1766	15	ADV	wirtschaftlich	wirtschaftliche	596238	False	269				 	
+Wrong Grammar	1	1783	7	ADV	sozial	soziale	596400	False	271				 	
+Wrong Disambiguation	1	1856	7	VER	belegen	belegte	128108	False	281				 	
+Wrong Disambiguation	1	1864	4	GEO		Wien	12747807	False	282				 	
+Wrong Disambiguation	0	1904	4	NOU		Rang	3451	False	289				 	
+Wrong Disambiguation	1	1945	3	VER	sehen	sah	157372	False	295				 	
+Wrong Disambiguation	1	1949	4	GEO		Wien	12747807	False	296				 	
+Wrong Disambiguation	0	1977	5	NOU		Stadt	2586	False	300				 	
+Wrong Disambiguation	0	1987	4	NOU		Welt	100000002	False	302				 	
+Wrong Disambiguation	1	1993	4	GEO		Wien	12747807	False	304				 	
+Wrong Disambiguation	0	2029	8	NOU		Übergang	100008010	False	312				 	
+Wrong Disambiguation	0	2058	5	GEA	Osteuropa	Osten	115745	False	316				 	
+Wrong Recognition	1	2065	3	GEA	Osteuropa	das	115745	False	318				 	
+Wrong Grammar	2	2073	12	VER	Pannonismitmachen	Pannonischen	119855	True	320				 	
+Wrong Disambiguation	1	2096	6	VER	leiten	leitet	119971	False	322				 	
+Wrong Disambiguation	2	2241	9	NOU		Nordalpen	17190	True	346				 	
+Wrong Disambiguation	1	2335	5	GEO	Wien	Wiens	12747807	False	362				 	
+Wrong Disambiguation	1	2363	5	NOU	Teil	Teile	100223557	False	367				 	
+Wrong Disambiguation	0	2376	4	ADV		auch	23235	False	369				 	
+Wrong Disambiguation	1	2409	4	GEO		Wien	12747807	False	373				 	
+Wrong Disambiguation	1	2414	6	VER	erheben	erhebt	16379	False	374				 	
+Wrong Entity Type	1	2436	5	ADV	ü. A.	ü. A.	-1	False	378				 	
+Wrong Entity Type	0	2449	5	NOU	Lobau	Lobau	-1	False	381				 	
+Wrong Entity Type	1	2483	5	ADV	ü. A.	ü. A.	-1	False	387				 	
+Wrong Entity Type	0	2497	13	NOU		Hermannskogel	27341	True	390				 	
+Wrong Disambiguation	1	2515	10	NOU	Nordwest	Nordwesten	74615	False	393				 	
+Wrong Disambiguation	1	2548	5	GEO	Wien	Wiens	12747807	False	398				 	
+Wrong Disambiguation	1	2554	6	VER	reichen	reicht	23844	False	399				 	
+Wrong Disambiguation	1	2587	5	NOU	Höhe	Höhen	100208826	False	404				 	
+Wrong Entity Type	0	2594	12	NOU		Leopoldsberg	100008502	True	406				 	
+Wrong Disambiguation	2	2632	3	ADV		bis	28941	False	412				 	
+Wrong Disambiguation	1	2670	5	VER	treten	tritt	161397	False	419				 	
+Wrong Entity Type	0	2693	6	NOU		Pforte	151540	False	423				 	
+Wrong Entity Type	0	2738	12	NOU		Leopoldsberg	100008502	True	430				 	
+Wrong Entity Type	0	2772	9	NOU		Bisamberg	100008502	True	434				 	
+Wrong Disambiguation	1	2788	4	GEO		Wien	12747807	False	437				 	
+Wrong Disambiguation	1	2793	3	ADV		ein	36248	False	438				 	
+Wrong Disambiguation	0	2817	7	VER		fließen	14140	False	443				 	
+Wrong Disambiguation	1	2889	5	ADV		davon	130559	False	454				 	
+Wrong Disambiguation	1	2895	3	VER	sein	ist	172056	False	455				 	
+Wrong Entity Type	0	2903	9	NOU		Wienfluss	100004022	True	457				 	
+Wrong Disambiguation	1	2934	6	VER		werden	140981	False	463				 	
+Wrong Entity Type	0	2979	10	NOU		Wienerberg	100008502	True	470				 	
+Wrong Entity Form	0	2994	5	ADJ	Laa	Laaer		True	472				 	
+Wrong Grammar	1	3026	7	PRO	gesamt	gesamte		True	478				 	
+Wrong Disambiguation	1	3070	6	VER	bilden	bildet	14987	False	486				 	
+Wrong Disambiguation	1	3095	4	GEO		Wien	12747807	False	489				 	
+Wrong Disambiguation	1	3105	5	NOU		Osten	119683	False	492				 	
+Wrong Disambiguation	1	3125	7	ADJ		geprägt	562569	False	496				 	
+Wrong Disambiguation	0	3218	7	VER	verbauen	verbaut	163729	False	511				 	
+Wrong Disambiguation	1	3235	8	NOU	Südost	Südosten	95046	False	515				 	
+Wrong Disambiguation	1	3244	6	VER	finden	findet	16122	False	516				 	
+Wrong Entity Type	0	3260	5	NOU	Lobau	Lobau	-1	False	519				 	
+Wrong Entity Form	0	3300	9	NOU		Donauauen	577797	False	525				 	
+Missing Concept	1	3311	10	PRE	angesichts	Angesichts		True	527				 	
+Wrong Disambiguation	1	3387	8	VER		befinden	14668	False	537				 	
+Wrong Disambiguation	1	3405	9	ADJ	gehoben	gehobenen	562656	False	540				 	
+Wrong Disambiguation	1	3428	4	ADV		eher	35935	False	542				 	
+Wrong Disambiguation	0	3479	4	NOU		Luft	10208	False	550				 	
+Wrong Disambiguation	1	3484	4	ADV		noch	74484	False	551				 	
+Wrong Disambiguation	1	3538	4	ADV		eher	35935	False	559				 	
+Wrong Disambiguation	1	3559	4	NOU		Rand	15445	False	562				 	
+Wrong Disambiguation	1	3574	6	VER		liegen	16334	False	565				 	
+Missing Concept	0	3586	9	NOU		Lagegunst	15289	True	568				 	
+Wrong Disambiguation	1	3751	4	ADV		dazu	98967	False	589				 	
+Wrong Disambiguation	1	3771	4	GEO		Wien	12747807	False	594				 	
+Wrong Disambiguation	1	3808	11	VER	durchsetzen	durchsetzte	15992	False	598				 	
+Wrong Disambiguation	1	3838	6	VER	führen	führte	136980	False	604				 	
+Wrong Disambiguation	1	3880	4	GEO		Wien	12747807	False	611				 	

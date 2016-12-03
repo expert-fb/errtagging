@@ -1,0 +1,5 @@
++: concerning named entity recognition: unfrequent/rare proper nouns for humans (NPH) are surprisingly well recognized
+considering that they do not occur often. I chose this Wikipedia document especially because of the less popular names.
+
+-: it might be necessary to fix the lexical entry for "erste(r)" (incomplete definitions) as it is a frequent word.
+-: in this text: one case of problems with capitalized non nominal words in the beginning of a sentence.

@@ -1,0 +1,25 @@
+- problems with long distance dependencies (between article and noun)-> the sentence structure does not reveal a connection
+and articles are marked as pronouns:
+"Kauapparat mit Jochbogenplatte und EINEM meist schlüssellochförmigen Unteraugenloch"
+"das verkleinerte Jochbein sowie DEN häufig nach außen gebogenen, nie durchbrochenen Winkelvorsatz"
+etc.
+
+- cases of failed recognition of separable verbs:
+"und weist Hornschuppen auf"
+"treten Polymorphismus oder ... auf"
+
+- one case of wrong recognition of words like "zunächst": wrongly marked as PRE in XTagger even though Sensiview displays the
+right lemma. This case already occured in previous text (wiki_KoenigVonThailand). Note: unlike in previous text, the right
+sense was not selected in Sensiview in this case.
+"In den folgenden Abschnitten werden zunächst die bekannte oder angenommene..."
+
+- many "missing concept" cases (comparing to other text samples)
+
+- words like "Jochbein" or "Tränenbein" have only two senses: one refering to humans, the other to animals. The "human" sense
+ is chosen even though the context refers to a kind of mice. How much does the context count as WSD feature in XTagger?
+
++ separable verbs are recognized in some complex sentences:
+"Sie dehnt sich nicht nach vorne aus oder bildet einen ausgeprägten Jochbogendorn und eine Jochbogenkerbe aus".
+-> greater distance but still recognized. (?)
+"... und weist meist eine kennzeichnende Schlüssellochform auf": "aufweisen" was correctly recognized.
+-> same verb as failed recognition 

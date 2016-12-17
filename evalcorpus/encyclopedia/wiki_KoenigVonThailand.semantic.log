@@ -528,3 +528,5 @@ Wrong Disambiguation	1	4564	5	NOU		Grund	1651	False	0				 
 Wrong Disambiguation	1	4570	5	ADV		dafür	39724	False	0				 	
 Wrong Disambiguation	1	4576	4	VER	werden	wird	14301	False	0				 	
 Wrong Disambiguation	1	4626	7	VER	nennen	genannt	13705	False	0				 	
+Wrong Recognition	1	4029	8	PRE	zunächst	zunächst	-1	False	0				 	
+Wrong Recognition	1	4087	8	PRE	zunächst	zunächst	-1	False	0				 	
